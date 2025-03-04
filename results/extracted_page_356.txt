@@ -1,0 +1,44 @@
+law, order, regulation or ruling applicable to such Lender, (v) to the Administrative Agent or the Collateral Agent, (vi) to any direct or
+indirect contractual counterparty in any swap, hedge or similar agreement (or to any such contractual counterparty’s professional advisor)
+under which payments are to be made by reference to the Obligations or to the Borrowers and their respective obligations or to this
+Agreement or payments hereunder, so long as such contractual counterparty (or such professional advisor) agrees to be bound by the
+provisions of this Section 13.1613.17, (vii) to any prospective or actual transferee, pledgee or participant in connection with any
+contemplated transfer, pledge or participation of any of the Notes or Revolving Loan Commitments or any interest therein by such Lender,
+provided that such prospective transferee, pledgee or participant agrees to be bound by confidentiality provisions at least as restrictive as
+those contained in this Section 13.1613.17, (viii) to any other party to this Agreement, (ix) to the extent applicable and reasonably
+necessary or advisable, for purposes of establishing a “due diligence” defense or the enforcement of remedies hereunder or under the
+other Credit Documents, (x) to the extent it is information pertaining to the terms of this Agreement routinely provided to market data
+collectors (including league table providers) for the lending industry, to such market data collectors, (xi) to the extent it is information
+pertaining to the terms of this Agreement, to any nationally recognized rating agency that requires access to information about a Lender’s
+investment portfolio in connection with ratings issued with respect to such Lender and (xii) with the consent of the Company (not to be
+unreasonably withheld, delayed or conditioned) to (I) the CUSIP Service Bureau or any similar agency or organization or similar service
+providers to the lending industry, (II) service providers to the Administrative Agent and the Lenders in connection with the administration
+and management of this Agreement, the other Credit Documents, the Revolving Loan Commitments and the Loans, (III) any credit
+insurers, (IV) any nationally recognized rating agency (to the extent consisting of information not governed by clause (xi) above) or (V)
+otherwise to the extent consisting of general portfolio information that does not identify the Credit Parties.
+
+(b) Each of the Company and each other Borrower hereby acknowledges and agrees that each Agent and each Lender may
+share with any of its affiliates, and such affiliates may share with such Agent or Lender, as applicable, any information related to the
+Company or any of its Subsidiaries (including any non-public customer information regarding the creditworthiness of the Company and its
+Subsidiaries), provided such Persons shall be subject to the provisions of this Section 13.1613.17 to the same extent as such Agent or
+Lender.
+
+(c) Each Agent and each of the Lenders acknowledges that (i) the information referred to in clause (a) above may include
+material non-public information concerning the Company or a Subsidiary thereof, as the case may be, (ii) it has developed compliance
+procedures regarding the use of material non-public information and (iii) it will handle such material non-public information in accordance
+with such compliance procedures and applicable law, including United States federal and state securities laws.
+
+13.1713.18. No Fiduciary Duty. Each Agent, each Lender, each Issuing Lender and their respective Affiliates (collectively,
+solely for purposes of this paragraph, the “Lenders”), may have economic interests that conflict with those of the Credit Parties, their
+stockholders and/or their respective affiliates. Each Credit Party agrees that nothing in the Credit Documents or otherwise will be
+deemed to create an advisory, fiduciary or agency relationship or fiduciary or other implied duty between any Lender, on the one hand,
+and any Credit Party, its respective stockholders or its respective affiliates, on the other. The Credit Parties acknowledge and agree
+that: (i) the transactions contemplated by the Credit Documents (including the exercise of rights and remedies hereunder and thereunder)
+are arm’s-length commercial transactions between the Lenders, on the one hand, each Credit Party, on the other, and (ii) in
+
+195
+
+
+-----
+
+

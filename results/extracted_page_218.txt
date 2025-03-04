@@ -1,0 +1,46 @@
+“Permitted Discretion” shall mean the commercially reasonable judgment of the Administrative Agent exercised in good faith in
+accordance with customary business practices for comparable asset-based lending transactions, as to any factor which the Administrative
+Agent reasonably determines: (a) will or reasonably could be expected to adversely affect in any material respect the value of any Eligible
+Accounts, Eligible Cash and Cash Equivalents, Eligible Inventory, Eligible Machinery and Equipment or Eligible Real Property, the
+enforceability or priority of the Collateral Agent’s Liens thereon or the amount which any Agent, the Lenders or any Issuing Lender would
+be likely to receive (after giving consideration to delays in payment and costs of enforcement) in the liquidation of such Eligible Accounts,
+Eligible Cash and Cash Equivalents, Eligible Inventory, Eligible Machinery and Equipment or Eligible Real Property or (b) will or
+reasonably could be expected to result in any collateral report or financial information delivered to the Administrative Agent by any Person
+on behalf of any Borrower being incomplete, inaccurate or misleading in any material respect. In exercising such judgment, the
+Administrative Agent may consider, without duplication, such factors already included in or tested by the definitions of Eligible Accounts,
+Eligible Cash and Cash Equivalents, Eligible Inventory, Eligible Machinery and Equipment or Eligible Real Property, as well as any of the
+following: (i) changes after the Effective Date in any material respect in demand for, pricing of, or product mix of Inventory; (ii) changes
+after the Effective Date in any material respect in any concentration of risk with respect to Accounts; (iii) any other factors arising after
+the Effective Date that change in any material respect the credit risk of lending to the Borrowers on the security of the Eligible Accounts,
+Eligible Cash and Cash Equivalents, Eligible Inventory, Eligible Machinery and Equipment; and (iv) any other factors arising after the
+Ninth Amendment Effective Date that change in any material respect the credit risk of lending to the Borrowers on the security of the
+Eligible Real Property.
+
+“Permitted Encumbrance” shall mean, with respect to any Mortgaged Property, such minor exceptions to title as are set forth in
+a final issued and accepted Title Policy delivered with respect thereto, all of which minor exceptions must be acceptable to the
+Administrative Agent in its reasonable discretion.
+
+“Permitted Foreign Account Debtor” shall mean each of the Account Debtors listed on Schedule 1.01(b) to the Disclosure
+Letter, which Schedule may be updated from time to time in the Permitted Discretion of the Administrative Agent with written notice to
+the Company.
+
+“Permitted Holder” shall mean each of Elon Musk and his estate, spouse, siblings, ancestors, heirs, and lineal descendants, and
+any spouses of such Persons, the legal representatives of any of the foregoing, and any bona fide trust of which one or more the foregoing
+are the principal beneficiaries or grantors, or any other Person that is controlled by any of the foregoing.
+
+“Permitted Liens” shall have the meaning provided in Section 10.01.
+
+“Permitted Non-Credit Party Indebtedness” has the meaning provided in Section 10.04(o).
+
+“Permitted Securitization Facility” shall mean a financing facility established by a Securitization Subsidiary and/or an Orphan
+SPV and one or more of the Company or its Subsidiaries, whereby the Company or its Subsidiaries shall have sold or transferred accounts
+receivable, payment intangibles, chattel paper, payments, rights to future leasecustomer installment payments (including lease or loan) or
+residuals or similar rights to payment or Energy Storage Assets to a Securitization Subsidiary and/or an Orphan SPV; provided that (a)
+except as permitted in respect of indemnities by clause (b) of this proviso,
+
+57
+
+
+-----
+
+

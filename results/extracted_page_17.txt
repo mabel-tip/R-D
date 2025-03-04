@@ -1,0 +1,57 @@
+**We face risks associated with maintaining and expanding our international operations, including unfavorable and uncertain regulatory,**
+**political, economic, tax and labor conditions.**
+
+We are subject to legal and regulatory requirements, political uncertainty and social, environmental and economic conditions in numerous jurisdictions,
+over which we have little control and which are inherently unpredictable. Our operations in such jurisdictions, particularly as a company based in the U.S.,
+create risks relating to conforming our products to regulatory and safety requirements and charging and other electric infrastructures; organizing local
+operating entities; establishing, staffing and managing foreign business locations; attracting local customers; navigating foreign government taxes, regulations
+and permit requirements; enforceability of our contractual rights; trade restrictions, customs regulations, tariffs and price or exchange controls; and
+preferences in foreign nations for domestically manufactured products. Such conditions may increase our costs, impact our ability to sell our products and
+require significant management attention, and may harm our business if we unable to manage them effectively.
+
+**Our business may suffer if our products or features contain defects, fail to perform as expected or take longer than expected to become**
+**fully functional.**
+
+If our products contain design or manufacturing defects that cause them not to perform as expected or that require repair, or certain features of our
+vehicles such as new Autopilot or FSD features take longer than expected to become enabled, are legally restricted or become subject to onerous regulation,
+our ability to develop, market and sell our products and services may be harmed, and we may experience delivery delays, product recalls, product liability,
+breach of warranty and consumer protection claims and significant warranty and other expenses. In particular, our products are highly dependent on software,
+which is inherently complex and may contain latent defects or errors or be subject to external attacks. Issues experienced by our customers have included those
+related to the Model S and Model X 17-inch display screen, the panoramic roof and the 12-volt battery in the Model S, the seats and doors in the Model X and
+the operation of solar panels installed by us. Although we attempt to remedy any issues we observe in our products as effectively and rapidly as possible, such
+efforts may not be timely, may hamper production or may not completely satisfy our customers. While we have performed extensive internal testing on our
+products and features, we currently have a limited frame of reference by which to evaluate their long-term quality, reliability, durability and performance
+characteristics. There can be no assurance that we will be able to detect and fix any defects in our products prior to their sale to or installation for customers.
+
+**We may be required to defend or insure against product liability claims.**
+
+The automobile industry generally experiences significant product liability claims, and as such we face the risk of such claims in the event our vehicles
+do not perform or are claimed to not have performed as expected. As is true for other automakers, our vehicles have been involved and we expect in the future
+will be involved in accidents resulting in death or personal injury, and such accidents where Autopilot or FSD features are engaged are the subject of significant
+public attention. We have experienced and we expect to continue to face claims arising from or related to misuse or claimed failures of such new technologies
+that we are pioneering. In addition, the battery packs that we produce make use of lithium-ion cells. On rare occasions, lithium-ion cells can rapidly release the
+energy they contain by venting smoke and flames in a manner that can ignite nearby materials as well as other lithium-ion cells. While we have designed our
+battery packs to passively contain any single cell’s release of energy without spreading to neighboring cells, there can be no assurance that a field or testing
+failure of our vehicles or other battery packs that we produce will not occur, in particular due to a high-speed crash. Likewise, as our solar energy systems and
+energy storage products generate and store electricity, they have the potential to fail or cause injury to people or property. Any product liability claim may
+subject us to lawsuits and substantial monetary damages, product recalls or redesign efforts, and even a meritless claim may require us to defend it, all of
+which may generate negative publicity and be expensive and time-consuming. In most jurisdictions, we generally self-insure against the risk of product liability
+claims for vehicle exposure, meaning that any product liability claims will likely have to be paid from company funds and not by insurance.
+
+**We will need to maintain public credibility and confidence in our long-term business prospects in order to succeed.**
+
+In order to maintain and grow our business, we must maintain credibility and confidence among customers, suppliers, analysts, investors, ratings
+agencies and other parties in our long-term financial viability and business prospects. Maintaining such confidence may be challenging due to our limited
+operating history relative to established competitors; customer unfamiliarity with our products; any delays we may experience in scaling manufacturing,
+delivery and service operations to meet demand; competition and uncertainty regarding the future of electric vehicles or our other products and services; our
+quarterly production and sales performance compared with market expectations; and other factors including those over which we have no control. In particular,
+Tesla’s products, business, results of operations, statements and actions are well-publicized by a range of third parties. Such attention includes frequent
+criticism, which is often exaggerated or unfounded, such as speculation regarding the sufficiency or stability of our management team. Any such negative
+perceptions, whether caused by us or not, may harm our business and make it more difficult to raise additional funds if needed.
+
+18
+
+
+-----
+
+

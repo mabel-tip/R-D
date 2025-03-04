@@ -1,0 +1,48 @@
+“Project” shall mean an Energy Storage System together with all associated real property rights, rights under the applicable
+Host Customer Agreement, and all other related rights to the extent applicable thereto, including without limitation, all parts and
+manufacturers’ warranties and rights to access customer data.
+
+“PTE” shall mean a prohibited transaction class exemption issued by the U.S. Department of Labor, as any such exemption may
+be amended from time to time.
+
+“QFC” shall have the meaning assigned to the term “qualified financial contract” in, and shall be interpreted in accordance
+with, 12 U.S.C. 5390(c)(8)(D).
+
+“QFC Credit Support” shall have the meaning provided in Section 13.26.
+
+“Qualified Preferred Stock” shall mean any Preferred Equity of the Company so long as the terms of any such Preferred Equity
+(and the terms of any Equity Interests into which such Preferred Equity is convertible or for which it is exchangeable, either mandatorily
+or at the option of the holder thereof) (x) do not contain any mandatory put, redemption, repayment, sinking fund or other similar
+provision requiring such action prior to the date that is 91 days after the 2023 ExtendedInitial Maturity Date (other than (i) upon payment
+in full of the Obligations (other than indemnification and other contingent obligations not yet due and owing) or (ii) upon a “change in
+control” or asset sale or casualty or condemnation event; provided that any payment required pursuant to this clause (ii) is subordinated in
+right of payment to the Obligations on terms reasonably satisfactory to the Administrative Agent), (y) do not require the cash payment of
+dividends or distributions that would otherwise be prohibited by the terms of this Agreement and (z) do not contain any covenants (other
+than periodic reporting requirements) that are more restrictive, taken as a whole, than the covenants contained in this Agreement (as
+reasonably determined by the Company in good faith).
+
+“Qualifying Lender” shall mean:
+
+(a) a Lender which is beneficially entitled to interest payable to that Lender under this Agreement and is a
+Lender:
+
+(i) which is a bank (as defined for the purposes of Section 879 of the Income Tax Act 2007) making
+an advance under this Agreement and is within the charge to United Kingdom corporation tax as respects any
+payments of interest made in respect of that advance or would be within such charge as respects such payments
+apart from Section 18A of the Corporation Tax Act 2009; or
+
+(ii) in respect of an advance made under this Agreement by a person that was a bank (as defined for
+the purposes of Section 879 of the Income Tax Act 2007) at the time that that advance was made, and is within the
+charge to United Kingdom corporation tax as respects any payments of interest made in respect of that advance; or
+
+(b) a Lender which is beneficially entitled to interest payable to that Lender under this Agreement and which
+is:
+
+(i) a company resident in the United Kingdom for United Kingdom tax purposes;
+
+60
+
+
+-----
+
+

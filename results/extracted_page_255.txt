@@ -1,0 +1,44 @@
+governmental rule, regulation or order shall make it unlawful for any Lender to issue, make, maintain, fund or charge interest with respect
+to any extension of credit to a UK Borrower or to give effect to its obligations as contemplated by this Agreement with respect to any
+extension of credit to a UK Borrower, then, upon written notice by such Lender (each such Lender providing such notice, an “Impacted UK
+Lender”) to the Company and the Administrative Agent:
+
+(i) the obligations of the Lenders hereunder to make extensions of credit to such UK Borrower shall forthwith
+be (x) suspended until each Impacted UK Lender notifies the Company and the Administrative Agent in writing that it is no
+longer unlawful for such Lender to issue, make, maintain, fund or charge interest with respect to any extension of credit to such
+UK Borrower or (y) to the extent required by law, cancelled;
+
+(ii) if it shall be unlawful for any Impacted UK Lender to maintain or charge interest with respect to any
+outstanding Loan to such UK Borrower, such UK Borrower shall repay (or at its option and to the extent permitted by law,
+assign to the Company) (x) all outstanding Base Rate Loans made to such UK Borrower within three Business Days or such
+earlier period as required by law and (y) all outstanding LIBOR Loans made to such UK Borrower on the last day of the then
+current Interest Periods with respect to such LIBOR Loans or within such earlier period as required by law; and
+
+(iii) if it shall be unlawful for any Impacted UK Lender to maintain, charge interest or hold any participation
+with respect to any Letter of Credit issued on behalf of such UK Borrower, such UK Borrower shall cash collateralize in a
+manner reasonably satisfactory to the Administrative Agent and the applicable Issuing Lender such Letter of Credit in an
+amount equal to 102% of such Lender’s RL Percentage of the Letter of Credit Outstandings (for this purpose, using the U.S.
+Dollar Equivalent of amounts denominated in Euros or any Acceptable Foreign Currency) with respect to such Letter of Credit
+within three Business Days or within such earlier period as required by law.
+
+(h) Notwithstanding anything herein to the contrary, if, as at December 23, 2020 this Agreement provides that the rate of
+interest for a Loan in Sterling is to be determined by reference to the LIBO Rate, then the Administrative Agent (acting on the instructions
+of the Required Lenders) and the Borrowers shall enter into negotiations in good faith with a view to agreeing the use of a replacement
+benchmark in relation to Sterling in place of the LIBO Rate from and including a date no later than August 13, 2021.
+
+2.11. Compensation. The U.S. Borrowers (on a joint and several basis with respect to U.S. Borrower Obligations) or, the
+Dutch Borrowers (on a joint and several basis with respect to Dutch Borrower Obligations) or the UK Borrowers (on a joint and several
+basis with respect to UK Borrower Obligations), as the case may be, agree to compensate each Lender, upon its written request (which
+request shall set forth in reasonable detail the basis for requesting such compensation), for all losses, expenses and liabilities (including
+any loss, expense or liability incurred by reason of the liquidation or reemployment of deposits or other funds required by such Lender to
+fund its LIBOR Loans but excluding loss of anticipated profits) which such Lender may sustain: (a) if for any reason (other than a default
+by such Lender or the Administrative Agent) a Borrowing of, or conversion from or into, LIBOR Loans by the applicable Borrower does not
+occur on a date specified therefor in a Notice of Borrowing or Notice of Conversion/Continuation (whether or not withdrawn by the
+respective Borrower or Borrowers or deemed
+
+94
+
+
+-----
+
+

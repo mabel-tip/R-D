@@ -1,0 +1,43 @@
+made to any such Person that is, or would at such time constitute, a Defaulting Lender or (ii) in the case of any Lender that is a fund that
+invests in loans, any other fund that invests in loans and is managed or advised by the same investment advisor of any Lender or by an
+Affiliate of such investment advisor or (y) assign all, or if less than all, a portion equal to at least $5,000,000 (or such lesser amount as the
+Administrative Agent and the Company may otherwise agree) in the aggregate for the assigning Lender or assigning Lenders, of such
+Revolving Loan Commitments and related outstanding Obligations (or, if the Revolving Loan Commitments have terminated, outstanding
+Obligations) hereunder to one or more Eligible Transferees, each of which assignees shall become a party to this Agreement as a Lender
+by execution of an Assignment and Assumption Agreement, provided that (i) at such time, Schedule 1.01(a) shall be deemed modified to
+reflect the Revolving Loan Commitments and/or outstanding Revolving Loans, as the case may be, of such new Lender and of the existing
+Lenders, (ii) upon the surrender of any Notes by the assigning Lender (or, upon such assigning Lender’s indemnifying the relevant
+Borrower or Borrowers for any lost Note pursuant to a customary indemnification agreement) new Notes will be issued, at the Borrowers’
+joint and several expense, to such new Lender and to the assigning Lender upon the request of such new Lender or assigning Lender, such
+new Notes to be in conformity with the requirements of Section 2.05 (with appropriate modifications) to the extent needed to reflect the
+revised Revolving Loan Commitments and/or outstanding Revolving Loans, as the case may be, (iii) so long as no Event of Default then
+exists, the consent of the Company shall be required in connection with any such assignment pursuant to clause (y) above (such consent,
+in any case, not to be unreasonably withheld, delayed or conditioned), provided that the Company shall be deemed to have consented to
+any such assignment unless it shall object thereto by written notice to the Administrative Agent within ten Business Days after having
+received notice thereof, (iv) the consent of the Administrative Agent, each Issuing Lender and the Swingline Lender shall be required in
+connection with any such assignment of Revolving Loan Commitments (and related Obligations) (such consent, in any case, not to be
+unreasonably withheld, delayed or conditioned), (v) the Administrative Agent shall receive at the time of each such assignment, from the
+assigning or assignee Lender, the payment of a non-refundable assignment fee of $3,500 (provided that only one such fee shall be payable
+in the case of one or more concurrent assignments by or to investment funds managed or advised by the same investment advisor or an
+affiliated investment advisor; provided further that the Administrative Agent may waive the payment of such fee in its sole discretion), and
+(vi) no such transfer or assignment will be effective until recorded by the Administrative Agent on the Register pursuant to Section
+13.1513.16; provided in all cases that the transferee Lender does not form part of the public (as such term is understood under the Dutch
+Financial Markets Supervision Act). To the extent of any assignment pursuant to this Section 13.0413.05(b), the assigning Lender shall be
+relieved of its obligations hereunder with respect to its assigned Revolving Loan Commitment and outstanding Revolving Loans. At the
+time of each assignment pursuant to this Section 13.0413.05(b) to a Person which is not already a Lender hereunder and which is not a
+United States Person for U.S. federal income tax purposes, the respective assignee Lender shall, to the extent legally entitled to do so,
+provide to the Company and the Administrative Agent the appropriate Internal Revenue Service Forms (and, if applicable, a U.S. Tax
+Compliance Certificate) described in Section 5.04(e) to the extent such forms would provide a complete exemption from or reduction in
+U.S. federal withholding tax. In addition, each assignee Lender that is a United States Person and not already a Lender, if requested by
+the relevant Borrower or the Administrative Agent, shall deliver such documentation (including Internal Revenue Service Form W-9)
+prescribed by applicable law as will enable the relevant Borrower or the Administrative Agent to determine whether or not such Lender is
+subject to backup withholding or information reporting requirements. To the extent that an assignment of all or any portion of a Lender’s
+Revolving Loan Commitment and related outstanding Obligations pursuant to Section 2.13 or this Section 13.0413.05(b) would, at the
+time of such assignment, result in increased costs under Section 2.10,
+
+186
+
+
+-----
+
+

@@ -1,0 +1,54 @@
+purchasing party as automotive sales revenue in the consolidated statements of operations. Revenue from the sale of automotive regulatory credits totaled $1.58
+billion, $594 million and $419 million for the years ended December 31, 2020, 2019 and 2018, respectively. Deferred revenue related to sales of automotive
+regulatory credits was $21 million and $140 million as of December 31, 2020 and 2019, respectively. We expect to recognize the majority of the deferred revenue
+as of December 31, 2020 in the next 12 months.
+
+Automotive Leasing Revenue
+
+Direct Vehicle Operating Leasing Program
+
+We have outstanding leases under our direct vehicle operating leasing programs in the U.S., Canada and in certain countries in Europe. Qualifying
+customers are permitted to lease a vehicle directly from Tesla for up to 48 months. At the end of the lease term, customers are required to return the vehicles
+to us or for Model S and Model X leases in certain regions, may opt to purchase the vehicles for a pre-determined residual value. We account for these leasing
+transactions as operating leases. We record leasing revenues to automotive leasing revenue on a straight-line basis over the contractual term, and we record
+the depreciation of these vehicles to cost of automotive leasing revenue. For the years ended December 31, 2020, 2019 and 2018, we recognized $752 million,
+$532 million and $393 million of direct vehicle leasing revenue, respectively. As of December 31, 2020 and 2019, we had deferred $293 million and
+$218 million, respectively, of lease-related upfront payments, which will be recognized on a straight-line basis over the contractual terms of the individual
+leases.
+
+Our policy is to exclude taxes collected from a customer from the transaction price of automotive contracts.
+
+Vehicle Sales to Leasing Partners with a Resale Value Guarantee and a Buyback Option
+
+We offered buyback options in connection with automotive sales with resale value guarantees with certain leasing partner sales in the U.S. and where
+we expected the customer had a significant economic incentive to exercise the resale value guarantee provided to them at contract inception, we continued to
+recognize these transactions as operating leases. These transactions entailed a transfer of leases, which we had originated with an end-customer, to our leasing
+partner. As control of the vehicles had not been transferred in accordance with ASC 606, these transactions were accounted for as interest-bearing
+collateralized borrowings in accordance with ASC 840, Leases, prior to January 1, 2019. Under this program, cash was received for the full price of the vehicle
+and the collateralized borrowing value was generally recorded within resale value guarantees and the customer upfront down payment was recorded within
+deferred revenue. We amortize the deferred revenue amount to automotive leasing revenue on a straight-line basis over the option period and accrue interest
+expense based on our borrowing rate. The option period expires at the earlier of the end of the contractual option period or the pay-off of the initial loan. We
+capitalized vehicles under this program to operating lease vehicles, net, on the consolidated balance sheets, and we record depreciation from these vehicles to
+cost of automotive leasing revenue during the period the vehicle is under a lease arrangement. Cash received for these vehicles, net of revenue recognized
+during the period, is classified as collateralized lease (repayments) borrowings within cash flows from financing activities in the consolidated statements of cash
+flows. Following the adoption of ASC 842 on January 1, 2019, all new agreements under this program are accounted for as operating leases and there was no
+material change in the timing and amount of revenue recognized over the term. Consequently, any cash flows for new agreements are classified as operating
+cash activities on the consolidated statements of cash flows.
+
+At the end of the lease term, we settle our liability in cash by either purchasing the vehicle from the leasing partner for the buyback option amount or
+paying a shortfall to the option amount the leasing partner may realize on the sale of the vehicle. Any remaining balances within deferred revenue and resale
+value guarantee will be settled to automotive leasing revenue. The end customer can extend the lease for a period of up to 6 months. In cases where the leasing
+partner retains ownership of the vehicle after the end of our option period, we expense the net value of the leased vehicle to cost of automotive leasing revenue.
+The maximum amount we could be required to pay under this program, should we decide to repurchase all vehicles, was $42 million and $214 million as of
+December 31, 2020 and 2019, respectively, including $23 million within a 12-month period from December 31, 2020. As of December 31, 2020 and 2019, we
+had $42 million and $238 million, respectively, of such borrowings recorded in accrued liabilities and other and other long-term liabilities and $11 million and
+$29 million, respectively, recorded in deferred revenue liability. For the years ended December 31, 2020, 2019 and 2018, we recognized $77 million, $186
+million and $332 million, respectively, of leasing revenue related to this program. The net carrying amount of operating lease vehicles under this program was
+$43 million and $190 million, respectively, as of December 31, 2020 and 2019.
+
+63
+
+
+-----
+
+

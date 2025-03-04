@@ -1,0 +1,46 @@
+thereof, where appropriate) or the equivalent of the foregoing in any foreign jurisdiction.
+
+“Business Day” shall mean (i) for all purposes other than as covered by clauses (ii), (iii) and, (iv) and (v) below, any day except
+Saturday, Sunday and any day which shall be in New York, New York, a legal holiday or a day on which banking institutions are authorized
+or required by law or other government action to close, (ii) with respect to all notices and determinations in connection with, and
+payments of principal and interest on, LIBOR Loans, any day which is a Business Day described in clause (i) above and which is also a day
+for trading by and between banks in U.S. dDollar deposits in the London interbank market, (iii) with respect to all notices and
+determinations in connection with, and payments of principal and interest on, Euro Denominated Loans, any day which is a Business Day
+described in clause (i) above and is also a TARGET Day and, (iv) with respect to all notices and determinations in connection with, and
+payments of principal and interest on, Loans made to a Dutch Borrower or Letters of Credit issued to a Dutch Borrower, any day which is
+a Business Day described in clause (i) above and which is also a day which is not a legal holiday or a day on which banking institutions are
+authorized or required by law or other government action to close in Amsterdam, the Netherlands or London, England. and (v) with
+respect to all notices and determinations in connection with, and payments of principal and interest on, Loans made to a UK Borrower or
+Letters of Credit issued to a UK Borrower, any day which is a Business Day described in clause (i) above and which is also a day which is
+not a legal holiday or a day on which banking institutions are authorized or required by law or other government action to close in London,
+England.
+
+“Calculation Period” shall mean, with respect to any event expressly required to be calculated on a Pro Forma Basis pursuant to
+the terms of this Agreement, the Test Period most recently ended prior to the date of such event for which financial statements have been
+delivered to the Lenders pursuant to this Agreement.
+
+“Capital Expenditures” shall mean, with respect to any Person, all cash expenditures by such Person which should be
+capitalized in accordance with GAAP.
+
+“Capitalized Lease Obligations” shall mean, with respect to any Person, all rental obligations of such Person which, under
+GAAP, are or will be required to be capitalized on the books of such Person, in each case taken at the amount thereof accounted for as
+indebtedness in accordance with such principles; provided that Capitalized Lease Obligations shall not include (i) any obligations in
+respect of leases that would be treated as operating leases in accordance with GAAP as in effect on the Tenth Amendment Effective Date
+and (ii) any obligations in respect of operating leases that are capitalized as a result of build-to-suit lease accounting rules.
+
+“Cash Contribution” shall mean, as of any date, the sum of the Dutch Cash Contribution to the Dutch Borrowing Base and the
+U.S. Cash Contribution to the U.S. Borrowing Base.
+
+“Cash Equivalents” shall mean, as to any Person, (i) securities issued or directly and fully guaranteed or insured by the United
+States or any agency or instrumentality thereof (provided that the full faith and credit of the United States is pledged in support thereof)
+having maturities of not more than 24 months from the date of acquisition, (ii) marketable direct obligations issued by any state of the
+United States or any political subdivision of any such state or any public instrumentality thereof maturing within 12 months from the date
+of acquisition thereof and, at the time of acquisition, having one of the two highest ratings obtainable from either S&P or Moody’s, (iii)
+U.S. Dollar-denominated demand deposits or
+
+12
+
+
+-----
+
+

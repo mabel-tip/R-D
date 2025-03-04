@@ -1,0 +1,50 @@
+(ii) such Issuing Lender shall have received from any Borrower, any other Credit Party or the Required Lenders
+prior to the issuance of such Letter of Credit notice of the type described in the second sentence of Section 3.03(b).
+
+3.02. Maximum Letter of Credit Outstandings; Currencies; Final Maturities; Collateralized Letters of
+Credit. (a) Notwithstanding anything to the contrary contained in this Agreement:
+
+(i) no Letter of Credit shall be issued (or required to be issued) if the Stated Amount of such Letter of Credit,
+when added to the Letter of Credit Outstandings (calculated (x) using the U.S. Dollar Equivalent of amounts denominated in
+Euros or any Acceptable Foreign Currency, and (y) exclusive of Unpaid Drawings which are repaid on the date of, and prior to
+the issuance of, the respective Letter of Credit) at such time would exceed $400,000,000500,000,000 (the “Maximum Letter of
+Credit Amount”); provided that no Issuing Lender shall be required to (but, for the avoidance of doubt, such Issuing Lender
+may, in its sole discretion) issue any Letter of Credit if the Stated Amount of such Letter of Credit, when added to the Letter of
+Credit Outstandings (calculated (1) using the U.S. Dollar Equivalent of amounts denominated in Euros or any Acceptable
+Foreign Currency and (2) exclusive of Unpaid Drawings which are repaid on the date of, and prior to the issuance of, the
+respective Letter of Credit) in respect of Letters of Credit issued by such Issuing Lender at such time would exceed of
+$70,000,00085,000,000.
+
+(ii) no Letter of Credit shall be issued (or required to be issued) at any time when the Aggregate Exposure
+exceeds (or would after giving effect to such issuance exceed) the Total Revolving Loan Commitment at such time;
+
+(iii) no Letter of Credit shall be issued (or required to be issued) for the account of a U.S. Borrower at any time
+when the Aggregate U.S. Borrower Exposure exceeds (or would after giving effect to such issuance exceed) the U.S. Borrowing
+Base at such time;
+
+(iv) no Letter of Credit shall be issued (or required to be issued) for the account of a Dutch Borrower at any
+time when the Aggregate Dutch Borrower Exposure exceeds (or would after giving effect to such issuance exceed) the Dutch
+Borrowing Base at such time;
+
+(v) no Letter of Credit shall be issued (or required to be issued) during a Reduced Availability Period when
+Excess Availability is less thanfor the account of a UK Borrower at any time when the Aggregate UK Borrower Exposure
+exceeds (or would after giving effect to such issuance be less than) 10% of Availabilityexceed) the UK Borrowing Base at such
+time;
+
+(vi) each Letter of Credit issued at the request of a Borrower shall be denominated in an Available Currency;
+and
+
+(vii) each Letter of Credit shall by its terms terminate on or before the earlier of (i) the date which occurs 12
+months after the date of the issuance thereof or such longer period as may be acceptable to the respective Issuing Lender
+(although any such standby Letter of Credit may be extendible for successive periods of up to 12 months, but, in each case, not
+beyond the fifth Business Day prior to the latest Final Maturity Date in effect at such time, unless cash collateralized, prior to
+the extension of such Letter of Credit, in an amount equal to 102% of the Stated Amount of such Letter of Credit in a manner
+reasonably acceptable to the respective Issuing Lender) and (ii) five Business Days prior to the latest Final Maturity Date in
+effect at such
+
+105
+
+
+-----
+
+

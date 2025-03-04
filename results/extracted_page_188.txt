@@ -1,0 +1,48 @@
+Accounts less than 120 days past the original invoice date related to invoices that have been partially paid unless the Company
+reasonably believes in good faith that such Accounts will be fully paid and such Accounts are not otherwise excluded from being
+Eligible Accounts;
+
+(k) Accounts with respect to an Account Debtor (other than any Account Debtor that has an Investment Grade
+Rating) whose total obligations owing to the Borrowers exceed 2025% (such percentage, as applied to a particular Account
+Debtor, being subject to reduction or increase by the Administrative Agent, in each case in its Permitted Discretion, if the
+creditworthiness of such Account Debtor deteriorates or is otherwise unacceptable to the Administrative Agent) of all Eligible
+Accounts, to the extent of the obligations owing by such Account Debtor in excess of such percentage; provided, however, that,
+in each case, the amount of Eligible Accounts that are excluded because they exceed the foregoing percentage shall be
+determined by the Administrative Agent based on all of the otherwise Eligible Accounts prior to giving effect to any eliminations
+based upon the foregoing concentration limit; provided that the foregoing percentage shall be (x) in respect of any Specified
+Account Debtor, the foregoing percentage shall be the percentage set forth on Schedule 1.01(c) to the Disclosure Letter with
+respect to such Specified Account Debtor (as such Schedule may be updated from time to time in the Permitted Discretion of
+the Administrative Agent with written notice to the Company) and, (y) in respect of any Account Debtor that has an Investment
+Grade Rating, the foregoing percentage shall be 50% (with such percentage being subject to reduction by the Administrative
+Agent in its Permitted Discretion) and (z) in respect of any Account Debtor that has a rating equal to or between Ba3 to Ba1 (or
+the equivalent) by Moody’s and BB- to BB+ (or the equivalent) by S&P (or the equivalent rating by any other securities rating
+organization nationally recognized in the United States), the foregoing percentage shall be 40% (with such percentage being
+subject to reduction by the Administrative Agent in its Permitted Discretion as set forth in the immediately preceding
+parenthetical).;
+
+(l) Accounts (w) with respect to which (i) an Insolvency Proceeding has been commenced by or against the
+Account Debtor (or, to the knowledge of a Responsible Officer of any Borrower, a controlling Affiliate thereof) or (ii) the
+Account Debtor (or, to the knowledge of a Responsible Officer of any Borrower, such controlling Affiliate) has failed, has
+suspended or ceased doing business, or, to the knowledge of a Responsible Officer of any Borrower, is liquidating, dissolving or
+winding up its affairs or (iii) the applicable Borrower is not able to bring suit or enforce remedies against the Account Debtor
+through judicial process, (x) the collection of which the Administrative Agent, in its Permitted Discretion, believes to be doubtful
+by reason of the Account Debtor’s financial condition, upon notice thereof to the Company, or (y) which have been placed with a
+collection agency;
+
+(m) Accounts that are not subject to a valid and perfected First Priority Lien in favor of the Collateral Agent
+pursuant to a Security Document;
+
+(n) Accounts with respect to which the services giving rise to such Account have not been performed, invoiced
+and/or billed to the Account Debtor; provided that the foregoing shall not exclude any Account in respect of the sale of a motor
+vehicle solely because a de minimis portion of such Account relates to future services to be provided in respect of such motor
+vehicle;
+
+(o) Accounts that represent the right to receive progress payments or other advance billings that are due prior
+to the completion of performance by the applicable Borrower of the
+
+27
+
+
+-----
+
+

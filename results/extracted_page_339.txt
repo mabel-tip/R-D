@@ -1,0 +1,44 @@
+Documents.
+
+(b) The Lenders hereby authorize the Administrative Agent to promptly upon the request of the Company, and the
+Administrative Agent and the Lenders hereby agree with the Company to, the automatic release any Lien granted to or held by the
+Administrative Agent upon any Collateral (i) upon termination of the Total Revolving Loan Commitment (and all Letters of Credit other
+than Letters of Credit that have been cash collateralized or backstopped by another letter of credit, in either case on terms and pursuant
+to arrangements reasonably satisfactory to the Administrative Agent and the respective Issuing Lenders (which arrangements, in any
+event, shall require such cash collateral or backstop letter of credit to be in a stated amount equal to at least 102% of the aggregate
+Stated Amount of all Letters of Credit outstanding at such time))) and payment and satisfaction of all of the Obligations (other than
+contingent payment obligations for which no claim has been made) at any time arising under or in respect of this Agreement or the Credit
+Documents or the transactions contemplated hereby or thereby, (ii) constituting property being sold or otherwise disposed of (to Persons
+other than a Credit Party) upon the sale or other disposition thereof not prohibited by this Agreement, (iii) if approved, authorized or
+ratified in writing by the Required Lenders (or all of the Lenders hereunder, to the extent required by Section 13.1213.13) or (iv) as
+otherwise may be expressly provided in the relevant Security Documents, the last sentence of Section 10.01 or in the Intercreditor
+Agreement (if in effect). Upon request by the Administrative Agent at any time, the Lenders will confirm in writing the Administrative
+Agent’s authority to release particular types or items of Collateral pursuant to this Section 12.10.
+
+(c) The Administrative Agent shall have no obligation whatsoever to the Lenders or to any other Person to assure that the
+Collateral exists or is owned by any Credit Party or is cared for, protected or insured or that the Liens granted to the Administrative Agent
+herein or pursuant hereto have been properly or sufficiently or lawfully created, perfected, protected or enforced or are entitled to any
+particular priority, or to exercise or to continue exercising at all or in any manner or under any duty of care, disclosure or fidelity any of
+the rights, authorities and powers granted or available to the Administrative Agent in this Section 12.10 or in any of the Security
+Documents, it being understood and agreed that in respect of the Collateral, or any act, omission or event related thereto, the
+Administrative Agent may act in any manner it may deem appropriate, in its sole discretion, given the Administrative Agent’s own interest
+in the Collateral as one of the Lenders and that the Administrative Agent shall have no duty or liability whatsoever to the Lenders, except
+for its gross negligence or willful misconduct (as determined by a court of competent jurisdiction in a final and non-appealable decision).
+
+(d) The Administrative Agent may perform any and all of its duties and exercise its rights and powers hereunder or under
+any other Credit Document in respect of the Collateral by or through, or delegate any and all such rights and powers to, any one or more
+sub-agents, trustees or third parties appointed by the Administrative Agent. The Administrative Agent (and any such sub-agent, trustee or
+third party) may perform any and all of its duties and exercise its rights and powers by or through their respective Affiliates. The
+exculpatory and indemnification provisions of this Section 12 and Section 13.01 shall apply to any such sub-agent, trustee or third party
+and to their respective Affiliates to the same extent that such provisions apply to the Administrative Agent.
+
+(e) The Lenders authorize the Administrative Agent to promptly upon the request of the Company, and the Administrative
+Agent and the Lenders hereby agree with the Company to promptly, release the Mortgage and Lien on any Eligible Real Property so long
+as (i) no Event of Default has occurred and is continuing, (ii) after giving effect to such release Excess Availability is not less than 20%
+
+178
+
+
+-----
+
+

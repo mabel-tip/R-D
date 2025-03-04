@@ -1,0 +1,62 @@
+position, and brand.
+
+**Indemnification and Guaranteed Returns**
+
+We are contractually obligated to compensate certain fund investors for any losses that they may suffer in certain limited circumstances resulting from
+reductions in investment tax credits claimed under U.S. federal laws for the installation of solar power facilities and energy storage systems that are charged
+from a co-sited solar power facility (“ITC”s). Generally, such obligations would arise as a result of reductions to the value of the underlying solar energy systems
+as assessed by the U.S. Internal Revenue Service (the “IRS”) for purposes of claiming ITCs. For each balance sheet date, we assess and recognize, when
+applicable, a distribution payable for the potential exposure from this obligation based on all the information available at that time, including any audits
+undertaken by the IRS. We believe that any payments to the fund investors in excess of the amounts already recognized by us for this obligation are not
+probable or material based on the facts known at the filing date.
+
+The maximum potential future payments that we could have to make under this obligation would depend on the difference between the fair values of the
+solar energy systems sold or transferred to the funds as determined by us and the values that the IRS would determine as the fair value for the systems for
+purposes of claiming ITCs. We claim ITCs based on guidelines provided by the U.S. Treasury department and the statutory regulations from the IRS. We use fair
+values determined with the assistance of independent third-party appraisals commissioned by us as the basis for determining the ITCs that are passed-through
+to and claimed by the fund investors. Since we cannot determine exactly how the IRS will evaluate system values used in claiming ITCs, we are unable to
+reliably estimate the maximum potential future payments that it could have to make under this obligation as of each balance sheet date.
+
+We are eligible to receive certain state and local incentives that are associated with renewable energy generation. The amount of incentives that can be
+claimed is based on the projected or actual solar energy system size and/or the amount of solar energy produced. We also currently participate in one state’s
+incentive program that is based on either the fair market value or the tax basis of solar energy systems placed in service. State and local incentives received are
+allocated between us and fund investors in accordance with the contractual provisions of each fund. We are not contractually obligated to indemnify any fund
+investor for any losses they may incur due to a shortfall in the amount of state or local incentives actually received.
+
+**Letters of Credit**
+
+
+As of December 31, 2020, we had $233 million of unused letters of credit outstanding.
+
+
+**Note 17 – Variable Interest Entity Arrangements**
+
+We have entered into various arrangements with investors to facilitate the funding and monetization of our solar energy systems and vehicles. In
+particular, our wholly owned subsidiaries and fund investors have formed and contributed cash and assets into various financing funds and entered into related
+agreements. We have determined that the funds are variable interest entities (“VIEs”) and we are the primary beneficiary of these VIEs by reference to the
+power and benefits criterion under ASC 810, Consolidation. We have considered the provisions within the agreements, which grant us the power to manage and
+make decisions that affect the operation of these VIEs, including determining the solar energy systems or vehicles and the associated customer contracts to be
+sold or contributed to these VIEs, redeploying solar energy systems or vehicles and managing customer receivables. We consider that the rights granted to the
+fund investors under the agreements are more protective in nature rather than participating.
+
+As the primary beneficiary of these VIEs, we consolidate in the financial statements the financial position, results of operations and cash flows of these
+VIEs, and all intercompany balances and transactions between us and these VIEs are eliminated in the consolidated financial statements. Cash distributions of
+income and other receipts by a fund, net of agreed upon expenses, estimated expenses, tax benefits and detriments of income and loss and tax credits, are
+allocated to the fund investor and our subsidiary as specified in the agreements.
+
+Generally, our subsidiary has the option to acquire the fund investor’s interest in the fund for an amount based on the market value of the fund or the
+formula specified in the agreements.
+
+Upon the sale or liquidation of a fund, distributions would occur in the order and priority specified in the agreements.
+
+Pursuant to management services, maintenance and warranty arrangements, we have been contracted to provide services to the funds, such as
+operations and maintenance support, accounting, lease servicing and performance reporting. In some instances, we have guaranteed payments to the fund
+investors as specified in the agreements. A fund’s creditors have no recourse to our general credit or to that of other funds. None of the assets of the funds had
+been pledged as collateral for their obligations.
+
+102
+
+
+-----
+
+

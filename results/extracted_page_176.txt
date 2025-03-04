@@ -1,0 +1,45 @@
+“Collateralized Letter of Credit” shall have the meaning provided in Section 3.02(b).
+
+“Commingled Inventory” shall mean Inventory of any Borrower that is commingled (whether pursuant to a consignment, a toll
+manufacturing agreement or otherwise) with Inventory of another Person (other than a Borrower) at a location owned or leased by any
+Borrower to the extent that such Inventory of the applicable Borrower is not readily identifiable.
+
+“Commitment Commission” shall have the meaning provided in Section 4.01(a).
+
+“Commitment Commission Percentage” shall mean 0.25% per annum; provided that until the First Usage Date, the
+Commitment Commission Percentage shall be (i) 0% for the period from the Effective Date until the date 30 days thereafter, (ii) 0.125%
+per annum for the period from the date that is 30 days after the Effective Date until the date that is 60 days after the Effective Date and
+(iii) 0.25% thereafter. From and after any Extension with respect to any Extended Revolving Loan Commitments and Extended Loans, the
+Commitment Commission Percentage specified for such Extended Revolving Loan Commitments and Extended Loans shall be those set
+forth in the applicable definitive documentation thereof.
+
+“Commodity Exchange Act” shall mean the Commodity Exchange Act (7 U.S.C. § 1 et seq.), as amended from time to time, and
+any successor statute.
+
+“Company” shall have the meaning provided in the first paragraph of this Agreement.
+
+“Company Common Stock” shall mean authorized shares of common stock of the Company.
+
+“Company Factory” shall mean (i) the Fremont Factory, (ii) the Company’s manufacturing facility located in Lathrop, California,
+(iii) the Company’s manufacturing facility located at 5640 Executive Parkway SE, Grand Rapids, Michigan, (iv) the Company’s
+manufacturing facility located in Buffalo, New York, (v) the Company’s Gigafactory located at 1 Electric Avenue, Sparks, Nevada and
+(vi) any other mManufacturing fFacilities established by the Company from time to time and located in the United States.
+
+“Compliance Period” shall mean, subject to Section 3.02(b), any period commencing on the date on which (a)(i) Designated
+Cash is less than the Liquidity Threshold and (ii) Excess Availability is less than the greater of (x) 10% of Availability at such time or (y)
+$80,000,000 and (b) ending on the first date thereafter on which (i) Designated Cash is equal to or greater than the Liquidity Threshold or
+(ii) Excess Availability is greater than the greater of (x) 10% of Availability at such time and (y) $80,000,000 for 30 consecutive days.
+
+“Consent Letter” shall mean that certain letter, dated as of April 28, 2017, between the Borrowers and the Required Lenders.
+
+“Consolidated EBITDA” shall mean, for any period, Consolidated Net Income for such period (without giving effect to (w) any
+extraordinary gains or losses, (x) any non-cash income, (y) any gains or losses from sales of assets other than those assets sold in the
+ordinary course of business, or (z) any foreign currency gains or losses) adjusted by (A) adding thereto (in each case to the extent
+deducted in determining Consolidated Net Income for such period (other than clause (ix) below which need not be so
+
+15
+
+
+-----
+
+

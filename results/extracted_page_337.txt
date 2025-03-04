@@ -1,0 +1,43 @@
+instructions of the Required Lenders.
+
+12.05. Reliance. The Administrative Agent shall be entitled to rely, and shall be fully protected in relying, upon any note,
+writing, resolution, notice, statement, certificate, telex, teletype or telecopier message, cablegram, radiogram, order or other document or
+telephone message signed, sent or made by any Person that the Administrative Agent believed to be the proper Person, and, with respect
+to all legal matters pertaining to this Agreement and any other Credit Document and its duties hereunder and thereunder, upon advice of
+counsel selected by the Administrative Agent.
+
+12.06. Indemnification. To the extent the Administrative Agent (or any affiliate thereof) or any Issuing Lender (or any
+affiliate thereof) is not reimbursed and indemnified by the Borrowers, the Lenders will reimburse and indemnify the Administrative Agent
+(and any affiliate thereof) or Issuing Lender (or any affiliate thereof), as applicable, in proportion to their respective “percentage” as used
+in determining the Required Lenders (determined as if there were no Defaulting Lenders) for and against any and all liabilities,
+obligations, losses, damages, penalties, claims, actions, judgments, costs, expenses or disbursements of whatsoever kind or nature which
+may be imposed on, asserted against or incurred by the Administrative Agent (or any affiliate thereof) or the applicable Issuing Lender (or
+an affiliate thereof), as applicable, in performing its duties hereunder, under any other Credit Document or in respect of any Letter of
+Credit or in any way relating to or arising out of this Agreement, any other Credit Document or any Letter of Credit; provided that no
+Lender shall be liable for any portion of such liabilities, obligations, losses, damages, penalties, claims, actions, judgments, suits, costs,
+expenses or disbursements resulting from the Administrative Agent’s (or such affiliates’) or the applicable Issuing Lender’s (or such
+affiliates’), as applicable, gross negligence or willful misconduct (as determined by a court of competent jurisdiction in a final and nonappealable decision).
+
+12.07. The Administrative Agent in its Individual Capacity. With respect to its obligation to make Loans, or issue or
+participate in Letters of Credit, under this Agreement, the Administrative Agent shall have the rights and powers specified herein for a
+“Lender” and may exercise the same rights and powers as though it were not performing the duties specified herein; and the term
+“Lender,” “Required Lenders,” “Supermajority Lenders” or any similar terms shall, unless the context clearly indicates otherwise, include
+the Administrative Agent in its individual capacity. The Administrative Agent and its affiliates may accept deposits from, lend money to,
+and generally engage in any kind of banking, investment banking, trust or other business with, or provide debt financing, equity capital or
+other services (including financial advisory services) to any Credit Party or any Affiliate of any Credit Party (or any Person engaged in a
+similar business with any Credit Party or any Affiliate thereof) as if they were not performing the duties specified herein, and may accept
+fees and other consideration from any Credit Party or any Affiliate of any Credit Party for services in connection with this Agreement and
+otherwise without having to account for the same to the Lenders.
+
+12.08. Holders. The Administrative Agent may deem and treat the payee of any Note as the owner thereof for all purposes
+hereof unless and until a written notice of the assignment, transfer or endorsement thereof, as the case may be, shall have been filed with
+the Administrative Agent. Any request, authority or consent of any Person who, at the time of making such request or giving such
+authority or consent, is the holder of any Note shall be conclusive and binding on any subsequent holder, transferee, assignee or endorsee,
+as the case may be, of such Note or of any Note or Notes issued in exchange therefor.
+
+176
+
+
+-----
+
+

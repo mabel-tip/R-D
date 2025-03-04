@@ -1,0 +1,40 @@
+p p y p q p gy y g p p y g p
+changes in circumstances indicate that the carrying amount of an asset (or asset group) may not be recoverable. We measure recoverability by comparing the
+carrying amount to the future undiscounted cash flows that the asset is expected to generate. If the asset is not recoverable, its carrying amount would be
+adjusted down to its fair value. For the year ended December 31, 2020, we have recognized no material impairments of our long-lived assets. For the years
+ended December 31, 2019 and 2018, we have recognized certain impairments of our long-lived assets (refer to Note 22, Restructuring and Other, for further
+details).
+
+Intangible assets with definite lives are amortized on a straight-line basis over their estimated useful lives, which range from one to thirty years.
+
+Goodwill
+
+We assess goodwill for impairment annually in the fourth quarter, or more frequently if events or changes in circumstances indicate that it might be
+impaired, by comparing its carrying value to the reporting unit’s fair value. For the years ended December 31, 2020, 2019, and 2018, we had not recognized
+any impairment of goodwill.
+
+Capitalization of Software Costs
+
+For costs incurred in development of internal use software, we capitalize costs incurred during the application development stage to property, plant and
+equipment, net on the consolidated balance sheets. Costs related to preliminary project activities and post-implementation activities are expensed as incurred.
+Internal use software is amortized on a straight-line basis over its estimated useful life of three years. We evaluate the useful lives of these assets on an annual
+basis, and we test for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets.
+
+Foreign Currency
+
+We determine the functional and reporting currency of each of our international subsidiaries and their operating divisions based on the primary
+currency in which they operate. In cases where the functional currency is not the U.S. dollar, we recognize a cumulative translation adjustment created by the
+different rates we apply to current period income or loss and the balance sheet. For each subsidiary, we apply the monthly average functional exchange rate to
+its monthly income or loss and the month-end functional currency rate to translate the balance sheet.
+
+Foreign currency transaction gains and losses are a result of the effect of exchange rate changes on transactions denominated in currencies other than
+the functional currency. Transaction gains and losses are recognized in other (expense) income, net, in the consolidated statements of operations. For the years
+ended December 31, 2020, 2019 and 2018, we recorded net foreign currency transaction losses of $114 million, gains of $48 million and gains of $2 million,
+respectively.
+
+72
+
+
+-----
+
+

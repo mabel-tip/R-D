@@ -1,0 +1,48 @@
+Subsidiary of the Company to the Company or any other Subsidiary of the Company.
+
+“Intercompany Loans” shall mean any intercompany loans and advances between or among the Company and its Subsidiaries.
+
+“Intercreditor Agreement” shall mean an intercreditor agreement, in form and substance reasonably satisfactory to the
+Administrative Agent, among the Collateral Agent, the U.S. Credit Parties, the Dutch Credit Parties (if applicable), the UK Credit Parties
+(if applicable) and each collateral agent or trustee for the holders of any Permitted Additional Secured Indebtedness, as amended,
+modified or supplemented from time to time in accordance with the terms hereof and thereof.
+
+“Interest Determination Date” shall mean, with respect to any LIBOR Loan, the second Business Day prior to the
+commencement of any Interest Period relating to such LIBOR Loan.
+
+“Interest Period” shall have the meaning provided in Section 2.09.
+
+“Interest Rate Protection Agreement” shall mean any interest rate swap agreement, interest rate cap agreement, interest collar
+agreement, interest rate hedging agreement or other similar agreement or arrangement.
+
+“Inventory” shall mean “inventory” as such term is defined in Article 9 of the UCC.
+
+“Inventory Reserves” shall mean the Physical Inventory Adjustment Reserve and the Locations Reserve.
+
+“Investment” shall mean, with respect to the Company or any of its Subsidiaries, any of the following: lending money or credit
+or making advances to any other Person, or purchasing or acquiring any stock, obligations or securities of, or any other Equity Interest in,
+or making any capital contribution to, any other Person, or purchasing or owning a futures contract or otherwise becoming liable for the
+purchase or sale of currency or other commodities at a future date in the nature of a futures contract, or holding any cash or Cash
+Equivalents.
+
+“Investment Grade Rating” shall mean a rating equal to or higher than Baa3 (or the equivalent) by Moody’s and BBB- (or the
+equivalent) by S&P (or the equivalent investment grade rating by any other securities rating organization nationally recognized in the
+United States).
+
+“ISDA Definitions” shall mean the 2006 ISDA Definitions published by the International Swaps and Derivatives Association, Inc.
+or any successor thereto, as amended or supplemented from time to time, or any successor definitional booklet for interest rate
+derivatives published from time to time by the International Swaps and Derivatives Association, Inc. or such successor thereto.
+
+“Issuer Option” shall mean (a) any Note Hedge Option and (b) any Upper Strike Option.
+
+“Issuing Lender” shall mean each of (i) DBNY (except as otherwise provided in Section 12.09), (ii) Morgan Stanley Senior
+Funding Inc., (iii) Bank of America, N.A., (iv) Wells Fargo Bank, National Association, (v) Citibank, N.A., (vi) Barclays Bank PLC and (vii)
+any other Lender reasonably acceptable to the Administrative Agent and the Company which agrees to issue Letters of Credit hereunder;
+provided
+
+48
+
+
+-----
+
+

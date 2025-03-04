@@ -1,0 +1,96 @@
+behalf by the undersigned, thereunto duly authorized.
+
+Tesla, Inc.
+
+Date: February 8, 2021 /s/ Elon Musk
+Elon Musk
+Chief Executive Officer
+(Principal Executive Officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+**Signature** **Title** **Date**
+
+/s/ Elon Musk Chief Executive Officer and Director (Principal Executive Officer) February 8, 2021
+Elon Musk
+
+/s/ Zachary J. Kirkhorn Chief Financial Officer (Principal Financial Officer) February 8, 2021
+Zachary J. Kirkhorn
+
+/s/ Vaibhav Taneja Chief Accounting Officer (Principal Accounting Officer) February 8, 2021
+Vaibhav Taneja
+
+/s/ Robyn Denholm Director February 8, 2021
+Robyn Denholm
+
+/s/ Ira Ehrenpreis Director February 8, 2021
+Ira Ehrenpreis
+
+/s/ Lawrence J. Ellison Director February 8, 2021
+Lawrence J. Ellison
+
+/s/ Antonio J. Gracias Director February 8, 2021
+Antonio J. Gracias
+
+/s/ Hiromichi Mizuno Director February 8, 2021
+Hiromichi Mizuno
+
+/s/ James Murdoch Director February 8, 2021
+James Murdoch
+
+/s/ Kimbal Musk Director February 8, 2021
+Kimbal Musk
+
+/s/ Kathleen Wilson-Thompson Director February 8, 2021
+Kathleen Wilson-Thompson
+
+126
+
+Certain identified information has been omitted from this document because it is not material and would be competitively harmful if
+publicly disclosed, and has been marked with “[***]” to indicated where omissions have been made.
+
+**Exhibit 10.39**
+
+**2021 Pricing Agreement (Japan Cells)**
+
+**PPA Effective Date: 10/01/2020**
+
+**Seller’s Vendor Number with Tesla:** 106644
+
+[***] Pricing Validity Period: 1/1/2021 through 7/31/2022
+
+[***] Volume Commitment Period: 1/1/2021 through 7/31/2022
+
+[***] Pricing Validity Period: 1/1/2021 through 3/31/2022
+
+[***] Volume Commitment Period: 4/1/2021 through 3/31/2022
+**Seller** **Guaranteed** **CapacitySee Section 3 below**
+**Commitment** **during** **each** **Volume**
+**Commitment Period:**
+
+**Payment Terms:** [***] – DAP (Incoterms 2010)
+Fremont, California or Oakland Port
+or FCA (Incoterms 2010) Seller’s
+designated location in Japan, as
+applicable (depending on Cell type)
+
+1. This 2021 Pricing Agreement (Japan Cells) (the “PPA”) is entered into by the Tesla, Inc. and Tesla Motors Netherlands B.V.
+(collectively, “Tesla”) and Panasonic Corporation of North America (“PNA”), and SANYO Electric Co., Ltd. acting through Tesla
+Energy Business Division, the assignee of the Supply Agreement from Panasonic Corporation, acting through Energy Company
+(“Sanyo”) (collectively, “Seller”) (each a “Party”; collectively, the “Parties”) with respect to the cylindrical lithium-ion battery cells
+referenced herein made by or on behalf of Seller (collectively, "Cells") in Japan. The Parties shall meet and confer in good faith to
+
+|Seller’s Vendor Number with Tesla:|106644|Col3|Col4|
+|---|---|---|---|
+|[***] Pricing Validity Period:|1/1/2021|through|7/31/2022|
+|[***] Volume Commitment Period:|1/1/2021|through|7/31/2022|
+|[***] Pricing Validity Period:|1/1/2021|through|3/31/2022|
+|[***] Volume Commitment Period:|4/1/2021|through|3/31/2022|
+|Seller Guaranteed Capacity Commitment during each Volume Commitment Period:|See Section 3 below|||
+|Payment Terms:|[***] – DAP (Incoterms 2010) Fremont, California or Oakland Port or FCA (Incoterms 2010) Seller’s designated location in Japan, as applicable (depending on Cell type)|||
+
+
+-----
+
+

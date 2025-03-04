@@ -1,0 +1,44 @@
+Funds Rate for the first three days and at the interest rate otherwise applicable to such Revolving Loans denominated in U.S. Dollars, in
+each case maintained as Base Rate Loans hereunder for each day thereafter.
+
+(d) Notwithstanding anything to the contrary in Section 2.01(a) or (b) or elsewhere in this Agreement, the Administrative
+Agent shall have the right to establish Reserves in such amounts, and with respect to such matters, but subject to the limitations contained
+in the definitions of “Reserves”, “Eligible Accounts”, “Eligible Inventory”, “Eligible Machinery and Equipment” and “Eligible Real
+Property” herein, as the Administrative Agent in its Permitted Discretion shall deem necessary or appropriate, against the U.S. Borrowing
+Base or the Dutch Borrowing Base or the UK Borrowing Base (as the case may be) (which Reserves shall reduce the then existing
+applicable Borrowing Base in an amount equal to such Reserves).
+
+(e) (i) In the event that the Borrowers are unable to comply with any Borrowing Base limitations set forth in Section
+2.01(a) or (b) or (ii) the Borrowers are unable to satisfy the conditions precedent to the making of Revolving Loans set forth in Section 7,
+in either case, the Lenders, subject to the immediately succeeding proviso, hereby authorize the Administrative Agent, for the account of
+the Lenders, to make U.S. Borrower Revolving Loans to any U.S. Borrower (on a joint and several basis with the other U.S. Borrowers) or
+Dutch Borrower Revolving Loans to any Dutch Borrower (on a joint and several basis with the other Dutch Borrowers) or UK Borrower
+Revolving Loans to any UK Borrower (on a joint and several basis with the other UK Borrowers) solely in the event that the Administrative
+Agent in its Permitted Discretion deems necessary or desirable (A) to preserve or protect the Collateral, or any portion thereof, (B) to
+enhance the likelihood of repayment of the Obligations, or (C) to pay any other amount chargeable to the Borrowers pursuant to the terms
+of this Agreement and then due, including Expenses and Fees, which Revolving Loans may only be made in U.S. Dollars as Base Rate
+Loans (each, an “Agent Advance”) for a period commencing on the date the Administrative Agent first receives a Notice of Borrowing
+requesting an Agent Advance until the earliest of (x) the 30th Business Day after such date, (y) the date the respective Borrowers are
+again able to comply with the applicable Borrowing Base limitations and the conditions precedent to the making of Revolving Loans, or
+obtain an amendment or waiver with respect thereto and (z) the date the Required Lenders instruct the Administrative Agent to cease
+making Agent Advances (in each case, the “Agent Advance Period”); provided that the Administrative Agent shall not make any Agent
+Advance to any U.S. Borrower or, Dutch Borrower or UK Borrower to the extent that at the time of the making of such Agent Advance, the
+amount of such Agent Advance (I) when added to the aggregate outstanding amount of all other Agent Advances made to (x) the U.S.
+Borrowers at such time, would exceed 5% of the U.S. Borrowing Base at such time or, (y) the Dutch Borrowers at such time, would exceed
+5% of the Dutch Borrowing Base at such time or (z) the UK Borrowers at such time, would exceed 5% of the UK Borrowing Base at such
+time or (II) when added to the Aggregate Exposure as then in effect (immediately prior to the incurrence of such Agent Advance), would
+exceed the Total Revolving Loan Commitment at such time. Agent Advances may be made by the Administrative Agent in its sole
+discretion and no Borrower shall have any right whatsoever to require that any Agent Advances be made. Agent Advances will be subject
+to periodic settlement with the Lenders pursuant to Section 2.01(c).
+
+(f) If the Initial Maturity Date shall have occurred at a time when 2023 Extended Revolving Loan Commitments or
+Extended Revolving Loan Commitments are in effect, then on the Initial Maturity Date all then outstanding Swingline Loans shall be
+repaid in full on such date (and there shall be no adjustment to the participations in such Swingline Loans as a result of the occurrence of
+such Initial Maturity Date) or refinanced with a borrowing of a 2023 Extended Revolving Loan or an Extended
+
+82
+
+
+-----
+
+

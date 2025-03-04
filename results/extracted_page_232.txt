@@ -1,0 +1,48 @@
+“Type” shall mean the type of Loan determined with regard to the interest option applicable thereto, i.e., whether a Base Rate
+Loan or a LIBOR Loan.
+
+“UCC” shall mean the Uniform Commercial Code as from time to time in effect in the relevant jurisdiction.
+
+“UK Borrower” and “UK Borrowers” shall have the meaning provided in the first paragraph of this Agreement.
+
+“UK Borrower Loans” shall mean each UK Borrower Revolving Loan.
+
+“UK Borrower Obligations” shall mean all Obligations owing to the Administrative Agent, the Collateral Agent, any Issuing
+Lender or any Lender by any UK Borrower.
+
+“UK Borrower Revolving Loan” shall have the meaning provided in Section 2.01(a).
+
+“UK Borrower Revolving Note” shall have the meaning provided in Section 2.05.
+
+“UK Borrowing Base” shall mean, as of any date of calculation, the amount calculated pursuant to the Borrowing Base
+Certificate most recently delivered to the Administrative Agent in accordance with Section 9.01(h) equal to, without duplication:
+
+(a) the sum of:
+
+(i) 85% of the then extant Net Orderly Liquidation Value of Eligible UK Vendor In-Transit Inventory,
+
+(ii) 85% of the then extant Net Orderly Liquidation Value of Eligible UK Raw Materials Inventory
+(other than Eligible UK Vendor In-Transit Inventory),
+
+(iii) 85% of the then extant Net Orderly Liquidation Value of Eligible UK WIP Inventory,
+
+(iv) 85% of the then extant Net Orderly Liquidation Value of Eligible UK Service Parts Inventory,
+
+(v) 85% of the then extant Net Orderly Liquidation Value of Eligible UK Finished Goods Inventory,
+and
+
+(vi) 85% of the then extant Net Orderly Liquidation Value of Eligible UK In-Transit Inventory; minus
+
+(b) the sum (without duplication) of any Reserves (including the UK Priority Payables Reserve and without
+duplication of any Inventory Reserve) then established by the Administrative Agent with respect to the UK Borrowing Base;
+
+provided, however, that (i) Eligible UK Inventory shall only be included in the UK Borrowing Base to the extent that the Administrative
+Agent shall have received an Acceptable Appraisal and, solely with respect to the first Borrowing Base including Eligible UK Inventory, an
+Acceptable Field Examination, in respect
+
+71
+
+
+-----
+
+

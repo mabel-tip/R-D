@@ -1,0 +1,44 @@
+“Energy Environmental Attribute” shall mean any credit, benefit, reduction, offset or allowance (such as so-called renewable
+energy certificates, green tags, green certificates, and renewable energy credits), howsoever entitled or named, resulting from,
+attributable to or associated with the storage or generation of energy, other than the actual electric energy produced, and that is capable
+of being measured, verified or calculated and in any case may be lawfully marketed to third parties. By way of illustration, Energy
+Environmental Attributes may result from: the generation system’s use of a particular renewable energy source; avoided NOx, SOx, CO2
+or greenhouse gas emissions and other carbon credits and offsets; avoided water use or as otherwise specified under any applicable
+energy-related private or governmental program. Notwithstanding any of the foregoing in this definition or any other provision of the
+Tenth Amendment or the Credit Agreement, Energy Environmental Attributes shall not in any case include: (i) any of the foregoing
+obtained by, provided to, used by or necessary for the Company or any of its Subsidiaries to conduct any of its operations at any location
+(and shall not include any water rights or other rights or credits obtained pursuant to requirements of applicable law in order to site and
+develop any facility); or (ii) any production tax credits.
+
+“Energy Storage Agreement” shall mean a battery services contract, a battery sale contract, a battery installation contract, a
+battery dispatch contract, a market participation contract involving batteries, a shared revenue and cost avoidance contract, a capacity
+contract, a tolling contract, demand response contract or similar agreement, a software contract pertaining to the dispatch or other
+management of batteries, or any agreement similar to the foregoing.
+
+“Energy Storage Assets” shall mean Energy Storage Systems, Host Customer Agreements and Projects and Equity Interests in
+Excluded Energy Storage Subsidiaries.
+
+“Energy Storage Systems” shall mean all parts of an energy storage system, including batteries, solar panels, inverters, wiring
+and other electrical devices, conduit, housings, hardware, remote monitoring equipment, connectors, meters, disconnects and other
+related devices, including associated balance of plant.
+
+“Energy Storage Working Capital Facility” shall mean a credit facility providing working capital or warehouse financing for the
+acquisition or development of Energy Storage Assets prior to the sale or contribution of such Energy Storage Assets into a Permitted
+Securitization Facility.
+
+“Environmental Attribute” shall mean an Energy Environmental Attribute or a Vehicle Environmental Attribute.
+
+“Environmental Claims” shall mean any and all administrative, regulatory or judicial actions, suits, demands, demand letters,
+directives, claims, liens, notices of noncompliance or violation, investigations and/or proceedings relating in any way to any noncompliance
+with, or liability arising under, Environmental Law or to any permit issued, or any approval given, under any Environmental Law
+(hereafter, “Claims”), including (a) any and all Claims by governmental or regulatory authorities for enforcement, cleanup, removal,
+response, remedial or other actions or damages pursuant to any Environmental Law, and (b) any and all Claims by any third party seeking
+damages, contribution, indemnification, cost recovery, compensation or injunctive relief arising out of or relating to an alleged injury or
+threat of injury to human health, safety or the environment due to the presence of Hazardous Materials.
+
+38
+
+
+-----
+
+

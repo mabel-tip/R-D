@@ -1,0 +1,47 @@
+“Acceptable Appraisal” shall mean (a) in respect of Inventory, an appraisal of the Inventory of the Borrowers from a third-party
+appraiser reasonably satisfactory to the Administrative Agent for which the results of such appraisal are in form and substance reasonably
+satisfactory to the Administrative Agent (it being understood and agreed that the appraisal, dated April 23, 2015, constitutes an
+Acceptable Appraisal), (b) in respect of Equipment, an appraisal of the Equipment of the U.S. Borrowers from a third-party appraiser
+reasonably satisfactory to the Administrative Agent for which the results of such appraisal are in form and substance reasonably
+satisfactory to the Administrative Agent (it being understood and agreed that the appraisal, dated April 22, 2015, constitutes an
+Acceptable Appraisal) and (c) in respect of Real Property, a Real Property Appraisal.
+
+“Acceptable Existing Appraisal” shall mean, in respect of any Equipment and as of any date, an Acceptable Appraisal in respect
+of substantially identical Equipment, which Acceptable Appraisal (i) has been obtained within the prior six months and (ii) has assigned a
+specific value to such substantially identical Equipment.
+
+“Acceptable Field Examination” shall mean a collateral examination of the Inventory and the Accounts of the Borrowers, in
+scope, and from a third-party consultant reasonably satisfactory to the Administrative Agent for which the results of such collateral
+examination are in form and substance reasonably satisfactory to the Administrative Agent.
+
+“Acceptable Foreign Currency” shall mean any Foreign Currency (other than Euros) (a) for which the LIBO Rate can be
+determined by reference to the applicable Reuters screen as provided in the definition of “LIBO Rate” and (b) that has been designated by
+the Administrative Agent as an Acceptable Foreign Currency at the request of the Company and with the consent of (i) the Administrative
+Agent, (ii) each Lender and (iii) with respect to any Letter of Credit to be denominated in such Acceptable Foreign Currency, the
+applicable Issuing Lender in respect of such Letter of Credit; for purposes of this clause (iii), Canadian Dollars and Sterling are Acceptable
+Foreign Currency.
+
+“Acceptable Jurisdiction” shall mean, as of the Effective Date, the countries listed on Schedule 1.01(d) to the Disclosure Letter;
+provided that the Administrative Agent may, in its Permitted Discretion, add or remove countries as Acceptable Jurisdictions by written
+notice to the Company.
+
+“Account” shall mean an “account” as such term is defined in Article 9 of the UCC, and any and all supporting obligations in
+respect thereof.
+
+“Account Debtor” shall mean each Person who is obligated on an Account.
+
+“Acquisition” shall mean the acquisition of either (x) all or substantially all of the assets of, or the assets constituting a business,
+division or product line of, any Person not already a Subsidiary of the Company or (y) 100% of the Equity Interests of any such Person (or
+at least a majority of such Equity Interests if such acquisition is expected to be promptly followed by the acquisition of the remaining
+Equity Interests), which Person shall, as a result of the acquisition of such Equity Interests, become a Wholly-Owned Subsidiary of the
+Company (or shall be merged with and into a Borrower or a Wholly-Owned Subsidiary of the Company).
+
+“Additional Appraisal/Exam Period” shall mean any time that Excess Availability is less than 15% of the Total Revolving Loan
+Commitment; provided that (solely for purposes of determining
+
+3
+
+
+-----
+
+

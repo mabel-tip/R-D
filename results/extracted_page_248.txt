@@ -1,0 +1,44 @@
+(B) in the case of a LIBOR Loan, from the date of Borrowing thereof until the earlier of (i) the maturity thereof
+(whether by acceleration or otherwise), repayment or prepayment and (ii) the conversion of such LIBOR Loan to a Base Rate
+Loan pursuant to Section 2.06, 2.09 or 2.10, as applicable, at a rate per annum which shall, during each Interest Period
+applicable thereto, be equal to the sum of the relevant Applicable Margin as in effect from time to time during such Interest
+Period plus the LIBO Rate for such Interest Period.
+
+(b) Notwithstanding the foregoing, if any principal or interest on any Loan, any Letter of Credit fee or any other amount
+payable by a Borrower hereunder is not paid when due, whether at stated maturity, upon acceleration or otherwise, such overdue amount
+shall bear interest, after as well as before judgment, at a rate per annum equal to 2% in excess of the rate applicable to Base Rate Loans
+from time to time. Interest that accrues under this Section 2.08(b) shall be payable on demand.
+
+(c) Accrued (and theretofore unpaid) interest shall be payable (i) in respect of each Base Rate Loan, (x) quarterly in
+arrears on each Quarterly Payment Date, (y) on the date of any repayment or prepayment in full of all outstanding Base Rate Loans or
+upon the termination of the Total Revolving Loan Commitment, and (z) at maturity (whether by acceleration or otherwise) and, after such
+maturity, on demand and (ii) in respect of each LIBOR Loan, (x) on the last day of each Interest Period applicable thereto and, in the case
+of an Interest Period in excess of three months, on each date occurring at three month intervals after the first day of such Interest Period,
+(y) on the date of any repayment or prepayment (on the amount repaid or prepaid), or upon the termination of the Total Revolving Loan
+Commitment, and (z) at maturity (whether by acceleration or otherwise) and, after such maturity, on demand.
+
+(d) Upon each Interest Determination Date, the Administrative Agent shall determine the LIBO Rate for each Interest
+Period applicable to the respective LIBOR Loans and shall promptly notify the respective Borrowers and the Lenders thereof. Each such
+determination shall, absent manifest error, be final and conclusive and binding on all parties hereto.
+
+2.09. Interest Periods. At the time any Borrower gives any Notice of Borrowing or Notice of Conversion/Continuation in
+respect of the making of, or conversion into, any LIBOR Loan (in the case of the initial Interest Period applicable thereto) or prior to 2:00
+P.M. (New York City time) on the third Business Day (or with respect to any Loan denominated in Euros or an Acceptable Foreign
+Currency, the fourth Business Day) prior to the expiration of an Interest Period applicable to such LIBOR Loan (in the case of any
+subsequent Interest Period), such Borrower shall have the right to elect the interest period (each, an “Interest Period”) applicable to such
+LIBOR Loan, which Interest Period shall, at the option of such Borrower, be (x) a one, two, three or six month period, or (y) with the
+consent of the Administrative Agent in its sole discretion, a period of less than one month or (z) to the extent agreed to by all Lenders,
+such other period; provided that (in each case):
+
+(a) all LIBOR Loans comprising a Borrowing shall at all times have the same Interest Period;
+
+(b) the initial Interest Period for any LIBOR Loan shall commence on the date of Borrowing of such LIBOR Loan (including
+the date of any conversion thereto from a Base Rate Loan) and each Interest Period occurring thereafter in respect of such LIBOR Loan
+shall commence on the day on which the immediately preceding Interest Period applicable thereto expires;
+
+87
+
+
+-----
+
+

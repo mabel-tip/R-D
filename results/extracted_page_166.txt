@@ -1,0 +1,45 @@
+“Aggregate UK Borrower Exposure” shall mean, at any time, the sum of (a) the aggregate principal amount of all UK Borrower
+Revolving Loans outstanding at such time (for this purpose, using the U.S. Dollar Equivalent of amounts denominated in Euros or any
+Acceptable Foreign Currency) and (b) the aggregate amount of all Letter of Credit Outstandings (for this purpose, using the U.S. Dollar
+Equivalent of amounts denominated in Euros or any Acceptable Foreign Currency) at such time in respect of Letters of Credit issued for
+the account of any UK Borrower (exclusive of such Letter of Credit Outstandings which are repaid with the proceeds of, and
+simultaneously with the incurrence of, the respective incurrence of UK Borrower Revolving Loans).
+
+“Aggregate U.S. Borrower Exposure” shall mean, at any time, the sum of (a) the aggregate principal amount of all U.S.
+Borrower Revolving Loans outstanding at such time (for this purpose, using the U.S. Dollar Equivalent of amounts denominated in Euros
+or any Acceptable Foreign Currency), (b) the aggregate amount of all Letter of Credit Outstandings (for this purpose, using the U.S. Dollar
+Equivalent of amounts denominated in Euros or any Acceptable Foreign Currency) at such time in respect of Letters of Credit issued for
+the account of any U.S. Borrower (exclusive of such Letter of Credit Outstandings which are repaid with the proceeds of, and
+simultaneously with the incurrence of, the respective incurrence of U.S. Borrower Revolving Loans or U.S. Borrower Swingline Loans) and
+(c) the aggregate principal amount of all U.S. Borrower Swingline Loans outstanding at such time (exclusive of U.S. Borrower Swingline
+Loans which are repaid with the proceeds of, and simultaneously with the incurrence of, the respective incurrence of U.S. Borrower
+Revolving Loans).
+
+“Agreement” shall mean this credit agreement, as modified, supplemented, amended, restated (including any amendment and
+restatement hereof), extended or renewed from time to time.
+
+“Amendment and Restatement Agreement” shall mean the Amendment and Restatement Agreement to the Credit Agreement,
+dated as of the Amendment and Restatement Effective Date, among the Company, Tesla B.V., the lenders party thereto, the Collateral
+Agent and the Administrative Agent.
+
+“Amendment and Restatement Effective Date” shall mean March 6, 2019.
+
+“Amortized Value” shall mean, as of any date of determination and with respect to any Eligible Machinery and Equipment, the
+value of such Eligible Machinery and Equipment determined by reference to the most recent Acceptable Appraisal of such Eligible
+Machinery and Equipment and assuming monthly straight-line amortization of the value thereof from the date (the “Amortization
+Commencement Date”) that is one year after the date of such Acceptable Appraisal through the date that is the seven-year anniversary of
+the Amortization Commencement Date.
+
+“Anti-Corruption Laws” shall mean all laws, rules and regulations of any jurisdiction applicable to the Company or its
+Subsidiaries from time to time concerning or relating to bribery or corruption, including, but not limited to, the Foreign Corrupt Practices
+Act of 1977 and the United Kingdom Bribery Act 2010, each as amended, and the rules and regulations thereunder.
+
+“Applicable Margin” shall mean a percentage per annum equal to (i) in the case of Revolving Loans maintained as (A) Base Rate
+Loans, 0%, and (B) LIBOR Loans, 1.00%, and (ii) in the case of Swingline Loans, 0%.
+
+5
+
+
+-----
+
+

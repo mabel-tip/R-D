@@ -1,0 +1,44 @@
+securing such Indebtedness) so long as such Indebtedness was not incurred in connection with, or in anticipation or contemplation of,
+such Acquisition), which Indebtedness may be (A) unsecured or secured and (B) guaranteed (x) on a like basis by any other Subsidiaries
+that are not Credit Parties or (y) on an unsecured basis by any U.S. Borrower pursuant to Section 10.04(f)(i)) in an aggregate principal
+amount, together with Indebtedness incurred and outstanding pursuant to Section 10.04(n)(vii)(y), not to exceed
+$3,000,000,0004,000,000,000 at any time outstanding; provided that if such Indebtedness is secured it shall only be secured by assets or
+property of Subsidiaries that are not Credit Parties (all Indebtedness incurred or issued under this clause (o) is referred to as “Permitted
+Non-Credit Party Indebtedness”);
+
+(p) Indebtedness of the Company and its Subsidiaries evidenced by Capitalized Lease Obligations (including the financing
+of such related installation, maintenance or software licensing charges) and purchase money Indebtedness (including the financing of such
+related installation, maintenance or software licensing charges) secured by Liens described in Sections 10.01(f) and (g) and any
+subsequent extension, renewal, replacement or refinancing thereof as permitted by such Sections 10.01(f) and (g); provided that the
+applicable Capitalized Lease Obligation is in respect of Equipment or such Indebtedness is incurred to pay all or a portion of the purchase
+price of Equipment; provided further that in no event shall the sum of the aggregate principal amount of all Indebtedness permitted by
+this clause (p) exceed $750,000,000 at any time outstanding;
+
+(q) Indebtedness of any Credit Party in the nature of revolving loans (which Indebtedness may be (A) (1) unsecured or (2)
+to the extent permitted below in this clause (q), secured by a Lien on the Collateral (including any Permitted Additional Secured
+Indebtedness Priority Collateral that will become Collateral) and (B) guaranteed on a like basis by the other Credit Parties); provided that
+(i) no Default or Event of Default then exists or would result therefrom, (ii) the commitments thereunder do not terminate earlier than six
+months after the Final Maturity Date in effect at the time of incurrence of such Indebtedness, (iii) the covenants and events of default set
+forth in the applicable Cash Flow Revolving Documents are no more restrictive, taken as a whole, than the covenants and events of default
+set forth in this Agreement (as determined by the Company in good faith), except for provisions applicable only to periods after the Final
+Maturity Date in effect at the time of effectiveness of the applicable Cash Flow Revolving Documents, (iv) if such Indebtedness is secured
+(x) it shall not be secured by any assets or property other than Collateral securing the Obligations (including any assets or property of the
+Credit Parties that are not covered by the Security Documents on the Effective Date but which will secure the Obligations from and after
+the issuance of such Indebtedness as contemplated by Section 9.12(e)), (y) at the time of the entering into of any such Indebtedness, an
+Intercreditor Agreement shall have been entered into and shall be in full force and effect and the Credit Parties shall have complied with
+their obligations under Section 9.12(e), and (z) the Intercreditor Agreement shall provide, inter alia, that the Collateral Agent, for the
+benefit of the Secured Creditors, shall retain a First Priority Lien on the ABL Priority Collateral and shall have a Second Priority Lien on
+the Permitted Additional Secured Indebtedness Priority Collateral, (v) the initial Cash Flow Revolving Documents in respect of the
+Indebtedness permitted by this clause (q) are entered into (and the revolving commitments in respect of the Indebtedness permitted by
+this clause (q) become effective) no later than the first anniversary of the Effective Date, (vi) the aggregate principal amount of all
+Indebtedness incurred and outstanding under this clause (q) does not exceed $250,000,000 at any time and (vii) prior to the incurrence or
+issuance of such Indebtedness, the Company shall have delivered to the Administrative Agent a certificate of an Authorized Officer of the
+Company certifying as to compliance with the requirements of the preceding clauses (i) through (vi) (all Indebtedness incurred or issued
+under this clause (q) is referred to as “Cash Flow Revolving Indebtedness”);
+
+162
+
+
+-----
+
+

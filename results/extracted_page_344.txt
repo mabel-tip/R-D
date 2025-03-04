@@ -1,0 +1,42 @@
+13.02. Right of Setoff. (a) In addition to any rights now or hereafter granted under applicable law or otherwise, and not
+by way of limitation of any such rights, upon the occurrence and during the continuance of an Event of Default, the Administrative Agent,
+each Issuing Lender and each Lender is hereby authorized at any time or from time to time, without presentment, demand, protest or
+other notice of any kind to any Credit Party or to any other Person, any such notice being hereby expressly waived to the extent permitted
+by applicable law, to set off and to appropriate and apply any and all deposits (general or special) and any other Indebtedness at any time
+held or owing by the Administrative Agent, such Issuing Lender or such Lender (including by affiliates, branches and agencies of the
+Administrative Agent, such Issuing Lender or such Lender wherever located) to or for the credit or the account of any U.S. Credit Party or
+any Dutch Credit Party or any UK Credit Party against and on account of the Obligations and liabilities of the U.S. Credit Parties or the
+Dutch Credit Parties or the UK Credit Parties, respectively, to the Administrative Agent, such Issuing Lender or such Lender under this
+Agreement or under any of the other Credit Documents, including all interests in Obligations purchased by such Lender pursuant to
+Section 13.0413.05(b), and all other claims of any nature or description arising out of or connected with this Agreement or any other
+Credit Document, irrespective of whether or not the Administrative Agent, such Issuing Lender or such Lender shall have made any
+demand hereunder and although said Obligations, liabilities or claims, or any of them, shall be contingent or unmatured; provided that no
+amounts received from, or set off with respect to, any Guarantor shall be applied to any Excluded Swap Obligations of such
+Guarantor. Each of the Administrative Agent, any Issuing Lender or any Lender agrees to promptly notify the Company after any such setoff and application made by the Administrative Agent, such Issuing Lender or such Lender, as applicable, although the failure to provide
+such notification shall not affect any right of set-off or give rise to any liability on the part of the Administrative Agent, any Issuing Lender
+or any Lender.
+
+(b) **NOTWITHSTANDING THE FOREGOING SUBSECTION (a), AT ANY TIME THAT THE LOANS OR ANY OTHER**
+**OBLIGATION SHALL BE SECURED BY REAL PROPERTY LOCATED IN CALIFORNIA, NO LENDER SHALL EXERCISE A RIGHT**
+**OF SETOFF, LIEN OR COUNTERCLAIM OR TAKE ANY COURT OR ADMINISTRATIVE ACTION OR INSTITUTE ANY**
+**PROCEEDING TO ENFORCE ANY PROVISION OF THIS AGREEMENT OR ANY NOTE UNLESS IT IS TAKEN WITH THE**
+**CONSENT OF THE REQUIRED LENDERS OR APPROVED IN WRITING BY THE ADMINISTRATIVE AGENT, IF SUCH SETOFF**
+**OR ACTION OR PROCEEDING WOULD OR MIGHT (PURSUANT TO CALIFORNIA CODE OF CIVIL PROCEDURE SECTIONS**
+**580a, 580b, 580d AND 726 OF THE CALIFORNIA CODE OF CIVIL PROCEDURE OR SECTION 2924 OF THE CALIFORNIA**
+**CIVIL CODE, IF APPLICABLE, OR OTHERWISE) AFFECT OR IMPAIR THE VALIDITY, PRIORITY OR ENFORCEABILITY OF**
+**THE LIENS GRANTED TO THE COLLATERAL AGENT PURSUANT TO THE SECURITY DOCUMENTS OR THE**
+**ENFORCEABILITY OF THE NOTES AND OTHER OBLIGATIONS HEREUNDER, AND ANY ATTEMPTED EXERCISE BY ANY**
+**LENDER OF ANY SUCH RIGHT WITHOUT OBTAINING SUCH CONSENT OF THE REQUIRED LENDERS OR THE**
+**ADMINISTRATIVE AGENT SHALL BE NULL AND VOID. THIS SUBSECTION (b) SHALL BE SOLELY FOR THE BENEFIT OF**
+**EACH OF THE LENDERS AND THE ADMINISTRATIVE AGENT HEREUNDER.**
+
+13.03. Notices. (a) Except as otherwise expressly provided herein, all notices and other communications provided for
+hereunder shall be in writing (including telecopier communication) and mailed, emailed, telecopied, or delivered: if to any Credit Party, at
+the address specified opposite its
+
+183
+
+
+-----
+
+

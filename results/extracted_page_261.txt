@@ -1,0 +1,43 @@
+of the Dutch General Security Agreement, Section 5.3 of the Dutch Inventory Security Agreement or Section 6.3 of the Dutch Receivables
+Security Agreement or Section 17.1 of the UK Security Agreement, any amount payable to a Defaulting Lender hereunder (whether on
+account of principal, interest, fees or otherwise and including any amount that would otherwise be payable to such Defaulting Lender
+pursuant to Section 13.02) may, in lieu of being distributed to such Defaulting Lender, be retained by the Administrative Agent in a
+segregated non-interest bearing account and, subject to any requirements of applicable law, be applied at such time or times as may be
+determined by the Administrative Agent (i) first, to the payment of any amounts owing by such Defaulting Lender to the Administrative
+Agent hereunder, (ii) second, pro rata, to the payment of any amounts owing by such Defaulting Lender to the Issuing Lenders or the
+Swingline Lender hereunder, (iii) third, to the funding of any Loan or the funding or cash collateralization of any participation in any
+Swingline Loan or Letter of Credit in respect of which such Defaulting Lender has failed to fund its portion thereof as required by this
+Agreement, as determined by the Administrative Agent, (iv) fourth, if so determined by the Administrative Agent, held in such account as
+cash collateral for future funding obligations of the Defaulting Lender under this Agreement, (v) fifth, to the payment of any amounts
+owing to the Lenders as a result of any judgment of a court of competent jurisdiction obtained by any Lender against such Defaulting
+Lender as a result of such Defaulting Lender’s breach of its obligations under this Agreement, (vi) sixth, so long as no Default or Event of
+Default has occurred and is continuing, to the payment of any amounts owing to any Borrower as a result of any judgment of a court of
+competent jurisdiction obtained by the such Borrower against such Defaulting Lender as a result of such Defaulting Lender’s breach of its
+obligations under this Agreement, and (vii) seventh, to such Defaulting Lender or as otherwise directed by a court of competent
+jurisdiction; provided that if such payment is (x) a prepayment of the principal amount of any Loans or repayments of Unpaid Drawings in
+respect of which a Defaulting Lender has funded its participation obligations and (y) made at a time when the conditions set forth in
+Section 7 are satisfied or waived, such payment shall be applied solely to prepay the Loans of, and reimbursement obligations owed to, all
+Non-Defaulting Lenders pro rata prior to being applied to the prepayment of any Loans, or Unpaid Drawings owed to, any Defaulting
+Lender. Any payments, prepayments or other amounts paid or payable to a Defaulting Lender that are applied (or held) to pay amounts
+owed by a Defaulting Lender or to post cash collateral pursuant to this clause (c) shall be deemed paid to and redirected by such
+Defaulting Lender, and each Lender irrevocably consents hereto.
+
+(d) In the event that the Administrative Agent, the Company, each Issuing Lender and the Swingline Lender each agrees
+that a Defaulting Lender has adequately remedied all matters that caused such Lender to be a Defaulting Lender, then (i) the Swingline
+Loan Exposure and Letter of Credit Exposure of the Lenders shall be readjusted to reflect the inclusion of such Lender’s Revolving Loan
+Commitments and on such date such Lender shall purchase at par such of the Revolving Loans of the other Lenders (other than Swingline
+Loans) as the Administrative Agent shall determine may be necessary in order for such Lender to hold such Revolving Loans in accordance
+with its RL Percentage and (ii) so long as no Default or Event of Default then exists, all funds held as cash collateral pursuant to the Letter
+of Credit Back-Stop Arrangements shall thereafter be promptly returned to the applicable Borrowers; provided that, except to the extent
+otherwise expressly agreed to by the affected parties and subject to Section 9.1513.25, no change hereunder from a Defaulting Lender to
+a Non-Defaulting Lender will constitute a waiver or release of any claim of any party hereunder against such Defaulting Lender arising
+from that Lender having been a Defaulting Lender. If the Revolving Loan Commitments have been terminated, all Obligations have been
+paid in full and no Letters of Credit are outstanding, then all funds held as cash collateral pursuant to the Letter of Credit Back-Stop
+Arrangements shall thereafter be promptly returned to the applicable Borrowers.
+
+100
+
+
+-----
+
+

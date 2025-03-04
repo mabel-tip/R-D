@@ -1,0 +1,48 @@
+Certificate most recently delivered to the Administrative Agent in accordance with Section 9.01(h) equal to, without duplication:
+
+(a) the sum of:
+
+(i) 100% of the U.S. Dollar Equivalent of Eligible Dutch Cash and Cash Equivalents (the “Dutch Cash
+Contribution”),
+
+(ii) 85% of Eligible Dutch Accounts,
+
+(iii) 85% of the then extant Net Orderly Liquidation Value of Eligible Dutch Vendor In-Transit
+Inventory,
+
+(iv) 85% of the then extant Net Orderly Liquidation Value of Eligible Dutch Raw Materials Inventory
+(other than Eligible Dutch Vendor In-Transit Inventory),
+
+(v) 85% of the then extant Net Orderly Liquidation Value of Eligible Dutch WIP Inventory,
+
+(vi) 85% of the then extant Net Orderly Liquidation Value of Eligible Dutch Service Parts Inventory;,
+
+(vii) 85% of the then extant Net Orderly Liquidation Value of Eligible Dutch Finished Goods
+Inventory, and
+
+(viii) 85% of the then extant Net Orderly Liquidation Value of Eligible Dutch In-Transit Inventory,;
+minus
+
+(b) the sum (without duplication) of any Reserves (including the Dutch Priority Payables Reserve and without
+duplication of any Inventory Reserve) then established by the Administrative Agent with respect to the Dutch Borrowing Base;
+
+provided, however, that (i) Eligible Dutch Inventory shall only be included in the Dutch Borrowing Base to the extent that the
+Administrative Agent shall have received an Acceptable Appraisal in respect of such Eligible Dutch Inventory and (ii) the Eligible
+Inventory included in the Borrowing Base pursuant to clauses (a)(iii) through (viii) above shall be calculated net of any applicable
+Inventory Reserves. The Administrative Agent shall have the right (but no obligation) to review such computations and if, in its Permitted
+Discretion, such computations have not been calculated in accordance with the terms of this Agreement, the Administrative Agent shall
+have the right to correct any such errors in such manner as it shall determine in its Permitted Discretion and the Administrative Agent will
+notify the Company promptly after making any such correction.
+
+“Dutch Cash Contribution” shall have the meaning provided in the definition of Dutch Borrowing Base.
+
+“Dutch Civil Code” shall mean the Dutch Civil Code (Burgerlijk Wetboek).
+
+“Dutch Collection Banks” shall have the meaning provided in Section 5.03(c).
+
+22
+
+
+-----
+
+

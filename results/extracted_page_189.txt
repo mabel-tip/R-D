@@ -1,0 +1,44 @@
+(p) Accounts with respect to which any return, rejection or repression of any of the merchandise giving rise to
+such Account has occurred;
+
+(q) Accounts with respect to which the sale to the respective Account Debtor is “cash on delivery”;
+
+(r) Accounts that are evidenced by Chattel Paper or an instrument of any kind or have been reduced to a
+judgment;
+
+(s) Accounts with respect to which the applicable Borrower has made any agreement with any Account Debtor
+for any deduction therefrom (but only to the extent of such deductions from time to time), except for discounts or allowances
+made in the ordinary course of business for prompt payment and except for volume discounts, all of which discounts or
+allowances are reflected in the calculation of the face value of each respective invoice related thereto and except for returns,
+rebates or credits reflected in the calculation of the face value of each such amount;
+
+(t) Accounts that are not payable to a U.S. Borrower or a Dutch Borrower, as applicable;
+
+(u) Accounts to the extent representing unapplied cash balances; or
+
+(v) Accounts that are otherwise unacceptable to the Administrative Agent in its Permitted Discretion.
+
+The Administrative Agent shall have the right to establish, modify or eliminate Reserves against Eligible Accounts (including for
+estimates, chargeback or other accrued liabilities or offsets to adjust for material claims, offsets, defenses or counterclaims or other
+material disputes with an Account Debtor) from time to time in its Permitted Discretion; provided that with respect to facts or events
+known to the Administrative Agent prior to the Effective Date, the Administrative Agent may impose new Reserves only to reflect a change
+in circumstances, events, conditions, contingencies or risks in respect of such facts or events.
+
+“Eligible Cash and Cash Equivalents” shall mean currency consisting of U.S. Dollars or Euros or Sterling, or any other Cash
+Equivalents, in each case that is (a) Unrestricted, (b) deposited in a Deposit Account or securities account that is subject to a Cash
+Management Control Agreement in favor of the Administrative Agent, (c) subject to a First Priority Lien in favor of the Collateral Agent on
+behalf of the Secured Creditors and (d) subject to no other Liens other than Permitted Cash Management Liens.
+
+“Eligible Dutch Accounts” shall mean the Eligible Accounts owned by any Dutch Borrower.
+
+“Eligible Dutch Cash and Cash Equivalents” shall mean the Eligible Cash and Cash Equivalents owned by any Dutch Borrower
+that is reflected in the most recent Borrowing Base Certificate delivered to the Administrative Agent pursuant to Section 9.01(h).
+
+“Eligible Dutch Finished Goods Inventory” shall mean the Eligible Finished Goods Inventory owned by any Dutch Borrower.
+
+28
+
+
+-----
+
+

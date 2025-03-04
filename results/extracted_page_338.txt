@@ -1,0 +1,46 @@
+the Administrative Agent hereunder shall also constitute its resignation as an Issuing Lender and the Swingline Lender, in which case the
+resigning Administrative Agent (x) shall not be required to issue any further Letters of Credit or make any Swingline Loans hereunder and
+(y) shall maintain all of its rights and obligations as Issuing Lender or Swingline Lender, as the case may be, with respect to any Letters of
+Credit issued by it, or Swingline Loans made by it, prior to the date of such resignation. Such resignation shall take effect upon the
+appointment of a successor Administrative Agent pursuant to clauses (b) and (c) below or as otherwise provided below.
+
+(b) Upon any such notice of resignation by the Administrative Agent, the Required Lenders shall appoint a successor
+Administrative Agent hereunder or under the other Credit Documents who shall be a commercial bank or trust company reasonably
+acceptable to the Company, which acceptance shall not be unreasonably withheld or delayed (provided that the Company’s approval shall
+not be required if an Event of Default then exists).
+
+(c) If a successor Administrative Agent shall not have been so appointed within such 20 Business Day period, the
+Administrative Agent, with the consent of the Company (which consent shall not be unreasonably withheld or delayed, provided that the
+Company’s consent shall not be required if an Event of Default then exists), shall then appoint a successor Administrative Agent who shall
+serve as Administrative Agent hereunder or thereunder until such time, if any, as the Required Lenders appoint a successor
+Administrative Agent as provided in clause (b) above.
+
+(d) If no successor Administrative Agent has been appointed pursuant to clause (b) or (c) above by the 25th Business Day
+after the date such notice of resignation was given by the Administrative Agent, the Administrative Agent’s resignation shall become
+effective and the Required Lenders shall thereafter perform all the duties of the Administrative Agent hereunder and/or under any other
+Credit Document until such time, if any, as the Required Lenders appoint a successor Administrative Agent as provided in clause (b)
+above.
+
+(e) Any fees payable under this Agreement or the other Credit Documents by the Credit Parties to any successor
+Administrative Agent shall be the same as those payable to the predecessor Administrative Agent unless otherwise agreed to between the
+Company and the successor Administrative Agent.
+
+(f) Upon a resignation of the Administrative Agent pursuant to this Section 12.09, the Administrative Agent shall remain
+indemnified to the extent provided in this Agreement and the other Credit Documents and the provisions of this Section 12 (and the
+analogous provisions of the other Credit Documents) shall continue in effect for the benefit of the Administrative Agent for all of its actions
+and inactions while serving as an Agent hereunder.
+
+12.10. Collateral Matters. (a) Each Lender authorizes and directs the Administrative Agent to enter into for the benefit of
+the Lenders and the other Secured Creditors (i) the Security Documents and, if applicable, the Intercreditor Agreement and (ii) any
+amendments provided for under Section 2.14. Each Lender hereby agrees, and each holder of any Note by the acceptance thereof will be
+deemed to agree, that, except as otherwise set forth herein, any action taken by the Required Lenders in accordance with the provisions of
+this Agreement, the Security Documents or the Intercreditor Agreement, and the exercise by the Required Lenders of the powers set forth
+herein or therein, together with such other powers as are reasonably incidental thereto, shall be authorized and binding upon all of the
+Lenders. The
+
+177
+
+
+-----
+
+

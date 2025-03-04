@@ -1,0 +1,47 @@
+Section 19 of the Corporation Tax Act 2009) the whole of any share of such interest that is attributable to it because
+of Part 17 of the Corporation Tax Act 2009; or
+
+(iii) a company not resident in the United Kingdom for United Kingdom tax purposes which carries
+on a trade in the United Kingdom through a permanent establishment and which brings into account such interest in
+computing the chargeable profits (within the meaning of Section 19 of the Corporation Tax Act 2009) of that
+company; or
+
+(c) a Treaty Lender.
+
+“Quarterly Payment Date” shall mean the last Business Day of each March, June, September and December occurring after the
+Effective Date.
+
+“Quotation Day” shall mean, in respect of the determination of the LIBO Rate for any Interest Period for any LIBOR Loan that is
+(i) a U.S. Dollar Denominated Revolving Loan or Foreign Currency Denominated Loan, the day on which quotations would ordinarily be
+given by prime banks in the London interbank market for deposits in such currency for delivery on the first day of such Interest Period for
+such Interest Period or (ii) a Euro Denominated Loan, the day on which quotations would ordinarily be given by prime banks in the
+Brussels interbank market for deposits in Euros for delivery on the first day of such Interest Period for such Interest Period; provided, that
+in either case if quotations would ordinarily be given on more than one date, the Quotation Day for such Interest Period shall be the last of
+such dates. On the date hereof, the Quotation Day in respect of any Interest Period for Dollars or Euros is customarily the day which is two
+Business Days prior to the first day of such Interest Period.
+
+“RCRA” shall have the meaning provided in Section 8.17(c).
+
+“Ratio-Related Permitted Indebtedness” shall mean any Indebtedness incurred by the Company and its Subsidiaries (which
+Indebtedness may be guaranteed pursuant to a SolarCity Guarantee) if immediately after giving effect to the incurrence of such
+Indebtedness on the date of such incurrence the Company is in compliance, on a Pro Forma Basis, with a Total Leverage Ratio of less than
+6.00:1.00 for the respective Calculation Period.
+
+“Real Property” of any Person shall mean all the right, title and interest of such Person in and to land (including any
+improvements and fixtures thereon), including Leaseholds.
+
+“Real Property Appraisal” shall have the meaning provided in the definition of “Eligible Real Property”.
+
+“Real Property Survey” shall have the meaning provided in the definition of “Eligible Real Property”.
+
+“Recovery Event” shall mean any event that gives rise to the receipt by the Company or any of its Subsidiaries of any cash
+insurance proceeds or condemnation awards payable (i) by reason of theft, loss, physical destruction, damage, taking or any other similar
+event with respect to any property or assets of the Company or any of its Subsidiaries or (ii) under any policy of insurance maintained by
+any of them.
+
+61
+
+
+-----
+
+

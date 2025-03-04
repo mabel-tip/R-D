@@ -1,0 +1,45 @@
+SECTION 7. Conditions Precedent to All Credit Events. The obligation of each Lender to make Loans (including Loans
+made on the Effective Date), and the obligation of each Issuing Lender to issue Letters of Credit (including Letters of Credit issued on the
+Effective Date), are subject, at the time of the Effective Date and at the time of each Credit Event (except as hereinafter indicated), to the
+satisfaction of the following conditions:
+
+7.01. No Default; Representations and Warranties. At the time of each such Credit Event and also after giving effect
+thereto (a) there shall exist no Default or Event of Default and (b) all representations and warranties contained herein and in the other
+Credit Documents shall be true and correct in all material respects with the same effect as though such representations and warranties
+had been made on the date of such Credit Event (it being understood and agreed that (x) any representation or warranty which by its
+terms is made as of a specified date shall be required to be true and correct in all material respects only as of such specified date and, (y)
+any representation or warranty that is qualified as to “materiality,” “Material Adverse Effect” or similar language shall be true and correct
+in all respects as of any such date and (z) the representation and warranty in Section 8.22 is made solely with respect to the most recently
+delivered Borrowing Base Certificate).
+
+7.02. Notice of Borrowing; Letter of Credit Request. (a) Prior to the making of each Loan (other than a Swingline Loan or
+a Revolving Loan made pursuant to a Mandatory Borrowing), the Administrative Agent shall have received a Notice of Borrowing meeting
+the requirements of Section 2.03(a). Prior to the making of each Swingline Loan, the Swingline Lender shall have received the notice
+referred to in Section 2.03(b)(i).
+
+(b) Prior to the issuance of each Letter of Credit, the Administrative Agent and the respective Issuing Lender shall have
+received a Letter of Credit Request meeting the requirements of Section 3.03(a).
+
+7.03. Borrowing Limitations. Notwithstanding anything to the contrary set forth herein (but subject to Section 2.01(e)), it
+shall be a condition precedent to each Credit Event that after giving effect thereto (and the use of the proceeds thereof):
+
+(i) the Aggregate U.S. Borrower Exposure would not exceed 100% (or, during an Agent Advance Period, 105%)
+of the U.S. Borrowing Base at such time;
+
+(ii) the Aggregate Dutch Borrower Exposure would not exceed 100% (or, during an Agent Advance Period,
+105%) of the Dutch Borrowing Base at such time;
+
+(iii) the Aggregate UK Borrower Exposure would not exceed 100% (or, during an Agent Advance Period, 105%)
+of the UK Borrowing Base at such time; and
+
+(iiiiv) the Aggregate Exposure at such time would not exceed the Total Revolving Loan Commitment at such
+time; and.
+
+(iv) during a Reduced Availability Period, Excess Availability would exceed 10% of the Availability at such time.
+
+129
+
+
+-----
+
+

@@ -1,0 +1,47 @@
+territory-wide Sanctions (as of the Effective Date, the Crimea region of Ukraine, Cuba, Iran, North Korea, Sudan and Syria).
+
+“Sanctioned Person” shall mean (a) any Person that is the target or subject of Sanctions or listed in any Sanctions-related list of
+designated Persons maintained by the U.S. government (including the Office of Foreign Assets Control of the U.S. Department of the
+Treasury or the U.S. Department of State) or by the United Nations Security Council, the European Union or any European Union member
+state, (b) any Person operating, organized or resident in a Sanctioned Country or (c) any Person owned or controlled by any such Person
+or Persons described in the foregoing clauses (a) or (b).
+
+“Sanctions” shall mean economic or financial sanctions or trade embargoes imposed, administered or enforced from time to
+time by (a) the U.S. government, including those administered by the Office of Foreign Assets Control of the U.S. Department of the
+Treasury or the U.S. Department of State, or (b) the United Nations Security Council, the European Union, any European Union member
+state, Her Majesty’s Treasury of the United Kingdom or other relevant Governmental Authority.
+
+“Screen Rate” shall mean the LIBOR Screen Rate and/or the EURO Screen Rate, as applicable.
+
+“SEC” shall mean the U.S. Securities and Exchange Commission or any successor thereto.
+
+“Second Amendment” means that certain Second Amendment, dated as of December 31, 2015, among the Company,
+Tesla B.V., the Administrative Agent and the Lenders party thereto.
+
+“Second Priority” shall mean, with respect to any Lien purported to be created on any Collateral pursuant to the Security
+Documents, that such Lien is prior in right to any other Lien thereon, other than (x) Liens permitted pursuant to Section 10.01(s) and (y)
+First Priority Priming Liens; provided that in no event shall any such First Priority Priming Liens be permitted (on a consensual basis) to
+be junior and subordinate to any Permitted Liens as described in clause (x) above and senior in priority to the relevant Liens created
+pursuant to the Security Documents.
+
+“Secured Creditors” shall have the meaning provided in the respective Security Documents.
+
+“Secured Hedging Agreement” shall mean each Interest Rate Protection Agreement and/or Other Hedging Agreements entered
+into with a Lender Counterparty, provided that (i) such Interest Rate Protection Agreement and/or Other Hedging Agreement expressly
+states that it constitutes a “Secured Hedging Agreement” for purposes of the Credit Agreement and the other Credit Documents and (ii)
+the Company and the other parties thereto shall have delivered to the Collateral Agent a written notice specifying that such Interest Rate
+Protection Agreement and/or Other Hedging Agreement constitutes a “Secured Hedging Agreement” for purposes of the Credit
+Agreement and the other Credit Documents; provided no such notice shall be required in respect of any Interest Rate Protection
+Agreement or Other Hedging Agreement entered into with Deutsche Bank AG New York Branch or any of its Affiliates.
+
+“Securities Act” shall mean the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+
+“Securitization Related Assets” shall mean, collectively, accounts receivable, payment intangibles, chattel paper, payments,
+rights to future lease payments or residuals or similar rights to
+
+65
+
+
+-----
+
+

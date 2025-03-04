@@ -1,0 +1,46 @@
+determining that any additional amounts will be payable pursuant to this Section 2.10(cd), will give prompt written notice thereof to the
+Company, which notice shall show in reasonable detail the basis for calculation of such additional amounts, although the failure to give
+any such notice shall not release or diminish the Borrowers’ obligations to pay additional amounts pursuant to this Section 2.10(cd) upon
+the subsequent receipt of such notice; provided that the Borrowers shall not be required to compensate any Lender pursuant to this
+Section 2.10(cd) for any increased costs or reductions incurred more than 180 days prior to the date that such Lender notifies the
+Company of the change giving rise to such increased costs or reductions and of such Lender’s intention to claim compensation therefor;
+provided further, that, if the change giving rise to such increased costs or reductions is retroactive, then the 180 day period referred to
+above shall be extended to include the period of retroactive effect thereof.
+
+(de) Notwithstanding anything herein to the contrary, (x) the Dodd-Frank Wall Street Reform and Consumer Protection
+Act and all requests, rules, guidelines, requirements and directives thereunder, issued in connection therewith or in implementation
+thereof, and (y) all requests, rules, guidelines or directives promulgated by the Bank for International Settlements, the Basel Committee
+on Banking Supervision (or any successor or similar authority) or the United States or foreign regulatory authorities, in each case
+pursuant to Basel III, in each case shall be deemed to be a change after the Effective Date in a requirement of law or governmental rule,
+regulation or order, regardless of the date enacted, adopted, issued or implemented (including for purposes of this Section 2.10 and
+Section 3.06).
+
+(ef) Notwithstanding anything herein to the contrary, if the introduction of or any change in any applicable law or
+governmental rule, regulation or order shall make it unlawful for any Lender to issue, make, maintain, fund or charge interest with respect
+to any extension of credit to a Dutch Borrower or to give effect to its obligations as contemplated by this Agreement with respect to any
+extension of credit to a Dutch Borrower, then, upon written notice by such Lender (each such Lender providing such notice, an “Impacted
+Lender”) to the Company and the Administrative Agent:
+
+(i) the obligations of the Lenders hereunder to make extensions of credit to such Dutch Borrower shall
+forthwith be (x) suspended until each Impacted Lender notifies the Company and the Administrative Agent in writing that it is
+no longer unlawful for such Lender to issue, make, maintain, fund or charge interest with respect to any extension of credit to
+such Dutch Borrower or (y) to the extent required by law, cancelled;
+
+(ii) if it shall be unlawful for any Impacted Lender to maintain or charge interest with respect to any
+outstanding Loan to such Dutch Borrower, such Dutch Borrower shall repay (or at its option and to the extent permitted by law,
+assign to the Company) (x) all outstanding Base Rate Loans made to such Dutch Borrower within three Business Days or such
+earlier period as required by law and (y) all outstanding LIBOR Loans made to such Dutch Borrower on the last day of the then
+current Interest Periods with respect to such LIBOR Loans or within such earlier period as required by law; and
+
+(iii) if it shall be unlawful for any Impacted Lender to maintain, charge interest or hold any participation with
+respect to any Letter of Credit issued on behalf of such Dutch Borrower, such Dutch Borrower shall cash collateralize in a
+manner reasonably satisfactory to the Administrative Agent and the applicable Issuing Lender such Letter of Credit in an
+amount equal to 102% of such Lender’s RL Percentage of the Letter of Credit Outstandings (for this purpose, using the U.S.
+Dollar Equivalent of amounts denominated in Euros or any Acceptable Foreign
+
+93
+
+
+-----
+
+

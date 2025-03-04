@@ -1,0 +1,52 @@
+data for comparable products. Costs incurred on the sale of residential installations before the solar energy systems are completed are included as work in
+process within inventory in the consolidated balance sheets. Any fees that are paid or payable by us to a solar loan lender would be recognized as an offset
+against revenue. Costs to obtain a contract relate mainly to commissions paid to our sales personnel related to the sale of solar energy systems and energy
+storage systems. As our contract costs related to solar energy system and energy storage system sales are typically fulfilled within one year, the costs to obtain
+a contract are expensed as incurred.
+
+As part of our solar energy system and energy storage system contracts, we may provide the customer with performance guarantees that warrant that
+the underlying system will meet or exceed the minimum energy generation or energy performance requirements specified in the contract. In certain instances,
+we may receive a bonus payment if the system performs above a specified level. Conversely, if a solar energy system or energy storage system does not meet
+the performance guarantee requirements, we may be required to pay liquidated damages. Other forms of variable consideration related to our large commercial
+and utility grade solar energy system and energy storage system contracts include variable customer payments that will be made based on our energy market
+participation activities. Such guarantees and variable customer payments represent a form of variable consideration and are estimated at contract inception at
+their most likely amount and updated at the end of each reporting period as additional performance data becomes available. Such estimates are included in the
+transaction price only to the extent that it is probable a significant reversal of revenue will not occur.
+
+We record as deferred revenue any non-refundable amounts that are collected from customers related to fees charged for prepayments and remote
+monitoring service and operations and maintenance service, which is recognized as revenue ratably over the respective customer contract term. As of
+December 31, 2020 and 2019, deferred revenue related to such customer payments amounted to $187 million and $156 million, respectively. Revenue
+recognized from the deferred revenue balance as of December 31, 2019 was $34 million for the year ended December 31, 2020. Revenue recognized from the
+deferred revenue balance as of December 31, 2018 was $41 million for the year ended December 31, 2019. We have elected the practical expedient to omit
+disclosure of the amount of the transaction price allocated to remaining performance obligations for energy generation and storage sales with an original
+expected contract length of one year or less and the amount that we have the right to invoice when that amount corresponds directly with the value of the
+performance to date. As of December 31, 2020, total transaction price allocated to performance obligations that were unsatisfied or partially unsatisfied for
+contracts with an original expected length of more than one year was $100 million. Of this amount, we expect to recognize $6 million in the next 12 months and
+the remaining over a period up to 27 years.
+
+Energy Generation and Storage Leasing
+
+For revenue arrangements where we are the lessor under operating lease agreements for energy generation and storage products, we record lease
+revenue from minimum lease payments, including upfront rebates and incentives earned from such systems, on a straight-line basis over the life of the lease
+term, assuming all other revenue recognition criteria have been met. The difference between the payments received and the revenue recognized is recorded as
+deferred revenue or deferred asset on the consolidated balance sheet.
+
+For solar energy systems where customers purchase electricity from us under PPAs prior to January 1, 2019, we have determined that these agreements
+should be accounted for as operating leases pursuant to ASC 840. Revenue is recognized based on the amount of electricity delivered at rates specified under
+the contracts, assuming all other revenue recognition criteria are met.
+
+We record as deferred revenue any amounts that are collected from customers, including lease prepayments, in excess of revenue recognized and
+operations and maintenance service fees, which is recognized as revenue ratably over the respective customer contract term. As of December 31, 2020 and
+2019, deferred revenue related to such customer payments amounted to $206 million and $226 million, respectively. Deferred revenue also includes the portion
+of rebates and incentives received from utility companies and various local and state government agencies, which is recognized as revenue over the lease term.
+As of December 31, 2020 and 2019, deferred revenue from rebates and incentives amounted to $29 million and $36 million, respectively.
+
+We capitalize initial direct costs from the execution of agreements for solar energy systems and PPAs, which include the referral fees and sales
+commissions, as an element of solar energy systems, net, and subsequently amortize these costs over the term of the related agreements.
+
+65
+
+
+-----
+
+

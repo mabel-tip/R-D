@@ -1,0 +1,45 @@
+the delivery of a Note to evidence any of its Loans, each respective Borrower shall promptly execute and deliver to the respective Lender,
+at such Borrower’s expense, the requested Note in the appropriate amount or amounts to evidence such Loans.
+
+2.06. Conversions. Each Borrower shall have the option to convert, on any Business Day, all or a portion equal to at least
+the Minimum Borrowing Amount of the outstanding principal amount of U.S. Dollar Denominated Revolving Loans made to it pursuant to
+one or more Borrowings of one or more Types of U.S. Dollar Denominated Revolving Loans into a Borrowing of another Type of U.S. Dollar
+Denominated Revolving Loan; provided that, (a) except as otherwise provided in Section 2.10(bc), LIBOR Loans may be converted into
+Base Rate Loans only on the last day of an Interest Period applicable to the Revolving Loans being converted unless the Borrowers pay any
+amounts due to the Lenders pursuant to Section 2.11 as a result of such conversion and no such partial conversion of LIBOR Loans shall
+reduce the outstanding principal amount of such LIBOR Loans made pursuant to a single Borrowing to less than the Minimum Borrowing
+Amount applicable thereto, (b) Base Rate Loans may not be converted into LIBOR Loans if any Event of Default is in existence on the
+proposed date of conversion and either the Administrative Agent or the Required Lenders have elected, upon notice to the Borrowers, to
+not permit such conversion in its or their sole discretion, and (c) no conversion pursuant to this Section 2.06 shall result in a greater
+number of Borrowings of LIBOR Loans than is permitted under Section 2.02. Each such conversion shall be effected by the relevant
+Borrower by giving the Administrative Agent at the Notice Office prior to 2:00 P.M. (New York City time) at least (i) in the case of
+conversions of Base Rate Loans into LIBOR Loans, three Business Days’ (or, with respect to Loans denominated in Euros or an Acceptable
+Foreign Currency, four Business Days’) prior written notice or telephonic notice promptly confirmed in writing and (ii) in the case of
+conversions of LIBOR Loans into Base Rate Loans, one Business Day’s prior written notice or telephonic notice promptly confirmed in
+writing (each, a “Notice of Conversion/Continuation”), in each case in the form of Exhibit A-2, appropriately completed to specify the U.S.
+Dollar Denominated Revolving Loans to be so converted, the Borrowing or Borrowings pursuant to which such U.S. Dollar Denominated
+Revolving Loans were incurred and, if to be converted into LIBOR Loans, the Interest Period to be initially applicable thereto. The
+Administrative Agent shall give each Lender prompt notice of any such proposed conversion affecting any of its U.S. Dollar Denominated
+Revolving Loans.
+
+2.07. Pro Rata Borrowings. Except to the extent otherwise provided herein, all Borrowings of Revolving Loans under this
+Agreement shall be incurred from the Lenders pro rata on the basis of their Revolving Loan Commitments in effect on the date of such
+Borrowing, provided that all Mandatory Borrowings shall be incurred from the Lenders pro rata on the basis of their RL Percentages. It is
+understood that no Lender shall be responsible for any default by any other Lender of its obligation to make Loans hereunder and that
+each Lender shall be obligated to make the Loans provided to be made by it hereunder, regardless of the failure of any other Lender to
+make its Loans hereunder.
+
+2.08. Interest. (a) The U.S. Borrowers jointly and severally agree to pay interest in respect of the unpaid principal
+amount of each U.S. Borrower Loan and (y) the Dutch Borrowers jointly and severally agree to pay interest in respect of the unpaid
+principal amount of each Dutch Borrower Loan and (z) the UK Borrowers jointly and severally agree to pay interest in respect of the
+unpaid principal amount of each UK Borrower Loan, in each case as follows:
+
+(A) in the case of a Base Rate Loan, from the date of Borrowing thereof until the earlier of (i) the maturity
+thereof (whether by acceleration or otherwise), repayment or
+
+86
+
+
+-----
+
+

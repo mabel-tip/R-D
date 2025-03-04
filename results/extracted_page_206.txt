@@ -1,0 +1,44 @@
+“GAAP” shall mean generally accepted accounting principles in the United States as in effect from time to time; provided that
+determinations in accordance with GAAP for purposes of Section 10 and the calculation of the Fixed Charge Coverage Ratio and the Total
+Leverage Ratio, in each case including defined terms as used therein, are subject to Section 13.0713.08(a).
+
+“Governmental Authority” shall mean the government of the United States, the Netherlands, Belgium, the United Kingdom, any
+other nation or any political subdivision thereof, whether state, provincial or local, and any agency, authority, instrumentality, regulatory
+body, court, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or administrative powers or functions
+of or pertaining to government (including any supra-national bodies such as the European Union or the European Central Bank).
+
+“Guarantor” shall mean and include each U.S. Guarantor and, each Dutch Guarantor and each UK Guarantor.
+
+“Guaranty” shall mean the U.S. Guaranty and, the Dutch Guaranty and the UK Guaranty.
+
+“Hazardous Materials” shall mean any chemicals, materials, wastes, pollutants, contaminants, or substances in any form that is
+prohibited, limited or regulated pursuant to any Environmental Law by virtue of their toxic or otherwise deleterious characteristics,
+including any petroleum or petroleum products, radioactive materials, asbestos in any form that is or could become friable, urea
+formaldehyde foam insulation, dielectric fluid containing levels of polychlorinated biphenyls, and radon gas.
+
+“Host Customer Agreements” shall mean the Energy Storage Agreements and Customer Lease Agreements.
+
+“Immaterial Subsidiary” shall mean, as of any date of determination, any Wholly-Owned Domestic Subsidiary of the Company
+or, any Wholly-Owned Dutch Subsidiary of Tesla B.V. (in eitheror any Wholly Owned UK Subsidiary of Tesla UK (in each case, other than a
+Borrower) (x) that has not guaranteed any other Indebtedness of any Borrower other than a guarantee by any Subsidiary that was created
+to satisfy state dealer requirements, (y) whose consolidated total assets (as set forth in the most recent consolidated balance sheet of the
+Company and its Consolidated Subsidiaries delivered to the Lenders pursuant to this Agreement and computed in accordance with GAAP,
+but excluding intercompany assets), do not constitute more than 5.0% of the Consolidated Total Assets and (z) whose consolidated total
+revenues (as set forth in the most recent income statement of the Company and its Consolidated Subsidiaries delivered to the Lenders
+pursuant to this Agreement and computed in accordance with GAAP) do not constitute more than 5.0% of the consolidated total revenues
+of the Company and its Consolidated Subsidiaries (as set forth in the most recent income statement of the Company and its Consolidated
+Subsidiaries delivered to the Lenders pursuant to this Agreement and computed in accordance with GAAP).
+
+“Impacted Lender” shall have the meaning provided in Section 2.10(ef).
+
+“Impacted UK Lender” shall have the meaning provided in Section 2.10(g).
+
+“Incremental Commitment” shall mean, for any Lender, any Revolving Loan Commitment provided by such Lender after the
+Effective Date in an Incremental Commitment Agreement delivered
+
+45
+
+
+-----
+
+

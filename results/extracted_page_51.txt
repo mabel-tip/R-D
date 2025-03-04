@@ -1,0 +1,54 @@
+with the policies or procedures may deteriorate.
+
+**Critical Audit Matters**
+
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were
+communicated or required to be communicated to the audit committee and that (i) relate to accounts or disclosures that are material to the consolidated
+financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in
+any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing
+separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+Automotive Sales To Customers With a Resale Value Guarantee or Buyback Option
+
+As described in Note 2 to the consolidated financial statements, the sales return reserve related to resale value guarantees or buyback options was $703 million
+as of December 31, 2020, of which $202 million was short-term. The Company offers some customers resale value guarantees or buyback options. Under these
+programs, the Company receives full payment for the vehicle sales price at the time of delivery and the customer has the option of selling their vehicle back to
+the Company during the guarantee period for a pre-determined resale value. In circumstances where management does not believe the customer has a
+significant economic incentive to exercise the resale value guarantee or buyback option provided to them at contract inception, the Company recognizes
+revenue when control transfers upon delivery to a customer as a sale with a right of return. In circumstances where management believes the customer has a
+significant economic incentive to exercise the resale value guarantee or buyback option at contract inception, the Company recognizes the transaction as an
+operating lease. Management’s determination of whether there is a significant economic incentive includes comparing a vehicle’s estimated market value at the
+time the option is exercisable with the guaranteed resale value. Sales return reserves are estimated based on historical experience plus consideration for
+expected future market values. On a quarterly basis, management assesses the estimated future market values of vehicles under these programs, taking into
+account price adjustments on vehicle offerings and changes in market conditions subsequent to the initial sale to determine the need for changes to the
+reserve.
+
+The principal considerations for our determination that performing procedures relating to automotive sales to customers with a resale value guarantee or
+buyback option is a critical audit matter are the significant judgment by management in determining the sales return reserve when customers do not have a
+significant economic incentive to exercise their option; this in turn led to a high degree of auditor judgment, subjectivity, and effort in performing procedures
+and evaluating audit evidence related to the sales return reserve when customers do not have a significant economic incentive.
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated
+financial statements. These procedures included testing the effectiveness of controls relating to automotive revenue recognition for sales to customers with a
+resale value guarantee or buyback option as well as the related sales return reserve, including controls over management’s estimate of expected future market
+values and historical experience. These procedures also included, among others, testing management’s process for determining whether customers have a
+significant economic incentive to exercise their put rights under the resale value guarantee and buyback option programs and, if not, the related sales return
+reserve. This included evaluating the appropriateness of the model applied and the reasonableness of significant assumptions related to historical experience
+and the estimated expected future market values used in the comparison to guaranteed resale amounts. Evaluating assumptions related to historical experience
+and estimated expected future market values involved evaluating whether the assumptions used were reasonable considering current and past performance
+and consistency with evidence obtained in other areas of the audit. Procedures were performed to evaluate the reliability, completeness and relevance of
+management’s data used in the development of the historical experience assumption.
+
+Automotive Warranty Reserve
+
+As described in Note 2 to the consolidated financial statements, total accrued warranty, which primarily relates to the automotive segment, was $1,468 million
+as of December 31, 2020. The Company provides a manufacturer’s warranty on all new and used Tesla vehicles. As described in Note 2, a warranty reserve is
+accrued for these products sold, which includes management’s best estimate of the projected costs to repair or replace items under warranty, including recalls
+when identified. These estimates are based on actual claims incurred to date and an estimate of the nature, frequency and costs of future claims.
+
+52
+
+
+-----
+
+

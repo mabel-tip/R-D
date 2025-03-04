@@ -1,0 +1,45 @@
+“Dutch Subsidiary” of any Person shall mean any Subsidiary of such Person incorporated, organized, or established in the
+Netherlands or any province or territory thereof.
+
+“Dutch Subsidiary Guarantor” shall mean each Wholly-Owned Dutch Subsidiary of Tesla B.V. (other than any Dutch Borrower,
+any Securitization Subsidiary, any Excluded Energy Storage Subsidiary, any Excluded Charging Subsidiary, any Tesla Finance Subsidiary
+and any Immaterial Subsidiary), whether existing on the Effective Date or established, created or acquired after the Effective Date, in
+each case unless and until such time as the respective Wholly-Owned Dutch Subsidiary is released from all of its obligations under the
+Security Documents to which it is a party in accordance with the terms and provisions thereof.
+
+“Early Opt-in Election” shall mean:
+
+(a) in the case of Loans denominated in U.S. Dollars, the occurrence of:
+
+(i) a notification by the Administrative Agent to (or the request by the U.S. Borrower to the
+Administrative Agent to notify) each of the other parties hereto that at least five currently outstanding U.S. Dollardenominated syndicated credit facilities at such time contain (as a result of amendment or as originally executed) a
+SOFR-based rate (including SOFR, a term SOFR or any other rate based upon SOFR) as a benchmark rate (and such
+syndicated credit facilities are identified in such notice and are publicly available for review), and
+
+(ii) the joint election by the Administrative Agent and the U.S. Borrower to trigger a fallback from
+LIBO Rate and the provision by the Administrative Agent of written notice of such election to the Lenders; and
+
+(b) in the case of Loans denominated in any Available Currency (other than U.S. Dollars), the occurrence of:
+
+(i) (x) a determination by the Administrative Agent or (y) a notification by the Required Lenders to
+the Administrative Agent (with a copy to the U.S. Borrower) that the Required Lenders have determined that
+syndicated credit facilities denominated in the applicable Available Currency being executed at such time, or that
+include language similar to that contained in Section 2.10 are being executed or amended, as applicable, to
+incorporate or adopt a new benchmark interest rate to replace the Relevant Rate, and
+
+(ii) (x) the election by the Administrative Agent or (y) the election by the Required Lenders, in either
+case, in consultation with the Company, to declare that an Early Opt-in Election has occurred and the provision, as
+applicable, by the Administrative Agent of written notice of such election to the U.S. Borrower and the Lenders or by
+the Required Lenders of written notice of such election to the Administrative Agent.
+
+“ECP” shall have the meaning set forth in the definition of Excluded Swap Obligation.
+
+“EEA Financial Institution” shall mean (a) any credit institution or investment firm established in any EEA Member Country
+which is subject to the supervision of an EEA Resolution Authority, (b) any
+
+24
+
+
+-----
+
+

@@ -1,0 +1,46 @@
+Person is required to perform thereunder) as determined by such Person in good faith and (y) the maximum amount for which the
+guaranteeing person may be liable pursuant to the terms of the instrument embodying such primary obligation.
+
+“Controlled Securities Account” shall mean a securities account of a Credit Party subject to a Cash Management Control
+Agreement.
+
+“Convertible Notes Maturity Default” shall mean the occurrence of any of the following events: (i) any of the Company’s 2021
+Convertible Notes shall be outstanding on January 1, 2021 and the sum of Unrestricted and Available cash and Cash Equivalents of the
+Company and its Subsidiaries and Excess Availability as of such date is not in excess of the principal amount of 2021 Convertible Notes
+then outstanding plus $400,000,000 or (ii) any of the Company’s 2022 Convertible Notes are outstanding on January 15, 2022 and the sum
+of Unrestricted and Available cash and Cash Equivalents of the Company and its Subsidiaries and Excess Availability as of such date is not
+in excess of the principal amount of 2022 Convertible Notes then outstanding plus $400,000,000.
+
+“Core Deposit Accounts” shall mean, collectively, the Core U.S. Deposit Accounts and, the Core Dutch Deposit Accounts and the
+Core UK Deposit Accounts.
+
+“Core Dutch Deposit Account” shall have the meaning provided in Section 5.03(c).
+
+“Core UK Deposit Account” shall have the meaning provided in Section 5.03(d).
+
+“Core U.S. Deposit Account” shall have the meaning provided in Section 5.03(b).
+
+“Corresponding Tenor” with respect to any Available Tenor shall mean, as applicable, either a tenor (including overnight) or an
+interest payment period having approximately the same length (disregarding business day adjustment) as such Available Tenor.
+
+“Credit Account” shall have the meaning provided in Section 5.03(fh).
+
+“Covered Entity” shall mean any of the following:
+
+(i) a “covered entity” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 252.82(b);
+
+(ii) a “covered bank” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 47.3(b); or
+
+(iii) a “covered FSI” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 382.2(b).
+
+“Covered Party” shall have the meaning provided in Section 13.26.
+
+“Credit Documents” shall mean this Agreement, each Guaranty, each Security Agreement and, after the execution and delivery
+thereof pursuant to the terms of this Agreement, each Note, each
+
+18
+
+
+-----
+
+

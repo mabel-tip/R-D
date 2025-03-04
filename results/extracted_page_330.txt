@@ -1,0 +1,46 @@
+Disclosure Letter to the Administrative Agent listing such new account and (ii) the financial institution with which such Core Deposit
+Account or Controlled Securities Account, as applicable, is opened, together with the applicable Credit Party which has opened the Core
+Deposit Account or the Controlled Securities Account, as applicable, and the Collateral Agent, shall have delivered (within 90 days of
+opening such Core Deposit Account or Controlled Securities Account) to the Administrative Agent a Cash Management Control Agreement
+in form and substance reasonably acceptable to the Administrative Agent.
+
+10.12. Use of Proceeds. The Company will not, and will cause its Subsidiaries, and each of their respective directors
+officers, employees and agents to not, use the proceeds of the Loans or Letters of Credit (i) in furtherance of an offer, payment, promise to
+pay, or authorization of the payment or giving of money, or anything else of value, to any Person in violation in any material respect of any
+Anti-Corruption Laws, (ii) for the purpose of funding, financing or facilitating any activities, business or transaction of or with any
+Sanctioned Person, or in any Sanctioned Country, or (iii) in any manner that would result in the violation of any Sanctions applicable to
+any party hereto.
+
+10.13. Fiscal Unity. No Dutch Credit Party shall create or become a member of a fiscal unity (fiscal eenheid) for Dutch
+corporate income tax purposes other than (a) a fiscal unity for Dutch corporate income tax purposes among the Dutch Credit Parties only
+or (b) so long as thea Tax Sharing Agreement remains in full force and effect, a fiscal unity for Dutch corporate income tax purposes
+among the Dutch Credit Parties and other Dutch Affiliates of Tesla B.V. from time to time party to such Tax Sharing Agreement, Tesla
+Motors Netherlands Coöperatief U.A. and the New B.V.
+
+10.14. SolarCity. Notwithstanding anything to the contrary contained herein, until the date that SolarCity is a
+“Subsidiary” for all purposes of this Agreement:
+
+(a) the Company and its Subsidiaries shall not (subject to the Consent Letter) guarantee or otherwise become directly
+liable for any Indebtedness of SolarCity or any of its Subsidiaries (it being understood and agreed that this Section 10.14(a) shall not
+restrict or prohibit (i) any guarantee by a Subsidiary of Indebtedness of the Company and/or its Subsidiaries that is also guaranteed by a
+SolarCity Guarantee and (ii) any unsecured guarantee by the Company or its Subsidiaries of Indebtedness of SolarCity or any of its
+Subsidiaries with respect to letters of credit, bankers’ acceptances, bank guarantees, performance bonds, surety bonds, appeal bonds,
+customs bonds or similar instruments required in the ordinary course of business or in connection with the enforcement of rights or claims
+of SolarCity or any of its Subsidiaries or in connection with judgments that do not result in an Event of Default);
+
+(b) the Company and its Subsidiaries shall not permit SolarCity or any of its Subsidiaries to guarantee or otherwise
+become directly liable for Indebtedness of the Company or its Subsidiaries; provided that SolarCity and its Subsidiaries may guarantee or
+otherwise become directly liable for Indebtedness of the Company or its Subsidiaries (a “SolarCity Guarantee”) so long as each Person
+providing a SolarCity Guarantee guarantees the Guaranteed Obligations (as defined in the U.S. Guaranty) on terms no less favorable to
+the Lenders (as determined by the Company in good faith) than the terms of such SolarCity Guarantee are to the holders of the applicable
+Indebtedness;
+
+(c) SolarCity and its Subsidiaries shall not create, incur or assume any syndicated credit facilities, bonds or convertible
+notes other than:
+
+169
+
+
+-----
+
+

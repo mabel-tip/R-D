@@ -1,0 +1,48 @@
+“Swingline Note” shall have the meaning provided in Section 2.05(a).
+
+“Syndication Agent” shall mean JPMorgan Chase Bank, N.A., Goldman Sachs Bank USA, Morgan Stanley Senior Funding Inc.
+and Bank of America, N.A., in each case in its capacity as a syndication agent for the Lenders hereunder and under the other Credit
+Documents.
+
+“TARGET Day” shall mean any day on which the Trans-European Automated Real-time Gross Settlement Express Transfer
+(TARGET) payment system (or, if such payment system ceases to be operative, such other payment system (if any) determined by the
+Administrative Agent to be a suitable replacement) is open for the settlement of payments in Euros.
+
+“Tax Sharing Agreement” means a tax sharing agreement, entered into among New B.V., Tesla Motors Netherlands
+Coöperatief U.A., Tesla B.V. and any other Dutch Affiliates of Tesla B.V. who may become members of a fiscal unity (fiscal eenheid) with
+Tesla B.V. and the other Dutch Credit Parties from time to time party thereto.
+
+“Tax Confirmation” shall have the meaning provided in Section 5.04(e)(v).
+
+“Tax Sharing Agreement” means an agreement between the Dutch Credit Parties and other Dutch Affiliates of Tesla B.V. from
+time to time member to a fiscal unity (fiscal eenheid) for Dutch corporate income tax purposes, whereby the parties to such agreement
+agree that (a) the member who is head of the fiscal unity shall charge onto the other fiscal unity members their relative share in the
+portion of the yearly corporate income tax charge, and (b) each fiscal unity member shall record its full corporate income tax charge in its
+books, calculated as if it were a stand-along taxpayer separate from the fiscal unity, while pursuant to Dutch tax law, any corporate
+income tax assessment for the fiscal unity is based on the combined taxable amount of the fiscal unity members and is issued to the head
+of the fiscal unity only.
+
+“Taxes” shall have the meaning provided in Section 5.04(a).
+
+“Tenth Amendment” shall mean that certain Tenth Amendment, dated as of December 10, 2018, among the
+Company, Tesla B.V., the Administrative Agent and the Lenders party thereto.
+
+“Tenth Amendment Effective Date” shall mean December 10, 2018.
+
+“Term SOFR” shall mean, for the applicable Corresponding Tenor as of the applicable Reference Time, the forward-looking
+term rate based on SOFR that has been selected or recommended by the Relevant Governmental Body.
+
+“Term SOFR Notice” shall mean a notification by the Administrative Agent to the Lenders and the U.S. Borrower of the
+occurrence of a Term SOFR Transition Event.
+
+“Term SOFR Transition Event” shall mean the determination by the Administrative Agent that (a) Term SOFR has been
+recommended for use by the Relevant Governmental Body, (b) the administration of Term SOFR is administratively feasible for the
+Administrative Agent and (c) a Benchmark Transition Event has previously occurred resulting in a Benchmark Replacement in accordance
+with Section 2.10 that is not Term SOFR.
+
+69
+
+
+-----
+
+

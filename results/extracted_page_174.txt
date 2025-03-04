@@ -1,0 +1,45 @@
+Person, (iv) repurchase obligations with a term of not more than 30 days for underlying securities of the types described in clause (i)
+above entered into with any bank meeting the qualifications specified in clause (iii) above, (v) commercial paper issued by any Person
+incorporated in the United States rated at least A-1 or the equivalent thereof by S&P or at least P-1 or the equivalent thereof by Moody’s
+and in each case maturing not more than 12 months after the date of acquisition by such Person, (vi) investments in money market funds
+regulated under Rule 2a-7 of the Investment Company Act of 1940, (vii) securities of the types described in clause (ii) above having
+maturities of not more than 24 months from the date of acquisition thereof so long as such securities are fully guaranteed for both
+principal and interest by an irrevocable letter of credit issued by a commercial bank with a minimum credit rating of Aa3 from Moody’s or
+AA- from Standard & Poor’s and at least $500,000,000 in consolidated total assets, (viii) in the case of any Foreign Subsidiary of the
+Company, substantially similar investments of the type described in clauses (i) though (vii) above denominated in foreign currencies and
+from similarly capitalized and rated foreign banks or other Persons in the jurisdiction in which such Foreign Subsidiary is organized, and
+(ix) any other investments permitted by the Company’s investment policy as such policy is in effect, and as disclosed to the Administrative
+Agent, prior to the First Amendment Effective Date, together with any amendments, restatements, supplements or other modifications
+thereto that the Administrative Agent shall have consented to for purposes of this definition (which consent will not be unreasonably
+withheld or delayed).
+
+“Cash Flow Revolving Indebtedness” shall have the meaning provided in Section 10.04(q).
+
+“Cash Flow Revolving Documents” shall mean, on and after the execution and delivery thereof, each loan agreement, credit
+agreement, guaranty, security agreement and other document relating to the incurrence or issuance of any Cash Flow Revolving
+Indebtedness, as the same may be amended, modified, restated, renewed, extended and/or supplemented from time to time in accordance
+with the terms hereof and thereof.
+
+“Cash Management Control Agreement” shall mean (i) (x) in respect of a Deposit Account located in the United States, a
+“control agreement” in form and substance reasonably acceptable to the Administrative Agent and containing terms regarding the
+treatment of all cash and other amounts on deposit in the respective Deposit Account governed by such Cash Management Control
+Agreement consistent with the requirements of Section 5.03 and (y) in respect of a Deposit Account located outside of the United States,
+an agreement in form and substance reasonably satisfactory to the Administrative Agent perfecting the Lien of the Administrative Agent in
+the amounts on deposit therein and containing terms regarding the treatment of all cash and other amounts on deposit in the respective
+Deposit Account governed by such Cash Management Control Agreement consistent with the requirements of Section 5.03 and (ii) (x) in
+respect of a securities account located in the United States, a “control agreement” in form and substance reasonably acceptable to the
+Administrative Agent and containing terms regarding the treatment of all securities and other amounts on deposit in the respective
+securities account governed by such Cash Management Control Agreement and (y) in respect of a securities account located outside of the
+United States, an agreement in form and substance reasonably satisfactory to the Administrative Agent perfecting the Lien of the
+Administrative Agent in the securities and other amounts on deposit therein.
+
+“Cash Management Reserve” shall mean a reserve established by the Administrative Agent in connection with treasury,
+depositary or cash management services (including, overnight overdraft services) provided to the Company and its Subsidiaries, and
+automated clearinghouse transfers of funds,
+
+13
+
+
+-----
+
+

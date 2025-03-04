@@ -1,0 +1,43 @@
+(b) At any time, and from time to time, upon notice to the Administrative Agent, the Company shall be permitted, if no
+Loans are then outstanding, to provide cash collateral in respect of any or all of the then outstanding Letters of Credit (each such Letter of
+Credit, a “Collateralized Letter of Credit”) in an amount equal to 102% of the Stated Amount of such Letters of Credit in a manner
+reasonably acceptable to the Administrative Agent and the respective Issuing Lender and, solely for purposes of determining whether a
+Compliance Period exists at such time, the undrawn Stated Amount of such Collateralized Letters of Credit shall be excluded from the
+calculation of Letter of Credit Outstandings for purposes of calculating the Aggregate Exposure and Excess Availability at such time. At
+any time that no Default or Event of Default has occurred and is continuing, the Company may request that the cash collateral provided in
+respect of the Collateralized Letters of Credit be released and, upon such release, such Letters of Credit will again be included in the
+calculation of Letter of Credit Outstandings for all purposes of calculating the Aggregate Exposure and Excess Availability. Furthermore,
+to the extent that any Borrower thereafter desires to incur Loans hereunder or have additional Letters of Credit issued hereunder (or
+increase the Stated Amount of any then outstanding Letter of Credit) as permitted by Section 7.04, all Collateralized Letters of Credit will
+again be included in the calculation of Letter of Credit Outstandings for all purposes of calculating the Aggregate Exposure and Excess
+Availability.
+
+3.03. Letter of Credit Requests. (a) Whenever a Borrower desires that a Letter of Credit be issued for (i) in the case of a
+request for a Letter of Credit by a U.S. Borrower, for the joint and several account of the U.S. Borrowers, and (ii) in the case of a request
+for a Letter of Credit by a Dutch Borrower, for the joint and several account of the Dutch Borrowers and (iii) in the case of a request for a
+Letter of Credit by a UK Borrower, for the joint and several account of the UK Borrowers, such Borrower shall give the respective Issuing
+Lender (with a copy to the Administrative Agent) at least two Business Days’ (or such shorter period as is acceptable to such Issuing
+Lender) written notice thereof (including by way of facsimile or electronic mail). Each notice shall be in the form of Exhibit C,
+appropriately completed (each, a “Letter of Credit Request”), and shall be accompanied by the respective Issuing Lender’s customary
+application and documentation, if any, to the extent required by such Issuing Lender.
+
+(b) The making of each Letter of Credit Request shall be deemed to be a representation and warranty by such requesting
+Borrower to the Lenders that such Letter of Credit may be issued in accordance with, and will not violate the requirements of, Section
+3.02 or 3.03. Unless the respective Issuing Lender has received notice from the Administrative Agent, any Borrower, any other Credit
+Party or the Required Lenders before it issues a Letter of Credit that one or more of the conditions specified in Section 6 or 7 are not then
+satisfied, or that the issuance of such Letter of Credit would violate Section 3.02 or 3.03, then such Issuing Lender shall, subject to the
+terms and conditions of this Agreement, issue the requested Letter of Credit for the account of such Borrower in accordance with such
+Issuing Lender’s usual and customary practices. Upon the issuance of or modification or amendment to any standby Letter of Credit, each
+Issuing Lender shall promptly notify the Borrower to be named as account party therein and the Administrative Agent, in writing of such
+issuance, modification or amendment and such notice shall be accompanied by a copy of such Letter of Credit or the respective
+modification or amendment thereto, as the case may be. Promptly after receipt of such notice the Administrative Agent shall notify the
+Participants, in writing, of such issuance, modification or amendment. On the first Business Day of each week, each Issuing Lender shall
+furnish the Administrative Agent with a written (including via facsimile) report of the daily aggregate outstandings of trade Letters of
+Credit issued by such Issuing Lender for the immediately preceding week.
+
+106
+
+
+-----
+
+

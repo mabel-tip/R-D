@@ -1,0 +1,44 @@
+Revolving Loan Commitment and all outstanding Revolving Loans of, and all participations in Letters of Credit and Swingline
+Loans by, the Replaced Lender and, in connection therewith, shall pay to (i) the Replaced Lender in respect thereof an amount
+equal to the sum of (A) an amount equal to the principal of, and all accrued interest on, all outstanding Revolving Loans of the
+respective Replaced Lender, (B) an amount equal to all Unpaid Drawings that have been funded by (and not reimbursed to)
+such Replaced Lender, together with all then unpaid interest with respect thereto at such time and (C) an amount equal to all
+accrued, but theretofore unpaid, Fees owing to the Replaced Lender pursuant to Section 4.01, (ii) each Issuing Lender an
+amount equal to such Replaced Lender’s RL Percentage of any Unpaid Drawing relating to Letters of Credit issued by such
+Issuing Lender (which at such time remains an Unpaid Drawing) to the extent such amount was not theretofore funded by such
+Replaced Lender and (iii) the Swingline Lender an amount equal to such Replaced Lender’s RL Percentage of any Mandatory
+Borrowing to the extent such amount was not theretofore funded by such Replaced Lender to the Swingline Lender; and
+
+(ii) all obligations of the Borrowers then owing to the Replaced Lender (other than those specifically described
+in clause (i) above in respect of which the assignment purchase price has been, or is concurrently being, paid, but including all
+amounts, if any, owing under Section 2.11) shall be paid in full to such Replaced Lender concurrently with such replacement.
+
+(b) Upon receipt by the Replaced Lender of all amounts required to be paid to it pursuant to this Section 2.13, if the
+Replaced Lender does not execute and deliver to the Administrative Agent a duly completed Assignment and Assumption Agreement
+necessary to reflect such replacement by the later of (a) the date on which the assignee Lender executes and delivers such Assignment
+and Assumption Agreement and (b) the date as of which all obligations of the Borrowers owing to such Replaced Lender relating to the
+Loans and participations so assigned shall be paid in full by the assignee Lender and/or the Borrowers to such Replaced Lender, then the
+Replaced Lender shall be deemed to have executed and delivered such Assignment and Assumption Agreement as of such later date, and
+any such Assignment and Assumption Agreement so executed by the Replaced Lender shall be effective for purposes of this Section 2.13
+and Section 13.0413.05. Upon the execution (or deemed execution, as the case may be) of the respective Assignment and Assumption
+Agreement by the parties thereto, the payment of amounts referred to in clauses (i) and (ii) above, recordation of the assignment on the
+Register by the Administrative Agent pursuant to Section 13.1513.16 and, if so requested by the Replacement Lender, delivery to the
+Replacement Lender of the appropriate Note or Notes executed by the relevant Borrowers, (x) the Replacement Lender shall become a
+Lender hereunder and the Replaced Lender shall cease to constitute a Lender hereunder, except with respect to indemnification
+provisions under this Agreement (including Sections 2.10, 2.11, 3.06, 5.04, 12.06, 13.01 and 13.0613.07), which shall survive as to such
+Replaced Lender and (y) the RL Percentages of the Lenders shall be automatically adjusted at such time to give effect to such
+replacement.
+
+(c) The benefit of the Collateral and of the Security Documents shall automatically transfer to any assignee or transferee
+(by way of novation or otherwise) of part or all of the obligations expressed to be secured by the Collateral. For the purpose of Article
+1278 and Article 1281 of the Belgian Civil Code (and, to the extent applicable, any similar provisions of foreign law), the Administrative
+Agent, the Collateral Agent and the other Secured Creditors and each of the Credit Parties hereby expressly reserve the preservation of
+the Collateral and of the Security Documents in case of assignment, novation, amendment or any other transfer or change of the
+obligations expressed to be secured by the Collateral
+
+96
+
+
+-----
+
+

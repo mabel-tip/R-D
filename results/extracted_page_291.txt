@@ -1,0 +1,43 @@
+would be able to comply with Section 10.07 (to the extent that such compliance is then required) but, for this purpose, including all
+outstanding Letters of Credit (including all outstanding Collateralized Letters of Credit) in calculating the Aggregate Exposure and Excess
+Availability at such time.
+
+The acceptance of the benefits of each Credit Event shall constitute a representation and warranty by the Company and the
+other Borrowers to the Administrative Agent and each of the Lenders that all the conditions specified in Section 6 (with respect to the
+occurrence of the Effective Date and Credit Events on the Effective Date) and in this Section 7 (with respect to the occurrence of the
+Effective Date and Credit Events on or after the Effective Date) and applicable to such Credit Event are satisfied as of that time, in each
+case, to the extent the satisfaction of any such condition is not expressly subject to any Lender’s or Agent’s determination. All of the
+Notes, certificates, legal opinions and other documents and papers referred to in Section 6 and in this Section 7, unless otherwise
+specified, shall be delivered to the Administrative Agent at the Notice Office for the account of each of the Lenders and, except for the
+Notes, in sufficient counterparts or copies for each of the Lenders and shall be in form and substance reasonably satisfactory to the
+Administrative Agent and the Required Lenders.
+
+SECTION 8. Representations and Warranties. In order to induce the Lenders to enter into this Agreement and to make
+the Loans, and issue (or participate in) the Letters of Credit as provided herein, each of the Company and the other Borrowers makes the
+following representations and warranties, in each case after giving effect to the Transaction, all of which shall survive the execution and
+delivery of this Agreement and the Notes and the making of the Loans and the issuance of the Letters of Credit, with the occurrence of the
+Effective Date and each Credit Event on or after the Effective Date being deemed to constitute a representation and warranty that the
+matters specified in this Section 8 are true and correct in all material respects on and as of the Effective Date and on the date of each such
+Credit Event (it being understood and agreed that (x) any representation or warranty which by its terms is made as of a specified date
+shall be required to be true and correct in all material respects only as of such specified date and (y) any representation or warranty that
+is qualified by “materiality”, “Material Adverse Effect” or similar language shall be true and correct in all respects).
+
+8.01. Company Status. Each of the Company and each of its Subsidiaries (i) is a duly organized and validly existing
+Business, (ii) has the Business power and authority to own its property and assets and to transact the business in which it is engaged and
+presently proposes to engage, (iii) is duly qualified and is authorized to do business and is in good standing (or its equivalent, to the extent
+that such concept is applicable in the respective jurisdiction) under the laws of the jurisdiction of its organization and in each jurisdiction
+where the ownership, leasing or operation of its property or the conduct of its business requires such qualifications, except in the case of
+clause (i) (other than in the case of the Company), cause (ii) and this clause (iii) for failures to be so qualified or authorized which, either
+individually or in the aggregate, could not reasonably be expected to have a Material Adverse Effect and (iv) with respect to each Credit
+Party incorporated in a jurisdiction where European Parliament and Council Regulation (EU) No. 2015/848 on insolvency proceedings of
+20 May 2015 (the “Insolvency Regulation”) applies and each UK Credit Party (to the extent that the Insolvency Regulation is recognized in
+England and Wales after 31 December 2020), it has its centre of main interest (as that term is used in Section 3(1) of the Insolvency
+Regulation) in its jurisdiction of incorporation and it has no establishment (as defined in section 2(h) of the Insolvency Regulation) in any
+other jurisdiction that is a member state of the European Union.
+
+130
+
+
+-----
+
+

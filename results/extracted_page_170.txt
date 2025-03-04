@@ -1,0 +1,45 @@
+“Benchmark Replacement Adjustment” shall mean, with respect to any replacement of the then-current Benchmark with an
+Unadjusted Benchmark Replacement for any applicable Interest Period and Available Tenor for any setting of such Unadjusted Benchmark
+Replacement:
+
+(a) for purposes of clauses (a) and (b) of the definition of “Benchmark Replacement,” the first alternative set
+forth in the order below that can be determined by the Administrative Agent:
+
+(i) the spread adjustment, or method for calculating or determining such spread adjustment, (which may
+be a positive or negative value or zero) as of the Reference Time such Benchmark Replacement is first set for such
+Interest Period that has been selected or recommended by the Relevant Governmental Body for the replacement of
+such Benchmark with the applicable Unadjusted Benchmark Replacement for the applicable Corresponding Tenor;
+
+(ii) the spread adjustment (which may be a positive or negative value or zero) as of the Reference Time
+such Benchmark Replacement is first set for such Interest Period that would apply to the fallback rate for a
+derivative transaction referencing the ISDA Definitions to be effective upon an index cessation event with respect to
+such Benchmark for the applicable Corresponding Tenor; and
+
+(b) for purposes of clause (c) of the definition of “Benchmark Replacement,” the spread adjustment, or method
+for calculating or determining such spread adjustment, (which may be a positive or negative value or zero) that has been
+selected by the Administrative Agent and the U.S. Borrower for the applicable Corresponding Tenor giving due consideration to
+(i) any selection or recommendation of a spread adjustment, or method for calculating or determining such spread adjustment,
+for the replacement of such Benchmark with the applicable Unadjusted Benchmark Replacement by the Relevant Governmental
+Body on the applicable Benchmark Replacement Date and/or (ii) any evolving or then-prevailing market convention for
+determining a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of
+such Benchmark with the applicable Unadjusted Benchmark Replacement for syndicated credit facilities denominated in the
+applicable Available Currency at such time;
+
+provided that, in the case of clause (a) above, such adjustment is displayed on a screen or other information service that
+publishes such Benchmark Replacement Adjustment from time to time as selected by the Administrative Agent in its reasonable discretion.
+
+“Benchmark Replacement Conforming Changes” shall mean, with respect to any Benchmark Replacement, any technical,
+administrative or operational changes (including changes to the definition of “Base Rate,” the definition of “Business Day,” the definition
+of “Interest Period,” timing and frequency of determining rates and making payments of interest, timing of borrowing requests or
+prepayment, conversion or continuation notices, length of lookback periods, the applicability of breakage provisions, and other technical,
+administrative or operational matters) that the Administrative Agent, in consultation with the Company, decides may be appropriate to
+reflect the adoption and implementation of such Benchmark Replacement and to permit the administration thereof by the Administrative
+Agent in a manner substantially consistent with market practice (or, if the Administrative Agent decides that adoption of any portion of
+such market practice is not administratively feasible or if the Administrative Agent determines that no market
+
+9
+
+
+-----
+
+

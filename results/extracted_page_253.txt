@@ -1,0 +1,44 @@
+denominated in U.S. Dollars, then on the last day of the Interest Period applicable to such Loan (or the next succeeding
+Business Day if such day is not a Business Day), such Loan shall be converted by the Administrative Agent to, and shall
+constitute, a Base Rate Loan denominated in U.S. Dollars on such day or (2) if such LIBOR Loan is denominated in any Available
+Currency (other than U.S. Dollars), then such Loan shall, on the last day of the Interest Period applicable to such Loan (or the
+next succeeding Business Day if such day is not a Business Day), at the applicable Borrower’s election prior to such day: (A) be
+prepaid by such Borrower on such day or (B) be converted by the Administrative Agent to, and (subject to the remainder of this
+subclause (B)) shall constitute, a Base Rate Loan denominated in U.S. Dollars (in an amount equal to the U.S. Dollar Equivalent
+of such Available Currency) on such day (it being understood and agreed that if the applicable Borrower does not so prepay
+such Loan on such day by 12:00 noon, local time, the Administrative Agent is authorized to effect such conversion of such
+LIBOR Loan into a Base Rate Loan denominated in U.S. Dollars), and, in the case of such subclause (B), upon any subsequent
+implementation of a Benchmark Replacement in respect of such Available Currency pursuant to this Section 2.10, such Base
+Rate Loan denominated in U.S. Dollars shall then be converted by the Administrative Agent to, and shall constitute, a LIBOR
+Loan denominated in such original Available Currency (in an amount equal to the Available Currency Equivalent of such
+Available Currency) on the day of such implementation, giving effect to such Benchmark Replacement in respect of such
+Available Currency.
+
+(bc) At any time that any LIBOR Loan is affected by the circumstances described in Section 2.10(a)(ii), the affected
+Borrower may, and in the case of a LIBOR Loan affected by the circumstances described in Section 2.10(a)(iii), such Borrower shall, either
+(i) if the affected LIBOR Loan is then being made initially or pursuant to a conversion, cancel such Borrowing by giving the Administrative
+Agent telephonic notice (confirmed in writing) on the same date that such Borrower was notified by the affected Lender or the
+Administrative Agent pursuant to Section 2.10(a)(ii) or (iii), (ii) in respect of a LIBOR Loan denominated in U.S. Dollars where the affected
+LIBOR Loan is then outstanding, upon at least three Business Days’ written notice to the Administrative Agent, require the affected
+Lender to convert such LIBOR Loan into a Base Rate Loan; provided that, if more than one Lender is affected at any time, then all affected
+Lenders must be treated the same pursuant to this Section 2.10(bc) or (iii) in respect of a LIBOR Loan denominated in Euros or an
+Acceptable Foreign Currency, repay such Loan upon the expiration of the then-applicable Interest Period (or such earlier period as
+required by applicable law).
+
+(cd) If any Lender determines that after the Effective Date the introduction of or any change in any applicable law or
+governmental rule, regulation, order, guideline, directive or request (whether or not having the force of law) concerning capital adequacy
+or liquidity, or any change in interpretation or administration thereof by the NAIC or any Governmental Authority, central bank or
+comparable agency, will have the effect of increasing the amount of capital or liquidity required or expected to be maintained by such
+Lender or any corporation controlling such Lender based on the existence of such Lender’s Revolving Loan Commitment hereunder or its
+obligations hereunder, then the U.S. Borrowers (jointly and severally with respect to U.S. Borrower Obligations) and, the Dutch Borrowers
+(jointly and severally with respect to Dutch Borrower Obligations) and the UK Borrowers (jointly and severally with respect to UK
+Borrower Obligations) agree to pay to such Lender, within 10 days after the Company’s receipt of such Lender’s written request therefor,
+such additional amounts as shall be required to compensate such Lender or such other corporation for the increased cost to such Lender
+or such other corporation or the reduction in the rate of return to such Lender or such other corporation as a result of such increase of
+
+92
+
+
+-----
+
+

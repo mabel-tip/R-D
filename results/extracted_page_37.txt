@@ -1,0 +1,54 @@
+p y y p gy g
+storage systems we sell for periods typically between 10 to 25 years. We accrue a warranty reserve for the products sold by us, which includes our best
+estimate of the projected costs to repair or replace items under warranties and recalls when identified. These estimates are based on actual claims incurred to
+date and an estimate of the nature, frequency and costs of future claims. These estimates are inherently uncertain given our relatively short history of sales,
+and changes to our historical or projected warranty experience may cause material changes to the warranty reserve in the future. The warranty reserve does
+not include projected warranty costs associated with our vehicles subject to operating lease accounting and our solar energy systems under lease contracts or
+PPAs, as the costs to repair these warranty claims are expensed as incurred. The portion of the warranty reserve expected to be incurred within the next 12
+months is included within accrued liabilities and other, while the remaining balance is included within other long-term liabilities on the consolidated balance
+sheets. Warranty expense is recorded as a component of cost of revenues in the consolidated statements of operations.
+
+Stock-Based Compensation
+
+We use the fair value method of accounting for our stock options and restricted stock units (“RSUs”) granted to employees and for our employee stock
+purchase plan (the “ESPP”) to measure the cost of employee services received in exchange for the stock-based awards. The fair value of stock option awards
+with only service and/or performance conditions is estimated on the grant or offering date using the Black-Scholes option-pricing model. The Black-Scholes
+option-pricing model requires inputs such as the risk-free interest rate, expected term and expected volatility. These inputs are subjective and generally require
+significant judgment. The fair value of RSUs is measured on the grant date based on the closing fair market value of our common stock. The resulting cost is
+recognized over the period during which an employee is required to provide service in exchange for the awards, usually the vesting period, which is generally
+four years for stock options and RSUs and six months for the ESPP. Stock-based compensation expense is recognized on a straight-line basis, net of actual
+forfeitures in the period.
+
+For performance-based awards, stock-based compensation expense is recognized over the expected performance achievement period of individual
+performance milestones when the achievement of each individual performance milestone becomes probable. For performance-based awards with a vesting
+schedule based entirely on the attainment of both performance and market conditions, stock-based compensation expense associated with each tranche is
+recognized over the longer of (i) the expected achievement period for the operational milestone for such tranche and (ii) the expected achievement period for
+the related market capitalization milestone determined on the grant date, beginning at the point in time when the relevant operational milestone is considered
+probable of being achieved. If such operational milestone becomes probable any time after the grant date, we will recognize a cumulative catch-up expense
+from the grant date to that point in time. If the related market capitalization milestone is achieved earlier than its expected achievement period and the
+achievement of the related operational milestone, then the stock-based compensation expense will be recognized over the expected achievement period for the
+operational milestone, which may accelerate the rate at which such expense is recognized. If additional operational milestones become probable, stock-based
+compensation expense will be recorded in the period it becomes probable including cumulative catch-up expense for the service provided since the grant date.
+The fair value of such awards is estimated on the grant date using Monte Carlo simulations.
+
+As we accumulate additional employee stock-based awards data over time and as we incorporate market data related to our common stock, we may
+calculate significantly different volatilities and expected lives, which could materially impact the valuation of our stock-based awards and the stock-based
+compensation expense that we will recognize in future periods. Stock-based compensation expense is recorded in cost of revenues, research and development
+expense and selling, general and administrative expense in the consolidated statements of operations.
+
+Income Taxes
+
+We are subject to taxes in the U.S. and in many foreign jurisdictions. Significant judgment is required in determining our provision for income taxes, our
+deferred tax assets and liabilities and any valuation allowance recorded against our net deferred tax assets. We make these estimates and judgments about our
+future taxable income that are based on assumptions that are consistent with our future plans. Tax laws, regulations and administrative practices may be
+subject to change due to economic or political conditions including fundamental changes to the tax laws applicable to corporate multinationals. The U.S., many
+countries in the European Union and a number of other countries are actively considering changes in this regard. As of December 31, 2020, we had recorded a
+full valuation allowance on our net U.S. deferred tax assets because we expect that it is more likely than not that our U.S. deferred tax assets will not be
+realized. Should the actual amounts differ from our estimates, the amount of our valuation allowance could be materially impacted.
+
+38
+
+
+-----
+
+

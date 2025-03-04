@@ -1,0 +1,47 @@
+the environment, or of human health (as it relates to the exposure to environmental hazards) or to the presence, Release or threatened
+Release, or the manufacture, use, transportation, treatment, storage, disposal or recycling of Hazardous Materials, or the arrangement for
+any such activities.
+
+“Environmental Liability” shall mean any liability, contingent or otherwise (including any liability for damages, costs of
+environmental remediation, fines, penalties or indemnities), of the Company or any of its Subsidiaries directly or indirectly resulting from
+or based upon (a) any violation of any Environmental Law, (b) the generation, use, handling, transportation, storage, treatment or disposal
+of any Hazardous Materials, (c) any exposure to any Hazardous Materials, (d) the Release or threatened Release of any Hazardous
+Materials into the environment or (e) any contract, agreement or other consensual arrangement pursuant to which liability is assumed or
+imposed with respect to any of the foregoing.
+
+“Equipment” shall mean any “equipment” as such term is defined in the Uniform Commercial Code as in effect on the date
+hereof in the State of New York owned by any U.S. Borrower, and in any event, shall include, but shall not be limited to, all machinery,
+equipment, furnishings and fittings now or hereinafter owned by any U.S. Borrower and all additions, all accessions thereto, wherever
+located, together with all attachments, components, parts, equipment and accessories installed thereon or affixed thereto.
+
+“Equity Interests” of any Person shall mean any and all shares, rights to purchase, warrants, options, participation or other
+equivalents of or interest in (however designated) equity of such Person, including any common stock, preferred stock, any limited or
+general partnership interest and any limited liability company membership interest, but excluding, for the avoidance of doubt, any
+Permitted Convertible Notes or any SolarCity Convertible Notes.
+
+“ERISA” shall mean the United States Employee Retirement Income Security Act of 1974, as amended from time to time, and
+the regulations promulgated and rulings issued thereunder. Section references to ERISA are to ERISA, as in effect at the date of this
+Agreement and any subsequent provisions of ERISA, amendatory thereof, supplemental thereto or substituted therefor.
+
+“ERISA Affiliate” shall mean any trade or business (whether or not incorporated) or Person that for purposes of Section 302 of
+ERISA or Section 412 of the Code would be deemed at any relevant time to be a single employer or otherwise aggregated with the
+Company or any of its Subsidiaries under Section 414 of the Code or Section 4001 of ERISA.
+
+“ERISA Event” shall mean any one or more of the following:
+
+(a) any Reportable Event;
+
+(b) the filing of a notice of intent to terminate any Plan, if such termination would require material additional
+contributions in order to be considered a standard termination within the meaning of Section 4041(b) of ERISA, the filing under
+Section 4041(c) of ERISA of a notice of intent to terminate any Plan or the termination of any Plan under Section 4041(c) of
+ERISA;
+
+(c) institution of proceedings by the PBGC under Section 4042 of ERISA for the termination of, or the
+appointment of a trustee to administer, any Plan;
+
+39
+
+
+-----
+
+

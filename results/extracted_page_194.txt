@@ -1,0 +1,46 @@
+Administrative Agent in its Permitted Discretion have been established with respect thereto, or (iii) is located at an owned
+location subject to a mortgage or other security interest in favor of a creditor other than the Collateral Agent or the junior
+Permitted Liens under Section 10.01(s) unless either (x) a Landlord Personal Property Collateral Access Agreement has been
+delivered to the Administrative Agent or (y) Reserves reasonably satisfactory to the Administrative Agent have been established
+with respect thereto;
+
+(e) is in transit;
+
+(f) is not covered by casualty insurance required by the terms of this Agreement;
+
+(g) breaches in any material respect any of the representations or warranties pertaining to such Equipment set
+forth in any Credit Document;
+
+(h) is subject to a license agreement or other arrangement with a third party which, in the Administrative
+Agent’s Permitted Discretion, restricts the ability of the Administrative Agent or the Collateral Agent to exercise its rights under
+the Credit Documents with respect to such Equipment unless such third party has entered into an agreement in form and
+substance reasonably satisfactory to the Administrative Agent permitting the Administrative Agent or the Collateral Agent to
+exercise its rights with respect to such Equipment or the Administrative Agent has otherwise agreed to allow such Equipment
+to be eligible in the Administrative Agent’s Permitted Discretion;
+
+(i) is located outside of the United States; or
+
+(j) is otherwise unacceptable to the Administrative Agent in its Permitted Discretion.
+
+The Administrative Agent shall have the right to establish, modify or eliminate Reserves against Eligible Machinery and
+Equipment from time to time in its Permitted Discretion; provided that with respect to facts or events known to the Administrative Agent
+prior to the Effective Date, the Administrative Agent may impose new Reserves only to reflect a change in circumstances, events,
+conditions, contingencies or risks in respect of such facts or events. The criteria for Eligible Machinery and Equipment may only be
+revised or any new criteria for Eligible Machinery and Equipment may only be established by the Administrative Agent in its Permitted
+Discretion based on either (i) an event, condition or other circumstance arising after the date hereof, or (ii) an event, condition or other
+circumstance existing on the date hereof to the extent the Administrative Agent has no notice thereof from a Borrower prior to the date
+hereof, in either cause under clause (i) or (ii) which adversely affects or could reasonably be expected to adversely affect the Equipment as
+determined by the Administrative Agent in its Permitted Discretion.
+
+“Eligible Raw Materials Inventory” shall mean all Eligible Inventory consisting of raw materials (as determined in a manner
+acceptable to the Administrative Agent in its Permitted Discretion and consistent with past practices).
+
+“Eligible Real Property” shall mean the Fremont Real Property; provided such Real Property meets each of the following
+criteria:
+
+33
+
+
+-----
+
+

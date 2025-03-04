@@ -1,0 +1,46 @@
+(d) if any Interest Period for a LIBOR Loan would otherwise expire on a day which is not a Business Day, such Interest
+Period shall expire on the next succeeding Business Day; provided, however, that if any Interest Period for a LIBOR Loan would otherwise
+expire on a day which is not a Business Day but is a day of the month after which no further Business Day occurs in such month, such
+Interest Period shall expire on the immediately preceding Business Day;
+
+(e) no Interest Period may be selected at any time when an Event of Default is then in existence if either the
+Administrative Agent or the Required Lenders have elected, upon notice to the Borrowers, to not permit such selection in its or their sole
+discretion; and
+
+(f) no Interest Period in respect of any Borrowing shall be selected which extends beyond the Final Maturity Date.
+
+If by 2:00 P.M. (New York City time) on the third Business Day (or with respect to any Loan denominated in Euros or an
+Acceptable Foreign Currency, the fourth Business Day) prior to the expiration of any Interest Period applicable to a Borrowing of LIBOR
+Loans, any Borrower has failed to elect, or is not permitted to elect, a new Interest Period to be applicable to such LIBOR Loans as
+provided above, such Borrower shall be deemed to have elected (i) in respect of U.S. Dollar Denominated Revolving Loans to convert such
+LIBOR Loans into Base Rate Loans effective as of the expiration date of such current Interest Period and (ii) in respect of Loans
+denominated in Euros or an Acceptable Foreign Currency, a one-month Interest Period (provided that with respect to this clause (ii), if the
+Administrative Agent or the Required Lenders have elected not to permit the selection of an Interest Period pursuant to clause (e) above,
+then on the expiration of the then-applicable Interest Period, such Loans shall be repaid).
+
+2.10. Increased Costs, Illegality, etc. (a) In the event that any Lender shall have determined (which determination shall,
+absent manifest error, be final and conclusive and binding upon all parties hereto but, with respect to clause (i) below, may be made only
+by the Administrative Agent):
+
+(i) on any Interest Determination Date that, by reason of any changes arising after the date of this Agreement
+affecting the London interbank market, adequate and fair means do not exist for ascertaining the applicable interest rate on the
+basis provided for in the definition of LIBO Rate (including because the applicable Screen Rate is not published on a current
+basis); or
+
+(ii) at any time, that such Lender shall incur increased costs or reductions in the amounts received or
+receivable hereunder with respect to any LIBOR Loan because of any change since the Effective Date in any applicable law or
+governmental rule, regulation, order, guideline or request (whether or not having the force of law) or in the interpretation or
+administration thereof and including the introduction of any new law or governmental rule, regulation, order, guideline or
+request, such as, but not limited to: (A) any change that would subject the Administrative Agent or any Lender to any taxes
+(except for Indemnified Taxes and Excluded Taxes) on its loans, loan principal, letters of credit, commitments or other
+obligations, or its deposits, reserves, other liabilities or capital attributable thereto, (B) a change in official reserve
+requirements, but, in all events, excluding reserves required under Regulation D to the extent included in the computation of
+the LIBO Rate or (C) any change that imposes on any Lender or the London interbank market any other condition, cost or
+expense (other than taxes)
+
+88
+
+
+-----
+
+

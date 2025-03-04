@@ -1,0 +1,41 @@
+Permitted Convertible Notes to fail to satisfy the provisions of this clause (ii), (iii) such Indebtedness does not have any mandatory
+redemption, prepayment, amortization, sinking fund or similar obligations prior to such Final Maturity Date (other than pursuant to (x)
+fundamental change, make-whole fundamental change, change of control or other similar event risk provisions and, in the case of term
+loans or senior notes that are not convertible into Equity Interests only, customary asset sale (or casualty or condemnation event),
+extraordinary receipts and/or (solely in the case of term loans) excess cash flow offer or repayment provisions and, in the case of any
+customary bridge financing, prepayments of such bridge financing from the issuance of equity or other Indebtedness permitted hereunder
+which meets the requirements of this definition and customary asset sale (or casualty or condemnation event) repayment provisions, and
+(y) in the case of term loans, nominal amortization requirements not to exceed 1% per annum of the initial aggregate principal amount of
+such Indebtedness), provided that for the avoidance of doubt, any provision of Permitted Convertible Notes providing for Net Share
+Settlement thereof shall not cause the Permitted Convertible Notes to fail to satisfy the provisions of this clause (iii), (iv) the covenants
+and events of default set forth in the applicable Permitted Additional Indebtedness Documents are no more restrictive, taken as a whole,
+than the covenants and events of default set forth in this Agreement (as determined by the Company in good faith), except for (x)
+provisions applicable only to periods after the Final Maturity Date in effect at the time of effectiveness of the applicable Permitted
+Additional Indebtedness Documents and (y) provisions related to any equity provisions of such Indebtedness; provided that, any such
+covenants and events of default may apply to the Company and its subsidiaries (including SolarCity and its subsidiaries) without causing
+such covenants and events of default to fail to satisfy the provisions of this clause (iv); (v) to the extent such Indebtedness is subordinated,
+the terms of such Indebtedness provide for customary payment or lien subordination, as applicable, to the Obligations as reasonably
+determined by the Administrative Agent in good faith, (vi) if such Indebtedness is secured, (x) it shall not be secured by any assets or
+property other than Collateral securing the Obligations including any assets or property of the Credit Parties that are not covered by the
+Security Documents on the Effective Date but which will secure the Obligations from and after the issuance of such Indebtedness as
+contemplated by Section 9.12(e), (y) at the time of the entering into of any such Indebtedness, an Intercreditor Agreement shall have been
+entered into and shall be in full force and effect and the Credit Parties shall have complied with their obligations under Section 9.12(e),
+and (z) the Intercreditor Agreement shall provide, inter alia, that the Collateral Agent, for the benefit of the Secured Creditors, shall retain
+a First Priority Lien on the ABL Priority Collateral and shall have a Second Priority Lien on the Permitted Additional Secured Indebtedness
+Priority Collateral and (vii) such Indebtedness shall either (x) at the time of incurrence constitute either Ratio-Related Permitted
+Indebtedness or Basket-Related Permitted Indebtedness or (y) be in an aggregate principal amount not to exceed $2,000,000,000, and
+together with Indebtedness incurred and outstanding pursuant to Section 10.04(o), be in an aggregate principal amount not to exceed
+$3,000,000,0004,000,000,000 at any time outstanding; provided, however, the requirements of the preceding clause (vii) shall not apply to
+any Indebtedness incurred or issued pursuant to this clause (n) if such Indebtedness is exchanged for or 100% of the net cash proceeds
+therefrom are applied to repay, repurchase, redeem or defease any then outstanding Ratio-Related Permitted Indebtedness substantially
+simultaneously with (or if such Ratio-Related Permitted Indebtedness requires notice or other waiting periods to effectuate its repayment,
+repurchase, redemption or defeasance, then as promptly as practical after) the incurrence or issuance of such Indebtedness (all unsecured
+Indebtedness incurred or issued under this clause (n) is referred to as “Permitted Additional Unsecured Indebtedness” and all secured
+Indebtedness incurred or issued under this clause (n) is referred to as “Permitted Additional Secured Indebtedness”);
+
+161
+
+
+-----
+
+

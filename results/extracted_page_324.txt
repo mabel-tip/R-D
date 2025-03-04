@@ -1,0 +1,43 @@
+of the Company are customary for financing transactions related to such assets;
+
+(s) Indebtedness of Securitization Subsidiaries in respect of Permitted Securitization Facilities and any indemnity in
+respect thereof described in clause (b) of the definition of Permitted Securitization Facilities;
+
+(t) Indebtedness arising under a declaration of joint and several liability in respect of the Borrowers and/or Guarantors
+used for the purpose of section 2:403 of the Dutch Civil Code (and any residual liability under such declaration arising pursuant to section
+2:402(2) of the Dutch Civil Code);
+
+(u) Indebtedness consisting of the accretion of original issue discount with respect to Additional Convertible Notes;
+
+(v) Indebtedness of Tesla B.V. or any Foreign Subsidiary that is not a Credit Partyof the Company secured by assets of
+Tesla B.V. or such Foreign Subsidiary that are not included in the Dutch Borrowing Base or the UK Borrowing Base and are in-transit (i)
+for delivery to a Subsidiary that is not a Credit Party, which Subsidiary shall take ownership of such assets no later than upon delivery
+thereof or (ii) from a Manufacturing Facility not located in a Specified Jurisdiction (such assets, the “Specified Tesla B.V.In-Transit
+Assets”); provided that there shall be no recourse to Tesla B.V. in respect of, (i) collateral securing such Indebtedness other than with
+respect to the Specified Tesla B.V. Assets;shall be limited to Specified Tesla In-Transit Assets and (ii) the Administrative Agent shall have
+received prior written notice from the Company of the incurrence of Indebtedness under this clause (v), together with the documentation
+governing such Indebtedness;
+
+(w) Indebtedness of the Company and its Subsidiaries having an aggregate principal amount that does not at any time
+exceed the greater of (x) $100,000,000 and (y) 1% of the Consolidated Total Assets; provided that the outstanding principal amount of
+Indebtedness incurred under any one facility pursuant to this clause (w) shall not exceed $100,000,000 at any time outstanding;
+
+(x) Indebtedness of a Tesla Finance Subsidiary secured by a Lien on Rental Account Assets; provided that (i) such
+Indebtedness shall not be secured by any assets other than Rental Account Assets and other related assets, such as the related Vehicles,
+chattel paper and payment intangibles, that in the reasonable opinion of the Company are customary for financing transactions related to
+such assets, (ii) no portion of such Indebtedness shall be guaranteed by the Company or any of its Subsidiaries (other than a Tesla Finance
+Subsidiary), (iii) there shall be no recourse to, or obligation toof (whether direct, by guarantee or otherwise), the Company or any of its
+Subsidiaries (other than a Tesla Finance Subsidiary) whatsoever and (iv) none of the Company nor any of its Subsidiaries (other than a
+Tesla Finance Subsidiary) shall have provided, either directly or indirectly, any other credit support of any kind in connection with such
+Indebtedness (other than a pledge of the Equity Interests of a Tesla Finance Subsidiary);
+
+(y) unsecured Indebtedness of the Company and its Subsidiaries that does not at any time exceed $125,000,000 in
+aggregate principal amount; provided that the net cash proceeds of any Indebtedness incurred pursuant to this Section 10.04(y) may not
+be deposited or maintained in any Core Deposit Account; and
+
+163
+
+
+-----
+
+

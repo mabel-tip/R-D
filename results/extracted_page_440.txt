@@ -1,0 +1,81 @@
+# Lenders; Commitments
+
+ Revolving Loan Commitments
+
+ Lender Revolving Loan Commitment DTTP Passport Scheme Reference
+ Number DEUTSCHE BANK AG NEW YORK BRANCH $275,000,000.00 07/D/70006/DTTP BANK OF AMERICA, N.A. $272,000,000.00 13/B/7418 BARCLAYS BANK PLC $272,000,000.00 N/A CITIBANK, N.A. $272,000,000.00 13/C/62301/DTTP GOLDMAN SACHS BANK USA $272,000,000.00 13/G/351779/DTTP MORGAN STANLEY SENIOR FUNDING, INC. $272,000,00.00 13/M/227953/DTTP CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH $197,500,000.00 N/A SOCIETE GENERALE S.A. – NEW YORK BRANCH $197,500,000.00 5/S/70085/DTTP WELLS FARGO BANK, NATIONAL ASSOCIATION $197,500,000.00 13/W/61173/DTTP BANK OF THE WEST $100,000,000.00 13/B/359711/DTTP TOTAL COMMITMENTS $2,327,500,000.00
+
+**Exhibit 21.1**
+
+**SUBSIDIARIES OF TESLA, INC.**
+
+Jurisdiction of
+
+Name of Subsidiary Incorporation or Organization
+
+Allegheny Solar 1, LLC Delaware
+Allegheny Solar Manager 1, LLC Delaware
+Ancon Holdings II, LLC Delaware
+Ancon Holdings III, LLC Delaware
+Ancon Holdings, LLC Delaware
+Ancon Solar Corporation Delaware
+Ancon Solar I, LLC Delaware
+Ancon Solar II Lessee Manager, LLC Delaware
+Ancon Solar II Lessee, LLC Delaware
+Ancon Solar II Lessor, LLC Delaware
+Ancon Solar III Lessee Manager, LLC Delaware
+Ancon Solar III Lessee, LLC Delaware
+Ancon Solar III Lessor, LLC Delaware
+Ancon Solar Managing Member I, LLC Delaware
+Arpad Solar Borrower, LLC Delaware
+Arpad Solar I, LLC Delaware
+Arpad Solar Manager I, LLC Delaware
+AU Solar 1, LLC Delaware
+AU Solar 2, LLC Delaware
+Banyan SolarCity Manager 2010, LLC Delaware
+Banyan SolarCity Owner 2010, LLC Delaware
+Basking Solar I, LLC Delaware
+Basking Solar II, LLC Delaware
+Basking Solar Manager II, LLC Delaware
+Beatrix Solar I, LLC Delaware
+Bernese Solar Manager I, LLC Delaware
+Blue Skies Solar I, LLC Delaware
+Blue Skies Solar II, LLC Delaware
+Caballero Solar Managing Member I, LLC Delaware
+Caballero Solar Managing Member II, LLC Delaware
+Caballero Solar Managing Member III, LLC Delaware
+Cardinal Blue Solar, LLC Delaware
+Castello Solar I, LLC Delaware
+Castello Solar II, LLC Delaware
+Castello Solar III, LLC Delaware
+Chaparral SREC Borrower, LLC Delaware
+Chaparral SREC Holdings, LLC Delaware
+Chompie Solar I, LLC Delaware
+Chompie Solar II, LLC Delaware
+Chompie Solar Manager I, LLC Delaware
+Chompie Solar Manager II, LLC Delaware
+Clydesdale SC Solar I, LLC Delaware
+Colorado River Project, LLC Delaware
+Community Solar Partners, LLC Delaware
+Compass Automation Incorporated Illinois
+Dom Solar General Partner I, LLC Delaware
+Dom Solar Lessor I, LP Cayman Islands
+
+|Lender|Revolving Loan Commitment|DTTP Passport Scheme Reference Number|
+|---|---|---|
+|DEUTSCHE BANK AG NEW YORK BRANCH|$275,000,000.00|07/D/70006/DTTP|
+|BANK OF AMERICA, N.A.|$272,000,000.00|13/B/7418|
+|BARCLAYS BANK PLC|$272,000,000.00|N/A|
+|CITIBANK, N.A.|$272,000,000.00|13/C/62301/DTTP|
+|GOLDMAN SACHS BANK USA|$272,000,000.00|13/G/351779/DTTP|
+|MORGAN STANLEY SENIOR FUNDING, INC.|$272,000,00.00|13/M/227953/DTTP|
+|CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH|$197,500,000.00|N/A|
+|SOCIETE GENERALE S.A. – NEW YORK BRANCH|$197,500,000.00|5/S/70085/DTTP|
+|WELLS FARGO BANK, NATIONAL ASSOCIATION|$197,500,000.00|13/W/61173/DTTP|
+|BANK OF THE WEST|$100,000,000.00|13/B/359711/DTTP|
+|TOTAL COMMITMENTS|$2,327,500,000.00||
+
+
+-----
+
+

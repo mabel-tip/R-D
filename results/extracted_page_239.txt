@@ -1,0 +1,49 @@
+“Wholly-Owned UK Subsidiary” shall mean, as to any Person, any UK Subsidiary of such Person that is a Wholly-Owned
+Subsidiary.
+
+“Write-Down and Conversion Powers” shall mean, (a) with respect to any EEA Resolution Authority, the Write-Down and
+Conversion Powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member
+Country, which Write-Down And Conversion Powers are described in the EU Bail-In Legislation Schedule., and (b) with respect to the
+United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce, modify or change the
+form of a liability of any UK Financial Institution or any contract or instrument under which that liability arises, to convert all or part of
+that liability into shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to
+have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability or any of the powers under that
+Bail-In Legislation that are related to or ancillary to any of those powers.
+
+1.02. Other Definitional Provisions. (a) Unless otherwise specified therein, all terms defined in this Agreement shall have
+the defined meanings when used in the other Credit Documents or any certificate or other document made or delivered pursuant hereto or
+thereto.
+
+(b) As used herein and in the other Credit Documents, and any certificate or other document made or delivered pursuant
+hereto or thereto, (i) accounting terms not defined in Section 1.01 shall have the respective meanings given to them under GAAP, (ii) the
+words “include”, “includes” and “including” shall be deemed to be followed by the phrase “without limitation”, (iii) the word “incur” shall
+be construed to mean incur, create, issue, assume or become liable in respect of (and the words “incurred” and “incurrence” shall have
+correlative meanings), (iv) unless the context otherwise requires, the words “asset” and “property” shall be construed to have the same
+meaning and effect and to refer to any and all tangible and intangible assets and properties, including cash, Equity Interests, securities,
+revenues, accounts, leasehold interests and contract rights, (v) the word “will” shall be construed to have the same meaning and effect as
+the word “shall”, and (vi) unless the context otherwise requires, any reference herein (A) to any Person shall be construed to include such
+Person’s successors and assigns and (B) to the Company or any other Credit Party shall be construed to include the Company or such
+Credit Party as debtor and debtor-in-possession and any receiver or trustee for the Company or any other Credit Party, as the case may be,
+in any insolvency or liquidation proceeding.
+
+(c) The words “hereof,” “herein” and “hereunder” and words of similar import, when used in this Agreement, shall refer to
+this Agreement as a whole and not to any particular provision of this Agreement, and Section, Schedule and Exhibit references are to this
+Agreement unless otherwise specified.
+
+(d) The meanings given to terms defined herein shall be equally applicable to both the singular and plural forms of such
+terms.
+
+(e) Where the context so requires, all references herein to a financing statement, continuation statement, amendment or
+termination statement shall be deemed to refer also to the analogous documents used under applicable Dutch personal property security
+laws.
+
+1.03. Rates. The Administrative Agent does not warrant or accept any responsibility for, and shall not have any liability
+with respect to, the administration, submission or any other matter related to the London interbank offered rate or other rates in the
+definition of “LIBOR Rate” or with respect to any
+
+78
+
+
+-----
+
+

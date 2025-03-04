@@ -1,0 +1,44 @@
+provided, however, that (i) Eligible U.S. Inventory shall only be included in the U.S. Borrowing Base to the extent that the Administrative
+Agent shall have received an Acceptable Appraisal in respect of such Eligible U.S. Inventory, (ii) Eligible Equipment and Machinery shall
+only be included in the U.S. Borrowing Base to the extent that the Administrative Agent shall have received an Acceptable Appraisal in
+respect of such Eligible Equipment and Machinery (provided that no appraisal shall be required in respect of Equipment for which the
+consideration therefor was less than or equal to $1,500,000 and, at the Permitted Discretion of the Administrative Agent no appraisal shall
+be required in respect of any Equipment for which the consideration therefor was in excess of $1,500,000, in each case to the extent there
+is an Acceptable Existing Appraisal in respect thereof, in which case the Applicable Value thereof shall be based on a “desktop appraisal”
+(it being understood that once there is no longer an Acceptable Existing Appraisal in respect of such Equipment, the Applicable Value
+thereof shall be determined pursuant to the definition of “Applicable Value”, provided that to the extent the Applicable Value cannot be
+determined pursuant to clause (a) of such definition, then for purposes of determining the “Amortized Value” of such Equipment, the most
+recent Acceptable Appraisal shall be deemed to be the appraisal that was the most recent Acceptable Existing Appraisal in respect of such
+Equipment)), (iii) the Eligible Inventory included in the Borrowing Base pursuant to clauses (a)(iii) through (viii) above shall be calculated
+net of any applicable Inventory Reserves and (iv) the aggregate amount included in the U.S. Borrowing Base pursuant to clauses (a)(ix)
+and (a)(x) above shall not exceed 30% of the Total Borrowing Base. The Administrative Agent shall have the right (but not the obligation)
+to review such computations and if, in its Permitted Discretion, such computations have not been calculated in accordance with the terms
+of this Agreement, the Administrative Agent shall have the right to correct any such errors in such manner as it shall determine in its
+Permitted Discretion and the Administrative Agent will notify the Company promptly after making any such correction.
+
+“U.S. Cash Contribution” shall have the meaning provided in the definition of U.S. Borrowing Base.
+
+“U.S. Collection Banks” shall have the meaning provided in Section 5.03(b).
+
+“U.S. Corresponding Debt” shall mean the Obligations of a U.S. Credit Party under or in connection with the Credit Documents.
+
+“U.S. Credit Parties” shall mean the Company, each other U.S. Borrower and each U.S. Subsidiary Guarantor.
+
+“U.S. Dollar Denominated Revolving Loans” shall mean each Revolving Loan denominated in U.S. Dollars at the time of the
+incurrence thereof.
+
+“U.S. Dollar Equivalent” of an amount denominated in a currency other than U.S. Dollars shall mean, at any time for the
+determination thereof, the amount of U.S. Dollars which could be purchased with the amount of such currency involved in such
+computation at the spot exchange rate therefor as quoted by the Administrative Agent as of 11:00 A.M. (New York City time) on the date
+two Business Days prior to the date of any determination thereof (or, in the case of amount denominated in Sterling on the date of any
+determination thereof), for purchase on such date (or on the date of the respective unreimbursed payment under a Letter of Credit
+denominated in a currency other than U.S. Dollars as provided in Sections 3.04(c) and 3.05(a), as the case may be); provided that for
+purposes of (x) determining compliance with Sections 2.01(a), 2.01(b), 2.01(e), 3.02, 5.02(a), 7.01 and 7.03 and (y) calculating Fees
+pursuant to Section 4.01 (except Fees which are expressly required to be paid in a
+
+75
+
+
+-----
+
+

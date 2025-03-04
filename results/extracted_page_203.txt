@@ -1,0 +1,46 @@
+employed or retained by the Administrative Agent or the Collateral Agent, fees and taxes related to the filing of financing statements,
+costs of preparing and recording any other Credit Documents, all expenses, costs and fees set forth in this Agreement and the other Credit
+Documents, all other fees and expenses required to be paid pursuant to any other letter agreement and all fees and expenses incurred in
+connection with releasing Collateral and the amendment or termination of any of the Credit Documents.
+
+“Extended Final Maturity Date” shall mean, with respect to any Extended Loan or Extended Revolving Loan Commitment, the
+agreed upon date occurring after the 2023 ExtendedInitial Maturity Date as specified in the applicable definitive documentation thereof.
+
+“Extended Loan” shall mean each Revolving Loan and each Swingline Loan pursuant to an Extended Revolving Loan
+Commitment.
+
+“Extended Revolving Loan” shall mean each Revolving Loan pursuant to an Extended Revolving Loan Commitment.
+
+“Extended Revolving Loan Commitment” shall have the meaning provided in Section 2.19(c)(i).
+
+“Extension” shall have the meaning provided in Section 2.19(a).
+
+“Extension Offer” shall have the meaning provided in Section 2.19(a).
+
+“Facing Fee” shall have the meaning provided in Section 4.01(c).
+
+“Fair Market Value” shall mean, with respect to any asset (including any Equity Interests of any Person), (i) the price thereof to
+the extent that the same is readily available on an active trading market or (ii) if such price is not so readily available, the price at which a
+willing buyer, not an Affiliate of the seller, and a willing seller who does not have to sell, would agree to purchase and sell such asset, as
+determined in good faith by the board of directors or other governing body or, pursuant to a specific delegation of authority by such board
+of directors or governing body, a designated senior executive officer, of the Company or the Subsidiary of the Company selling such asset.
+
+“FATCA” shall mean Sections 1471 through 1474 of the Code, as enacted on the Effective Date (or any amended or successor
+provision that is substantively comparable and not materially more onerous to comply with), any current or future regulations or official
+interpretations thereof, any agreements entered into pursuant to Section 1471(b)(1) of the Code, any intergovernmental agreements
+entered into in connection with the implementation of such Sections of the Code, and any fiscal or regulatory legislation or rules adopted
+pursuant to such intergovernmental agreements.
+
+“Federal Funds Rate” shall mean, for any period, a fluctuating interest rate equal for each day during such period to the
+weighted average of the rates on overnight Federal Funds transactions with members of the Federal Reserve System arranged by Federal
+Funds brokers, as published for such day (or, if such day is not a Business Day, for the immediately preceding Business Day) by the
+Federal Reserve Bank of New York, or, if such rate is not so published for any day which is a Business Day, the average of the quotations
+for such day on such transactions received by the Administrative Agent from three Federal Funds brokers of recognized standing selected
+by the Administrative Agent; provided that if
+
+42
+
+
+-----
+
+

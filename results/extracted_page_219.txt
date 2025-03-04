@@ -1,0 +1,48 @@
+warranties, covenants (including risk retention requirements) and indemnities entered into in the ordinary course of business in
+connection with such Permitted Securitization Facility that in the reasonable opinion of the Company are customary for securitization
+transactions and (c) none of the Company nor any of its Subsidiaries (other than the Securitization Subsidiary) shall have provided, either
+directly or indirectly, any other credit support of any kind in connection with such Permitted Securitization Facility, other than as set forth
+in clause (b) of this definition or, to the extent titled to a Subsidiary, Rental Account Assets and other related assets, such as the related
+Vehicles and customer installment payments.
+
+“Person” shall mean any individual, partnership, joint venture, firm, corporation, association, limited liability company, trust or
+other enterprise or any Governmental Authority.
+
+“Physical Inventory Adjustment Reserve” shall mean a reserve established by the Administrative Agent in respect of
+discrepancies that arise pertaining to Inventory quantities on hand between a Credit Party’s perpetual accounting system and the results
+of the most-recent physical inventory count at the Fremont Factory.
+
+“Plan” shall mean an “employee benefit plan” as defined in Section 3 of ERISA (other than a Multiemployer Plan) maintained or
+contributed to by the Company, any of its Subsidiaries, or any ERISA Affiliate or to which the Borrower, any of its Subsidiaries or an
+ERISA Affiliate has or may have an obligation to contribute, and each such plan is or has been subject to the provisions of Title IV of
+ERISA or Section 412 of the Code or Section 302 of ERISA for the five-year period immediately following the latest date on which the
+Company, any of its Subsidiaries or an ERISA Affiliate maintained, contributed to or had an obligation to contribute to (or is deemed under
+Section 4069 of ERISA to have maintained or contributed to or to have had an obligation to contribute to, or otherwise to have liability
+with respect to) such plan.
+
+“Pledged Equipment” shall mean all Equipment which is subject to a First Priority Lien in favor of the Collateral Agent on
+behalf of the Secured Creditors.
+
+“Preferred Equity”, as applied to the Equity Interests of any Person, shall mean Equity Interests of such Person (other than
+common Equity Interests of such Person) of any class or classes (however designed) that ranks prior, as to the payment of dividends or as
+to the distribution of assets upon any voluntary or involuntary liquidation, dissolution or winding up of such Person, to shares of Equity
+Interests of any other class of such Person, and shall include any Qualified Preferred Stock, but shall exclude any Permitted Convertible
+Notes.
+
+“Prime Lending Rate” shall mean the rate which the Administrative Agent announces from time to time as its prime lending
+rate, the Prime Lending Rate to change when and as such announced prime lending rate changes. The Prime Lending Rate is a reference
+rate and does not necessarily represent the lowest or best rate actually charged to any customer by the Administrative Agent, which may
+make commercial loans or other loans at rates of interest at, above or below the Prime Lending Rate.
+
+“Professional Lender” shall mean any person who does not form part of the public within the meaning of the Capital
+Requirements Regulation (EU) No. 575/2013.
+
+“Pro Forma Basis” shall mean, in connection with any calculation of compliance with any financial covenant or financial term,
+the calculation thereof after giving effect on a pro forma basis to
+
+58
+
+
+-----
+
+

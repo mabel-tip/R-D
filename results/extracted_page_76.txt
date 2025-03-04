@@ -1,0 +1,63 @@
+**December 31, 2020** **December 31, 2019**
+
+**Gross Carrying** **Accumulated** **Net Carrying** **Gross Carrying** **Accumulated** **Net Carrying**
+
+**Amount** **Amortization** **Other** **Amount** **Amount** **Amortization** **Other** **Amount**
+
+**Finite-lived**
+**intangible assets:**
+Developed technology $ 302 $ (111) $ 3 $ 194 $ 291 $ (72) $ 1 $ 220
+Trade names 3 (1) — 2 3 (1) 1 3
+Favorable contracts and
+leases, net 113 (32) — 81 113 (24) — 89
+Other 38 (18) 1 21 38 (16) — 22
+Total finite-lived
+intangible assets 456 (162) 4 298 445 (113) 2 334
+**Indefinite-lived**
+**intangible assets:**
+Gigafactory Nevada
+water rights 15 — — 15 5 — — 5
+In-process research
+and development
+("IPR&D") — — — — 60 — (60) —
+Total infinite-lived
+intangible assets 15 — — 15 65 — (60) 5
+Total intangible assets $ 471 $ (162) $ 4 $ 313 $ 510 $ (113) $ (58) $ 339
+
+
+Amortization expense during the years ended December 31, 2020, 2019 and 2018 was $51 million, $44 million and $66 million, respectively.
+
+Total future amortization expense for finite-lived intangible assets was estimated as follows (in millions):
+
+2021 $ 51
+2022 50
+2023 44
+2024 29
+2025 29
+Thereafter 95
+Total $ 298
+
+**Note 5 – Fair Value of Financial Instruments**
+
+ASC 820, Fair Value Measurements, states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to
+transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based measurement that should be determined based
+on assumptions that market participants would use in pricing an asset or a liability. The three-tiered fair value hierarchy, which prioritizes which inputs should
+be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices
+in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data. The fair value
+hierarchy requires the use of observable market data when available in determining fair value. Our assets and liabilities that were measured at fair value on a
+recurring basis were as follows (in millions):
+
+**December 31, 2020** **December 31, 2019**
+**Fair Value** **Level I** **Level II** **Level III** **Fair Value** **Level I** **Level II** **Level III**
+Money market funds (cash and
+cash equivalents) $ 13,847 $ 13,847 $ — $ — $ 1,632 $ 1,632 $ — $ —
+Interest rate swap assets — — — — 1 — 1 —
+Interest rate swap liabilities 58 — 58 — (27) — (27) —
+Total $ 13,905 $ 13,847 $ 58 $ — $ 1,606 $ 1,632 $ (26) $ —
+
+77
+
+
+-----
+
+

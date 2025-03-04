@@ -1,0 +1,50 @@
+we may receive a bonus payment if the system performs above a specified level. Conversely, if a solar energy system or energy storage system does not meet
+the performance guarantee requirements, we may be required to pay liquidated damages. Other forms of variable consideration related to our large commercial
+and utility grade solar energy system and energy storage system contracts include variable customer payments that will be made based on our energy market
+participation activities. Such guarantees and variable customer payments represent a form of variable consideration and are estimated at contract inception at
+their most likely amount and updated at the end of each reporting period as additional performance data becomes available. Such estimates are included in the
+transaction price only to the extent that it is probable a significant reversal of revenue will not occur.
+
+We record as deferred revenue any non-refundable amounts that are collected from customers related to fees charged for prepayments and remote
+monitoring service and operations and maintenance service, which is recognized as revenue ratably over the respective customer contract term.
+
+Energy Generation and Storage Leasing
+
+For revenue arrangements where we are the lessor under operating lease agreements for energy generation and storage products, we record lease
+revenue from minimum lease payments, including upfront rebates and incentives earned from such systems, on a straight-line basis over the life of the lease
+term, assuming all other revenue recognition criteria have been met. The difference between the payments received and the revenue recognized is recorded as
+deferred revenue or deferred asset on the consolidated balance sheet.
+
+For solar energy systems where customers purchase electricity from us under PPAs prior to January 1, 2019, we have determined that these agreements
+should be accounted for as operating leases pursuant to ASC 840. Revenue is recognized based on the amount of electricity delivered at rates specified under
+the contracts, assuming all other revenue recognition criteria are met.
+
+We record as deferred revenue any amounts that are collected from customers, including lease prepayments, in excess of revenue recognized and
+operations and maintenance service fees, which is recognized as revenue ratably over the respective customer contract term. Deferred revenue also includes
+the portion of rebates and incentives received from utility companies and various local and state government agencies, which is recognized as revenue over the
+lease term.
+
+We capitalize initial direct costs from the execution of agreements for solar energy systems and PPAs, which include the referral fees and sales
+commissions, as an element of solar energy systems, net, and subsequently amortize these costs over the term of the related agreements.
+
+Inventory Valuation
+
+Inventories are stated at the lower of cost or net realizable value. Cost is computed using standard cost for vehicles and energy storage products, which
+approximates actual cost on a first-in, first-out basis. In addition, cost for solar energy systems is recorded using actual cost. We record inventory write-downs
+for excess or obsolete inventories based upon assumptions about current and future demand forecasts. If our inventory on-hand is in excess of our future
+demand forecast, the excess amounts are written-off.
+
+We also review our inventory to determine whether its carrying value exceeds the net amount realizable upon the ultimate sale of the inventory. This
+requires us to determine the estimated selling price of our vehicles less the estimated cost to convert the inventory on-hand into a finished product. Once
+inventory is written-down, a new, lower cost basis for that inventory is established and subsequent changes in facts and circumstances do not result in the
+restoration or increase in that newly established cost basis.
+
+Should our estimates of future selling prices or production costs change, additional and potentially material increases to this reserve may be required. A
+small change in our estimates may result in a material charge to our reported financial results.
+
+37
+
+
+-----
+
+

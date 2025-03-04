@@ -1,0 +1,43 @@
+(l) Indebtedness of the Company under (x) the Existing Convertible Notes and (y) any renewal, extension, exchange,
+replacement or refinancing of any Existing Convertible Notes (including any new issuance of unsecured convertible notes to effect the
+foregoing), provided that at the time of such renewal, extension, exchange, replacement, refinancing or issuance (i) no Default or Event of
+Default exists or would result therefrom, (ii) any aggregate net cash proceeds from any such new issuances are promptly (within 60 days)
+applied to repay, redeem or satisfy all or a portion of any then outstanding Existing Convertible Notes, (iii) such Indebtedness shall not
+have any scheduled maturity or mandatory redemption, prepayment, amortization, sinking fund or similar obligation (other than pursuant
+to customary change of control, fundamental change, make-whole fundamental change or other similar event risk provisions and, for the
+avoidance of doubt, provisions providing for Net Share Settlement) prior to the date which is six months after the Final Maturity Date in
+effect at the time of such renewal, extension, exchange, replacement, refinancing or issuance, (iv) the aggregate principal amount of such
+new Indebtedness (or if incurred with original issue discount, the sum of the aggregate issue price and any accreted principal amount)
+does not exceed the aggregate principal amount (or if incurred with original issue discount, the aggregate issue price plus any accreted
+amount) of the Existing Convertible Notes to be renewed, extended, exchanged, replaced or refinanced (plus the sum of (A) accrued and
+unpaid interest thereon, (B) any prepayment or exchange premium, (C) customary premium, fees and expenses relating to such renewal,
+extension, exchange, replacement, refinancing or issuance), and (D) any amount that would be available to be incurred as either RatioRelated Permitted Indebtedness or Basket-Related Permitted Indebtedness (and such amount utilized under this clause shall be counted as
+either Ratio-Related Permitted Indebtedness or Basket-Related Permitted Indebtedness, as applicable), and (v) the covenants and events
+of default applicable to such Indebtedness are no more restrictive, taken as a whole, than the covenants and events of default set forth in
+this Agreement (as determined by the Company in good faith), except for (x) provisions applicable only to periods after the Final Maturity
+Date in effect at the time of renewal, extension or incurrence of such Indebtedness, and (y) provisions related to any equity provisions of
+such Indebtedness; provided, that cash payments may also be made as part of any exchange transaction permitted under this Section
+10.04(l) if (A) such cash payments are in respect of accrued and unpaid interest, (B) if the Payment Conditions are satisfied at the time of
+such exchange or (C) amounts are available under Section 10.08(a)(v) (it being understood that any cash payments made pursuant to this
+clause (C) shall be deemed a usage of the amounts available under Section 10.08(a)(v));
+
+(m) Indebtedness of the Company or any of its Subsidiaries for reimbursement obligations relating to letters of credit
+(other than Letters of Credit, but inclusive of any letters of credit that constitute Existing Indebtedness), bankers’ acceptances, bank
+guarantees, performance bonds, surety bonds and bid bonds, so long as the sum of the aggregate available amount of all such letters of
+credit, bankers’ acceptances and bank guarantees (and any unreimbursed drawings in respect thereof) and the then-outstanding amount
+of performance bonds, surety bonds and bid bonds does not at any time exceed $400,000,000500,000,000;
+
+(n) Indebtedness of any Credit Party (which Indebtedness may be (A) (a) unsecured or (b) to the extent permitted below in
+this clause (n), secured by a Lien on the Collateral (including any Permitted Additional Secured Indebtedness Priority Collateral that will
+become Collateral) and (B) guaranteed (other than in respect of Additional Convertible Notes) on a like basis by the other Credit Parties or
+pursuant to any SolarCity Guarantee), if at the time of issuance or incurrence (i) no Default or Event of Default then exists or would result
+therefrom, (ii) such Indebtedness does not have a scheduled maturity earlier than six months after the Final Maturity Date in effect at the
+time of issuance or incurrence of such Indebtedness (other than an earlier maturity date for customary fundamental change, make-whole
+fundamental change, change of control or other similar event risk provisions or customary bridge
+
+160
+
+
+-----
+
+

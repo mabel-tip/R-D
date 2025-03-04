@@ -1,0 +1,59 @@
+g y g yp
+countries in Asia and Europe, which we introduced in volume during the third quarter of 2020. Depending on the specific program, customers may or may not
+have a right to return the vehicle to us during or at the end of the lease term. If the customer does not have a right to return, the customer will take title to the
+vehicle at the end of the lease term after making all contractual payments. Under the programs for which there is a right to return, the purchase option is
+reasonably certain to be exercised by the lessee and we therefore expect the customer to take title to the vehicle at the end of the lease term after making all
+contractual payments. Qualifying customers are permitted to lease a vehicle directly under these programs for up to 48 months. Our loan arrangements under
+these programs can have terms for up to 72 months. We recognize all revenue and costs associated with the sales-type lease as automotive leasing revenue and
+automotive leasing cost of revenue, respectively, upon delivery of the vehicle to the customer. Interest income based on the implicit rate in the lease is recorded
+to automotive leasing revenue over time as customers are invoiced on a monthly basis. For the year ended December 31, 2020, we recognized $120 million of
+sales-type leasing revenue and $87 million of sales-type leasing cost of revenue.
+
+Services and Other Revenue
+
+Services and other revenue consists of non-warranty after-sales vehicle services, sales of used vehicles, retail merchandise, sales by our acquired
+subsidiaries to third party customers, and vehicle insurance revenue.
+
+Revenues related to repair and maintenance services are recognized over time as services are provided and extended service plans are recognized over
+the performance period of the service contract as the obligation represents a stand-ready obligation to the customer. We sell used vehicles, services, service
+plans, vehicle components and merchandise separately and thus use standalone selling prices as the basis for revenue allocation to the extent that these items
+are sold in transactions with other performance obligations. Payment for used vehicles, services, and merchandise are typically received at the point when
+control transfers to the customer or in accordance with payment terms customary to the business. Payments received for prepaid plans are refundable upon
+customer cancellation of the related contracts and are included within customer deposits on the consolidated balance sheets. Deferred revenue related to
+services and other revenue was immaterial as of December 31, 2020 and 2019.
+
+Energy Generation and Storage Segment
+
+Energy Generation and Storage Sales
+
+Energy generation and storage sales revenue consists of the sale of solar energy systems and energy storage systems to residential, small commercial,
+and large commercial and utility grade customers. Energy generation and storage sales revenue also includes revenue from agreements for solar energy
+systems and power purchase agreements (“PPAs”) that commence after January 1, 2019, which is recognized as earned, based on the amount of capacity
+provided for solar energy systems or electricity delivered for PPAs at the contractual billing rates, assuming all other revenue recognition criteria have been
+met. Under the practical expedient available under ASC 606-10-55-18, we recognize revenue based on the value of the service which is consistent with the
+billing amount. Sales of solar energy systems to residential and small scale commercial customers consist of the engineering, design, and installation of the
+system. Post installation, residential and small scale commercial customers receive a proprietary monitoring system that captures and displays historical energy
+generation data. Residential and small scale commercial customers pay the full purchase price of the solar energy system upfront. Revenue for the design and
+installation obligation is recognized when control transfers, which is when we install a solar energy system and the system passes inspection by the utility or
+the authority having jurisdiction. Revenue for the monitoring service is recognized ratably as a stand-ready obligation over the warranty period of the solar
+energy system. Sales of energy storage systems to residential and small scale commercial customers consist of the installation of the energy storage system and
+revenue is recognized when control transfers, which is when the product has been delivered or, if we are performing installation, when installed and
+commissioned. Payment for such storage systems is made upon invoice or in accordance with payment terms customary to the business.
+
+For large commercial and utility grade solar energy system and energy storage system sales which consist of the engineering, design, and installation of
+the system, customers make milestone payments that are consistent with contract-specific phases of a project. Revenue from such contracts is recognized over
+time using the percentage of completion method based on cost incurred as a percentage of total estimated contract costs for energy storage system sales and as
+a percentage of total estimated labor hours for solar energy system sales. Certain large-scale commercial and utility grade solar energy system and energy
+storage system sales also include operations and maintenance service which are negotiated with the design and installation contracts and are thus considered
+to be a combined contract with the design and installation service. For certain large commercial and utility grade solar energy systems and energy storage
+systems where the percentage of completion method does not apply, revenue is recognized when control transfers, which is when the product has been
+delivered to the customer and commissioned for energy storage systems and when the project has received permission to operate from the utility for solar
+energy systems. Operations and maintenance service revenue is recognized ratably over the respective contract term for solar energy system sales and upon
+delivery of the service for energy storage system sales. Customer payments for such services are usually paid annually or quarterly in advance.
+
+64
+
+
+-----
+
+

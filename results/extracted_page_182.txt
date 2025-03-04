@@ -1,0 +1,46 @@
+incentive or achievement plans or any similar plans or setting aside of any funds for the foregoing purposes. For the avoidance of doubt,
+no conversion or Net Share Settlement of Permitted Convertible Notes or the SolarCity Convertible Notes, nor the purchase, sale or
+performance of obligations under any Issuer Option shall constitute a Dividend.
+
+“Dividing Person” shall have the meaning provided in the definition of Division.
+
+“Division” shall mean the statutory division of the assets, liabilities and/or obligations of a Person (the “Dividing Person”)
+among two or more Persons (whether pursuant to a “plan of division” or similar arrangement) pursuant to the applicable limited liability
+company statutes, which may or may not include the Dividing Person and pursuant to which the Dividing Person may or may not survive.
+
+“Domestic Subsidiary” of any Person shall mean any Subsidiary of such Person incorporated or organized in the United States
+or any State thereof or the District of Columbia (other than (i) any such Subsidiary where all or substantially all of its assets consist of
+Equity Interests of one or more Foreign Subsidiaries (for this purpose, determined without giving effect to this parenthetical) that are
+controlled foreign corporations as defined in Section 957 of the Code or intercompany obligations owed or treated as owed by one or more
+Foreign Subsidiaries that are controlled foreign corporations as defined in Section 957 of the Code and (ii) any Domestic Subsidiary that is
+a direct or indirect Subsidiary of a Foreign Subsidiary).
+
+“Dominion Period” shall mean any period (a) commencing on the date on which (x) an Event of Default has occurred and is
+continuing or (y) Excess Availability is less than the greater of (i) 10% of Availability at such time and (ii) $80,000,000 for a period of five
+consecutive Business Days and (b) ending on the first date thereafter on which (1) no Event of Default exists and (2) in the case of a
+Dominion Period commencing as a result of clause (a)(y) above, Excess Availability has been equal to or greater than the greater of (i) 10%
+of Availability at such time and (ii) $80,000,000 for 30 consecutive days.
+
+“Drawing” shall have the meaning provided in Section 3.05(b).
+
+“DTTP Passport” shall have the meaning provided in Section 5.04(e)(iv).
+
+“Dutch Borrower” and “Dutch Borrowers” shall have the meaning provided in the first paragraph of this Agreement.
+
+“Dutch Borrower Loans” shall mean each Dutch Borrower Revolving Loan and each Dutch Borrower Swingline Loan.
+
+“Dutch Borrower Obligations” shall mean all Obligations owing to the Administrative Agent, the Collateral Agent, any Issuing
+Lender or any Lender by any Dutch Borrower.
+
+“Dutch Borrower Revolving Loan” shall have the meaning provided in Section 2.01(a).
+
+“Dutch Borrower Revolving Note” shall have the meaning provided in Section 2.05(a).
+
+“Dutch Borrower Swingline Loan” shall have the meaning provided in Section 2.01(b).
+
+21
+
+
+-----
+
+

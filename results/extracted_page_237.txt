@@ -1,0 +1,45 @@
+immediately preceding Business Day, provided, however, that at any time, if the Aggregate Exposure (for the purposes of the
+determination thereof, using the U.S. Dollar Equivalent as recalculated based on the spot exchange rate therefor as quoted on Bloomberg
+(or, if same does not provide such exchange rates, on such other basis as is reasonably satisfactory to the Administrative Agent) on the
+respective date of determination pursuant to this exception) would exceed 85% of the Total Revolving Loan Commitment or any, then in
+the sole discretion of the Administrative Agent or at the request of the Required Lenders, the U.S. Dollar Equivalent shall be reset based
+upon the spot exchange rates on such date as quoted on Bloomberg (or, if same does not provide such exchange rates, on such other basis
+as is reasonably satisfactory to the Administrative Agent), which rates shall remain in effect until the date of a Credit Event or such earlier
+date, if any, as the rate is reset pursuant to this proviso. Notwithstanding anything to the contrary contained in this definition, at any time
+that a Default or an Event of Default then exists, the Administrative Agent may revalue the U.S. Dollar Equivalent of any amounts
+outstanding under the Credit Documents in a currency other than U.S. Dollars on any date in its sole discretion in accordance with the
+foregoing methodology.
+
+“U.S. Dollars” and the sign “$” shall each mean freely transferable lawful money of the United States.
+
+“U.S. Guarantors” shall mean and include each U.S. Borrower (in its capacity as a guarantor under the U.S. Guaranty) and each
+U.S. Subsidiary Guarantor.
+
+“U.S. Guaranty” shall mean the U.S. Guaranty, dated as of the Effective Date, in the form of Exhibit G-2, as amended, modified,
+restated and/or supplemented from time to time in accordance with the terms hereof and thereof.
+
+“U.S. Person” shall mean any Person that is a “United States person” as defined in Section 7701(a)(30) of the Code.
+
+“U.S. Security Agreement” shall mean the U.S. Security Agreement, dated as of the Effective Date, in the form of Exhibit I-4, as
+amended, modified, restated and/or supplemented from time to time in accordance with the terms hereof and thereof.
+
+“U.S. Special Resolution Regimes” shall have the meaning provided in Section 13.26.
+
+“U.S. Subsidiary Guarantors” shall mean each Wholly-Owned Domestic Subsidiary of the Company (other than any U.S.
+Borrower, any Securitization Subsidiary, any Excluded Energy Storage Subsidiary, any Excluded Charging Subsidiary, any Tesla Finance
+Subsidiary and any Immaterial Subsidiary), whether existing on the Effective Date or established, created or acquired after the Effective
+Date, in each case unless and until such time as the respective Wholly-Owned Domestic Subsidiary is released from all of its obligations
+under the U.S. Guaranty and the Security Documents to which it is a party in accordance with the terms and provisions hereof and
+thereof.
+
+“U.S. Tax Compliance Certificate” shall have the meaning provided in Section 5.04(e)(iii).
+
+“Used” shall mean, with respect to any Inventory, that such Inventory was previously sold (other than to a Credit Party),
+excluding remanufactured items.
+
+76
+
+
+-----
+
+

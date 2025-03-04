@@ -1,0 +1,47 @@
+as shall be designated by such Lender in a written notice to the Company and the Administrative Agent. All such notices and
+communications shall, when mailed, emailed, telecopied, or sent by overnight courier, be effective when received.
+
+(b) Notices and other communications to the Lenders hereunder may be delivered or furnished by electronic
+communications pursuant to procedures approved by the Administrative Agent; provided that the foregoing shall not apply to notices
+pursuant to Section 2 unless otherwise agreed by the Administrative Agent and the applicable Lender. Each of the Administrative Agent,
+the Company and each of the other Credit Parties may, in its discretion, agree to accept notices and other communications to it hereunder
+by electronic communications pursuant to procedures approved by it; provided that approval of such procedures may be limited to
+particular notices or communications.
+
+13.04. Foreign Taxes.
+
+(a) All amounts (including costs and expenses) expressed to be payable under a Credit Document by any Credit Party to a
+Lender or the Administrative Agent which (in whole or in part) constitute the consideration for any supply for Foreign Tax purposes are
+deemed to be exclusive of any Foreign Tax which is chargeable on that supply. If Foreign Tax is or becomes chargeable on any supply by
+any Lender or the Administrative Agent to any Credit Party under a Credit Document and such Lender or Administrative Agent is required
+to account to the relevant tax authority for the Foreign Tax, that Credit Party must pay to such Lender or Administrative Agent, as the
+case may be, (in addition to any other consideration for such supply) an amount equal to the amount of the Foreign Tax upon receipt by
+the Credit Party of a valid Foreign Tax invoice.
+
+(b) If Foreign Tax is or becomes chargeable on any supply made by any Lender or the Administrative Agent (the
+“Supplier”) to any other Lender or the Administrative Agent (the “Recipient”) under a Credit Document, and any party other than the
+Recipient (the “Relevant Party”) is required by the terms of any Credit Document to pay an amount equal to the consideration for that
+supply to the Supplier (rather than being required to reimburse or indemnify the Recipient in respect of that consideration):
+
+(i) (where the Supplier is the Person required to account to the relevant tax authority for the Foreign Tax) the
+Relevant Party must also pay to the Supplier (at the same time as paying that amount) an additional amount equal to the
+amount of the Foreign Tax; and
+
+(ii) (where the Recipient is the Person required to account to the relevant tax authority for the Foreign Tax) the
+Relevant Party must promptly, following demand from the Recipient, pay to the Recipient an amount equal to the Foreign Tax
+chargeable on that supply.
+
+(c) Where a Credit Document requires any party to reimburse or indemnify a Lender or the Administrative Agent for any
+cost or expense, that party shall reimburse or indemnify (as the case may be) such Lender or Administrative Agent for the full amount of
+such cost or expense, including such part thereof as represents Foreign Tax, save to the extent that such Lender or Administrative Agent
+reasonably determines that it is entitled to credit or repayment in respect of such Foreign Tax from the relevant tax authority.
+
+(d) Any reference in this Section 13.04 to any party shall, at any time when such party is treated as a member of a group
+for Foreign Tax purposes, include (where appropriate and unless the
+
+184
+
+
+-----
+
+

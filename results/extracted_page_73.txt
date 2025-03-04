@@ -1,0 +1,51 @@
+y g p y p
+
+In December 2019, the FASB issued ASU No. 2019-12, Simplifying the Accounting for Income Taxes, as part of its initiative to reduce complexity in
+accounting standards. The amendments in the ASU include removing exceptions to incremental intraperiod tax allocation of losses and gains from different
+financial statement components, exceptions to the method of recognizing income taxes on interim period losses, and exceptions to deferred tax liability
+recognition related to foreign subsidiary investments. In addition, the ASU requires that entities recognize franchise tax based on an incremental method and
+requires an entity to evaluate the accounting for step-ups in the tax basis of goodwill as inside or outside of a business combination. The amendments in the
+ASU are effective for fiscal years beginning after December 15, 2020, including interim periods therein. Early adoption of the standard is permitted, including
+adoption in interim or annual periods for which financial statements have not yet been issued. We have not early adopted this ASU as of December 31, 2020.
+The ASU is currently not expected to have a material impact on our consolidated financial statements.
+
+In March 2020, the FASB issued ASU No. 2020-04, Facilitation of the Effects of Reference Rate Reform on Financial Reporting (Topic 848). The ASU
+provides optional expedients and exceptions for applying GAAP to transactions affected by reference rate (e.g., LIBOR) reform if certain criteria are met, for a
+limited period of time to ease the potential burden in accounting for (or recognizing the effects of) reference rate reform on financial reporting. The ASU is
+effective as of March 12, 2020 through December 31, 2022. We will evaluate transactions or contract modifications occurring as a result of reference rate
+reform and determine whether to apply the optional guidance on an ongoing basis. The ASU is currently not expected to have a material impact on our
+consolidated financial statements.
+
+In August 2020, the FASB issued ASU 2020-06, Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity. The ASU simplifies the
+accounting for convertible instruments by removing certain separation models in ASC 470- 20, Debt—Debt with Conversion and Other Options, for convertible
+instruments. The ASU updates the guidance on certain embedded conversion features that are not required to be accounted for as derivatives under Topic 815,
+Derivatives and Hedging, or that do not result in substantial premiums accounted for as paid-in capital, such that those features are no longer required to be
+separated from the host contract. The convertible debt instruments will be accounted for as a single liability measured at amortized cost. This will also result in
+the interest expense recognized for convertible debt instruments to be typically closer to the coupon interest rate when applying the guidance in Topic 835,
+Interest. Further, the ASU made amendments to the EPS guidance in Topic 260 for convertible instruments, the most significant impact of which is requiring
+the use of the if-converted method for diluted EPS calculation, and no longer allowing the net share settlement method. The ASU also made revisions to Topic
+815-40, which provides guidance on how an entity must determine whether a contract qualifies for a scope exception from derivative accounting. The
+amendments to Topic 815-40 change the scope of contracts that are recognized as assets or liabilities. The ASU is effective for interim and annual periods
+beginning after December 15, 2021, with early adoption permitted for periods beginning after December 15, 2020. Adoption of the ASU can either be on a
+modified retrospective or full retrospective basis.
+
+We will adopt the ASU on January 1, 2021 on a modified retrospective basis. The adoption is expected to reduce additional paid in capital and
+convertible senior notes (mezzanine equity) by approximately $475 million and $50 million, respectively for the recombination of the equity conversion
+component of our convertible debt remaining outstanding, which was initially separated and recorded in equity, remove the remaining debt discounts recorded
+for this previous separation for approximately $269 million and reduce property, plant and equipment for previously capitalized interest by approximately $45
+million, as a result. The net effect of these adjustments will be recorded as a reduction in the balance of our opening accumulated deficit as of January 1, 2021.
+
+We currently expect the adoption of the ASU will result in the reduction of non-cash interest expense for the year ending December 31, 2021 and until
+the affected notes have been settled, before the impact of reduction of our interest capitalization, which is not expected to be material. The reduction of
+depreciation expense through cost of goods sold is not expected to be material for the year ending December 31, 2021. These reduced expenses will increase
+the income attributable to common stockholders for both basic and diluted earnings per share. The required use of the if converted method is not expected to
+have a significant impact on the calculation of common share equivalents included in the measure of our diluted earnings per share for our 2021 Notes, 2022
+Notes, 2024 Notes and our subsidiary’s 5.50% Convertible Senior Notes due in 2022. The amendments to the derivative accounting guidance are not expected
+to have a material impact on our consolidated financial statements. The adoption will have no impact on the consolidated statement of cash flows.
+
+74
+
+
+-----
+
+

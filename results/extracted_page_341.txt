@@ -1,0 +1,45 @@
+(h) All amounts received or recovered by the Collateral Agent in connection with this Section 12.12, to the extent
+permitted by applicable law, shall be applied in accordance with Section 13.0613.07.
+
+(i) This Section 12.12 applies for the purpose of determining the Secured Obligations in each Dutch Security Agreement.
+
+12.13. Real Property Appraisal. At the request of the Company, the Administrative Agent shall obtain, at the sole cost and
+expense of the Company, promptly upon request, a Real Property Appraisal.
+
+12.14. Certain ERISA Matters.
+
+(a) Each Lender (x) represents and warrants, as of the date such Person became a Lender party hereto, to, and (y)
+covenants, from the date such Person became a Lender party hereto to the date such Person ceases being a Lender party hereto, for the
+benefit of, the Administrative Agent and the Arrangers, and not, for the avoidance of doubt, to or for the benefit of any Borrower or any
+other Credit Party, that at least one of the following is and will be true:
+
+(i) such Lender is not using “plan assets” (within the meaning of Section 3(42) of ERISA or otherwise) of one or
+more Benefit Plans with respect to such Lender’s entrance into, participation in, administration of and performance of the
+Loans, the Letters of Credit or this Agreement,
+
+(ii) the transaction exemption set forth in one or more PTEs, such as PTE 84-14 (a class exemption for certain
+transactions determined by independent qualified professional asset managers), PTE 95-60 (a class exemption for certain
+transactions involving insurance company general accounts), PTE 90-1 (a class exemption for certain transactions involving
+insurance company pooled separate accounts), PTE 91-38 (a class exemption for certain transactions involving bank collective
+investment funds) or PTE 96-23 (a class exemption for certain transactions determined by in-house asset managers), is
+applicable with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the
+Letters of Credit and this Agreement,
+
+(iii) (A) such Lender is an investment fund managed by a “Qualified Professional Asset Manager” (within the
+meaning of Part VI of PTE 84-14), (B) such Qualified Professional Asset Manager made the investment decision on behalf of
+such Lender to enter into, participate in, administer and perform the Loans, the Letters of Credit, the Commitments and this
+Agreement, (C) the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the
+Commitments and this Agreement satisfies the requirements of sub-sections (b) through (g) of Part I of PTE 84-14 and (D) to the
+best knowledge of such Lender, the requirements of subsection (a) of Part I of PTE 84-14 are satisfied with respect to such
+Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit and this
+Agreement, or
+
+(iv) such other representation, warranty and covenant as may be agreed in writing between the Administrative
+Agent, in its sole discretion, and such Lender.
+
+180
+
+
+-----
+
+

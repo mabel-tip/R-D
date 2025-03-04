@@ -1,0 +1,45 @@
+(d) With respect to the Extension consummated by the Company pursuant to this Section 2.19, (i) the Extension shall not
+constitute voluntary or mandatory payments or prepayments for purposes of this Agreement (including Section 5.01, 5.02, 5.03, 13.02 or
+13.0613.07), (ii) if the amount extended is less than the Maximum Letter of Credit Amount, the Maximum Letter of Credit Amount shall be
+reduced upon the date that is five Business Days prior to the 2023 ExtendedInitial Maturity Date (to the extent needed so that the
+Maximum Letter of Credit Amount does not exceed the aggregate Revolving Loan Commitments which would be in effect after the 2023
+ExtendedInitial Maturity Date), and, if applicable, the Company shall cash collateralize obligations under any issued Letters of Credit with
+a termination date (taking into account any possible extensions thereof) later than five Business Days prior to the 2023 ExtendedInitial
+Maturity Date in an amount equal to 102% of the Stated Amount of such Letters of Credit that are in excess of the proposed reduced
+Maximum Letter of Credit Amount, and (iii) if the amount extended is less than the Maximum Swingline Amount, the Maximum Swingline
+Amount shall be reduced upon the date that is five Business Days prior to the 2023 ExtendedInitial Maturity Date (to the extent needed so
+that the Maximum Swingline Amount does not exceed the aggregate Revolving Loan Commitments which would be in effect after the 2023
+ExtendedInitial Maturity Date), and, if applicable, the Company shall prepay any outstanding Swingline Loans in excess of the Maximum
+Swingline Amount that is then in effect. The Administrative Agent and the Lenders hereby consent to the Extensions and the other
+transactions contemplated by this Section 2.19 (including, for the avoidance of doubt, payment of any interest or fees in respect of any
+Extended Revolving Loan Commitments on such terms as may be set forth in the Extension Offer) and hereby waive the requirements of
+any provision of this Agreement (including Section 5.01, 5.02, 5.03, 13.02 or 13.0613.07) or any other Credit Document that may
+otherwise prohibit the Extension or any other transaction contemplated by this Section 2.19; provided that such consent shall not be
+deemed to be an acceptance of the Extension Offer.
+
+(e) The Lenders hereby irrevocably authorize the Administrative Agent on behalf of all of the Lenders to enter into
+amendments to this Agreement and the other Credit Documents with the Credit Parties as may be necessary in order establish new
+tranches in respect of Revolving Loan Commitments so extended and such amendments as may be necessary in connection with the
+establishment of such new tranches, in each case on terms consistent with this Section 2.19 and without any requirement of additional
+consent by any Lender. Without limiting the foregoing, in connection with the Extension, the respective parties shall (at the expense of
+the Credit Parties) amend (and the Administrative Agent is hereby authorized to amend) any Credit Document that has a maturity date
+prior to the Extended Final Maturity Date so that such maturity date is extended to the Extended Final Maturity Date (or such later date
+as may be advised by local counsel to the Administrative Agent).
+
+(f) In connection with the Extension, the Company shall provide the Administrative Agent at least 10 Business Days’ (or
+such shorter period as may be agreed by the Administrative Agent) prior written notice thereof, and shall agree to such procedures, if any,
+as may be reasonably established by, or reasonably acceptable to, the Administrative Agent, in each case acting reasonably to accomplish
+the purposes of this Section 2.19.
+
+(g) Notwithstanding anything to the contrary contained herein, any Lender with Initial Revolving Loan
+Commitments may agree after the Amendment and Restatement Effective Date to convert all or a portion of such Initial Revolving
+Loan Commitments to 2023 Extended Revolving Loan Commitments pursuant to an agreement, in form and substance reasonably
+satisfactory to the Administrative Agent and the Borrowers, duly executed by such Lender, the Borrowers and the Administrative
+Agent, without any requirement of additional consent by any other Lender. Thereafter,
+
+103
+
+
+-----
+
+

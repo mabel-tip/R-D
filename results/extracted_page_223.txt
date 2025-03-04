@@ -1,0 +1,46 @@
+greater than the Liquidity Threshold or (ii) the Fixed Charge Coverage Ratio for the most recently ended Test Period for which financial
+statements are available is equal to or greater than 1.00:1.00.
+
+“Reference Time” with respect to any setting of the then-current Benchmark shall mean (1) if such Benchmark is the LIBO Rate,
+11:00 a.m. (London time) on the day that is two London banking days preceding the date of such setting, and (2) if such Benchmark is not
+LIBO Rate, the time determined by the Administrative Agent in its reasonable discretion.
+
+“Register” shall have the meaning provided in Section 13.1513.16.
+
+“Regulation D” shall mean Regulation D of the Board as from time to time in effect and any successor to all or a portion thereof
+establishing reserve requirements.
+
+“Regulation T” shall mean Regulation T of the Board as from time to time in effect and any successor to all or a portion thereof.
+
+“Regulation U” shall mean Regulation U of the Board as from time to time in effect and any successor to all or a portion thereof.
+
+“Regulation X” shall mean Regulation X of the Board as from time to time in effect and any successor to all or a portion thereof.
+
+“Release” shall mean actively or passively disposing, discharging, injecting, spilling, pumping, leaking, leaching, dumping,
+emitting, escaping, emptying, pouring, seeping, migrating or the like, into or upon any land or water or air, or otherwise entering into the
+environment.
+
+“Relevant Governmental Body” shall mean (a) with respect to a Benchmark Replacement in respect of Loans denominated in
+U.S. Dollars, the Federal Reserve Board and/or the NYFRB, or a committee officially endorsed or convened by the Federal Reserve Board
+and/or the NYFRB or, in each case, any successor thereto and (b) with respect to a Benchmark Replacement in respect of Loans
+denominated in any Available Currency (other than U.S. Dollars), (i) the central bank for the currency in which such Benchmark
+Replacement is denominated or any central bank or other supervisor which is responsible for supervising either (x) such Benchmark
+Replacement or (y) the administrator of such Benchmark Replacement or (ii) any working group or committee officially endorsed or
+convened by (w) the central bank for the currency in which such Benchmark Replacement is denominated, (x) any central bank or other
+supervisor that is responsible for supervising either (1) such Benchmark Replacement or (2) the administrator of such Benchmark
+Replacement, (y) a group of those central banks or other supervisors or (z) the Financial Stability Board or any part thereof.
+
+“Relevant Rate” shall mean (a) with respect to any LIBOR Loan Borrowing denominated in an Available Currency (other than
+Euros), the LIBO Rate as determined pursuant to clause (a)(i) of the definition thereof or (b) with respect to any LIBOR Loan Borrowing
+denominated in Euros, the LIBO Rate as determined pursuant to clause (a)(ii) of the definition thereof, as applicable.
+
+“Relevant Screen Rate” shall mean (a) with respect to any LIBOR Loan Borrowing denominated in an Available Currency (other
+than Euros), the LIBOR Screen Rate or (b) with respect to any LIBOR Loan Borrowing denominated in Euros, the EURO Screen Rate, as
+applicable.
+
+62
+
+
+-----
+
+

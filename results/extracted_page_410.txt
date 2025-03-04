@@ -1,0 +1,47 @@
+**15.3** **Remuneration**
+
+Any Receiver shall be entitled to remuneration for his services at a rate to be fixed by agreement between him and the Collateral Agent
+(or, failing such agreement, to be fixed by the Collateral Agent).
+
+**15.4** **Payment by Receiver**
+
+Only monies actually paid by a Receiver to the Collateral Agent in relation to the Secured Obligations shall be capable of being applied by
+the Collateral Agent in discharge of the Secured Obligations.
+
+**15.5** **Agent of Chargors**
+
+Any Receiver shall be the agent of the Chargor in respect of which it is appointed. Such Chargor shall (subject to the Companies Act 2006
+and the Insolvency Act 1986) be solely responsible for his acts and defaults and for the payment of his remuneration. No Secured Creditor
+shall incur any liability (either to such Chargor or to any other person) by reason of the appointment of a Receiver or for any other reason.
+
+**15.6** **Collateral Agent**
+
+To the fullest extent allowed by law, any right, power or discretion conferred by this Deed (either expressly or impliedly) or by law on a
+Receiver may after the Security created by or pursuant to this Deed becomes enforceable be exercised by the Collateral Agent in relation
+to any Security Asset without first appointing a Receiver and notwithstanding the appointment of a Receiver.
+
+**16.** **POWERS OF RECEIVER**
+
+**16.1** **General powers**
+
+Any Receiver shall have:
+
+(a) all the powers which are conferred on the Collateral Agent by Clause 14.3 (Powers of Collateral Agent);
+(b) all the powers which are conferred by the Act on mortgagees in possession and receivers appointed under the Act;
+
+(c) (whether or not he is an administrative receiver) all the powers which are listed in schedule 1 of the Insolvency Act
+1986; and
+
+(d) all powers which are conferred by any other law conferring power on receivers.
+
+**16.2** **Additional powers**
+
+In addition to the powers referred to in Clause 16.1 (General powers), a Receiver shall have the following powers:
+
+(a) to take possession of, collect and get in all or any part of the Security Assets and/or income in respect of which he
+was appointed;
+
+
+-----
+
+

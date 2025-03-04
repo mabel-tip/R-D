@@ -1,0 +1,46 @@
+13.2313.24. MIRE Events. Each of the parties hereto acknowledges and agrees that, solely in the event that there are any
+Mortgaged Properties at the time of any increase, extension or renewal of any of the Commitments or Loans (including the provision of
+Incremental Commitments or any other incremental credit facilities hereunder, but excluding (i) any continuation or conversion of
+borrowings, (ii) the making of any Revolving Loans or (iii) the issuance, renewal, extension, amendment or modification of Letters of
+Credit) shall be subject to (and conditioned upon) delivery of all flood hazard determination certifications and, if otherwise required by this
+Credit Agreement, evidence of flood insurance and other flood-related documentation with respect to such Mortgaged Properties as
+required by Flood Insurance Laws and as otherwise reasonably requested by the Administrative Agent or the Lenders (through the
+Administrative Agent). The Administrative Agent shall provide notice to the Lenders of any such delivery prior to the consummation of
+such event.
+
+13.25. Acknowledgment and Consent to Bail-In of Affected Financial Institutions. Notwithstanding anything to the
+contrary in any Credit Document or in any other agreement, arrangement or understanding among any such parties, each party hereto
+acknowledges that any liability of any Affected Financial Institution arising under any Credit Document, to the extent such liability is
+unsecured, may be subject to the write-down and conversion powers of the applicable Resolution Authority and agrees and consents to,
+and acknowledges and agrees to be bound by:
+
+(a) the application of any Write-Down and Conversion Powers by the applicable Resolution Authority to any such liabilities
+arising hereunder which may be payable to it by any party hereto that is an Affected Financial Institution; and
+
+(b) the effects of any Bail-in Action on any such liability, including, if applicable:
+
+(i) a reduction in full or in part or cancellation of any such liability;
+
+(ii) a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such
+Affected Financial Institution, its parent undertaking, or a bridge institution that may be issued to it or otherwise conferred on
+it, and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such
+liability under this Agreement or any other Credit Document; or
+
+(iii) the variation of the terms of such liability in connection with the exercise of the Write-Down and
+Conversion Powers of the applicable Resolution Authority.
+
+13.26. Acknowledgment Regarding Any Supported QFCs. To the extent that the Credit Documents provide support,
+through a guarantee or otherwise, for Secured Hedging Agreements or any other agreement or instrument that is a QFC (such support
+“QFC Credit Support” and each such QFC a “Supported QFC”), the parties acknowledge and agree as follows with respect to the
+resolution power of the Federal Deposit Insurance Corporation under the Federal Deposit Insurance Act and Title II of the Dodd-Frank
+Wall Street Reform and Consumer Protection Act (together with the regulations promulgated thereunder, the “U.S. Special Resolution
+Regimes”) in respect of such Supported QFC and QFC Credit Support (with the provisions below applicable notwithstanding that the
+Credit Documents and any Supported QFC may in fact be stated to be governed by the laws of the State of New York and/or of the United
+States or any other state of the United States):
+
+198
+
+
+-----
+
+

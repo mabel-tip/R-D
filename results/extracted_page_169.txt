@@ -1,0 +1,43 @@
+zero, such rate shall be deemed to be zero for purposes hereof.
+
+“Base Rate Loan” shall mean (i) each Swingline Loan and (ii) each U.S. Dollar Denominated Revolving Loan designated or
+deemed designated as a Base Rate Loan by the relevant Borrower of such U.S. Dollar Denominated Revolving Loan at the time of the
+incurrence thereof or conversion thereto.
+
+“Basket-Related Permitted Indebtedness” shall mean any Indebtedness incurred by the Company and its Subsidiaries (which
+Indebtedness may be guaranteed pursuant to a SolarCity Guarantee) that is not Ratio-Related Permitted Indebtedness up to an aggregate
+outstanding principal amount of $3,000,000,000.
+
+“Benchmark” shall mean, initially, the Relevant Rate; provided that if a Benchmark Transition Event, a Term SOFR Transition
+Event or an Early Opt-in Election, as applicable, and its related Benchmark Replacement Date have occurred with respect to the LIBO
+Rate or the then-current Benchmark, then “Benchmark” means the applicable Benchmark Replacement to the extent that such Benchmark
+Replacement has replaced such prior benchmark rate pursuant to clause (b)(i) or (ii) of Section 2.10.
+
+“Benchmark Replacement” shall mean, for any Available Tenor, the first alternative set forth in the order below that can be
+determined by the Administrative Agent for the applicable Benchmark Replacement Date; provided that, in the case of any Loan
+denominated in an currency other than U.S. Dollars, “Benchmark Replacement” shall mean the alternative set forth in (c) below:
+
+(a) the sum of: (i) Term SOFR and (ii) the related Benchmark Replacement Adjustment;
+
+(b) the sum of: (i) Daily Simple SOFR and (ii) the related Benchmark Replacement Adjustment;
+
+(c) the sum of: (i) the alternate benchmark rate that has been selected by the Administrative Agent and the
+U.S. Borrower as the replacement for the then-current Benchmark for the applicable Corresponding Tenor giving due
+consideration to (x) any selection or recommendation of a replacement benchmark rate or the mechanism for determining such
+a rate by the Relevant Governmental Body or (y) any evolving or then-prevailing market convention for determining a
+benchmark rate as a replacement for the then-current Benchmark for syndicated credit facilities denominated in the applicable
+Available Currency at such time and (ii) the related Benchmark Replacement Adjustment;
+
+provided that, in the case of clause (a), such Unadjusted Benchmark Replacement is displayed on a screen or other information
+service that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion; provided further
+that, solely with respect to a Loan denominated in U.S. Dollars, notwithstanding anything to the contrary in this Agreement or in any other
+Credit Document, upon the occurrence of a Term SOFR Transition Event, and the delivery of a Term SOFR Notice, on the applicable
+Benchmark Replacement Date the “Benchmark Replacement” shall revert to and shall be deemed to be the sum of (i) Term SOFR and (ii)
+the related Benchmark Replacement Adjustment, as set forth in clause (a) of this definition (subject to the first proviso above).
+
+8
+
+
+-----
+
+

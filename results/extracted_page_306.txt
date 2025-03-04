@@ -1,0 +1,46 @@
+Material Adverse Effect. Neither the Company nor any of its Subsidiaries will generate, use, treat, store, Release or dispose of, or permit
+the generation, use, treatment, storage, Release or disposal of Hazardous Materials on any Real Property now or hereafter owned, leased
+or operated by the Company or any of its Subsidiaries, or transport or permit the transportation of Hazardous Materials to or from any
+such Real Property, except for Hazardous Materials generated, used, treated, stored, Released or disposed of at, or transported to or from,
+any such Real Properties which, either individually or in the aggregate, could not reasonably be expected to have a Material Adverse
+Effect.
+
+(b) (i) After the receipt by the Administrative Agent or any Lender of any notice of the type described in Section 9.01(g),
+(ii) atAt any time that the Company or any of its Subsidiaries are not in compliance with Section 9.06(a) or (iii) in the event that the
+Administrative Agent or the Lenders have exercised any of the remedies pursuant to the last paragraph of Section 11, the Company and
+the other Borrowers will (in each case) provide, at the sole joint and several expense of the Company and the other Borrowers and at the
+request of the Administrative Agent, an environmental site assessment report in connection with, in the case of clauses (i) and (ii) above,
+any or all the Real Property that is the subject of clauses (i) or (ii) above or, in the case of clause (iii) above, any Real Property, and is
+owned, leased or operated by the Company or any of its Subsidiaries, prepared by an environmental consulting firm reasonably approved
+by the Administrative Agent, for purpose of identifying the presence or absence of Hazardous Materials and any violations of
+Environmental Law, and the potential cost of any removal or remedial action in connection with such Hazardous Materials on or
+emanating from, and the correction of any such violations at, such Real Property. If the Company or any other Borrower fails to provide
+the same within 45 days after such request was made, the Administrative Agent may order the same, the cost of which shall be borne by
+the Company and the other Borrowers on a joint and several basis, and the Company and the other Borrowers shall grant and hereby
+grant (in the case of property leased by the Company or any of its Subsidiaries, subject to the terms of the applicable lease) to the
+Administrative Agent and the Lenders and their respective agents reasonable access to such Real Property and specifically grant the
+Administrative Agent and the Lenders an irrevocable non-exclusive license, subject to the rights of tenants, to undertake such an
+assessment, and to address any Hazardous Materials and any violations of Environmental Law identified by such an assessment, at any
+reasonable time upon reasonable notice to the Company or the applicable other Borrower, all at the sole joint and several expense of the
+Company and the other Borrowers.
+
+9.07. ERISA.
+
+(a) The Company will deliver to the Administrative Agent (in sufficient copies for all Lenders, if the Administrative Agent
+so requests):
+
+(i) promptly and in any event within 15 days after receiving a request from the Administrative Agent a copy of
+the most recent IRS Form 5500 (including the Schedule B) with respect to a Plan;
+
+(ii) promptly and in any event within 30 days after any Responsible Officer of the Company knows that any
+ERISA Event has occurred that, either individually or in the aggregate, could reasonably be expected to have a Material
+Adverse Effect, a certificate of an Authorized Officer of the Company describing such ERISA Event and the action, if any,
+proposed to be taken with respect to such ERISA Event and a copy of any notice filed with the PBGC or the IRS pertaining to
+such ERISA Event and any notices received by the Company, any Subsidiary of the
+
+145
+
+
+-----
+
+

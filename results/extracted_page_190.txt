@@ -1,0 +1,43 @@
+Dutch Raw Materials Inventory and Eligible Dutch WIP Inventory.
+
+“Eligible Dutch Raw Materials Inventory” shall mean the Eligible Raw Materials Inventory owned by any Dutch Borrower.
+
+“Eligible Dutch Service Parts Inventory” shall mean the Eligible Service Parts Inventory owned by any Dutch Borrower.
+
+“Eligible Dutch Vendor In-Transit Inventory” shall mean the Eligible Vendor In-Transit Inventory owned by any Dutch Borrower.
+
+“Eligible Dutch WIP Inventory” shall mean the Eligible WIP Inventory owned by any Dutch Borrower.
+
+“Eligible Finished Goods Inventory” shall mean Eligible Inventory consisting of finished goods available for sale (as determined
+in a manner acceptable to the Administrative Agent in its Permitted Discretion and consistent with past practices).
+
+“Eligible In-Transit Inventory” shall mean all Eligible Inventory (other than Eligible Raw Materials Inventory):
+
+(a) for which title remains with the applicable Borrower,
+
+(b) which is fully insured in such amounts, with insurance companies and subject to such deductibles as are
+reasonably satisfactory to the Administrative Agent in its Permitted Discretion,
+
+(c) which is (i) with respect to Inventory owned by a U.S. Borrower, in-transit in the United States and, (ii) with
+respect to Inventory owned by a Dutch Borrower, in-transit in the United States, in the Netherlands, in Belgium or from the
+United States to the Netherlands or Belgium; provided that any Inventory in Belgium or in-transit to Belgium shall only be
+Eligible Inventory if such Inventory is subject to a Perfected Belgian Lien and, and (iii) with respect to Inventory owned by a UK
+Borrower, in-transit in the United States, in-transit in England and Wales or from the United States, the Netherlands or Belgium
+to England and Wales; provided that (x) any Inventory in Belgium or in-transit to Belgium shall only be Eligible Inventory if such
+Inventory is subject to a Perfected Belgian Lien, (y) any Inventory in the United States or in-transit from the United States shall
+only be Eligible Inventory if such Inventory is subject to a Perfected U.S. Lien and (z) any Inventory in-transit from the
+Netherlands shall only be Eligible Inventory if such Inventory is subject to a Perfected Dutch Lien, and
+
+(d) which otherwise would constitute Eligible Inventory.
+
+“Eligible Inventory” shall mean all of the Inventory owned by any of the Borrowers (and for which the applicable Borrower has
+good title to such Inventory) that is reflected in the most recent Borrowing Base Certificate delivered to the Administrative Agent pursuant
+to Section 9.01(h), except any Inventory as to which any of the exclusionary criteria set forth below applies. Eligible Inventory shall not
+include any Inventory of a Borrower that:
+
+29
+
+
+-----
+
+

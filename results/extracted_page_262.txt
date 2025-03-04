@@ -1,0 +1,44 @@
+2.18. The Company as Agent for Borrowers. Each Borrower hereby irrevocably appoints the Company as its agent and
+attorney-in-fact for all purposes under this Agreement and each other Credit Document, which appointment shall remain in full force and
+effect unless and until the Administrative Agent shall have received prior written notice signed by the respective appointing Borrower that
+such appointment has been revoked. Each Borrower hereby irrevocably appoints and authorizes the Company (i) to provide the
+Administrative Agent with all notices with respect to Loans and Letters of Credit obtained for the benefit of any Borrower and all other
+notices and instructions under this Agreement or any other Credit Document and (ii) to take such action as the Company deems
+appropriate on its behalf to exercise such other powers as are reasonably incidental thereto to carry out the purposes of this Agreement
+and the other Credit Documents. It is understood that the handling of the Credit Account and the Collateral of the respective Borrowers in
+a combined fashion (i.e., the U.S. Borrowers in a combined fashion and, the Dutch Borrowers in a combined fashion and the UK Borrowers
+in a combined fashion), as more fully set forth herein, is done solely as an accommodation to the Borrowers in order to utilize the
+collective borrowing powers of the Borrowers in the most efficient and economical manner and at their request, and that the Lenders shall
+not incur liability to any Borrower as a result hereof. Each Borrower expects to derive benefit, directly or indirectly, from the handling of
+the Credit Account and the Collateral in a combined fashion since the successful operation of each Borrower is dependent on the
+continued successful performance of the consolidated group.
+
+2.19. Extension of Revolving Loan Commitments. (a) Notwithstanding anything to the contrary in this Agreement, subject
+to the terms of this Section 2.19, the Company may extend the maturity date, and otherwise modify the terms of the Total Revolving Loan
+Commitment, or any portion thereof (including by increasing the interest rate or fees payable in respect of any Loans and/or Revolving
+Loan Commitments or any portion thereof (and related outstandings) (the “Extension”) pursuant to a written offer (the “Extension Offer”)
+made by the Company to all Lenders, in each case on a pro rata basis (based on the aggregate outstanding principal amount of the
+respective outstanding Revolving Loans and unfunded Revolving Loan Commitments) and on the same terms to each such Lender;
+provided, that an Extension Offer to extend Initial Revolving Loan Commitments may be made only to Lenders holding Initial Revolving
+Loan Commitments to enable them to extend such commitments to the 2023 Extended Maturity Date and the provisions of this Section
+2.19 shall apply to any such Extension Offer accordingly. In connection with the Extension, (i) the Company will provide notification to the
+Administrative Agent (for distribution to the Lenders), (ii) the Swingline Lender and (iii) each Lender, acting in its sole and individual
+discretion, wishing to participate in the Extension shall, prior to the date (the “Notice Date”) specified in the notice (which shall be at least
+10 Business Days after delivery of the notice) given by the Administrative Agent to such Lender, provide the Administrative Agent with a
+written notice thereof in a form reasonably satisfactory to the Administrative Agent. Any Lender that does not respond to the Extension
+Offer by the Notice Date shall be deemed to have rejected such Extension. The Administrative Agent shall promptly notify the Company of
+each Lender’s determination under this Section 2.19(a). The election of any Lender to agree to the Extension shall not obligate any other
+Lender to so agree. After giving effect to the Extension, the Revolving Loan Commitments so extended shall cease to be a part of the
+tranche of the Revolving Loan Commitments they were a part of immediately prior to the Extension and shall be a new tranche of
+Extended Revolving Loan Commitments hereunder.
+
+(b) The Company shall have the right to replace each Lender that shall have rejected (or be deemed to have rejected) the
+Extension under Section 2.19(a) with, and add as “Lenders” under this Agreement in place thereof, one or more Replacement Lenders as
+provided in Section 2.13; provided that
+
+101
+
+
+-----
+
+

@@ -1,0 +1,47 @@
+(or any successor category of liabilities under Regulation D); provided, further, that if the LIBO Rate is less than zero, such rate shall be
+deemed to be zero for purposes hereof.
+
+“LIBOR Loan” shall mean each (i) U.S. Dollar Denominated Revolving Loan designated as such by the applicable Borrower at
+the time of the incurrence thereof or conversion thereto and (ii) each Loan denominated in Euros or any Acceptable Foreign Currency.
+
+“LIBOR Screen Rate” shall have the meaning provided in the definition of “LIBO Rate”.
+
+“Lien” shall mean any mortgage, pledge, hypothecation, assignment for security, deposit arrangement, encumbrance, lien
+(statutory or other), charge, preference, priority or other security agreement of any kind or nature whatsoever (including any conditional
+sale or other title retention agreement and any lease having substantially the same effect as any of the foregoing).
+
+“Liquidity Threshold” shall mean an amount equal to 50% of the Total Revolving Loan Commitment then in effect.
+
+“Loan” shall mean each Revolving Loan and each Swingline Loan.
+
+“Locations Reserve” shall mean a reserve established by the Administrative Agent in respect of Inventory located at locations
+with less than $100,000 of total Inventory.
+
+“LLC” means any Person that is a limited liability company under the laws of its jurisdiction of formation.
+
+“Mandatory Borrowing” shall have the meaning provided in Section 2.01(c).
+
+“Manufacturing Facility” shall mean any manufacturing facilities or Gigafactory facilities established by the Company or any of
+its Subsidiaries from time to time.
+
+“Margin Stock” shall have the meaning provided in Regulation U.
+
+“Material Acquisition” shall mean any Acquisition that involves the payment of consideration by the Company and its
+Subsidiaries in excess of the greater of $75,000,000 and 1.0% of Consolidated Total Assets.
+
+“Material Adverse Effect” shall mean (a) a material adverse change in, or a material adverse effect on, the business, operations,
+property, assets, liabilities (actual or contingent) or financial condition of the Company and its Subsidiaries taken as a whole or (b) a
+material adverse effect (i) on the rights or remedies of the Lenders, the Administrative Agent or the Collateral Agent hereunder or under
+any other Credit Document, (ii) on the ability of the Credit Parties taken as a whole to perform their payment obligations to the Lenders,
+the Administrative Agent or the Collateral Agent hereunder or under any other Credit Document, or (iii) upon the legality, validity, binding
+effect or enforceability against any Credit Party of any Credit Document to which it is a party.
+
+“Material Disposition” shall mean any disposition of (i) all or substantially all of the assets of, or the assets constituting a
+business, division or product line of, the Company or any of its Subsidiaries or
+
+51
+
+
+-----
+
+

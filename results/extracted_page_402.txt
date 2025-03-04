@@ -1,0 +1,45 @@
+otherwise disposed of after the occurrence and during the continuance of an Event of Default, such Chargor shall,
+if requested by the Collateral Agent in writing, cause the buyer to agree in writing to be subject to, and comply
+with the terms of, this Clause 6. The Collateral Agent shall have the right to bring an action to enforce its rights
+under this Clause 6, including, without limitation, an action seeking possession of the applicable Security Assets
+and/or specific performance of this Clause 6.
+
+If the grant of the above leases and licenses by an Chargor would breach any agreement with a third party, the affected Chargor shall
+promptly notify the Collateral Agent in writing. In such event, the above leases and licenses shall be deemed effective to the fullest extent
+permitted without causing such a breach, and, at the Collateral Agent’s request, the affected Chargor shall use commercially reasonable
+efforts to obtain all third-party consents required to effect fully the above leases and licenses. The affected Chargor shall pay all
+reasonable out-of-pocket expenses in connection with obtaining any such consents.
+
+**7.** **CONVERSION OF FLOATING CHARGE**
+
+**7.1** **Conversion by notice**
+
+The Collateral Agent may, by written notice to a Chargor, convert the floating charge created under this Deed into a fixed charge with
+immediate effect as regards all or any of the Security Assets subject to the floating charge and specified in the notice if:
+
+(a) an Event of Default has occurred and is continuing; or
+
+(b) it considers (acting reasonably) any Security Assets to be in danger of being seized or sold under any form of
+distress, attachment, execution or other legal process.
+
+**7.2** **Small companies**
+
+The floating charge created under this Deed by any Chargor shall not convert into a fixed charge solely by reason of a moratorium being
+obtained under the Insolvency Act 2000 (or anything done with a view to obtaining such a moratorium) in respect of such Chargor.
+
+**7.3** **Automatic conversion**
+
+The floating charge created under this Deed shall (in addition to the circumstances in which the same will occur under general law)
+automatically convert into a fixed charge:
+
+(a) in relation to any Security Asset which is subject to a floating charge if:
+
+(i) that Chargor creates any Security (other than any Permitted Encumbrances) on or over the relevant
+Security Asset without the prior written consent of the Collateral Agent; or
+(ii) any third party levies or attempts to levy any distress, execution, attachment or other legal process
+against any such Security Asset that constitutes an Event of Default; or
+
+
+-----
+
+

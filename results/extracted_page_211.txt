@@ -1,0 +1,45 @@
+“Lender Counterparty” shall mean any counterparty to an Interest Rate Protection Agreement and/or Other Hedging Agreement
+that is (a) the Administrative Agent, a Lender or an affiliate of the Administrative Agent or a Lender or (b) the Administrative Agent, a
+Lender or an affiliate of the Administrative Agent or a Lender at the time such Person enters into such Interest Rate Protection Agreement
+and/or Other Hedging Agreement (even if the Administrative Agent or such Lender subsequently ceases to be the Administrative Agent or
+a Lender, as the case may be, under this Agreement for any reason, together with the Administrative Agent’s, such Lender’s or such
+affiliate’s successor and assigns), so long as the Administrative Agent, such Lender, such affiliate or such successor or assign participates
+in such Interest Rate Protection Agreement and/or Other Hedging Agreement.
+
+“Lender Party” shall mean the Administrative Agent, the Issuing Lenders, the Swingline Lender or any other Lender.
+
+“Letter of Credit” shall have the meaning provided in Section 3.01(a).
+
+“Letter of Credit Back-Stop Arrangements” shall have the meaning provided in Section 2.15(a)(ii).
+
+“Letter of Credit Exposure” shall mean, at any time, the aggregate amount of all Letter of Credit Outstandings at such time in
+respect of Letters of Credit. The Letter of Credit Exposure of any Lender at any time shall be its RL Percentage of the aggregate Letter of
+Credit Exposure at such time.
+
+“Letter of Credit Fee” shall have the meaning provided in Section 4.01(b).
+
+“Letter of Credit Outstandings” shall mean, at any time, the sum of (i) the Stated Amount of all outstanding Letters of Credit at
+such time and (ii) the aggregate amount of all Unpaid Drawings in respect of all Letters of Credit at such time.
+
+“Letter of Credit Request” shall have the meaning provided in Section 3.03(a).
+
+“LIBO Rate” shall mean, with respect to any Borrowing of LIBOR Loans for any Interest Period, the rate per annum determined
+by the Administrative Agent (a)(i) with respect to any U.S. Dollar Denominated Revolving Loan or Foreign Currency Denominated Loan, by
+reference to the Reuters Screen LIBOR01 for deposits in the relevant currency (or such other comparable page as may, in the reasonable
+opinion of the Administrative Agent, replace such page for the purpose of displaying such rates) (the “LIBOR Screen Rate”) for a period
+equal to such Interest Period as of the Specified Time on the Quotation Day for such Interest Period and (ii) with respect to any Euro
+Denominated Loan, the interbank offered rate administered by the Banking Federation of the European Union (or any other Person which
+takes over the administration of such rate) for Euros for a period equal in length to such Interest Period as displayed on page EURIBOR01
+of the Reuters screen (or such other comparable page as may, in the reasonable opinion of the Administrative Agent, replace such page for
+the purpose of displaying such rates) (the “EURO Screen Rate”) as of the Specified Time on the Quotation Day for such Interest Period;
+provided that, subject to the last paragraph of Section 2.10(ab), to the extent that an interest rate is not ascertainable pursuant to the
+foregoing provisions of this definition, the “LIBO Rate” shall be the interest rate per annum determined by the Administrative Agent to be
+the average of the rates per annum at which deposits in the relevant currency are offered for such relevant Interest Period to major banks
+in the London interbank market in London, England by the Administrative Agent as of the
+
+50
+
+
+-----
+
+

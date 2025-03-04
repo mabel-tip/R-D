@@ -1,0 +1,44 @@
+maturity date, as applicable, with respect thereto; (c) if any prepayment of any of its LIBOR Loans by the applicable Borrower is not made
+on any date specified in a notice of prepayment given by the respective Borrower or Borrowers; or (d) as a consequence of (i) any other
+default by the respective Borrower or Borrowers to repay LIBOR Loans when required by the terms of this Agreement or any Note held by
+such Lender or (ii) any election made pursuant to Section 2.10(bc).
+
+2.12. Lending Offices and Affiliate Lenders for Loans in Available Currency.
+
+(a) Each Lender may at any time or from time to time designate, by written notice to the Administrative Agent to the
+extent not already reflected on Schedule 13.03, one or more lending offices (which, for this purpose, may include Affiliates of the
+respective Lender) for the various Loans in the Available Currency made, and Letters of Credit participated in, by such Lender (including
+by designating a separate lending office (or Affiliate) to act as such with respect to such Loans and Letter of Credit Outstandings);
+provided that, for designations made after the Effective Date, to the extent such designation shall result in increased costs or taxes under
+Section 2.10, 3.06 or 5.04 in excess of those which would be charged in the absence of the designation of a different lending office
+(including a different Affiliate of the respective Lender), then the Borrowers shall not be obligated to pay such excess increased costs or
+taxes (although if such designation results in increased costs or taxes, the Borrowers shall be obligated to pay the costs and taxes which
+would have applied in the absence of such designation and any subsequent increased costs and taxes of the type described above resulting
+from changes after the date of the respective designation). Except as provided in the immediately preceding sentence, each lending office
+and Affiliate of any Lender designated as provided above shall, for all purposes of this Agreement and the other Credit Documents, be
+treated in the same manner as the respective designating Lender (and shall be entitled to all indemnities and similar provisions in respect
+of its acting as such hereunder).
+
+(b) Each Lender agrees that on the occurrence of any event giving rise to the operation of Section 2.10(a)(ii) or (iii),
+Section 2.10(cd), Section 3.06 or Section 5.04 with respect to such Lender, it will, if requested by the Company, use reasonable efforts
+(subject to overall policy considerations of such Lender) to designate another lending office for any Loans or Letters of Credit affected by
+such event; provided that such designation is made on such terms that such Lender and its lending office suffer no economic, legal or
+regulatory disadvantage, with the object of avoiding the consequence of the event giving rise to the operation of such Section. Nothing in
+this Section 2.12(b) shall affect or postpone any of the obligations of any Borrower or the right of any Lender provided in Sections 2.10,
+3.06 and 5.04.
+
+2.13. Replacement of Lenders. (a) If any Lender becomes a Defaulting Lender or an Impacted Lender, (b) upon the
+occurrence of any event giving rise to the operation of Section 2.10(a)(ii) or (iii), Section 2.10(cd), Section 3.06 or Section 5.04 with
+respect to any Lender which results in such Lender requesting additional amounts from the Borrowers pursuant to any such Sections, (c)
+in the case of a refusal by a Lender to consent to a proposed change, waiver, discharge or termination with respect to this Agreement
+which has been approved by the Required Lenders as (and to the extent) provided in Section 13.1213.13(b) or (d) in the circumstances
+provided in Section 2.19(b), the Borrowers shall have the right, in accordance with Section 13.0413.05(b), to replace such Lender (the
+“Replaced Lender”) with one or more other Eligible Transferees (collectively, the “Replacement Lender”) and each of which shall be
+reasonably acceptable to the Administrative Agent, the Swingline Lender and each Issuing Lender; provided that:
+
+95
+
+
+-----
+
+

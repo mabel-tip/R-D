@@ -1,0 +1,74 @@
+**Net Carrying Value** **Principal** **Committed** **Contractual** **Contractual**
+
+**Current** **Long-Term** **Balance** **Amount (1)** **Interest Rates** **Maturity Date**
+
+**Recourse debt:**
+2021 Notes $ — $ 1,304 $ 1,380 $ — 1.25% March 2021
+2022 Notes — 902 978 — 2.375% March 2022
+2024 Notes — 1,383 1,840 — 2.00% May 2024
+2025 Notes — 1,782 1,800 — 5.3% August 2025
+Credit Agreement 141 1,586 1,727 499 2.7%-4.8% June 2020-July 2023
+Zero-Coupon Convertible Senior Notes due in
+2020 97 — 103 — 0.0% December 2020
+
+Solar Bonds and other Loans 15 53 70 — 3.6%-5.8% March 2020-January 2031
+
+
+Total recourse debt 253 7,010 7,898 499
+**Non-recourse debt:**
+Automotive Asset-backed Notes 573 997 1,577 — 2.0%-7.9% February 2020- May 2023
+Solar Asset-backed Notes 32 1,123 1,183 — 4.0%-7.7% September 2024-February 2048
+China Loan Agreements 444 297 741 1,542 3.7%-4.0% September 2020-December 2024
+Cash Equity Debt 10 430 454 — 5.3%-5.8% July 2033-January 2035
+Solar Loan-backed Notes 11 164 182 — 4.8%-7.5% September 2048-September 2049
+Warehouse Agreements 21 146 167 933 3.1%-3.6% September 2021
+Solar Term Loans 8 152 161 — 5.4% January 2021
+Automotive Lease-backed Credit Facility 24 16 40 — 4.2%-5.9% November 2022
+Solar Revolving Credit Facility and
+other Loans 23 67 89 6 4.5%-7.4% March 2020-June 2022
+
+Total non-recourse debt 1,146 3,392 4,594 2,481
+
+Total debt 1,399 10,402 $ 12,492 $ 2,980
+
+Finance leases 386 1,232
+
+Total debt and finance leases $ 1,785 $ 11,634
+
+(1) There are no restrictions on draw-down or use for general corporate purposes with respect to any available committed funds under our credit facilities
+and financing funds, except certain specified conditions prior to draw-down, including pledging to our lenders sufficient amounts of qualified
+receivables, inventories, leased vehicles and our interests in those leases, solar energy systems and the associated customer contracts, our interests in
+financing funds or various other assets and as may be further described below.
+
+Recourse debt refers to debt that is recourse to our general assets. Non-recourse debt refers to debt that is recourse to only assets of our subsidiaries.
+The differences between the unpaid principal balances and the net carrying values are due to convertible senior note conversion features, debt discounts or
+deferred financing costs. As of December 31, 2020, we were in material compliance with all financial debt covenants, which include minimum liquidity and
+expense-coverage balances and ratios.
+
+**2021 Notes, Bond Hedges and Warrant Transactions**
+
+In March 2014, we issued $1.20 billion in aggregate principal amount of our 2021 Notes in a public offering. In April 2014, we issued an additional
+$180 million in aggregate principal amount of the notes, pursuant to the exercise in full of the overallotment options by the underwriters. The total net proceeds
+from the issuances, after deducting transaction costs, were $1.36 billion.
+
+As adjusted to give effect to the Stock Split, each $1,000 of principal of these notes is now convertible into 13.8940 shares of our common stock, which is
+equivalent to a conversion price of $71.97 per share, subject to adjustment upon the occurrence of specified events. Holders of these notes have been able to
+elect to convert on or after December 1, 2020. The settlement of such an election to convert the outstanding notes would be in cash for the principal amount
+and, if applicable, cash and/or shares of our common stock for any conversion premium at our election. As of December 1, 2020, holders of these notes have the
+option to convert. Such holders also had the option to convert prior to December 1, 2020 under the circumstances further described below.   Upon the early
+conversion of the 2021 Notes, we will pay cash for the principal amount and deliver shares of our common stock based on a daily conversion value. If a
+fundamental change occurs prior to the applicable maturity date, holders of these notes may require us to repurchase all or a portion of their notes for cash at a
+repurchase price equal to 100% of the principal amount plus any accrued and unpaid interest. In addition, if specific corporate events occur prior to the
+applicable maturity date, we would increase the conversion rate for a holder who elects to convert their notes in connection with such an event in certain
+circumstances.
+
+In accordance with GAAP relating to embedded conversion features, we initially valued and bifurcated the conversion features associated with these
+notes. We recorded to stockholders’ equity $369 million for the conversion feature. The resulting debt discount is being amortized to interest expense at an
+effective interest rate of 5.96%.
+
+82
+
+
+-----
+
+

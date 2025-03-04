@@ -1,0 +1,46 @@
+ERISA, whether or not waived; or the filing of any request for or receipt of a minimum funding waiver under Section 412 of the
+Code with respect to any Plan; or a determination that any Plan is considered an at-risk plan within the meaning of Section 430
+of the Code or Section 303 of ERISA; the Company, any of its Subsidiaries or any ERISA Affiliate incurring any liability under
+Section 436 of the Code, or a violation of Section 436 of the Code with respect to a Plan; or the failure to make any required
+contribution to a Multiemployer Plan pursuant to Sections 431 or 432 of the Code;
+
+(e) engaging in a non-exempt prohibited transaction within the meaning of Section 4975 of the Code or Section
+406 of ERISA with respect to or relating to a Plan or assets of a Plan;
+
+(f) the complete or partial withdrawal of the Company or any of its Subsidiaries or any ERISA Affiliate from a
+Multiemployer Plan, the insolvency under Title IV of ERISA of any Multiemployer Plan; or the receipt by the Company or any of
+its Subsidiaries or any ERISA Affiliate, of any notice, or the receipt by any Multiemployer Plan from any of the Company, any of
+its Subsidiaries or any ERISA Affiliate of any notice, that a Multiemployer Plan is in endangered or critical status under Section
+432 of the Code or Section 305 of ERISA; or
+
+(g) the Company, any of its Subsidiaries or any ERISA Affiliate incurring any liability under Title IV of ERISA
+with respect to any Plan (other than premiums due and not delinquent under Section 4007 of ERISA).
+
+“EU Bail-In Legislation Schedule” shall mean the EU Bail-In Legislation Schedule published by the Loan Market Association (or
+any successor person), as in effect from time to time.
+
+“Euro Denominated Loans” shall mean each Loan denominated in Euros at the time of the incurrence thereof.
+
+“EURO Screen Rate” shall have the meaning provided in the definition of “LIBO Rate”.
+
+“Euros” and the designation “€” shall mean the currency introduced on January 1, 1999 at the start of the third stage of
+European economic and monetary union pursuant to the Treaty on the European Union (expressed in euros).
+
+“Event of Default” shall have the meaning provided in Section 11.
+
+“Excess Availability” shall mean, as of any date of determination (but otherwise subject to Section 3.02(b)), the amount by
+which (a) Availability at such time exceeds (b) the Aggregate Exposure at such time.
+
+“Excluded Accounts” shall mean all Deposit Accounts, securities accounts and commodities accounts established (or otherwise
+maintained) by the Company or any of its Subsidiaries other than Core Deposit Accounts, DB Accounts and Controlled Securities Accounts.
+
+“Excluded Charging Subsidiaries” shall mean those direct or indirect subsidiaries of the Company (a) in which the Company
+owns, directly or indirectly, Equity Interests of less than fifty-one percent (51%), (b) that own, lease or finance (or own any Subsidiary that
+is formed for such purpose) no assets
+
+40
+
+
+-----
+
+

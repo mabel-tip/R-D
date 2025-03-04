@@ -1,0 +1,59 @@
+g y p
+through one of our specified commercial banking partners. We also offer resale value guarantees in connection with automotive sales to certain leasing
+partners. Under these programs, we receive full payment for the vehicle sales price at the time of delivery and our counterparty has the option of selling their
+vehicle back to us during the guarantee period, which currently is generally at the end of the term of the applicable loan or financing program, for a predetermined resale value.
+
+With the exception of the Vehicle Sales to Leasing Partners with a Resale Value Guarantee and a Buyback Option program discussed within the
+Automotive Leasing section below, we recognize revenue when control transfers upon delivery to customers in accordance with ASC 606 as a sale with a right
+of return as we do not believe the customer has a significant economic incentive to exercise the resale value guarantee provided to them at contract inception.
+The process to determine whether there is a significant economic incentive includes a comparison of a vehicle’s estimated market value at the time the option is
+exercisable with the guaranteed resale value to determine the customer’s economic incentive to exercise. The performance obligations and the pattern of
+recognizing automotive sales with resale value guarantees are consistent with automotive sales without resale value guarantees with the exception of our
+estimate for sales return reserve. Sales return reserves for automotive sales with resale value guarantees are estimated based on historical experience plus
+consideration for expected future market values. On a quarterly basis, we assess the estimated market values of vehicles under our buyback options program to
+determine whether there have been changes to the likelihood of future product returns. As we accumulate more data related to the buyback values of our
+vehicles or as market conditions change, there may be material changes to their estimated values. Due to price adjustments we made to our vehicle offerings
+during 2020, we estimated that there is a greater likelihood that customers will exercise their buyback options that were provided prior to such adjustments. As
+a result, along with the estimated variable consideration related to normal future product returns for vehicles sold under the buyback options program, we
+adjusted our sales return reserve on vehicles previously sold under our buyback options program resulting in a reduction of automotive sales revenues of $72
+million for the year ended December 31, 2020. If customers elect to exercise the buyback option, we expect to be able to subsequently resell the returned
+vehicles, which resulted in a corresponding reduction in cost of automotive sales of $42 million for the year ended December 31, 2020. The net impact was $30
+million reduction in gross profit for the year ended December 31, 2020. The total sales return reserve on vehicles previously sold under our buyback options
+program was $703 million and $639 million as of December 31, 2020 and December 31, 2019, respectively, of which $202 million and $93 million was short
+term, respectively.
+
+Deferred revenue activity related to the access to our Supercharger network, internet connectivity, FSD features and over-the-air software updates on
+automotive sales with and without resale value guarantee consisted of the following (in millions):
+
+
+**Year ended December 31,**
+
+
+**2020** **2019**
+Deferred revenue on automotive sales with and without
+resale value guarantee— beginning of period $ 1,472 $ 883
+Additions 724 880
+Net changes in liability for pre-existing contracts 56 9
+Revenue recognized (326) (300)
+Deferred revenue on automotive sales with and without
+resale value guarantee— end of period $ 1,926 $ 1,472
+
+Deferred revenue is equivalent to the total transaction price allocated to the performance obligations that are unsatisfied, or partially unsatisfied, as of
+December 31, 2020. From the deferred revenue balance as of December 31, 2019, revenue recognized during the year ended December 31, 2020 was
+$283 million. From the deferred revenue balance as of December 31, 2018, revenue recognized during the year ended December 31, 2019 was $220 million. Of
+the total deferred revenue on automotive sales with and without resale value guarantees as of December 31, 2020, we expect to recognize $1.13 billion of
+revenue in the next 12 months. The remaining balance will be recognized over the performance period as discussed above in Automotive Sales without Resale
+Value Guarantee.
+
+Automotive Regulatory Credits
+
+We earn tradable credits in the operation of our automotive business under various regulations related to zero-emission vehicles, greenhouse gas, fuel
+economy and clean fuel. We sell these credits to other regulated entities who can use the credits to comply with emission standards and other regulatory
+requirements.
+
+62
+
+
+-----
+
+

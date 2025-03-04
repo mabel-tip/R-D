@@ -1,0 +1,45 @@
+to the Guaranty to which it is a party and such default shall continue beyond the period of grace, if any, specifically applicable thereto
+pursuant to the terms of such Guaranty, or, if no such period of grace is provided in such Guaranty or such default is of a covenant in this
+Agreement pursuant to which no grace period is provided in Section 11.03 above, such default shall continue unremedied for a period of
+30 days after the earlier of (a) the date on which such default shall first become known to any Responsible Officer of the Company or any
+other Credit Party or (b) the date on which written notice thereof is given to the defaulting party by the Administrative Agent or the
+Required Lenders; or
+
+11.10. Judgments. One or more judgments or decrees shall be entered against the Company or any Subsidiary of the
+Company involving in the aggregate for the Company and its Subsidiaries a liability (to the extent not paid or not covered by a reputable
+and solvent insurance company) and such judgments and decrees shall not be satisfied, vacated, discharged or stayed or bonded pending
+appeal for any period of 30 consecutive days, and the aggregate amount of all such judgments equals or exceeds the Threshold Amount; or
+
+11.11. Change of Control. A Change of Control shall occur; or
+
+11.12. Intercreditor Agreement. After the execution and delivery thereof, the Intercreditor Agreement or any provision
+thereof shall cease to be in full force or effect (except in accordance with its terms), any Credit Party shall assert that the Intercreditor
+Agreement shall have ceased for any reason to be in full force and effect (except in accordance with its terms) or shall knowingly contest,
+or knowingly support any other Person in any action that seeks to contest, the validity or effectiveness of the Intercreditor Agreement; or
+
+11.13. Convertible Notes Maturity Default. A Convertible Notes Maturity Default shall occur;
+
+then, and in any such event, and at any time thereafter, if any Event of Default shall then be continuing, the Administrative
+Agent, upon the written request of the Required Lenders, shall by written notice to the Borrowers, take any or all of the following actions,
+without prejudice to the rights of the Administrative Agent, any Lender or the holder of any Note to enforce its claims against any Credit
+Party (provided that, if an Event of Default specified in Section 11.05 shall occur with respect to any Borrower, the result which would
+occur upon the giving of written notice by the Administrative Agent as specified in clauses (a) and (b) below, shall occur automatically
+without the giving of any such notice): (a) declare the Total Revolving Loan Commitment terminated, whereupon the Revolving Loan
+Commitment of each Lender shall forthwith terminate immediately and any Commitment Commission shall forthwith become due and
+payable without any other notice of any kind; (b) declare the principal of and any accrued and unpaid interest in respect of all Loans and
+the Notes and all Obligations owing hereunder and thereunder to be, whereupon the same shall become, forthwith due and payable
+without presentment, demand, protest or other notice of any kind, all of which are hereby waived by each Credit Party; (c) terminate any
+Letter of Credit which may be terminated in accordance with its terms; (d) (x) direct the U.S. Borrowers to pay (and the U.S. Borrowers
+jointly and severally agree that upon receipt of such notice, or upon the occurrence of an Event of Default specified in Section 11.05 with
+respect to any U.S. Borrower, they will pay) to the Collateral Agent at the Payment Office such additional amount of cash or Cash
+Equivalents, to be held as security by the Collateral Agent, as is equal to 102% of the aggregate Stated Amount of all Letters of Credit
+issued for the account of the U.S. Borrowers and then outstanding and, (y) direct the Dutch Borrowers to pay (and the Dutch Borrowers
+agree that upon receipt of such notice, or upon the occurrence of an Event of Default specified in Section 11.05 with respect to any Dutch
+Borrower, they
+
+173
+
+
+-----
+
+

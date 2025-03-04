@@ -1,0 +1,43 @@
+definition secured by (or for which the holder of such obligation has an existing right, contingent or otherwise, to be secured by any Lien
+on property (including accounts and contract rights) owned or acquired by such Person, whether or not such Person has assumed or
+become liable for the payment of such obligation. The Indebtedness of any Person shall include the Indebtedness of any other entity
+(including any partnership in which such Person is a general partner) to the extent such Person is directly liable therefor pursuant to
+applicable law, contract or organizational documents as a result of such Person’s ownership interest in or other relationship with such
+entity, except to the extent the terms of such Indebtedness provide that such Person is not liable therefor. Notwithstanding the foregoing,
+Indebtedness shall not include (i) trade payables (so long as they are not more than 180 days past due), accrued expenses and deferred tax
+and other credits incurred by any Person in accordance with customary practices and in the ordinary course of business of such Person,
+(ii) any earn-out obligations until such obligation is past due, (iii) obligations incurred among the Credit Parties and their respective
+Subsidiaries in the ordinary course of business for the purchase of goods and services or, (iv) third party obligations included in the
+Company’s financial statements as a result of variable interest entity accounting and (v) payments for property or services in the ordinary
+course of business that are payable over a period not to exceed one year and at 0% interest. For purposes solely of (x) Sections 10.04 and
+11.04, all obligations under any Interest Rate Protection Agreement or any Other Hedging Agreement (and with the amount of any such
+obligations to be equal at any time to the termination value of such agreement or arrangement giving rise to such obligations that would
+be payable by such Person at such time) shall be deemed to be Indebtedness and (y) Section 11.04, Qualified Preferred Stock that contains
+restrictive or financial covenants shall be deemed to be Indebtedness.
+
+“Indemnified Person” shall have the meaning provided in Section 13.01(c).
+
+“Indemnified Taxes” shall have the meaning provided in Section 5.04(a).
+
+“Individual Exposure” of any Lender shall mean, at any time, the sum of (a) the aggregate principal amount of all Revolving
+Loans made by such Lender and then outstanding (for this purpose, using the U.S. Dollar Equivalent of amounts denominated in Euros or
+any Acceptable Foreign Currency), (b) such Lender’s RL Percentage of the aggregate principal amount of all Swingline Loans then
+outstanding, (c) such Lender’s RL Percentage of the aggregate amount of all Letter of Credit Outstandings (for this purpose, using the
+U.S. Dollar Equivalent of amounts denominated in Euros or any Acceptable Foreign Currency) at such time and (d) such Lender’s RL
+Percentage of the aggregate principal amount of all Agent Advances then outstanding.
+
+“Initial Maturity Date” shall mean June 10July 1, 20202023.
+
+“Initial Revolving Loan Commitments” shall mean Revolving Loan Commitments that mature on the Initial Maturity Date.
+
+“Insolvency Proceeding” shall mean any proceeding commenced by or against any Person under any provision of the
+Bankruptcy Code or under any state or foreign bankruptcy or insolvency law, assignments for the benefit of creditors, formal or informal
+moratoria, compositions, extensions generally with creditors, or proceedings seeking reorganization, arrangement, or other similar relief,
+including any proceeding commenced by or against any Person under any Dutch Insolvency Law or UK Insolvency Law.
+
+47
+
+
+-----
+
+

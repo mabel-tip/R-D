@@ -1,0 +1,48 @@
+B.V. and its Subsidiaries, including Tesla Financial Services Limited and Tesla Financial Services GmbH.
+
+“Tesla Lease Finance Subsidiary” shall mean any Tesla Finance Subsidiary that is a Non-Wholly Owned Subsidiary and was
+formed for the purpose of engaging in the financing of vehicle leases.
+
+“Tesla UK” shall have the meaning provided in the first paragraph of this Agreement.
+
+“Test Period” shall mean each period of four consecutive fiscal quarters of the Company then last ended, in each case taken as
+one accounting period.
+
+“Third Amendment” shall mean the Third Amendment to Credit Agreement, dated as of the Third Amendment
+Effective Date, among the Company, Tesla B.V., the lenders party thereto, the Collateral Agent and the Administrative Agent.
+
+“Third Amendment Effective Date” shall mean February 9, 2016.
+
+“Threshold Amount” shall mean $250,000,000.
+
+“Title Company” shall have the meaning provided in the definition of “Eligible Real Property”.
+
+“Title Policy” shall have the meaning provided in the definition of “Eligible Real Property”.
+
+“Total Borrowing Base” shall mean, as of any date of determination, the sum of the Dutch Borrowing Base and, the U.S.
+Borrowing Base and the UK Borrowing Base, in each case, at such date.
+
+“Total Leverage Ratio” shall mean, on any date of determination, the ratio of (x) Consolidated Total Indebtedness on such date
+to (y) Consolidated EBITDA for the Test Period most recently ended on or prior to such date; provided that (i) for purposes of any
+calculation of the Total Leverage Ratio pursuant to this Agreement, Consolidated EBITDA shall be determined on a Pro Forma Basis in
+accordance with the requirements of the definition of “Pro Forma Basis” contained herein.
+
+“Total Revolving Loan Commitment” shall mean, at any time, the sum of the Revolving Loan Commitments of each of the
+Lenders at such time. As of the First Amendment and Restatement Effective Date, the Total Revolving Loan Commitment is
+$2,425,000,000, of which $2,227,500,000 are 2023 Extended Revolving Loan Commitments2,327,500,000.
+
+“Transaction” shall mean, collectively, the execution and delivery by each Credit Party of the Credit Documents to which it is a
+party on the Effective Date, the incurrence of Loans (if any) on the Effective Date and the use of proceeds thereof.
+
+“Treaty Lender” shall mean a Lender which:
+
+(a) is treated as a resident (for the purposes of the applicable double taxation agreement) in a jurisdiction
+having a double taxation agreement with the United Kingdom which makes provision for full exemption from tax imposed by the
+United Kingdom on any payment of interest under this Agreement; and
+
+70
+
+
+-----
+
+

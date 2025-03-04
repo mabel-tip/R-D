@@ -1,0 +1,44 @@
+in full or if no Swingline Loans are outstanding, its respective Revolving Loans, in each case in such
+amount as may be required to cause the conditions giving rise to such mandatory repayment requirement
+to cease to exist on such day, and
+
+(D) in the case of a repayment and/or cash collateralization required pursuant to Section
+5.02(a)(i)(yx) on any day, each respective Borrower shall repay on such day the principal of its outstanding
+Swingline Loans in such amount as may be required to cause the conditions giving rise to such mandatory
+repayment requirement to cease to exist on such day.
+
+(iii) If after giving effect to the prepayment of all Loans and in the circumstances described in
+Section 5.02(a)(i)(zy), the conditions set forth in Section 5.02(a)(i) continue to exist, the respective Borrowers shall
+pay to the Administrative Agent at the Payment Office on such day an amount of cash and/or Cash Equivalents equal
+to 100% of the amount of such excess (or, in the case of a termination of the Total Revolving Loan Commitment,
+102% of the amount of such excess), such cash and/or Cash Equivalents to be held as security for all Obligations of
+the Borrowers to the Issuing Lenders and the Lenders hereunder in a cash collateral account to be established by,
+and under the sole dominion and control of, the Administrative Agent (and which cash and/or Cash Equivalents may,
+without limiting the Borrowers’ obligations in respect thereof, be paid to and applied by the Issuing Lenders and/or
+the Lenders in satisfaction of the Obligations of the applicable Borrowers to the Issuing Lenders and/or Lenders in
+respect of any Drawings made under any Letter of Credit issued for the account of such Borrower on the maturity
+date thereof). Notwithstanding the foregoing, in no event will cash or Cash Equivalents of any Dutch Borrower or UK
+Borrower be security for U.S. Borrower Obligations.
+
+(b) With respect to each repayment of Loans required by this Section 5.02, the Borrowers may designate the
+Types of Loans which are to be repaid and, in the case of LIBOR Loans, the specific Borrowing or Borrowings pursuant to which
+such LIBOR Loans were made (subject, in the case of any repayment and/or cash collateralization required by Section 5.02(a),
+to the order of priorities set forth therein); provided that: (i) repayments of LIBOR Loans pursuant to this Section 5.02 made on
+a day other than the last day of an Interest Period applicable thereto shall be subject to Section 2.11; (ii) if any repayment of
+LIBOR Loans made pursuant to a single Borrowing shall reduce the outstanding LIBOR Loans made pursuant to such Borrowing
+to an amount less than the Minimum Borrowing Amount applicable thereto, such Borrowing shall be automatically converted
+into a Borrowing of Base Rate Loans and (iii) each repayment of any Revolving Loans made pursuant to a Borrowing shall be
+applied pro rata among the Lenders holding such Revolving Loans. In the absence of a designation by a Borrower as described
+in the preceding sentence, the Administrative Agent shall, subject to the above, make such designation in its sole discretion.
+
+(c) In addition to any other mandatory repayments pursuant to this Section 5.02, (i) all then outstanding
+Swingline Loans shall be repaid in full on the earlier of (x) the fifth Business Day following the date the incurrence of such
+Swingline Loans and (y) the Swingline Expiry Date and (ii) all then outstanding Revolving Loans shall be repaid in full on the
+Final Maturity Date applicable thereto.
+
+116
+
+
+-----
+
+

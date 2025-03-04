@@ -1,0 +1,44 @@
+Lenders that are Non-Defaulting Lenders plus such Defaulting Lender’s Swingline Loan Exposure and Letter of Credit Exposure
+does not exceed the aggregate amount of all Non-Defaulting Lenders’ Revolving Loan Commitments and (y) immediately
+following the reallocation to a Lender that is a Non-Defaulting Lender, the Individual Exposure of such Lender does not exceed
+its Revolving Loan Commitment at such time;
+
+(ii) if the reallocation described in clause (i) above cannot, or can only partially, be effected, the applicable
+Borrowers shall within one Business Day following notice by the Administrative Agent (x) first, prepay such Swingline Loan
+Exposure and (y) second, cash collateralize in a manner reasonably satisfactory to the Administrative Agent and each applicable
+Issuing Lender such Defaulting Lender’s Letter of Credit Exposure (after giving effect to any partial reallocation pursuant to
+clause (i) above) in an aggregate amount equal to 102% of such Defaulting Lender’s Letter of Credit Exposure for so long as
+such Letter of Credit Exposure is outstanding (the “Letter of Credit Back-Stop Arrangements”) (it being understood that, for
+purposes of clarity, (x) such requirement shall terminate as to any Defaulting Lender upon the termination of Defaulting Lender
+status of the applicable Lender and (y) at the request of the Company, upon a determination by the Administrative Agent or the
+respective Issuing Lender that there exists cash collateral in excess of 102% of such Defaulting Lender’s Letter of Credit
+Exposure, such excess cash collateral may be returned to the applicable Borrowers so long as no Default or Event of Default
+then exists or would result therefrom);
+
+(iii) if any portion of such Defaulting Lender’s Letter of Credit Exposure is cash collateralized pursuant to
+clause (ii) above, the applicable Borrowers shall not be required to pay the Letter of Credit Fees for participation with respect
+to such portion of such Defaulting Lender’s Letter of Credit Exposure so long as it is cash collateralized;
+
+(iv) if the Letter of Credit Exposure of the Non-Defaulting Lenders is reallocated pursuant to this Section
+2.15(a), then the Letter of Credit Fees payable to the Lenders pursuant to Section 4.01(b) shall be adjusted in accordance with
+such Non-Defaulting Lenders’ RL Percentages (calculated without regard to any Defaulting Lender’s Revolving Loan
+Commitment) and the Defaulting Lender shall not be entitled to any Letter of Credit Fee; and
+
+(v) if any Defaulting Lender’s Letter of Credit Exposure is neither cash collateralized nor reallocated pursuant
+to this Section 2.15(a), then, without prejudice to any rights or remedies of any Issuing Lender or any Lender hereunder, all
+Letter of Credit Fees payable under Section 4.01(b) with respect to such Defaulting Lender’s Letter of Credit Exposure shall be
+payable to the applicable Issuing Lender until such Letter of Credit Exposure is cash collateralized and/or reallocated.
+
+(b) Notwithstanding anything to the contrary contained in Section 2.01(a) or Section 3, so long as any Lender is a
+Defaulting Lender (i) the Swingline Lender shall not be required to fund any Swingline Loan and no Issuing Lender shall be required to
+issue, amend or increase any Letter of Credit, unless it is satisfied that the related exposure will be 100% covered by the Revolving Loan
+Commitments of the Non-Defaulting Lenders and/or cash collateral has been provided by the applicable Borrowers in accordance with
+Section 2.15(a), and (ii) participating interests in any such newly issued or increased Letter of Credit or newly made Swingline Loan shall
+be allocated among Lenders that are Non-Defaulting
+
+99
+
+
+-----
+
+

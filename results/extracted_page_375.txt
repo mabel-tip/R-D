@@ -1,0 +1,44 @@
+NOW, THEREFORE, in consideration of the foregoing and other benefits accruing to each Guarantor, the receipt and sufficiency
+of which are hereby acknowledged, each Guarantor hereby makes the following representations and warranties to the Administrative
+Agent for the benefit of the Secured Creditors and hereby covenants and agrees with each other Guarantor and the Administrative Agent
+for the benefit of the Secured Creditors as follows:
+
+1. GUARANTY. Each Guarantor, jointly and severally, irrevocably, absolutely and unconditionally guarantees as
+a primary obligor and not merely as surety to the Secured Creditors the full and prompt payment when due (whether at the stated
+maturity, by required prepayment, declaration, acceleration, demand or otherwise) of (i) the principal of, premium, if any, and interest on
+the Notes issued by, and the Loans made to, the UK Borrowers under the Credit Agreement, and all reimbursement obligations and
+Unpaid Drawings with respect to Letters of Credit issued for the account of a UK Borrower and (ii) all other obligations (including, without
+limitation, obligations which, but for the automatic stay under Section 362(a) of the Bankruptcy Code, would become due), liabilities and
+indebtedness owing by the UK Borrowers to the Secured Creditors under the Credit Agreement and each other Credit Document to which
+any UK Borrower is a party (including, without limitation, indemnities, Fees and expenses in respect of which a UK Borrower is obligated
+and interest thereon (including, without limitation, in each case any interest, fees or expenses accruing after the commencement of any
+bankruptcy, insolvency, receivership or similar proceeding at the rate provided for in the Credit Agreement, whether or not such interest,
+fees or expenses are an allowed claim in any such proceeding)), whether now existing or hereafter incurred under, arising out of or in
+connection with each such Credit Document (all such principal, premium, interest, reimbursement obligations, Unpaid Drawings,
+liabilities, indebtedness and obligations being herein collectively called the “Guaranteed Obligations”). For the avoidance of doubt, in no
+event shall the Guaranteed Obligations of any Guarantor include any Obligations of any U.S. Borrower, any U.S. Subsidiary Guarantor, any
+Dutch Borrower or any Dutch Subsidiary Guarantor.
+
+Each Guarantor understands, agrees and confirms that the Secured Creditors may enforce this Guaranty up to the full amount
+of the Guaranteed Obligations against such Guarantor without proceeding against any other Guarantor or any other guarantor of the
+Guaranteed Obligations, or any Borrower, or against any security for the Guaranteed Obligations, or under any other guaranty covering all
+or a portion of the Guaranteed Obligations. This Guaranty is a guaranty of prompt payment and performance and not of collection. For
+purposes of this Guaranty, the term “Guarantor” as applied to any Borrower shall refer to such Borrower as a guarantor of indebtedness
+incurred by another Borrower, and not indebtedness directly incurred by such Borrower.
+
+The following capitalized terms used herein shall have the definitions specified below: “Termination  Date” shall mean the date
+upon which the Total Revolving Loan Commitment under the Credit Agreement has been terminated, no Note is outstanding (and all
+Loans and Unpaid Drawings have been paid in full), all Letters of Credit have been terminated (or have been cash collateralized or
+backstopped by another letter of credit, in either case on terms and pursuant to arrangements reasonably satisfactory to the
+Administrative Agent and the respective Issuing Lenders (which arrangements, in any event, shall require such cash collateral or backstop
+letter of credit to be in a stated amount equal to at least 102% of the aggregate Stated Amount of all Letters of Credit outstanding at such
+time)), and all other Guaranteed Obligations (other than indemnities and other contingent payment obligations under the Credit
+Documents which are not then due and payable) then due and payable have been paid in full.
+
+Additionally, each Guarantor, jointly and severally, unconditionally, absolutely and irrevocably, guarantees the payment of any
+and all Guaranteed Obligations whether or not due and payable by any UK
+
+
+-----
+
+

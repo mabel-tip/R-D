@@ -1,0 +1,45 @@
+Storage Subsidiary or Tesla Finance Subsidiary.
+
+“Securitization Subsidiary” shall mean a Wholly-Owned Subsidiary of the Company that is a special purpose vehicle that has
+been established for the sole purpose of facilitating a financing under a Permitted Securitization Facility and that shall not engage in any
+activities other than in connection with the Permitted Securitization Facility. For the avoidance of doubt, an Excluded Charging
+Subsidiary, an Excluded Energy Storage Subsidiary and any Tesla Finance Subsidiary may be a Securitization Subsidiary.
+
+“Security Agreement” shall mean and include each of the U.S. Security Agreement and, the Dutch Security Agreements and the
+UK Security Agreement.
+
+“Security Agreement Collateral” shall mean all “Collateral” as defined in any Security Agreement (or “Inventory” as defined in
+the Dutch Inventory Security Agreement).
+
+“Security Documents” shall mean and include each Security Agreement and, after the execution and delivery thereof, each
+Additional Security Document, each Mortgage, each Incremental Security Document and any other related document, agreement or grant
+pursuant to which the Company or any of its Subsidiaries grants, perfects or continues a security interest in favor of the Collateral Agent
+for the benefit of the Secured Creditors (including any Belgian law register pledge agreement in relation to a Perfected Belgian Lien, any
+supplements, joinders or similar agreements to the U.S. Security Agreement and any of the Dutch Security Agreements or UK Security
+Agreement to add an additional Credit Party as a grantor or pledgor thereunder, and any agreement similar to a Dutch Security
+Agreement entered into by a Dutch Credit Party pursuant to which such Dutch Credit Party grants, perfects or continues a security
+interest in favor of the Collateral Agent for the benefit of the Secured Creditors or which is similar to a UK Security Agreement entered
+into by a UK Credit Party pursuant to which such UK Credit Party grants, perfects or continues a security interest in favor of the Collateral
+Agent for the benefit of the Secured Creditors); provided that any cash collateral or other agreements entered into pursuant to the Letter
+of Credit Back-Stop Arrangements shall constitute “Security Documents” solely for purposes of (x) Sections 8.03 and 10.01(d) and (y) the
+term “Credit Documents” as used in Sections 9.12(d), 10.04(a) and 13.01.
+
+“Sixth Amendment” shall mean that certain Sixth Amendment to the Credit Agreement and First Amendment to the Security
+Agreements, dated as of June 19, 2017, among the Borrowers, the other Credit Parties parties thereto, the Lenders party thereto and the
+Administrative Agent.
+
+“Sixth Amendment Effective Date” shall mean the date on which the conditions precedent to effectiveness of the Sixth
+Amendment are satisfied, which date is June 19, 2017.
+
+“SOFR” shall mean, with respect to any Business Day, a rate per annum equal to the secured overnight financing rate for such
+Business Day published by the SOFR Administrator on the SOFR Administrator’s Website at approximately 8:00 a.m. (New York City time)
+on the immediately succeeding Business Day.
+
+“SOFR Administrator” shall mean the NYFRB (or a successor administrator of the secured overnight financing rate).
+
+66
+
+
+-----
+
+

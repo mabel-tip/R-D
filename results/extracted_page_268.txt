@@ -1,0 +1,45 @@
+recourse or warranty, an undivided interest and participation, to the extent of such Participant’s RL Percentage, in such Letter of Credit,
+each drawing or payment made thereunder and the obligations of the U.S. Borrowers or, the Dutch Borrowers or the UK Borrowers, as the
+case may be, under this Agreement with respect thereto, and any security therefor or guaranty pertaining thereto. Upon any change in
+the Revolving Loan Commitments or RL Percentages of the Lenders pursuant to Section 2.13, 2.14, 2.15 or 13.0413.05(b), it is hereby
+agreed that, with respect to all outstanding Letters of Credit and Unpaid Drawings relating thereto, there shall be an automatic
+adjustment to the participations pursuant to this Section 3.04 to reflect the new RL Percentages of the assignor and assignee Lender, as
+the case may be.
+
+(b) In determining whether to pay under any Letter of Credit, no Issuing Lender shall have any obligation relative to the
+other Lenders other than to confirm that any documents required to be delivered under such Letter of Credit appear to have been
+delivered and that they appear to substantially comply on their face with the requirements of such Letter of Credit. Any action taken or
+omitted to be taken by an Issuing Lender under or in connection with any Letter of Credit issued by it shall not create for such Issuing
+Lender any resulting liability to any Borrower, any other Credit Party, any Lender or any other Person unless such action is taken or
+omitted to be taken with gross negligence or willful misconduct on the part of such Issuing Lender (as determined by a court of competent
+jurisdiction in a final and non-appealable decision).
+
+(c) In the event that an Issuing Lender makes any payment under any Letter of Credit issued by it and the U.S. Borrowers
+or, the Dutch Borrowers or the UK Borrowers, as applicable, shall not have reimbursed such amount in full to such Issuing Lender
+pursuant to Section 3.05(a), such Issuing Lender shall promptly notify the Administrative Agent, which shall promptly notify each
+Participant of such failure, and each Participant shall promptly and unconditionally pay to such Issuing Lender the amount of such
+Participant’s RL Percentage of such unreimbursed payment in U.S. Dollars (or, in the case of any unreimbursed payment made in Euros or
+an Acceptable Foreign Currency, such currency) and in same day funds. If the Administrative Agent so notifies, prior to 2:00 P.M. (New
+York City time) on any Business Day, any Participant required to fund a payment under a Letter of Credit, such Participant shall make
+available to the respective Issuing Lender in U.S. Dollars (or, in the case of any unreimbursed payment made in Euros or an Acceptable
+Foreign Currency, such currency) such Participant’s RL Percentage of the amount of such payment on such Business Day in same day
+funds. If and to the extent such Participant shall not have so made its RL Percentage of the amount of such payment available to the
+respective Issuing Lender, such Participant agrees to pay to such Issuing Lender, forthwith on demand such amount, together with
+interest thereon, for each day from such date until the date such amount is paid to such Issuing Lender at the overnight Federal Funds
+Rate (or, in the case of any unreimbursed payment made in a currency other than U.S. Dollars, at the respective Issuing Lender’s
+customary rate for interbank advances) for the first three days and at the interest rate applicable to U.S. Dollar Denominated Revolving
+Loans that are maintained as Base Rate Loans for each day thereafter. The failure of any Participant to make available to an Issuing
+Lender its RL Percentage of any payment under any Letter of Credit issued by such Issuing Lender shall not relieve any other Participant
+of its obligation hereunder to make available to such Issuing Lender its RL Percentage of any payment under any Letter of Credit on the
+date required, as specified above, but no Participant shall be responsible for the failure of any other Participant to make available to such
+Issuing Lender such other Participant’s RL Percentage of any such payment.
+
+(d) Whenever an Issuing Lender receives a payment of a reimbursement obligation as to which it has received any
+payments from the Participants pursuant to clause (c) above, such Issuing
+
+107
+
+
+-----
+
+

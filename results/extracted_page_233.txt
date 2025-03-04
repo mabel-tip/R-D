@@ -1,0 +1,48 @@
+Agreement, the Administrative Agent shall have the right to correct any such errors in such manner as it shall determine in its Permitted
+Discretion and the Administrative Agent will notify the Company promptly after making any such correction.
+
+“UK Collection Banks” shall have the meaning provided in Section 5.03(d).
+
+“UK Credit Parties” shall mean each UK Borrower and each UK Subsidiary Guarantor.
+
+“UK Guarantors” shall mean and include each UK Borrower (in its capacity as a guarantor under the UK Guaranty) and each UK
+Subsidiary Guarantor.
+
+“UK Guaranty” shall mean the UK Guaranty, dated as of December 23, 2020, in the form of Exhibit P, as amended, modified,
+restated and/or supplemented from time to time in accordance with the terms hereof and thereof.
+
+“UK Insolvency Law”shall mean the Insolvency Act 1986 and the Corporate Insolvency and Governance Act 2020, in each case,
+as now or hereafter in effect, or any successor thereto.
+
+“UK Priority Payables” shall mean, at any time, with respect to any Credit Party which has employees in England and Wales or
+otherwise carries on business in England and Wales or which leases, sells or otherwise owns goods in England and Wales, the aggregate
+amount of any liabilities of such Credit Party which are secured by a security interest, pledge, lien, charge, right or claim on any Collateral
+or the holder of which enjoys a right, in each case, pursuant to any applicable law, rule or regulation and which trust, security interest,
+pledge, lien, charge, right or claim ranks or is capable of ranking in priority to or pari passu with one or more of the Liens granted in the
+Security Documents.
+
+“UK Priority Payables Reserve” shall mean, on any date of determination for the UK Borrowing Base, a reserve established from
+time to time by the Administrative Agent in its Permitted Discretion in such amount as the Administrative Agent may reasonably determine
+in respect of UK Priority Payables of the UK Credit Parties.
+
+“UK Retention of Title Reserve” shall mean, on any date of determination for the UK Borrowing Base, a reserve established
+from time to time by the Administrative Agent in its Permitted Discretion for amounts of any claims preferred by law which rank or are
+capable of ranking senior to the Obligations.
+
+“UK Security Agreement” shall mean the security agreement, dated as of December 23, 2020, in the form of Exhibit Q, as
+amended, modified, restated and/or supplemented from time to time in accordance with the terms hereof and thereof.
+
+“UK Subsidiary” of any Person shall mean any Subsidiary of such Person incorporated, organized, or established in England and
+Wales.
+
+“UK Subsidiary Guarantors” shall mean each Wholly-Owned UK Subsidiary of Tesla UK (other than any UK Borrower, any
+Securitization Subsidiary, any Excluded Energy Storage Subsidiary, any Excluded Charging Subsidiary, any Tesla Finance Subsidiary and
+any Immaterial Subsidiary), whether existing on the Effective Date or established, created or acquired after the Effective Date, in each
+case unless and until such time as the respective Wholly-Owned UK Subsidiary is released from all of its
+
+72
+
+
+-----
+
+

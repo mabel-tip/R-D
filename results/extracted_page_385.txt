@@ -1,0 +1,44 @@
+20. COUNTERPARTS. This Guaranty may be executed in any number of counterparts and by the different
+parties hereto on separate counterparts, each of which when so executed and delivered shall be deemed an original, and all of which, when
+taken together, shall constitute one and the same instrument. A set of counterparts executed by all the parties hereto shall be lodged with
+the Company and the Administrative Agent. Delivery of an executed counterpart of a signature page hereof by facsimile, scan, photograph
+or other electronic transmission shall be as effective as delivery of a manually executed counterpart hereof. The words “execution,”
+“signed,” “signature,” “delivery,” and words of like import in or relating to this Guaranty and the transactions contemplated hereby shall
+be deemed to include Electronic Signatures (as defined below), deliveries or the keeping of records in electronic form, each of which shall
+be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paperbased
+recordkeeping system, as the case may be. “Electronic Signatures” means any electronic symbol or process attached to, or associated with,
+any contract or other record and adopted by a person with the intent to sign, authenticate or accept such contract or record.
+
+21. PAYMENTS. All payments made by any Guarantor hereunder will be made without setoff, counterclaim or
+other defense and on the same basis as payments are made by the applicable Borrowers under Sections 5.03 and 5.04 of the Credit
+Agreement.
+
+22. JUDGMENT CURRENCY. (a) The Guarantors’ obligations hereunder to make payments in the Obligation
+Currency shall not be discharged or satisfied by any tender or recovery pursuant to any judgment expressed in or converted into any
+currency other than the Obligation Currency, except to the extent that such tender or recovery results in the effective receipt by the
+Administrative Agent or the other Secured Creditors of the full amount of the Obligation Currency expressed to be payable to the
+Administrative Agent or the other Secured Creditors under this Guaranty. If for the purpose of obtaining or enforcing judgment against
+any Guarantor in any court or in any jurisdiction, it becomes necessary to convert into or from the Judgment Currency an amount due in
+the Obligation Currency, the conversion shall be made, at the rate of exchange (as quoted by the Administrative Agent or if the
+Administrative Agent does not quote a rate of exchange on such currency, by a known dealer in such currency designated by the
+Administrative Agent) determined, in each case, as of the Judgment Currency Conversion Date.
+
+(b) If there is a change in the rate of exchange prevailing between the Judgment Currency Conversion Date and
+the date of actual payment of the amount due, each Guarantor covenants and agrees to pay, or cause to be paid, such additional amounts, if
+any (but in any event not a lesser amount), as may be necessary to ensure that the amount paid in the Judgment Currency, when converted
+at the rate of exchange prevailing on the date of payment, will produce the amount of the Obligation Currency which could have been
+purchased with the amount of Judgment Currency stipulated in the judgment or judicial award at the rate or exchange prevailing on the
+Judgment Currency Conversion Date.
+
+(c) For purposes of determining any rate of exchange for this Section 22, such amounts shall include any
+premium and costs payable in connection with the purchase of the Obligation Currency.
+
+23. ADDITIONAL GUARANTORS. It is understood and agreed that any Wholly-Owned UK Subsidiary of Tesla UK
+that is required to execute a counterpart of this Guaranty after the date hereof pursuant to the Credit Agreement shall become a
+Guarantor hereunder by (x) executing and delivering a counterpart hereof, or a Joinder Agreement and delivering same to the
+Administrative Agent and (y) taking all actions as specified in this Guaranty as would have been taken by such Guarantor had it
+
+
+-----
+
+

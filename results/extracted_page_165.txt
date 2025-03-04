@@ -1,0 +1,46 @@
+“Additional Convertible Notes” shall mean unsecured convertible senior securities of the Company issued pursuant to, and
+containing the requirements of, clause (y) of Section 10.04(l) or Section 10.04(n), which unsecured convertible senior securities are
+convertible into Equity Interests, cash or a combination of cash and Equity Interests.
+
+“Additional Convertible Notes Documents” shall mean any Additional Convertible Notes and any Additional Convertible Notes
+Indenture.
+
+“Additional Convertible Notes Indenture” shall mean each indenture (or similar document) pursuant to which any Additional
+Convertible Notes are issued.
+
+“Additional Security Documents” shall have the meaning provided in Section 9.12(e).
+
+“Administrative Agent” shall mean DBNY, in its capacity as Administrative Agent for the Lenders hereunder and under the
+other Credit Documents, and shall include any successor to the Administrative Agent appointed pursuant to Section 12.09.
+
+“Affected Financial Institution” shall mean (a) any EEA Financial Institution or (b) any UK Financial Institution.
+
+“Affiliate” shall mean, with respect to any Person, any other Person directly or indirectly controlling (including, but not limited
+to, all directors and officers of such Person), controlled by, or under direct or indirect common control with, such Person. A Person shall
+be deemed to control another Person if such Person possesses, directly or indirectly, the power to direct or cause the direction of the
+management and policies of such other Person, whether through the ownership of voting securities, by contract or otherwise; provided,
+however, that none of the Administrative Agent, any Lender or any of their respective Affiliates shall be considered an Affiliate of the
+Company or any Subsidiary thereof.
+
+“Agent Advance” shall have the meaning provided in Section 2.01(e).
+
+“Agent Advance Period” shall have the meaning provided in Section 2.01(e).
+
+“Agents” shall mean and include the Administrative Agent, the Collateral Agent, the Syndication Agents and the CoDocumentation Agents.
+
+“Aggregate Dutch Borrower Exposure” shall mean, at any time, the sum of (a) the aggregate principal amount of all Dutch
+Borrower Revolving Loans outstanding at such time (for this purpose, using the U.S. Dollar Equivalent of amounts denominated in Euros
+or any Acceptable Foreign Currency), (b) the aggregate amount of all Letter of Credit Outstandings (for this purpose, using the U.S. Dollar
+Equivalent of amounts denominated in Euros or any Acceptable Foreign Currency) at such time in respect of Letters of Credit issued for
+the account of any Dutch Borrower (exclusive of such Letter of Credit Outstandings which are repaid with the proceeds of, and
+simultaneously with the incurrence of, the respective incurrence of Dutch Borrower Revolving Loans or Dutch Borrower Swingline Loans)
+and (c) the aggregate principal amount of all Dutch Borrower Swingline Loans outstanding at such time (exclusive of Dutch Borrower
+Swingline Loans which are repaid with the proceeds of, and simultaneously with the incurrence of, the respective incurrence of Dutch
+Borrower Revolving Loans).
+
+4
+
+
+-----
+
+

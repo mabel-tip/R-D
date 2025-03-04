@@ -1,0 +1,44 @@
+provided that, unless the Revolving Loan Commitments which are terminated and Revolving Loans which are repaid pursuant to preceding
+clause (B) are immediately replaced in full at such time through the addition of one or more Replacement Lenders or the increase of the
+Revolving Loan Commitments and/or outstanding Revolving Loans of one or more existing Lenders (who in each case must specifically
+consent thereto), then in the case of any action pursuant to preceding clause (B), the Required Lenders (determined after giving effect to
+the proposed action) shall specifically consent thereto, provided further, that no Borrower shall have any right to replace a Lender,
+terminate its Revolving Loan Commitment or repay its Revolving Loans solely as a result of the exercise of such Lender’s rights (and the
+withholding of any required consent by such Lender) pursuant to the second proviso to Section 13.1213.13(a).
+
+(c) Notwithstanding the foregoing, any provision of this Agreement may be amended by an agreement in writing entered
+into by the Company, the other Borrowers, the Required Lenders and the Administrative Agent (and, if their rights or obligations are
+affected thereby, each Issuing Lender and the Swingline Lender) if (i) by the terms of such agreement the Revolving Loan Commitment of
+each Lender not consenting to the amendment provided for therein shall terminate upon the effectiveness of such amendment and (ii) at
+the time such amendment becomes effective, each Lender not consenting thereto receives payment (including pursuant to an assignment
+to a replacement Lender in accordance with Section 13.0413.05) in full of the principal of and interest accrued on each Loan made by it
+and all other amounts owing to it or accrued for its account under this Agreement.
+
+(d) Notwithstanding anything to the contrary contained in this Section 13.1213.13, (x) Security Documents and related
+documents executed by the Credit Parties in connection with this Agreement may be in a form reasonably determined by the
+Administrative Agent and may be amended, restated, amended and restated, supplemented and waived with the consent of the
+Administrative Agent and the Company without the need to obtain the consent of any other Person if such amendment, supplement or
+waiver is delivered (i) in order to comply with local law or advice of local counsel, (ii) in order to cause such Security Document or other
+document to be consistent with this Agreement and the other Credit Documents or (iii) in connection with the incurrence of any Permitted
+Additional Secured Indebtedness or any Cash Flow Revolving Indebtedness (and, in each case, the addition of Permitted Additional
+Secured Indebtedness Priority Collateral as Collateral) and the entry by the Collateral Agent into intercreditor arrangements in connection
+therewith and (y) if following the Effective Date, the Administrative Agent and any Credit Party shall have jointly identified an ambiguity,
+inconsistency, obvious error or any error or omission of a technical or immaterial nature, in each case, in any provision of the Credit
+Documents, then the Administrative Agent and the Credit Parties shall be permitted to amend such provision and such amendment shall
+become effective without any further action or consent of any other party to any Credit Documents if the same is not objected to in writing
+by the Required Lenders within five Business Days following receipt of notice thereof.
+
+(e) Notwithstanding any provision herein to the contrary, this Agreement and the other Credit Documents may be
+amended in accordance with Section 2.19 to effectuate an Extension and to provide for non-pro rata borrowings and payments of any
+amounts hereunder as between the Loans and any commitments in connection therewith, in each case with the consent of the
+Administrative Agent but without the consent of any Lender (except as expressly provided in Section 2.19) required.
+
+13.1313.14. Survival. All indemnities set forth herein including in Sections 2.10, 2.11, 3.06, 5.04, 12.06 and 13.01 shall
+survive the execution, delivery and termination of this Agreement and the Notes and the making and repayment of the Obligations.
+
+193
+
+
+-----
+
+

@@ -1,0 +1,63 @@
+**g** **p**
+
+**Acceding Company** **Jurisdiction of** **Registration** **Registered**
+**incorporation** **number** **office**
+
+[●] [●] [●] [●]
+
+[●] [●] [●] [●]
+
+**SCHEDULE 2 TO THE ACCESSION DEED**
+
+**Details of Security Assets owned by the Acceding Companies**
+
+**Core UK Deposit Accounts**
+
+**Accounts**
+**Account holder Account** **Account** **Swift** **Sort** **IBAN** **Currency**
+
+**Bank** **number** **code** **code**
+
+[ ● ] [•] [ ● ] [ ● ] [ ● ] [ ● ] [ ● ]
+
+**EXECUTION PAGES OF THE ACCESSION DEED THE ACCEDING COMPAN[Y][IES]**
+**EITHER one director in the presence of a witness**
+
+EXECUTED AS A DEED )
+
+By: [●] )
+
+as Acceding Company ) Signature
+
+Director name:
+
+Witness signature :
+
+Witness name:
+
+Witness address:
+
+Notice details:
+
+Address: [ ● ]
+
+Telephone No: [ ● ]
+
+Email: [ ● ]
+
+Attention: [ ● ]
+
+|Acceding Company|Jurisdiction of incorporation|Registration number|Registered office|
+|---|---|---|---|
+|[●]|[●]|[●]|[●]|
+|[●]|[●]|[●]|[●]|
+
+|Accounts|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|Account holder|Account Bank|Account number|Swift code|Sort code|IBAN|Currency|
+|[ ● ]|[•]|[ ● ]|[ ● ]|[ ● ]|[ ● ]|[ ● ]|
+
+
+-----
+
+

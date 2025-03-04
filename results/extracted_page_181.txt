@@ -1,0 +1,45 @@
+three Business Days after request by the Administrative Agent, an Issuing Lender or the Swingline Lender, acting in good faith, to provide
+a certification in writing from an authorized officer of such Lender that it will comply with its obligations (and is financially able to meet
+such obligations) to fund prospective Loans and participations in then outstanding Letters of Credit and Swingline Loans under this
+Agreement, provided that such Lender shall cease to be a Defaulting Lender pursuant to this clause (c) upon the receipt by the
+Administrative Agent, the applicable Issuing Lender or the Swingline Lender, as applicable, of such certification in form and substance
+satisfactory to it and the Administrative Agent, (d) has, or has a direct or indirect parent company that has, become the subject of a
+Bankruptcy Event, or (e) has, or has a direct or indirect parent company that has, become the subject of a Bail-In Action.
+
+“Deposit Account” shall mean a demand, time, savings, passbook or like account with a bank, savings and loan association,
+credit union or like organization.
+
+“Designated Cash” shall mean, at any time, the U.S. Dollar Equivalent of the aggregate amount of U.S. Dollars and Cash
+Equivalents of the U.S. Borrowers and U.S. Guarantors that is (a) Unrestricted, (b) deposited in a Deposit Account or securities account
+located in the United States that is subject to a Cash Management Control Agreement in favor of the Administrative Agent, (c) subject to a
+First Priority Lien in favor of the Collateral Agent on behalf of the Secured Creditors, (d) subject to no other Liens other than Permitted
+Cash Management Liens and (e) not Eligible U.S. Cash and Cash Equivalents.
+
+“Dilution Percentage” shall mean the average of the rolling twelve month dilution percentages, calculated to the first decimal
+place, determined for the Company’s most recently completed twelve month period, which shall be measured at the end of the second
+month of each fiscal quarter of the Company most recently ended. The dilution percentage shall equal (a) in respect of the U.S.
+Borrowers, the proportion of (i) bad debt write-downs or write-offs, discounts, returns, promotions, credits, credit memos, and other
+dilutive items with respect to Accounts of the U.S. Borrowers for such twelve monthly period, divided by (ii) gross billings of the U.S.
+Borrowers for such twelve monthly period and (b) in respect of the Dutch Borrowers, the proportion of (i) bad debt write-downs or writeoffs, discounts, returns, promotions, credits, credit memos, and other dilutive items with respect to Accounts of the Dutch Borrowers for
+such twelve monthly period, divided by (ii) gross billings of the Dutch Borrowers for such twelve monthly period.
+
+“Dilution Reserve” shall mean a reserve against the applicable Borrowing Base in an amount equal to the percentage
+(calculated to the first decimal place) that the Dilution Percentage exceeds 5%.
+
+“Disclosure Letter” shall mean the disclosure letter, dated as of the Effective Date, delivered by Company to the Administrative
+Agent for the benefit of the Lenders.
+
+“Dividend” shall mean, with respect to any Person, that such Person has declared or paid a dividend or distribution or returned
+any equity capital to its stockholders, partners or members in their capacity as such or authorized or made any other distribution, payment
+or delivery of property (in each case other than common Equity Interests of such Person or Preferred Equity of such Person meeting the
+requirements of Qualified Preferred Stock) or cash to its stockholders, partners or members in their capacity as such, or redeemed,
+retired, purchased or otherwise acquired, directly or indirectly, for a consideration any shares of any class of its capital stock or any other
+Equity Interests outstanding on or after the Effective Date, or set aside any funds for any of the foregoing purposes, or shall have
+permitted any of its Subsidiaries to purchase or otherwise acquire for a consideration any shares of any class of the
+
+20
+
+
+-----
+
+

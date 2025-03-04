@@ -1,0 +1,45 @@
+course of business;
+
+(c) over all Security Assets of a Chargor which are subject to a floating charge if an administrator is appointed in
+respect of that Chargor or the Collateral Agent receives notice of intention to appoint such an administrator (as
+contemplated by the Insolvency Act 1986) by someone entitled to so appoint; or
+
+(d) if any Chargor convenes a meeting of its creditors or a proposal or arrangement or composition with, or any
+assignment is made for the benefit of, its creditors, or a petition is presented, or a meeting called for the purpose
+of considering a resolution regarding such matters or other steps are taken for its winding-up or dissolution.
+
+**7.4** **Partial conversion**
+
+The giving of a notice by the Collateral Agent pursuant to Clause 7.1 (Conversion by notice) in relation to any class of Security Assets of
+any Chargor shall not be construed as a waiver or abandonment of the rights of the Collateral Agent to serve similar notices in respect of
+any other class of Security Assets or of any other right of the Collateral Agent and/or the other Secured Creditors.
+
+**8.** **EXCLUDED ASSETS**
+
+Unless otherwise agreed by the Company and the Collateral Agent in writing, there shall be excluded from the Security created by Clause
+4 (Fixed Security) and Clause 5 (Floating Charge) and in no event shall the term “Security Assets” (and any component terms thereof)
+include:
+
+(a) any property, interest or other rights for so long as the grant of such security interest shall constitute or result in:
+
+(i) a breach or termination pursuant to the terms of, or a default under, any General Intangible, lease,
+license, contract, agreement or other document;
+
+(ii) a breach of any law or regulation which prohibits the creation of a security interest thereunder;
+
+(iii) a requirement to obtain consent of a Governmental Authority or any other Person (other than consent
+of the Company or any of its Subsidiaries) to permit the grant of a security interest therein (and such
+consent has not been obtained); or
+
+(iv) materially adverse tax consequences as reasonably determined by the Company,
+
+**other than to the extent that any such term specified in clause (i) or (ii) above is rendered ineffective pursuant to any then-applicable law**
+or principles of equity and provided, however, that such security interest shall attach immediately at such time as the condition causing
+such abandonment, invalidation, unenforceability breach or termination shall no longer be effective and to the extent severable, shall
+attach immediately to any portion of such property or other rights that does not result in any of the consequences specified in clause (i),
+(ii), (iii) or (iv) above;
+
+
+-----
+
+

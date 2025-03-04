@@ -1,0 +1,47 @@
+“Participant” shall have the meaning provided in Section 3.04(a).
+
+“Participant Register” shall have the meaning provided in Section 13.0413.05(e).
+
+“Patriot Act” shall have the meaning provided in Section 13.1813.19.
+
+“Payment Conditions” shall mean that either of the following conditions are satisfied at the time of each action or proposed
+action and immediately after giving effect thereto: (a) there is no Default or Event of Default existing immediately before or after the
+action or proposed action and Designated Cash is equal to or in excess of the Liquidity Threshold, or (b) there is no Default or Event of
+Default existing immediately before or after the action or proposed action and either (i) the Company shall be in compliance with a Fixed
+Charge Coverage Ratio of not less than 1.00:1.00 for the Calculation Period then most recently ended on a Pro Forma Basis as if such
+action or proposed action had occurred on the first day of such Calculation Period or (ii) 30-Day Excess Availability and Excess Availability
+on the date of the action or proposed action (calculated after giving effect to the Borrowing of any Loans or issuance of any Letters of
+Credit in connection with the action or proposed action (and assuming that such Loans and Letters of Credit had remained outstanding
+throughout the applicable 30-day period (or such shorter period, if applicable) for which 30-Day Excess Availability is to be determined))
+exceed 15% of the Availability at such time; provided that the Company shall have delivered to the Administrative Agent a certificate of an
+Authorized Officer of the Company certifying as to (i) compliance with the preceding clauses (a) or (b) and (ii) demonstrating (in
+reasonable detail) the calculations required by the preceding clause (b).
+
+“Payment Office” shall mean the office of the Administrative Agent located at 5022 Gate Parkway, Suite 100, Jacksonville, FL
+32256 (or such other office as the Administrative Agent may hereafter designate in writing as such to the other parties hereto).
+
+“PBGC” shall mean the U.S. Pension Benefit Guaranty Corporation.
+
+“Perfected Belgian Liens” shall mean, with respect to any Inventory, that such Inventory is subject to a First Priority perfected
+Lien under Belgian law.
+
+“Perfected Dutch Liens” shall mean, with respect to any Inventory, that such Inventory is subject to a First Priority perfected
+Lien under the law of the Netherlands.
+
+“Perfected U.S. Liens” shall mean, with respect to any Inventory, that such Inventory is subject to a First Priority perfected Lien
+under New York law.
+
+“Permitted Additional Indebtedness” shall mean Permitted Additional Unsecured Indebtedness and Permitted Additional
+Secured Indebtedness.
+
+“Permitted Additional Indebtedness Documents” shall mean Permitted Additional Unsecured Indebtedness Documents and
+Permitted Additional Secured Indebtedness Documents.
+
+“Permitted Additional Secured Indebtedness” shall have the meaning provided in Section 10.04(n).
+
+55
+
+
+-----
+
+

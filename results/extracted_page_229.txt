@@ -1,0 +1,45 @@
+regulation, and international or foreign emissions trading program.
+
+“Stated Amount” of each Letter of Credit shall mean, at any time, the maximum amount available to be drawn thereunder in
+each case determined (x) as if any future automatic increases in the maximum amount available that are provided for in any such Letter of
+Credit had in fact occurred at such time and (y) without regard to whether any conditions to drawing could then be met but after giving
+effect to all previous drawings made thereunder; provided that the “Stated Amount” of each Letter of Credit denominated in a currency
+other than U.S. Dollars shall be, on any date of calculation, the U.S. Dollar Equivalent of the maximum amount available to be drawn in the
+respective currency thereunder (determined without regard to whether any conditions to drawing could then be met).
+
+“Sterling” and the designation “£” shall mean the lawful currency of the United Kingdom.
+
+“Subsidiary” shall mean, as to any Person, (i) any corporation more than 50% of whose stock of any class or classes having by
+the terms thereof ordinary voting power to elect a majority of the directors of such corporation (irrespective of whether or not at the time
+stock of any class or classes of such corporation shall have or might have voting power by reason of the happening of any contingency) is
+at the time owned by such Person and/or one or more Subsidiaries of such Person or (ii) any partnership, limited liability company,
+association, joint venture or other entity in which such Person and/or one or more Subsidiaries of such Person has more than a 50% equity
+interest at the time; provided however, except as expressly provided herein, neither SolarCity nor any Subsidiary of SolarCity shall
+constitute a Subsidiary of the Company or any Subsidiaries of the Company, and neither SolarCity nor any Subsidiary of SolarCity shall be
+subject to the restrictions, terms or requirements applicable to Subsidiaries contained herein or in any other Credit Document. Unless
+otherwise qualified, all references to a “Subsidiary” or to “Subsidiaries” in this Agreement shall refer to a Subsidiary or Subsidiaries of the
+Company.
+
+“Subsidiary Guarantor” shall mean each U.S. Subsidiary Guarantor and, each Dutch Subsidiary Guarantor and each UK
+Subsidiary Guarantor.
+
+“Supermajority Lenders” shall mean those Non-Defaulting Lenders which would constitute the Required Lenders under, and as
+defined in, this Agreement, if the reference to “a majority” contained therein were changed to “66⅔%”.
+
+“Supported QFC” shall have the meaning provided in Section 13.26.
+
+“Swap Obligation” shall mean, with respect to any Person, any Interest Rate Protection Agreement or Other Hedging
+Agreement that constitutes a “swap” within the meaning of Section 1a(47) of the Commodity Exchange Act.
+
+“Swingline Expiry Date” shall mean that date which is five Business Days prior to the Final Maturity Date.
+
+“Swingline Lender” shall mean the Administrative Agent, in its capacity as Swingline Lender hereunder.
+
+“Swingline Loan” shall have the meaning provided in Section 2.01(b).
+
+68
+
+
+-----
+
+

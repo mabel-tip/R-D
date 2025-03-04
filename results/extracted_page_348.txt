@@ -1,0 +1,44 @@
+(c) Nothing in this Agreement shall prevent or prohibit any Lender from pledging its Loans and Notes hereunder including
+to a Federal Reserve Bank in support of borrowings made by such Lender from such Federal Reserve Bank and, with prior notification to
+the Administrative Agent, any Lender which is a fund may pledge all or any portion of its Loans and Notes to its trustee or to a collateral
+agent providing credit or credit support to such Lender in support of its obligations to such trustee, such collateral agent or a holder of
+such obligations, as the case may be. No pledge pursuant to this clause (c) shall release the transferor Lender from any of its obligations
+hereunder.
+
+(d) Any Lender which assigns all of its Revolving Loan Commitment and/or Loans hereunder in accordance with Section
+13.0413.05(b) shall cease to constitute a “Lender” hereunder, except with respect to indemnification provisions under this Agreement
+(including Sections 2.10, 2.11, 3.06, 5.04, 12.06, 13.01 and 13.0613.07), which shall survive as to such assigning Lender solely with
+respect to events or circumstances that occurred prior to such assignment.
+
+(e) Each Lender that sells a participation shall, acting solely for this purpose as a non-fiduciary agent of the Borrowers,
+maintain a register on which it enters the name and address of each Participant and the principal amounts (and stated interest) of each
+Participant’s interest in the Loans or other obligations under the Credit Documents (the “Participant Register”); provided that no Lender
+shall have any obligation to disclose all or any portion of the Participant Register (including the identity of any Participant or any
+information relating to a Participant’s interest in any commitments, loans, letters of credit or its other obligations under any Credit
+Document) to any Person except to the extent that such disclosure is necessary to establish that such commitment, loan, letter of credit or
+other obligation is in registered form under Section 5f.103-(c) of the United States Treasury Regulations. The entries in the Participant
+Register shall be conclusive absent manifest error, and such Lender shall treat each Person whose name is recorded in the Participant
+Register as the owner of such participation for all purposes of this Agreement notwithstanding any notice to the contrary. For the
+avoidance of doubt, the Administrative Agent (in its capacity as Administrative Agent) shall have no responsibility for maintaining a
+Participant Register.
+
+(f) A transfer or assignment under Section 13.0413.05(b) may, with respect to a Dutch Borrower, only be made to a person
+who is a Professional Lender.
+
+13.0513.06. No Waiver; Remedies Cumulative. No failure or delay on the part of the Administrative Agent, the Collateral
+Agent, any Issuing Lender or any Lender in exercising any right, power or privilege hereunder or under any other Credit Document and no
+course of dealing between the Company, any other Borrower or any other Credit Party and the Administrative Agent, the Collateral Agent,
+any Issuing Lender or any Lender shall operate as a waiver thereof; nor shall any single or partial exercise of any right, power or privilege
+hereunder or under any other Credit Document preclude any other or further exercise thereof or the exercise of any other right, power or
+privilege hereunder or thereunder. The rights, powers and remedies herein or in any other Credit Document expressly provided are
+cumulative and not exclusive of any rights, powers or remedies which the Administrative Agent, the Collateral Agent, any Issuing Lender
+or any Lender would otherwise have. No notice to or demand on any Credit Party in any case shall entitle any Credit Party to any other or
+further notice or demand in similar or other circumstances or constitute a waiver of the rights of the Administrative Agent, the Collateral
+Agent, any Issuing Lender or any Lender to any other or further action in any circumstances without notice or demand.
+
+187
+
+
+-----
+
+

@@ -1,0 +1,43 @@
+governmental rule, regulation or order, (B) impossible by compliance by any Lender in good faith with any governmental
+request (whether or not having force of law) or (C) impracticable as a result of a contingency occurring after the Effective Date
+which materially and adversely affects the London interbank market.
+
+then, and in any such event, such Lender (or the Administrative Agent, in the case of clause (i) above) shall promptly give notice (by
+telephone promptly confirmed in writing) to the affected Borrowers and, except in the case of clause (i) above, to the Administrative Agent
+of such determination (which notice the Administrative Agent shall promptly transmit to each of the other Lenders). Thereafter (w) in the
+case of clause (i) above, LIBOR Loans in the affected currency shall no longer be available until such time as the Administrative Agent
+notifies the Company and the Lenders that the circumstances giving rise to such notice by the Administrative Agent no longer exist, and
+any Notice of Borrowing or Notice of Conversion/Continuation given by any Borrower to borrow, continue or convert to LIBOR Loans in
+the affected currency shall be deemed rescinded by such Borrower and (1) in respect of Loans in Dollars, (x) any such Loans shall be made
+solely as Base Rate Loans and (y) any outstanding LIBOR Loans shall convert at the end of the Interest Period applicable thereto to Base
+Rate Loans and (2) in respect of Loans in any currency other than Dollars, (x) any such new Loans shall not be made and (y) any
+outstanding Loans shall be repaid at the end of the Interest Period applicable thereto, (x) in the case of clause (ii) above, the U.S.
+Borrowers (jointly and severally with respect to U.S. Borrower Obligations) and, the Dutch Borrowers (jointly and severally with respect to
+Dutch Borrower Obligations) and the UK Borrowers (jointly and severally with respect to UK Borrower Obligations) agree to pay to such
+Lender, within 10 days after the Company’s receipt of such Lender’s written request therefor, such additional amounts (in the form of an
+increased rate of, or a different method of calculating, interest or otherwise as such Lender in its reasonable discretion shall determine) as
+shall be required to compensate such Lender for such increased costs or reductions in amounts received or receivable hereunder (a
+written notice as to the additional amounts owed to such Lender, showing in reasonable detail the basis for the calculation thereof,
+submitted to the respective Borrower by such Lender shall, absent manifest error, be final and conclusive and binding on all the parties
+hereto); provided that the Borrowers shall not be required to compensate any Lender pursuant to Section 2.10(a)(ii) for any increased
+costs or reductions incurred more than 180 days prior to the date that such Lender notifies the Company of the change giving rise to such
+increased costs or reductions and of such Lender’s intention to claim compensation therefor; provided, further, that, if the change giving
+rise to such increased costs or reductions is retroactive, then the 180 day period referred to above shall be extended to include the period
+of retroactive effect thereof and (y) in the case of clause (iii) above, the respective Borrower or Borrowers shall take one of the actions
+specified in Section 2.10(bc) as promptly as possible and, in any event, within the time period required by law.
+
+(b) (i) Notwithstanding anything to the contrary herein or in any other Credit Document, if a Benchmark Transition Event
+or an Early Opt-in Election, as applicable, and its related Benchmark Replacement Date have occurred prior to the Reference Time in
+respect of any setting of the then-current Benchmark, then (x) if a Benchmark Replacement is determined in accordance with clause (a) or
+(b) of the definition of “Benchmark Replacement” for such Benchmark Replacement Date, such Benchmark Replacement will replace such
+Benchmark for all purposes hereunder and under any Credit Document in respect of such Benchmark setting and subsequent Benchmark
+settings without any amendment to, or further action or consent of any other party to, this Agreement or any other Credit Document and
+(y) if a Benchmark Replacement is determined in accordance with clause (c) of the definition of “Benchmark Replacement” for such
+Benchmark Replacement Date, such Benchmark Replacement will replace such
+
+89
+
+
+-----
+
+

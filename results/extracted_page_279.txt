@@ -1,0 +1,44 @@
+respect of any Account of an Account Debtor of any Dutch Credit Party, shall upon receipt be deposited into a Core Dutch Deposit
+Account; provided that on and after the 90[th] day following the Effective Date (as such date may be extended from time to time by the
+Administrative Agent in its sole discretion) such amounts may only be deposited into Core Dutch Deposit Accounts that are subject to Cash
+Management Control Agreements.
+
+(d) (i) Each UK Borrower shall, along with the Collateral Agent, and each of those banks (the “UK Collection Banks”) in
+which each Core UK Deposit Account is maintained by each such UK Borrower, enter into on or prior to the 90th day following the First
+Amendment Effective Date (in each case, as such date may be extended from time to time by the Administrative Agent in its sole
+discretion) and thereafter maintain separate Cash Management Control Agreements in respect of each such Core UK Deposit Account. (ii)
+Each UK Borrower shall instruct all Account Debtors of such UK Borrower to remit all payments in U.S. Dollars or Euros to the applicable
+“P.O. Boxes” or “Lockbox Addresses” of the applicable UK Collection Bank (or to remit such payments to the applicable UK Collection
+Bank by electronic settlement) with respect to all Accounts of such Account Debtor, which remittances shall be collected by the applicable
+UK Collection Bank and deposited into one or more deposit accounts with the Administrative Agent or a financial institution reasonably
+acceptable to the Administrative Agent (each a “Core UK Deposit Account” and collectively, the “Core UK Deposit Accounts”); provided
+that on and after the 90th day following the First Amendment Effective Date (as such date may be extended from time to time by the
+Administrative Agent in its sole discretion) such remittances may only be deposited into Core UK Deposit Accounts that are subject to
+Cash Management Control Agreements. (iii) All amounts received in U.S. Dollars, Sterling or Euros by any UK Credit Party and any UK
+Collection Bank in respect of any Account of an Account Debtor of any UK Credit Party, shall upon receipt be deposited into a Core UK
+Deposit Account; provided that on and after the 90th day following the First Amendment Effective Date (as such date may be extended
+from time to time by the Administrative Agent in its sole discretion) such amounts may only be deposited into Core UK Deposit Accounts
+that are subject to Cash Management Control Agreements.
+
+(de) Each Cash Management Control Agreement relating to a Core U.S. Deposit Account shall (unless otherwise agreed by
+the Administrative Agent in its sole discretion) include provisions that allow, during any Dominion Period, for all collected amounts held in
+such Core U.S. Deposit Account from and after the date requested by the Administrative Agent, to be sent by ACH or wire transfer or
+similar electronic transfer no less frequently than once per Business Day to one or more accounts maintained by the Administrative Agent
+at DBNY (or if DBNY is not the Administrative Agent, at the institution designated by such successor Administrative Agent) or an affiliate
+thereof (each, a “DB U.S. Account”). Subject to the terms of the respective Security Document, all amounts received in a DB U.S. Account
+shall be applied (and allocated) by the Administrative Agent on a daily basis in the following order (in each case, to the extent the
+Administrative Agent has actual knowledge of the amounts owing or outstanding as described below): (i) first, to the payment (on a
+ratable basis) of any outstanding Expenses actually due and payable to the Administrative Agent and the Collateral Agent under any of the
+Credit Documents and to repay or prepay outstanding U.S. Borrower Loans advanced by the Administrative Agent on behalf of the
+Lenders pursuant to Section 2.01(e); (ii) second, to the extent all amounts referred to in preceding clause (i) have been paid in full, to pay
+(on a ratable basis) all outstanding Expenses actually due and payable to each Issuing Lender under any of the Credit Documents and to
+repay all outstanding Unpaid Drawings in respect of Letters of Credit issued for the account of a U.S. Borrower and all interest thereon;
+(iii) third, to the extent all amounts referred to in preceding clauses (i) and (ii) have been paid in full, to pay (on a ratable basis) all accrued
+and unpaid interest actually due and payable
+
+118
+
+
+-----
+
+

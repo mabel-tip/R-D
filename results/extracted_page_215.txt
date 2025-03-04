@@ -1,0 +1,47 @@
+“Notice of Conversion/Continuation” shall have the meaning provided in Section 2.06.
+
+“Notice Office” shall mean the office of the Administrative Agent located at 5022 Gate Parkway, Suite 100, Jacksonville, FL
+32256 (or such other office or person as the Administrative Agent may hereafter designate in writing as such to the other parties hereto).
+
+“NYFRB” shall mean the Federal Reserve Bank of New York.
+
+“Obligation Currency” shall have the meaning provided in Section 13.2013.21.
+
+“Obligations” shall mean (x) the principal of, premium, if any, and interest on the Notes issued by, and the Loans made to, each
+Borrower under this Agreement, and all reimbursement obligations and Unpaid Drawings with respect to Letters of Credit, and (y) all
+other payment obligations (including obligations which, but for the automatic stay under Section 362(a) of the Bankruptcy Code, would
+become due), liabilities and indebtedness owing by each Borrower and each other Credit Party to the Administrative Agent, the Collateral
+Agent, any Issuing Lender, the Swingline Lender or any Lender under this Agreement and each other Credit Document to which any
+Borrower or other Credit Party is a party (including all indemnities, expenses (including Expenses), Fees and interest thereon (including in
+each case any interest, Fees or expenses (including Expenses) accruing after the commencement of any bankruptcy, insolvency,
+receivership or similar proceeding at the rate provided for in this Agreement or in such other Credit Document, whether or not such
+interest, Fees or expenses (including Expenses) are an allowed claim in any such proceeding)), whether now existing or hereafter incurred
+under, arising out of or in connection with each such Credit Document, and all guarantees of the foregoing amounts. Notwithstanding
+anything to the contrary contained herein or in any other Credit Document, in no event will Obligations include any obligations in respect
+of any Issuer Option or, for any Guarantor, its Excluded Swap Obligations.
+
+“Original Credit Agreement” shall mean this Agreement, as in effect immediately prior to the Amendment and Restatement
+Effective Date.
+
+“Original Lender” shall have the meaning provided in Section 5.04(e)(iv).
+
+“Orphan SPV” shall mean a special purpose vehicle, which is not a Subsidiary of the Company, established for the sole purpose
+of facilitating a financing under a limited recourse financing transaction and that shall not engage in any activities other than in
+connection with such financing.
+
+“Other Hedging Agreements” shall mean any foreign exchange contracts (including foreign exchange forward contracts and
+foreign exchange option contracts), currency swap agreements, commodity agreements or other similar contracts or arrangements, or
+arrangements designed to protect against fluctuations in currency values or commodity prices. For the avoidance of doubt, “Other
+Hedging Agreements” shall not include any agreements, contracts or arrangements with respect to SRECs or the purchase, sale, transfer,
+assignment or other disposition thereof.
+
+“Other Taxes” shall mean all present or future stamp, court or documentary, intangible, recording, filing, excise or similar taxes
+that arise from any payment made under, from the execution, delivery, performance, enforcement, or registration of, from the receipt or
+perfection of a security interest
+
+54
+
+
+-----
+
+

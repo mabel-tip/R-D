@@ -1,0 +1,60 @@
+g g p p y g g
+or funds, that we enter into to finance the costs of solar energy systems and vehicles under operating leases. We have determined that the contractual
+provisions of the funds represent substantive profit sharing arrangements. We have further determined that the methodology for calculating the noncontrolling
+interest and redeemable noncontrolling interest balances that reflects the substantive profit sharing arrangements is a balance sheet approach using the
+hypothetical liquidation at book value (“HLBV”) method. We, therefore, determine the amount of the noncontrolling interests and redeemable noncontrolling
+interests in the net assets of the funds at each balance sheet date using the HLBV method, which is presented on the consolidated balance sheet as
+noncontrolling interests in subsidiaries and redeemable noncontrolling interests in subsidiaries. Under the HLBV method, the amounts reported as
+noncontrolling interests and redeemable noncontrolling interests in the consolidated balance sheet represent the amounts the third parties would
+hypothetically receive at each balance sheet date under the liquidation provisions of the funds, assuming the net assets of the funds were liquidated at their
+recorded amounts determined in accordance with GAAP and with tax laws effective at the balance sheet date and distributed to the third parties. The third
+parties’ interests in the results of operations of the funds are determined as the difference in the noncontrolling interest and redeemable noncontrolling interest
+balances in the consolidated balance sheets between the start and end of each reporting period, after taking into account any capital transactions between the
+funds and the third parties. However, the redeemable noncontrolling interest balance is at least equal to the redemption amount. The redeemable
+noncontrolling interest balance is presented as temporary equity in the mezzanine section of the consolidated balance sheet since these third parties have the
+right to redeem their interests in the funds for cash or other assets. For certain funds, there may be significant fluctuations in the ending balance of redeemable
+noncontrolling interest in subsidiaries and net income (loss) attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries due
+to changes in the liquidation provisions as time-based milestones are reached.
+
+Net Income (Loss) per Share of Common Stock Attributable to Common Stockholders
+
+Basic net income (loss) per share of common stock attributable to common stockholders is calculated by dividing net income (loss) attributable to
+common stockholders by the weighted-average shares of common stock outstanding for the period. During the year ended December 31, 2020, we decreased
+net income attributable to common stockholders by $31 million to arrive at the numerator used to calculate net income per share. During the year ended
+December 31, 2019, we increased net loss attributable to common stockholders by $8 million to arrive at the numerator used to calculate net loss per share.
+These adjustments represent the difference between the cash we paid to the financing fund investors for their noncontrolling interest in our subsidiaries and
+the carrying amount of the noncontrolling interest on our consolidated balance sheets, in accordance with ASC 260, Earnings per Share. Potentially dilutive
+shares, which are based on the weighted-average shares of common stock underlying outstanding stock-based awards, warrants and convertible senior notes
+using the treasury stock method or the if-converted method, as applicable, are included when calculating diluted net income (loss) per share of common stock
+attributable to common stockholders when their effect is dilutive. Since we intend to settle or have settled in cash the principal outstanding under our 0.25%
+Convertible Senior Notes due in 2019 (“2019 Notes”), 1.25% Convertible Senior Notes due in 2021 (“2021 Notes”), 2.375% Convertible Senior Notes due in
+2022 (“2022 Notes”), 2024 Notes and our subsidiary’s 5.50% Convertible Senior Notes due in 2022, we use the treasury stock method applied using our
+average share price during the period when calculating their potential dilutive effect, if any. Furthermore, in connection with the offerings of our convertible
+senior notes, we entered into convertible note hedges and warrants (see Note 12, Debt). However, our convertible note hedges are not included when
+calculating potentially dilutive shares since their effect is always anti-dilutive. Warrants which have a strike price above our average share price during the
+period were out of the money and were not included in the tables below. Warrants will be included in the weighted-average shares used in computing basic net
+income (loss) per share of common stock in the period(s) they are settled.
+
+The following table presents the reconciliation of basic to diluted weighted average shares used in computing net income (loss) per share of common
+stock attributable to common stockholders, as adjusted to give effect to the Stock Split (in millions):
+
+**Year Ended December 31,**
+
+**2020** **2019** **2018**
+Weighted average shares used in computing
+net income (loss) per share of common
+stock, basic 933 887 853
+Add:
+Stock-based awards 66 — —
+Convertible senior notes 47 — —
+Warrants 37 — —
+Weighted average shares used in computing
+net income (loss) per share of common stock,
+diluted 1,083 887 853
+
+68
+
+
+-----
+
+

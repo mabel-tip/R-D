@@ -1,0 +1,45 @@
+Maturity Date, each Issuing Lender shall have the right to resign as such on, or on any date within 20 Business Days after, the 2023
+ExtendedInitial Maturity Date, in each of the cases in clause (x) and clause (y), upon not less than 30 days’ prior written notice thereof to
+the Company and the Administrative Agent and, in the event of any such resignation and upon the effectiveness thereof, the resigning
+Issuing Lender shall retain all of its rights hereunder and under the other Credit Documents as Issuing Lender with respect to all Letters
+of Credit theretofore issued by it (which Letters of Credit shall remain outstanding in accordance with the terms hereof until their
+respective expirations) but shall not be required to issue any further Letters of Credit hereunder. If at any time and for any reason
+(including as a result of resignations as contemplated by the last proviso to the preceding sentence), an Issuing Lender has resigned in
+such capacity in accordance with the preceding sentence and no Issuing Lenders exist at such time, then no Person shall be an Issuing
+Lender hereunder obligated to issue Letters of Credit unless and until (and only for so long as) a Lender (or Affiliate of a Lender)
+reasonably satisfactory to the Administrative Agent and the Company agrees to act as Issuing Lender hereunder. Any Issuing Lender may,
+in its discretion, arrange for one or more Letters of Credit to be issued by one or more Affiliates of such Issuing Lender (and such Affiliate
+shall be deemed to be an “Issuing Lender” for all purposes of the Credit Documents). Notwithstanding anything to the contrary contained
+herein, Wells Fargo Bank, National Association shall be an Issuing Lender solely with respect to Letters of Credit denominated in U.S.
+Dollars and shall be under no obligation to issue (and the Borrowers shall not request Wells Fargo Bank, National Association to issue) any
+Letter of Credit denominated in a currency other than U.S. Dollars. Notwithstanding anything to the contrary contained herein, each of
+DBNY, Barclays Bank PLC and Morgan Stanley Senior Funding Inc. shall be an Issuing Lender solely with respect to standby Letters of
+Credit and shall be under no obligation to issue trade Letters of Credit (and the Borrowers shall not request any of DBNY, Barclays Bank
+PLC or Morgan Stanley Senior Funding Inc. to issue such trade Letters of Credit).
+
+“Joinder Agreement” shall mean a Joinder Agreement substantially in the form of Exhibit N (appropriately completed).
+
+“Judgment Currency” shall have the meaning provided in Section 13.2013.21.
+
+“Judgment Currency Conversion Date” shall have the meaning provided in Section 13.2013.21.
+
+“Landlord Personal Property Collateral Access Agreement” shall mean a Landlord Waiver and Consent Agreement substantially
+in the form of Exhibit M, with such amendments, modifications or supplements thereto, or such other form, in each case as may be
+reasonably acceptable to the Administrative Agent.
+
+“L/C Supportable Obligations” shall mean (i) obligations (including Indebtedness) of the Company or any of its Subsidiaries with
+respect to workers compensation, surety bonds and other similar statutory obligations and (ii) such other obligations (including
+Indebtedness) of the Company or any of its Subsidiaries as are otherwise permitted to exist pursuant to the terms of this Agreement (other
+than obligations (including Indebtedness) in respect of (v) any Permitted Convertible Notes, (w) any Permitted Additional Indebtedness, (x)
+any Cash Flow Revolving Indebtedness, (y) any Indebtedness or other obligations that are contractually subordinated in right of payment
+to the Obligations and (z) any Equity Interests).
+
+“Leaseholds” of any Person shall mean all the right, title and interest of such Person as lessee or licensee in, to and under
+leases or licenses of land (including all improvements and/or fixtures thereon).
+
+49
+
+
+-----
+
+

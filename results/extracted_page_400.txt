@@ -1,0 +1,46 @@
+**4.1** **Fixed charges**
+
+Subject to Clause 8 (Excluded Assets), each Chargor charges and agrees to charge all of its present and future right, title and interest in
+and to the following assets which are at any time owned by it, or in which it from time to time has an interest:
+
+(a) by way of first fixed charge all Inventory and the benefit of all contracts, licences and warranties relating to the
+same;
+
+(b) by way of first fixed charge all Charged Accounts and all monies at any time standing to the credit of such
+Charged Accounts, together with all interest from time to time accrued or accruing on such monies, any
+investment made out of such monies or account and all rights to repayment of any of the foregoing;
+
+(c) to the extent that any Assigned Asset is not effectively assigned under Clause 4.2 (Security assignments), by way of
+first fixed charge all its present and future right, title and interest in, proceeds of (and claims under) each
+Assigned Asset; and
+
+(d) by way of first fixed charge (to the extent not otherwise charged or assigned in this Deed) the benefit of all
+licences, consents, agreements and authorisations held or used in connection with the use of any of the Security
+Assets.
+
+**4.2** **Security assignments**
+
+Subject to Clause 8 (Excluded Assets), each Chargor assigns and agrees to assign absolutely as continuing security for the payment and
+discharge of the Secured Obligations (subject to a proviso for reassignment on redemption) all of its present and future right, title and
+interest in and to:
+
+(a) all Insurances and all claims under the Insurances and all proceeds of the Insurances; and
+
+(b) all Receivables.
+
+To the extent that any Assigned Asset is not assignable, the assignment which that clause purports to effect shall operate instead as an
+assignment of all present and future rights and claims of such Chargor to any proceeds of such Insurances and Receivables.
+
+**4.3** **Assigned Assets**
+
+The Collateral Agent is not obliged to take any steps necessary to preserve any Assigned Asset, to enforce any term of an Assigned Asset
+against any person or to make any enquiries as to the nature or sufficiency of any payment received by it pursuant to this Deed.
+
+**5.** **FLOATING CHARGE**
+
+Each Chargor charges and agrees to charge by way of first floating charge all of its present and future Security Assets.
+
+
+-----
+
+

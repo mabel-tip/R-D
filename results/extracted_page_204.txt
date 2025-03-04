@@ -1,0 +1,42 @@
+“Final Maturity Date” shall mean (a) with respect to any Revolving Loan Commitments (other than the 2023 Extended Revolving
+Loan Commitments and the Extended Revolving Loan Commitments) the Initial Maturity Date, (b) with respect to the 2023 Extended
+Revolving Loan Commitments, the 2023 Extended Maturity Date and (c); provided that, with respect to any Extended Revolving Loan
+Commitment, the Final Maturity Date with respect thereto instead shall be the Extended Final Maturity Date.
+
+“FIRREA” shall mean the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, as amended.
+
+“First Amendment” shall mean the First Amendment to Amended and Restated ABL Credit Agreement, dated as of the First
+Amendment Effective Date, among the Company, Tesla B.V., Tesla UK, the lenders party thereto, the Collateral Agent and the
+Administrative Agent.
+
+“First Amendment Effective Date” shall mean NovDecember 323, 20152020.
+
+“First Priority” shall mean, with respect to any Lien purported to be created on any Collateral pursuant to any Security
+Document, that such Lien is prior in right to any other Lien thereon, other than (i) in respect of any Collateral (other than cash or Cash
+Equivalents), any Permitted Liens (excluding Permitted Liens under Section 10.01(s)) applicable to such Collateral arising by operation of
+law and which as a matter of law (and giving effect to any actions taken pursuant to the last paragraph of Section 10.01) have priority over
+the respective Liens on such Collateral created pursuant to the relevant Security Document, (ii) any Lien on property that would otherwise
+constitute Eligible Inventory but is subject to a lease that grants to the landlord thereunder a first priority perfected security interest in
+such property, (iii) in respect of any Eligible Machinery and Equipment, Liens permitted by (x) Section 10.01(b)(i) so long as any such Lien
+does not secure amounts overdue by more than 30 days and (y) Section 10.01(b)(ii) so long as adequate reserves in respect of GAAP have
+been reserved in respect thereof and (iv) in respect of any Eligible Real Property, Liens permitted by Sections 10.01(a), (b)(i), (b)(ii) (so
+long as adequate reserves in respect of GAAP have been reserved in respect thereof), (e), (h) and (k) (such Liens described in clauses (i),
+(ii), and (iii) and (iv) above, “First Priority Priming Liens”).
+
+“First Priority Priming Liens” shall have the meaning provided in the definition of First Priority.
+
+“First Usage Date” shall mean the first date on which the Aggregate Exposure is greater than zero.
+
+“Fixed Charge Coverage Ratio” shall mean, for any period, the ratio of (a)(i) Consolidated EBITDA for such period minus (ii) the
+aggregate amount of all Unfinanced Capital Expenditures made by the Company and its Consolidated Subsidiaries during such period
+minus (iii) the aggregate amount of all cash payments made by the Company and its Consolidated Subsidiaries in respect of income taxes
+or income tax liabilities (net of cash income tax refunds) during such period minus (iv) the aggregate amount of all cash Dividends paid by
+the Company or any of its Subsidiaries to any Person other than the Company or any of its Subsidiaries as permitted under Section 10.03
+for such period to (b) Fixed Charges for such period.
+
+43
+
+
+-----
+
+

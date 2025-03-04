@@ -1,0 +1,43 @@
+replacement or refinancing, or commitments in respect thereof (or if incurred with original issue discount, the sum of the
+aggregate issue price and any accreted principal amount) does not exceed the aggregate principal amount (or if incurred with
+original issue discount, the aggregate issue price plus any accreted amount) of the Indebtedness to be renewed, extended,
+exchanged, replaced or refinanced (plus the sum of (1) accrued and unpaid interest thereon, (2) any prepayment or exchange
+premium and (3) customary premium, fees and expenses relating to such renewal, extension, exchange, replacement,
+refinancing or issuance) and (y) the terms of the Indebtedness provided in any such renewal, extension, exchange, replacement
+or refinancing (excluding pricing, fees, rate floors and optional prepayment or redemption terms), taken as a whole, are no
+more favorable to the lenders or holders of such Indebtedness than those applicable to the Indebtedness to be renewed,
+extended, exchanged, replaced or refinanced,
+
+(ii) Indebtedness incurred by any special purpose Subsidiary of SolarCity so long as (A) there shall be no
+recourse to, or obligation toof (whether direct, by guarantee or otherwise), the Company or any of its Subsidiaries or SolarCity
+or any of its Subsidiaries (other than any special purpose Subsidiary of SolarCity) whatsoever other than (solely in respect of
+SolarCity and its Subsidiaries) pursuant to representations, warranties, covenants and indemnities entered into in the ordinary
+course of business in connection with such Indebtedness that in the reasonable opinion of the Company are customary for such
+transactions and (B) none of the Company nor any of its Subsidiaries nor SolarCity nor any of its Subsidiaries (other than any
+special purpose Subsidiary of SolarCity) shall have provided, either directly or indirectly, any other credit support of any kind in
+connection with such Indebtedness, other than as set forth in clause (A) above,
+
+(iii) other Indebtedness in an aggregate principal amount at any time outstanding not to exceed $25,000,000;
+
+(iv) Indebtedness pursuant to any SolarCity Guarantee; and
+
+(v) any guarantee of the Guaranteed Obligations (as defined in the U.S. Guaranty); and
+
+(d) the Company and its Subsidiaries shall not permit SolarCity or any of its Subsidiaries to pledge any assets to secure
+any Indebtedness of the Company or its Subsidiaries or any guarantee or liability of SolarCity or any of its Subsidiaries in respect thereof.
+
+SECTION 11. Events of Default.
+
+Upon the occurrence of any of the following specified events (each, an “Event of Default”):
+
+11.01. Payments. Any Borrower shall (i) default in the payment when due of any principal of any Loan or any Note or any
+Unpaid Drawing, (ii) default in the payment of any cash collateral, or the entering into of backstop arrangements, as and when required by
+Section 3.07 or (iii) default, and such default shall continue unremedied for five days, in the payment when due of any interest on any
+Loan, Note or any Unpaid Drawing or any Fees or any other amounts owing hereunder or under any other Credit Document; or
+
+170
+
+
+-----
+
+

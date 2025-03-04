@@ -1,0 +1,50 @@
+based on our estimates of the eventual outcome. These effects are recognized when, despite our belief that our tax return positions are supportable, we believe
+that it is likely that some of those positions may not be fully sustained upon review by tax authorities. We are required to file income tax returns in the U.S. and
+various foreign jurisdictions, which requires us to interpret the applicable tax laws and regulations in effect in such jurisdictions. Such returns are subject to
+audit by the various federal, state and foreign taxing authorities, who may disagree with respect to our tax positions. We believe that our consideration is
+adequate for all open audit years based on our assessment of many factors, including past experience and interpretations of tax law. We review and update our
+estimates in light of changing facts and circumstances, such as the closing of a tax audit, the lapse of a statute of limitations or a change in estimate. To the
+extent that the final tax outcome of these matters differs from our expectations, such differences may impact income tax expense in the period in which such
+determination is made. The eventual impact on our income tax expense depends in part if we still have a valuation allowance recorded against our deferred tax
+assets in the period that such determination is made.
+
+Principles of Consolidation
+
+The consolidated financial statements reflect our accounts and operations and those of our subsidiaries in which we have a controlling financial interest.
+In accordance with the provisions of ASC 810, Consolidation, we consolidate any variable interest entity (“VIE”) of which we are the primary beneficiary. We
+form VIEs with our financing fund investors in the ordinary course of business in order to facilitate the funding and monetization of certain attributes associated
+with our solar energy systems and leases under our direct vehicle leasing programs. The typical condition for a controlling financial interest ownership is
+holding a majority of the voting interests of an entity; however, a controlling financial interest may also exist in entities, such as VIEs, through arrangements
+that do not involve controlling voting interests. ASC 810 requires a variable interest holder to consolidate a VIE if that party has the power to direct the
+activities of the VIE that most significantly impact the VIE’s economic performance and the obligation to absorb losses of the VIE that could potentially be
+significant to the VIE or the right to receive benefits from the VIE that could potentially be significant to the VIE. We do not consolidate a VIE in which we have
+a majority ownership interest when we are not considered the primary beneficiary. We have determined that we are the primary beneficiary of all the VIEs. We
+evaluate our relationships with all the VIEs on an ongoing basis to ensure that we continue to be the primary beneficiary. All intercompany transactions and
+balances have been eliminated upon consolidation.
+
+Noncontrolling Interests and Redeemable Noncontrolling Interests
+
+Noncontrolling interests and redeemable noncontrolling interests represent third-party interests in the net assets under certain funding arrangements,
+or funds, that we enter into to finance the costs of solar energy systems and vehicles under operating leases. We have determined that the contractual
+provisions of the funds represent substantive profit sharing arrangements. We have further determined that the methodology for calculating the noncontrolling
+interest and redeemable noncontrolling interest balances that reflects the substantive profit sharing arrangements is a balance sheet approach using the
+hypothetical liquidation at book value (“HLBV”) method. We, therefore, determine the amount of the noncontrolling interests and redeemable noncontrolling
+interests in the net assets of the funds at each balance sheet date using the HLBV method, which is presented on the consolidated balance sheet as
+noncontrolling interests in subsidiaries and redeemable noncontrolling interests in subsidiaries. Under the HLBV method, the amounts reported as
+noncontrolling interests and redeemable noncontrolling interests in the consolidated balance sheet represent the amounts the third parties would
+hypothetically receive at each balance sheet date under the liquidation provisions of the funds, assuming the net assets of the funds were liquidated at their
+recorded amounts determined in accordance with GAAP and with tax laws effective at the balance sheet date and distributed to the third parties. The third
+parties’ interests in the results of operations of the funds are determined as the difference in the noncontrolling interest and redeemable noncontrolling interest
+balances in the consolidated balance sheets between the start and end of each reporting period, after taking into account any capital transactions between the
+funds and the third parties. However, the redeemable noncontrolling interest balance is at least equal to the redemption amount. The redeemable
+noncontrolling interest balance is presented as temporary equity in the mezzanine section of the consolidated balance sheet since these third parties have the
+right to redeem their interests in the funds for cash or other assets. For certain funds, there may be significant fluctuations in net income (loss) attributable to
+noncontrolling interests and redeemable noncontrolling interests in subsidiaries due to changes in the liquidation provisions as time-based milestones are
+reached.
+
+39
+
+
+-----
+
+

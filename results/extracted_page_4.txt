@@ -1,0 +1,62 @@
+**Solar Energy Offerings**
+
+We sell retrofit solar energy systems to customers and channel partners and also make them available through lease and power purchase agreement
+(“PPA”) arrangements and a subscription-based sale of solar power, which is currently available in limited U.S. markets. We purchase most of the components
+for our retrofit solar energy systems from multiple sources to ensure competitive pricing and adequate supply. We also design and manufacture certain
+components for our solar energy products.
+
+In 2019, we commenced direct customer and channel partner sales of the third generation of our Solar Roof, which combines premium glass roof tiles
+with energy generation. We are ramping the volume production of Solar Roof at Gigafactory New York, and we are improving our installation capability and
+efficiency.
+
+**Technology**
+
+**Automotive**
+
+**Battery and Powertrain**
+
+Our core vehicle technology competencies include powertrain engineering and manufacturing and our ability to design vehicles that utilize the unique
+advantages of an electric powertrain. We have designed our proprietary powertrain systems to be adaptable, efficient, reliable and cost-effective while
+withstanding the rigors of an automotive environment. We offer dual motor powertrain vehicles, which use two electric motors to maximize traction and
+performance in an all-wheel drive configuration, and are introducing vehicle powertrain technology featuring three electric motors for further increased
+performance.
+
+Among other things, we maintain extensive testing and R&D capabilities for battery cells, packs and systems, and have built an expansive body of
+knowledge on lithium-ion cell chemistry types and performance characteristics. In order to enable a greater supply of cells for our products with higher energy
+density at lower costs, we are currently using our expertise to develop a new proprietary lithium-ion battery cell and improved manufacturing processes.
+
+**Vehicle Control and Infotainment Software**
+
+The performance and safety systems of our vehicles and their battery packs require sophisticated control software. Control systems in our vehicles
+optimize performance, customize vehicle behavior, manage charging and control all infotainment functions. We develop almost all of this software, including
+most of the user interfaces, internally and update our vehicles’ software regularly through over-the-air updates.
+
+**Self-Driving Development**
+
+We have expertise in developing technologies, systems and software to enable self-driving vehicles using primarily vision and radar-based sensors. Our
+FSD Computer runs our neural networks in our vehicles, and we are also developing additional computer hardware to better enable the massive amounts of
+field data captured by our vehicles to continually train and improve these neural networks for real-world performance.
+
+Currently, we offer in our vehicles certain advanced driver assist systems under our Autopilot and FSD options. Although at present the driver is
+ultimately responsible for controlling the vehicle, our systems provide safety and convenience functionality that relieves drivers of the most tedious and
+potentially dangerous aspects of road travel much like the system that airplane pilots use, when conditions permit. As with other vehicle systems, we improve
+these functions in our vehicles over time through over-the-air updates.
+
+We intend to establish in the future an autonomous Tesla ride-hailing network, which we expect would also allow us to access a new customer base even
+as modes of transportation evolve.
+
+**Energy Generation and Storage**
+
+**Energy Storage Products**
+
+We leverage many of the component-level technologies from our vehicles in our energy storage products. By taking a modular approach to the design of
+battery systems, we can optimize manufacturing capacity among our energy storage products. Additionally, our expertise in power electronics enables us to
+interconnect our battery systems seamlessly with global electricity grids while providing fast-acting systems for power injection and absorption. We have also
+developed the software to remotely control and dispatch our energy storage systems using our real-time energy trading platform.
+
+5
+
+
+-----
+
+

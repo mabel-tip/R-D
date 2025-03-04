@@ -1,0 +1,57 @@
+p p g p p g y p p p
+of the consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs
+and expenses and related disclosures. We base our estimates on historical experience, as appropriate, and on various other assumptions that we believe to be
+reasonable under the circumstances. Changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, actual results could
+differ significantly from the estimates made by our management. We evaluate our estimates and assumptions on an ongoing basis. To the extent that there are
+material differences between these estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash
+flows may be affected.
+
+Due to the COVID-19 pandemic, there has been uncertainty and disruption in the global economy and financial markets. The estimates used for, but not
+limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable,
+inventory valuation, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and
+solar energy systems subject to leases could be impacted. We have assessed the impact and are not aware of any specific events or circumstances that required
+an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Annual Report on
+Form 10-K. These estimates may change as new events occur and additional information is obtained. Actual results could differ materially from these estimates
+under different assumptions or conditions.
+
+Revenue Recognition
+
+Automotive Segment
+
+Automotive Sales Revenue
+
+Automotive Sales without Resale Value Guarantee
+
+Automotive sales revenue includes revenues related to deliveries of new vehicles and pay-per-use charges, and specific other features and services that
+meet the definition of a performance obligation under ASC 606, including access to our Supercharger network, internet connectivity, FSD features and overthe-air software updates. We recognize revenue on automotive sales upon delivery to the customer, which is when the control of a vehicle transfers. Payments
+are typically received at the point control transfers or in accordance with payment terms customary to the business. Other features and services such as access
+to our Supercharger network, internet connectivity and over-the-air software updates are provisioned upon control transfer of a vehicle and recognized over
+time on a straight-line basis as we have a stand-ready obligation to deliver such services to the customer. We recognize revenue related to these other features
+and services over the performance period, which is generally the expected ownership life of the vehicle or the eight-year life of the vehicle. Revenue related to
+FSD features is recognized when functionality is delivered to the customer. For our obligations related to automotive sales, we estimate standalone selling price
+by considering costs used to develop and deliver the service, third-party pricing of similar options and other information that may be available.
+
+At the time of revenue recognition, we reduce the transaction price and record a sales return reserve against revenue for estimated variable
+consideration related to future product returns based on historical experience. In addition, any fees that are paid or payable by us to a customer’s lender when
+we arrange the financing are recognized as an offset against automotive sales revenue.
+
+Costs to obtain a contract mainly relate to commissions paid to our sales personnel for the sale of vehicles. Commissions are not paid on other
+obligations such as access to our Supercharger network, internet connectivity, FSD features and over-the-air software updates. As our contract costs related to
+automotive sales are typically fulfilled within one year, the costs to obtain a contract are expensed as incurred. Amounts billed to customers related to shipping
+and handling are classified as automotive sales revenue, and we have elected to recognize the cost for freight and shipping when control over vehicles, parts or
+accessories have transferred to the customer as an expense in cost of automotive sales revenue. Our policy is to exclude taxes collected from a customer from
+the transaction price of automotive contracts.
+
+Automotive Sales with Resale Value Guarantee or a Buyback Option
+
+We offer resale value guarantees or similar buy-back terms to certain international customers who purchase vehicles and who finance their vehicles
+through one of our specified commercial banking partners. We also offer resale value guarantees in connection with automotive sales to certain leasing
+partners. Under these programs, we receive full payment for the vehicle sales price at the time of delivery and our counterparty has the option of selling their
+vehicle back to us during the guarantee period, which currently is generally at the end of the term of the applicable loan or financing program, for a predetermined resale value.
+
+34
+
+
+-----
+
+

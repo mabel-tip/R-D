@@ -1,0 +1,46 @@
+“Material Review Board Inventory” shall mean Inventory of any Borrower that has not passed inspection by the Company’s
+material review board or that such board has determined requires reworking, needs to be scrapped or is otherwise unfit.
+
+“Material Subsidiary” shall mean, as of any date of determination, any Subsidiary of the Company (a) whose consolidated total
+assets (as set forth in the most recent consolidated balance sheet of the Company and its Consolidated Subsidiaries delivered to the
+Lenders pursuant to this Agreement and computed in accordance with GAAP, but excluding intercompany assets) constitute 5.0% or more
+of the Consolidated Total Assets and (b) whose consolidated total revenues (as set forth in the most recent income statement of the
+Company and its Consolidated Subsidiaries delivered to the Lenders pursuant to this Agreement and computed in accordance with GAAP,
+but excluding intercompany revenues) constitute 5.0% or more of the consolidated total revenues of the Company and its Consolidated
+Subsidiaries (as set forth in the most recent income statement of the Company and its Consolidated Subsidiaries delivered to the Lenders
+pursuant to this Agreement and computed in accordance with GAAP).
+
+“Maximum Letter of Credit Amount” shall have the meaning provided in Section 3.02(a).
+
+“Maximum Rate” shall have the meaning provided in Section 13.2213.23.
+
+“Maximum Swingline Amount” shall mean $50,000,000.
+
+“Merchandise” shall mean apparel, personal accessories and other promotional merchandise items outside of the core business
+of the Company and its Subsidiaries.
+
+“Minimum Borrowing Amount” shall mean (i) for Base Rate Loans (other than Swingline Loans), $500,000, (ii) for LIBOR Loans
+denominated in U.S. Dollars, $1,000,000, (iii) for LIBOR Loans denominated in Euros or any Acceptable Foreign Currency, the smallest
+amount of such currency that is an integral multiple of 1,000,000 units of currency and has a U.S. Dollar Equivalent in excess of
+$1,000,000, and (iv) for Swingline Loans, $100,000; provided that during a Dominion Period there shall be no Minimum Borrowing
+Amount with respect to clause (iv) above.
+
+“Moody’s” shall mean Moody’s Investors Service, Inc.
+
+“Mortgage” shall mean any deed of trust, mortgage, deed to secure debt, or other document entered into by the owner of a
+Mortgaged Property in favor of the Collateral Agent for the benefit of the Secured Creditors creating a Lien on such Mortgaged Property
+in such form as reasonably agreed between the BorrowerCompany and the Collateral Agent.
+
+“Mortgaged Property” shall mean any Real Property owned or leased by any Credit Party which is encumbered (or required to
+be encumbered) pursuant to the terms of this Agreement or any Security Document.
+
+“Multiemployer Plan” shall mean a multiemployer plan as defined in Section 4001(a)(3) of ERISA, which is contributed to (or to
+which there is or may be an obligation to contribute to) by the Company or any of its Subsidiaries or an ERISA Affiliate, and each such
+plan for the five-year period
+
+52
+
+
+-----
+
+

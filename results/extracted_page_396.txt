@@ -1,0 +1,46 @@
+by the Collateral Agent under this Deed and that term will include any appointee made under a joint and/or several appointment;
+
+“Relevant Jurisdiction" means, in relation to a Chargor:
+
+(a) its Original Jurisdiction;
+
+(b) any jurisdiction where any asset subject to or intended to be subject to the Security to be created by it is situated;
+and
+
+(c) any jurisdiction where it conducts its business;
+
+“Secured Creditors” means the Collateral Agent, the Administrative Agent, the Lenders, each Issuing Lender and any Receiver or
+Delegate to which Secured Obligations are owed;
+
+“Secured Obligations” means, with respect to any Chargor:
+
+(a) the full and prompt payment when due (whether at stated maturity, by acceleration or otherwise) of all
+obligations, liabilities and indebtedness (including, without limitation, principal, premium, interest,
+reimbursement obligations under Letters of Credit, cash collateralization of outstanding Letters of Credit, fees,
+costs and indemnities (including, without limitation, all interest, fees and expenses that accrue after the
+commencement of any case, proceeding or other action relating to the bankruptcy, insolvency, reorganization or
+similar proceeding of such Chargor at the rate provided for in the respective documentation, whether or not a
+claim for post-petition interest, fees or expenses is allowed in any such proceeding)) of such Chargor to the
+Secured Creditors, whether now existing or hereafter incurred under, arising out of, or in connection with, each
+Credit Document to which such Chargor is a party (including, without limitation, in the event such Chargor is a
+Guarantor, all such obligations, liabilities and indebtedness of such Chargor under its Guaranty) and the due
+performance and compliance by such Chargor with all of the terms, conditions and agreements contained in each
+such Credit Document;
+
+(b) any and all sums advanced by the Collateral Agent in order to preserve the Security Assets or preserve its security
+interest in the Security Assets;
+
+(c) in the event of any proceeding for the collection or enforcement of any indebtedness, obligations, or liabilities of
+such Chargor referred to in clauses (a) and (b) above, after an Event of Default shall have occurred and be
+continuing, the reasonable expenses of retaking, holding, preparing for sale or lease, selling or otherwise
+disposing of or realizing on the Security Assets, or of any exercise by the Collateral Agent of its rights hereunder,
+together with reasonable attorneys’ fees and court costs;
+(d) all amounts paid by any Indemnitee as to which such Indemnitee has the right to reimbursement under Clause 25
+(Indemnity) of this Deed; and
+
+(e) all amounts owing to any Agent pursuant to any of the Credit Documents in its capacity as such,
+
+
+-----
+
+

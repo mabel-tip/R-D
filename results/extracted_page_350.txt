@@ -1,0 +1,42 @@
+Section that has an aggregate U.S. Dollar limitation provided for therein (and to the extent the respective incurrence or expenditure test
+regulates the aggregate amount outstanding at any time and it is expressed in terms of U.S. Dollars, all outstanding amounts originally
+incurred or spent in currencies other than U.S. Dollars shall be converted into U.S. Dollars on the basis of the exchange rates (as shown
+for the prior day as published on Bloomberg or, if same does not provide such exchange rates, on such other basis as is reasonably
+satisfactory to the Administrative Agent) as in effect on the date of any new incurrence or expenditures made under any provision of any
+such Section that regulates the U.S. Dollar amount outstanding at any time).
+
+(b) All computations of interest (except as otherwise expressly provided herein), Commitment Commission and other Fees
+hereunder shall be made on the basis of a year of 360 days (except for interest calculated by reference to the Prime Lending Rate, which
+shall be based on a year of 365 or 366 days, as applicable) for the actual number of days (including the first day but excluding the last day;
+except that in the case of Letter of Credit Fees and Facing Fees, the last day shall be included) occurring in the period for which such
+interest, Commitment Commission or Fees are payable.
+
+13.0813.09. GOVERNING LAW; SUBMISSION TO JURISDICTION; VENUE; WAIVER OF JURY TRIAL. (a) THIS
+**AGREEMENT AND THE OTHER CREDIT DOCUMENTS AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER**
+**AND THEREUNDER SHALL, EXCEPT AS OTHERWISE PROVIDED IN ANY OTHER CREDIT DOCUMENT, BE CONSTRUED IN**
+**ACCORDANCE WITH AND BE GOVERNED BY THE LAW OF THE STATE OF NEW YORK (OR, IN RESPECT OF SECTION 12.12,**
+**NETHERLANDS LAW) (WITHOUT REGARD TO CONFLICTS OF LAW PRINCIPLES THAT WOULD RESULT IN THE**
+**APPLICATION OF ANY LAW OTHER THAN THE LAW OF THE STATE OF NEW YORK). ANY LEGAL ACTION OR PROCEEDING**
+**WITH RESPECT TO THIS AGREEMENT OR ANY OTHER CREDIT DOCUMENT SHALL (EXCEPT AS OTHERWISE PERMITTED**
+**BELOW) BE BROUGHT IN THE COURTS OF THE STATE OF NEW YORK OR OF THE UNITED STATES FOR THE SOUTHERN**
+**DISTRICT OF NEW YORK, IN EACH CASE WHICH ARE LOCATED IN THE COUNTY OF NEW YORK, BOROUGH OF**
+**MANHATTAN (OR, IN RESPECT OF SECTION 12.12, THE COURTS OF AMSTERDAM, THE NETHERLANDS), AND, BY**
+**EXECUTION AND DELIVERY OF THIS AGREEMENT OR ANY OTHER CREDIT DOCUMENT, EACH OF THE COMPANY AND**
+**EACH OTHER BORROWER HEREBY IRREVOCABLY ACCEPTS FOR ITSELF AND IN RESPECT OF ITS PROPERTY, GENERALLY**
+**AND UNCONDITIONALLY, THE EXCLUSIVE JURISDICTION OF THE AFORESAID COURTS. WITHOUT LIMITING THE OTHER**
+**PROVISIONS OF THIS SECTION** **13.0813.09 AND IN ADDITION TO THE SERVICE OF PROCESS PROVIDED FOR HEREIN,**
+**EACH DUTCH BORROWER AND EACH UK BORROWER HEREBY IRREVOCABLY DESIGNATES, APPOINTS AND EMPOWERS**
+**THE COMPANY (AND THE COMPANY HEREBY IRREVOCABLY ACCEPTS SUCH APPOINTMENT), AS ITS AUTHORIZED**
+**DESIGNEE, APPOINTEE AND AGENT TO RECEIVE, ACCEPT AND ACKNOWLEDGE FOR AND ON ITS BEHALF, AND IN**
+**RESPECT OF ITS PROPERTY, SERVICE OF ANY AND ALL LEGAL PROCESS, SUMMONS, NOTICES AND DOCUMENTS WHICH**
+**MAY BE SERVED IN ANY SUCH ACTION OR PROCEEDING. IF FOR ANY REASON THE COMPANY SHALL CEASE TO BE**
+**AVAILABLE TO ACT AS SUCH, EACH DUTCH BORROWER** **AND EACH UK BORROWER AGREES TO DESIGNATE A NEW**
+**AUTHORIZED DESIGNEE, APPOINTEE AND AGENT IN NEW YORK CITY ON THE TERMS AND FOR THE PURPOSES OF THIS**
+**PROVISION REASONABLY SATISFACTORY**
+
+189
+
+
+-----
+
+

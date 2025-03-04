@@ -1,0 +1,42 @@
+“EEA Member Country” shall mean any of the member states of the European Union, Iceland, Liechtenstein, and Norway.
+
+“EEA Resolution Authority” shall mean any public administrative authority or any person entrusted with public administrative
+authority of any EEA Member Country (including any delegee) having responsibility for the resolution of any EEA Financial Institution.
+
+“Effective Date” shall have the meaning provided in Section 13.1013.11. For avoidance of doubt, the Effective Date occurred on
+June 10, 2015.
+
+“Eligible Accounts” shall mean each Account (other than Rental Accounts and Accounts in respect of the sale of solar panels or
+solar shingles) created by any of the Borrowers other than the UK Borrowers in the ordinary course of its business, that arises out of its
+sale of goods or its rendition of services or that is a Permitted Bank Financing Account, that complies in all material respects with each of
+the representations and warranties respecting Eligible Accounts made in the Credit Documents, that are reflected in the most recent
+Borrowing Base Certificate delivered to the Administrative Agent pursuant to Section 9.01(h) and that are not excluded as ineligible by
+virtue of one or more of the excluding criteria set forth below; provided, however, that such criteria may only be revised or any new
+criteria for Eligible Accounts may only be established by the Administrative Agent in its Permitted Discretion based on either (i) an event,
+condition or other circumstance arising after the date hereof, or (ii) an event, condition or other circumstance existing on the date hereof
+to the extent the Administrative Agent has no written notice thereof from a Borrower prior to the date hereof, in either cause under clause
+(i) or (ii) which adversely affects or could reasonably be expected to adversely affect the value or collectability of the Accounts as
+determined by the Administrative Agent in its Permitted Discretion. In determining the amount to be included, Eligible Accounts shall be
+calculated net of unapplied cash, any and all returns, accrued rebates, discounts (which may, at the Administrative Agent’s option in its
+Permitted Discretion, be calculated on shortest terms), credits or allowances of any nature at any time issued, owing, claimed by Account
+Debtors, granted, outstanding or payable in connection with such Accounts at such time. Eligible Accounts shall not include the following:
+
+(a) Accounts which either (x) are more than 90 days past due or (y) are unpaid more than 120 days after the
+original invoice date; provided that a Permitted Bank Financing Account shall not be eligible if it is (i) more than 30 days past
+due or (ii) unpaid more than 45 days after the original invoice date; provided further that an Account in respect of sales of
+Environmental Attributes shall not be eligible if (x) such Account (or a portion thereof) is more than 90 days past due or (y) such
+Account (or a portion thereof) is unpaid more than 150 days after the original invoice date;
+
+(b) Accounts owed by an Account Debtor where 50% or more of the total amount of all Accounts owed by that
+Account Debtor are deemed ineligible under clause (a)(x) above or clause (i) of the proviso to clause (a) above;
+
+(c) Accounts with respect to which the Account Debtor is (i) an Affiliate of any Credit Party (other than any
+Affiliate set forth on Schedule 1.01(e) to the Disclosure Letter) or (ii) an employee or agent (other than bona fide resellers) of
+any Credit Party;
+
+25
+
+
+-----
+
+

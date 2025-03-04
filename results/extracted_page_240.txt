@@ -1,0 +1,45 @@
+Section 2.10, including whether the composition or characteristics of any such alternative, successor or replacement reference rate will be
+similar to, or produce the same value or economic equivalence of, the LIBO Rate or have the same volume or liquidity as did the London
+interbank offered rate or any other applicable rate prior to its discontinuance or unavailability.
+
+SECTION 2. Amount and Terms of Credit.
+
+2.01. The Commitments. (a) Subject to and upon the terms and conditions set forth herein, each Lender severally agrees
+to make, at any time and from time to time on or after the Effective Date and prior to the Final Maturity Date, (x) a revolving loan or
+revolving loans to any U.S. Borrower (on a joint and several basis with the other U.S. Borrowers) (each, a “U.S. Borrower Revolving Loan”
+and, collectively, the “U.S. Borrower Revolving Loans”), and (y) a revolving loan or revolving loans to any Dutch Borrower (on a joint and
+several basis with the other Dutch Borrowers) (each, a “Dutch Borrower Revolving Loan” and, collectively, the “Dutch Borrower Revolving
+Loans”) and (z) a revolving loan or revolving loans to any UK Borrower (on a joint and several basis with the other UK Borrowers) (each, a
+“UK Borrower Revolving Loan” and, collectively, the “UK Borrower Revolving Loans and, together with the U.S. Borrower Revolving Loans
+and the Dutch Borrower Revolving Loans, each, a “Revolving Loan” and, collectively, the “Revolving Loans”), which Revolving Loans:
+
+(i) shall be made and maintained in an Available Currency;
+
+(ii) except as hereafter provided, shall, at the option of the applicable Borrower, be incurred and maintained as,
+and/or converted into, Base Rate Loans (in the case of U.S. Dollar Denominated Revolving Loans only) or LIBOR Loans;
+provided that, except as otherwise specifically provided in Section 2.10(bc), all Revolving Loans comprising the same Borrowing
+shall at all times be of the same Type;
+
+(iii) may be repaid and reborrowed in accordance with the provisions hereof;
+
+(iv) shall not be made (and shall not be required to be made) by any Lender in any instance where the
+incurrence thereof (after giving effect to the use of the proceeds thereof on the date of the incurrence thereof to repay any
+amounts theretofore outstanding pursuant to this Agreement) would cause the Individual Exposure of such Lender to exceed
+the amount of its Revolving Loan Commitment at such time;
+
+(v) shall not be made (and shall not be required to be made) by any Lender in any instance where the
+incurrence thereof (after giving effect to the use of the proceeds thereof on the date of the incurrence thereof to repay any
+amounts theretofore outstanding pursuant to this Agreement) would cause the Aggregate Exposure to exceed the Total
+Revolving Loan Commitment as then in effect;
+
+(vi) except as otherwise provided in Section 2.01(e), in the case of U.S. Borrower Revolving Loans, shall not be
+made (and shall not be required to be made) by any Lender in any instance where the incurrence thereof (after giving effect to
+the use of the proceeds thereof on the date of incurrence thereof to repay any amounts theretofore outstanding pursuant to this
+Agreement) would cause the Aggregate U.S. Borrower Exposure to exceed the U.S. Borrowing Base at such time;
+
+79
+
+
+-----
+
+

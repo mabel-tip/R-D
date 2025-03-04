@@ -1,0 +1,48 @@
+for the appointment of a receiver, controller, receiver-manager, trustee, monitor, custodian or similar official for it or for any substantial
+part of its property) is entered; or any Credit Party or any Material Subsidiary of the Company makes a general assignment for the benefit
+of creditors; or any Business action is taken by any Credit Party or any Material Subsidiary of the Company for the purpose of effecting
+any of the foregoing; or with respect to a Dutch Credit Party, if it files a notice under section 36 of the Tax Collection Act of the
+Netherlands (Invorderingswet 1990); or
+
+11.06. ERISA.
+
+(a) One or more ERISA Events shall have occurred;
+
+(b) there is or arises an Unfunded Pension Liability (taking into account only Plans with positive Unfunded Pension
+Liability);
+
+(c) any material contribution required to made with respect to a Foreign Pension Plan has not been timely made; or
+
+(d) or there is or arises any potential withdrawal liability under Section 4201 of ERISA, if the Company, any Subsidiary of
+the Company or any of the ERISA Affiliates were to withdraw completely from any and all Multiemployer Plans;
+
+and the liability of any or all of the Company, any Subsidiary of the Company and the ERISA Affiliates contemplated by the foregoing
+clauses (a), (b), (c), and (d), either individually or in the aggregate, has had, or could be reasonably expected to have, a Material Adverse
+Effect; or
+
+11.07. [Reserved].
+
+11.08. Security Documents. Any of this Agreement or the Security Documents shall cease to be in full force and effect
+(other than as permitted by the Credit Documents), or any Credit Party or any Person acting for or on behalf of such Credit Party shall
+deny or disaffirm such Credit Party’s obligations under this Agreement or any Security Document to which it is a party, or the Security
+Documents shall cease to give the Collateral Agent for the benefit of the Secured Creditors (other than pursuant to, or as permitted by, the
+terms hereof or thereof (including as a result of a transaction permitted by this Agreement)) a perfected security interest in, and Lien on,
+the Collateral covered thereby, in favor of the Collateral Agent, superior to and prior to the rights of all third Persons (except as permitted
+by Section 10.01), and subject to no other Liens (except as permitted by Section 10.01), or any Credit Party shall default in the due
+performance or observance of any term, covenant or agreement on its part to be performed or observed pursuant to any such Security
+Document and such default shall continue beyond the period of grace, if any, specifically applicable thereto pursuant to the terms of such
+Security Document or, if no such period of grace is provided in such Security Document, such default shall continue unremedied for a
+period of 30 days after the earlier of (a) the date on which such default shall first become known to any Responsible Officer of the
+Company or (b) the date on which written notice thereof is given to the defaulting party by the Administrative Agent or the Required
+Lenders; or
+
+11.09. Guaranties. Any Guaranty or any provision thereof shall cease to be in full force or effect as to any Guarantor
+(except as a result of a release of any Subsidiary Guarantor in accordance with the terms of the Credit Documents), or any Guarantor or
+any Person acting for or on behalf of such
+
+172
+
+
+-----
+
+

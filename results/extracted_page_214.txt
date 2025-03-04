@@ -1,0 +1,46 @@
+“NAIC” shall mean the National Association of Insurance Commissioners.
+
+“Net Orderly Liquidation Value” shall mean (a) with respect to Inventory, the “net orderly liquidation value” expected to be
+realized in respect of such Inventory at an orderly, negotiated sale held within a reasonable period of time, less the amount estimated for
+marshalling, reconditioning, carrying, and sales expenses designated to maximize the resale value of such Inventory, with such net orderly
+liquidation value determined from the most recent Acceptable Appraisal in respect of such Inventory and expressed as a percentage of the
+net book value of such Inventory; provided that in calculating the Net Orderly Liquidation Value in respect of Eligible WIP Inventory,
+Eligible Service Parts Inventory and Eligible Finished Goods Inventory, the Administrative Agent may elect for such percentage to be
+determined on a blended, product-line or other basis as it determines in its Permitted Discretion and (b) with respect to Equipment, the
+“net orderly liquidation value” expected to be realized in respect of such Equipment at an orderly, negotiated sale held within a
+reasonable period of time, less the amount estimated for marshalling, reconditioning, carrying, and sales expenses designated to maximize
+the resale value of such Equipment, as determined from the most recent Acceptable Appraisal in respect of such Equipment and expressed
+as a percentage of the net book value of such Equipment.
+
+“Net RVG Repurchase Amount” shall mean, for any period, an amount (not less than zero) equal to the excess of (a) cash paid
+by the Company and its Subsidiaries during such period to settle guarantee obligations under resale value guarantee programs over (b)
+cash received by the Company and its Subsidiaries during such period in respect of the resale of cars repurchased pursuant to resale
+value guarantee programs.
+
+“Net Share Settlement” shall mean any settlement upon conversion of Permitted Convertible Notes or any SolarCity Convertible
+Notes consisting of Permitted Company Stock, cash or a combination of cash and Permitted Company Stock.
+
+“New B.V.” means Tesla International B.V., a company organized under the laws of the Netherlands and that is (or will be when
+formed) a Wholly-Owned Subsidiary of Tesla Motors Netherlands Coöperatief U.A.
+
+“Ninth Amendment Effective Date” shall mean May 3, 2018.
+
+“Non-Defaulting Lender” shall mean and include each Lender, other than a Defaulting Lender.
+
+“Non-Wholly-Owned Subsidiary” shall mean, as to any Person, each Subsidiary of such Person which is not a Wholly-Owned
+Subsidiary of such Person.
+
+“Note” shall mean each Dutch Borrower Revolving Note, each U.S. Borrower Revolving Note, each UK Borrower Revolving
+Note, the Dutch Borrower Swingline Note and the U.S. Borrower Swingline Note.
+
+“Note Hedge Option” shall mean any hedging agreement (including, but not limited to, any bond hedge transaction or capped
+call transaction), entered into by the Company in connection with the issuance of Permitted Convertible Notes, pursuant to which the
+Company acquires an option requiring the counterparty thereto to deliver to the Company shares of Permitted Company Stock, the cash
+value of such shares or a combination thereof from time to time upon exercise of such option.
+
+53
+
+
+-----
+
+

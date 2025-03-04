@@ -1,0 +1,42 @@
+automatically be deemed to have been issued (including for purposes of the obligations of the Lenders to purchase participations therein
+and to make payments in respect thereof pursuant to Sections 3.04 and 3.05) under (and ratably participated in by Lenders under the
+applicable tranche pursuant to) the outstanding 2023 Extended Revolving Loan Commitments and any Extended Revolving Loan
+Commitments up to an aggregate amount not to exceed the aggregate principal amount of the unutilized 2023 Extended Revolving Loan
+Commitments and the Extended Revolving Loan Commitments at such time (it being understood that no partial face amount of any Letter
+of Credit may be so reallocated).
+
+3.07. Extended Revolving Loan Commitments. (iia) If the 2023 ExtendedInitial Maturity Date shall have occurred at a
+time when Extended Revolving Loan Commitments are in effect, then such Letters of Credit shall automatically be deemed to have been
+issued (including for purposes of the obligations of the Lenders to purchase participations therein and to make payments in respect
+thereof pursuant to Sections 3.04 and 3.05) under (and ratably participated in by Lenders under the applicable tranche pursuant to) the
+Extended Revolving Loan Commitments up to an aggregate amount not to exceed the aggregate principal amount of the unutilized
+Extended Revolving Loan Commitments thereunder at such time (it being understood that no partial face amount of any Letter of Credit
+may be so reallocated).
+
+(b) To the extent not reallocated pursuant to clause (a) of this Section 3.07, but without limiting the obligations with
+respect thereto, the applicable Borrower shall either (i) provide cash collateral with respect to such Letters of Credit on the Initial
+Maturity Date or the 2023 Extended Maturity Date, as applicable, in accordance with Section 3.02(b) or (ii) enter into backstop
+arrangements reasonably acceptable to the applicable Issuing Lender. If, for any reason, such cash collateral is not provided, such
+backstop arrangements are not entered into and the reallocation does not occur, the Lenders under the maturing tranche shall continue to
+be responsible for their participating interests in the Letters of Credit; provided that, notwithstanding anything to the contrary contained
+herein, (A) the continuing participations of the Lenders under the maturing tranche shall be included in the calculation of the Required
+Lenders (with each such Lender being deemed to have a Revolving Loan Commitment in the amount of such continued participation) and
+(B) upon any subsequent repayment of the Loans, the reallocation set forth in Section 3.07(a) shall automatically and concurrently occur
+to the extent of such repayment.
+
+(c) Except to the extent of reallocations of participations pursuant to Section 3.07(a), the occurrence of the Initial Maturity
+Date and the 2023 Extended Maturity Date shall have no effect upon (and shall not diminish) the percentage participations of the Lenders
+under the Revolving Loan Commitments in any Letter of Credit issued before the Initial Maturity Date or the 2023 Extended Maturity
+Date.
+
+3.08. Conflict. In the event of any conflict between the terms hereof and the terms of any Letter of Credit application
+required by an Issuing Lender (or any other document, agreement and instrument entered into by an Issuing Lender and any Borrower or
+in favor of an Issuing Lender and relating to any such Letter of Credit) or if such application, document, agreement or instrument imposes
+materially more burdensome representations or covenants than those contained in Section 8, 9 or 10, the terms hereof shall control.
+
+111
+
+
+-----
+
+

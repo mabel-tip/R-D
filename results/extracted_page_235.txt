@@ -1,0 +1,48 @@
+“U.S. Borrower Obligations” shall mean all Obligations owing to the Administrative Agent, the Collateral Agent, any Issuing
+Lender or any Lender by any U.S. Borrower.
+
+“U.S. Borrower Revolving Loan” shall have the meaning provided in Section 2.01(a).
+
+“U.S. Borrower Revolving Note” shall have the meaning provided in Section 2.05(a).
+
+“U.S. Borrower Swingline Loan” shall have the meaning provided in Section 2.01(b).
+
+“U.S. Borrower Swingline Note” shall have the meaning provided in Section 2.05(a).
+
+“U.S. Borrowing Base” shall mean, as of any date of calculation, the amount calculated pursuant to the Borrowing Base
+Certificate most recently delivered to the Administrative Agent in accordance with Section 9.01(h) equal to, without duplication:
+
+(a) the sum of:
+
+(i) 100% of the U.S. Dollar Equivalent of Eligible U.S. Cash and Cash Equivalents (the “U.S. Cash
+Contribution”),
+
+(ii) 85% of the Eligible U.S. Accounts,
+
+(iii) 85% of the then extant Net Orderly Liquidation Value of Eligible U.S. Vendor In-Transit
+Inventory,
+
+(iv) 85% of the then extant Net Orderly Liquidation Value of Eligible U.S. Raw Materials Inventory
+(other than Eligible U.S. Vendor In-Transit Inventory),
+
+(v) 85% of the then extant Net Orderly Liquidation Value of Eligible U.S. WIP Inventory,
+
+(vi) 85% of the then extant Net Orderly Liquidation Value of Eligible U.S. Service Parts Inventory,
+
+(vii) 85% of the then extant Net Orderly Liquidation Value of Eligible U.S. Finished Goods Inventory,
+
+(viii) 85% of the then extant Net Orderly Liquidation Value of Eligible U.S. In-Transit Inventory,
+
+(ix) 85% of the Applicable Value of Eligible Machinery and Equipment, and
+
+(x) 75% of the Appraised Fair Market Value of Eligible Real Property,; minus
+
+74
+
+|,|; minus|
+|---|---|
+
+
+-----
+
+

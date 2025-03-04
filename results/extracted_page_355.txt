@@ -1,0 +1,44 @@
+from those being charged by the respective Lender prior to such transfer, then no Borrower shall be obligated to pay such increased costs
+or taxes (although the Borrowers shall be jointly and severally obligated to pay any other increased costs and taxes of the type described
+above resulting from changes after the date of the respective transfer).
+
+13.1513.16. Register. Each Borrower hereby designates the Administrative Agent to serve as its agent, solely for
+purposes of this Section 13.1513.16, to maintain a register (the “Register”) on which it will record the Revolving Loan Commitments from
+time to time of each of the Lenders, the Loans made by each of the Lenders and each repayment in respect of the principal amount of, and
+stated interest on, the Loans of each Lender. Failure to make any such recordation, or any error in such recordation, shall not affect any
+Borrower’s obligations in respect of such Loans. With respect to any Lender, the transfer of the Revolving Loan Commitment of such
+Lender and the rights to the principal of, and interest on, any Loan made pursuant to such Revolving Loan Commitment shall not be
+effective until such transfer is recorded on the Register maintained by the Administrative Agent with respect to ownership of such
+Revolving Loan Commitment and Loans and prior to such recordation all amounts owing to the transferor with respect to such Revolving
+Loan Commitment and Loans shall remain owing to the transferor. The registration of assignment or transfer of all or part of any
+Revolving Loan Commitments and Loans shall be recorded by the Administrative Agent on the Register only upon the acceptance by the
+Administrative Agent of a properly executed and delivered Assignment and Assumption Agreement pursuant to
+Section 13.0413.05(b). Upon such acceptance and recordation, the assignee specified therein shall be treated as a Lender for all purposes
+of this Agreement. Coincident with the delivery of such an Assignment and Assumption Agreement to the Administrative Agent for
+acceptance and registration of assignment or transfer of all or part of a Loan, or as soon thereafter as practicable, the assigning or
+transferor Lender shall surrender the Note (if any) evidencing such Loan, and thereupon one or more new Notes in the same aggregate
+principal amount shall be issued to the assigning or transferor Lender and/or the new Lender at the request of any such Lender. The
+Register shall be available for inspection by each Borrower at any reasonable time and from time to time upon reasonable prior
+notice. The Register shall be available for inspection by any Lender at the office of the Administrative Agent at any reasonable time and
+from time to time upon reasonable prior notice.
+
+13.1613.17. Confidentiality. (a) Subject to the provisions of clause (b) of this Section 13.1613.17, each Agent and each
+Lender agrees not to disclose without the prior consent of the Company (other than on a need to know basis to such Agent’s or such
+Lender’s directors, officers, employees, insurers, re-insurers and agents, including auditors, advisors or counsel, in connection with this
+Agreement and the transactions contemplated hereby or to another Agent or Lender if such Lender or such Lender’s holding or parent
+company in its sole discretion determines that any such party should have access to such information, provided such Persons shall be
+subject to the provisions of this Section 13.1613.17 to the same extent as such Lender) any information with respect to the Company or
+any of its Subsidiaries which is now or in the future furnished pursuant to this Agreement or any other Credit Document by or on behalf of
+a Credit Party, provided that any Agent or Lender may disclose any such information (i) as has become generally available to the public
+other than by virtue of a breach of this Section 13.1613.17(a) by the respective Agent or Lender, (ii) as may be required or appropriate in
+any report, statement or testimony submitted to any municipal, state or Federal regulatory body (including any self-regulatory body, such
+as the National Association of Insurance Commissioners) having or claiming to have jurisdiction over such Agent or Lender or to the Board
+or the Federal Deposit Insurance Corporation or similar organizations (whether in the United States or elsewhere) or their successors (in
+which case such Agent or Lender, as applicable, to the extent permitted by law, agrees to use
+
+194
+
+
+-----
+
+

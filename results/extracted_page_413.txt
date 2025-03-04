@@ -1,0 +1,43 @@
+(b) For the purposes of this Clause 17.1:
+
+“Pro Rata Share” shall mean, when calculating a Secured Creditor’s portion of any distribution or amount, that amount (expressed as a
+percentage) equal to a fraction the numerator of which is the then unpaid amount of such Secured Creditor’s Primary Obligations or
+Secondary Obligations, as the case may be, and the denominator of which is the then outstanding amount of all Primary Obligations or
+Secondary Obligations owing to the applicable Secured Creditors entitled thereto, as the case may be;
+
+“Primary Obligations” shall mean all principal of, premium, fees and interest on, all Loans made to the UK Borrowers, all Unpaid
+Drawings (and all interest thereon) in respect of Letters of Credit issued for the account of a UK Borrower, the Stated Amount of (and the
+obligation to cash collateralize) all outstanding Letters of Credit issued for the account of a UK Borrower and all Fees in respect of which a
+UK Borrower (in its capacity as such) is obligated; and
+
+“Secondary Obligations” shall mean all Obligations other than Primary Obligations.
+
+(c) When payments to Secured Creditors are based upon their respective Pro Rata Shares, the amounts received by
+such Secured Creditors hereunder shall be applied (for purposes of making determinations under this Clause 17.1
+only) (i) first, to their Primary Obligations and (ii) second, to their Secondary Obligations. If any payment to any
+Secured Creditor of its Pro Rata Share of any distribution would result in overpayment to such Secured Creditor,
+such excess amount shall instead be distributed in respect of the unpaid Primary Obligations or Secondary
+Obligations, as the case may be, of the other Secured Creditors entitled to such distribution, with each such
+Secured Creditor whose Primary Obligations or Secondary Obligations, as the case may be, have not been paid in
+full to receive an amount equal to such excess amount multiplied by a fraction the numerator of which is the
+unpaid Primary Obligations or Secondary Obligations, as the case may be, of such Secured Creditor and the
+denominator of which is the unpaid Primary Obligations or Secondary Obligations, as the case may be, of all
+Secured Creditors entitled to such distribution.
+
+(d) Each of the Secured Creditors, by their acceptance of the benefits hereof and of the other Security Documents,
+agrees and acknowledges that if the Secured Creditors receive (or are to receive) a distribution on account of
+undrawn amounts with respect to Letters of Credit issued under the Credit Agreement for the account of a UK
+Borrower (which shall only occur after all outstanding Revolving Loans under the Credit Agreement of any UK
+Borrower and Unpaid Drawings of any UK Borrower have been paid in full), such amounts shall be paid to the
+Administrative Agent under the Credit Agreement and held by it, for the equal and ratable benefit of the Secured
+Creditors, as cash security for the repayment of Obligations owing to the Secured Creditors as such. If any
+amounts are held as cash security pursuant to the immediately preceding sentence, then upon the termination of
+all outstanding Letters of Credit issued under the Credit Agreement and for the account of a UK Borrower, and
+after the application of all such cash security to the repayment of all Secured Obligations owing to the Secured
+Creditors after giving effect to the termination of all such Letters of Credit, if there remains any excess cash, such
+excess cash shall be returned by the Administrative
+
+
+-----
+
+

@@ -1,0 +1,61 @@
+weeks based on the contractual payment terms with such partners. Our accounts receivable balances associated with our sales of regulatory credits, which are
+typically transferred to other manufacturers during the last few days of the quarter, is dependent on contractual payment terms. Additionally, government
+rebates can take up to a year or more to be collected depending on the customary processing timelines of the specific jurisdictions issuing them. These various
+factors may have a significant impact on our accounts receivable balance from period to period.
+
+MyPower Customer Notes Receivable
+
+We have customer notes receivable under the legacy MyPower loan program. MyPower was offered by one of our subsidiaries to provide residential
+customers with the option to finance the purchase of a solar energy system through a 30-year loan. The outstanding balances, net of any allowance for credit
+losses, are presented on the consolidated balance sheet as a component of prepaid expenses and other current assets for the current portion and as other noncurrent assets for the long-term portion. We adopted ASC 326, Financial Instruments – Credit Losses, on January 1, 2020 on a modified retrospective basis.
+Under ASC 326, expected credit loss for customer notes receivable are measured on a collective basis and are determined as the difference between the
+amortized cost basis and the present value of cash flows expected to be collected. In determining expected credit losses, we consider our historical level of
+credit losses, current economic trends, and reasonable and supportable forecasts that affect the collectability of the future cash flows. We write-off customer
+notes receivable when they are deemed uncollectible and the amount of potentially uncollectible amounts has been insignificant. Using a modified retrospective
+approach for the impact upon adoption, we recorded an increase to the allowance for credit losses of $37 million on January 1, 2020, with an offset to
+accumulated deficit. As of December 31, 2020 and 2019, the total outstanding balance of MyPower customer notes receivable, net of allowance for credit
+losses, was $334 million and $402 million, respectively, of which $9 million was due in the next 12 months as of December 31, 2020 and 2019, respectively. As
+of December 31, 2020, the allowance for credit losses was $45 million. In addition, there were no material non-accrual or past due customer notes receivable as
+of December 31, 2020.
+
+Concentration of Risk
+
+Credit Risk
+
+Financial instruments that potentially subject us to a concentration of credit risk consist of cash, cash equivalents, restricted cash, accounts receivable,
+convertible note hedges, and interest rate swaps. Our cash balances are primarily invested in money market funds or on deposit at high credit quality financial
+institutions in the U.S. These deposits are typically in excess of insured limits. As of December 31, 2020 and 2019, no entity represented 10% or more of our
+total accounts receivable balance. The risk of concentration for our convertible note hedges and interest rate swaps is mitigated by transacting with several
+highly-rated multinational banks.
+
+Supply Risk
+
+We are dependent on our suppliers, the majority of which are single source suppliers, and the inability of these suppliers to deliver necessary
+components of our products in a timely manner at prices, quality levels and volumes acceptable to us, or our inability to efficiently manage these components
+from these suppliers, could have a material adverse effect on our business, prospects, financial condition and operating results.
+
+Although all of our manufacturing facilities are operational, and we continue to increase our output and add additional capacity and are working with
+each of our suppliers and government agencies on meeting, ramping and sustaining our production, our ability to sustain this trajectory depends, among other
+things, on the readiness and solvency of our suppliers and vendors through any macroeconomic factors resulting from the COVID-19 pandemic.
+
+Inventory Valuation
+
+Inventories are stated at the lower of cost or net realizable value. Cost is computed using standard cost for vehicles and energy storage products, which
+approximates actual cost on a first-in, first-out basis. In addition, cost for solar energy systems is recorded using actual cost. We record inventory write-downs
+for excess or obsolete inventories based upon assumptions about current and future demand forecasts. If our inventory on-hand is in excess of our future
+demand forecast, the excess amounts are written-off.
+
+We also review our inventory to determine whether its carrying value exceeds the net amount realizable upon the ultimate sale of the inventory. This
+requires us to determine the estimated selling price of our vehicles less the estimated cost to convert the inventory on-hand into a finished product. Once
+inventory is written-down, a new, lower cost basis for that inventory is established and subsequent changes in facts and circumstances do not result in the
+restoration or increase in that newly established cost basis.
+
+Should our estimates of future selling prices or production costs change, additional and potentially material increases to this reserve may be required. A
+small change in our estimates may result in a material charge to our reported financial results.
+
+70
+
+
+-----
+
+

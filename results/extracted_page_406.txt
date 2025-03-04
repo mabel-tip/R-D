@@ -1,0 +1,44 @@
+(b) Until the occurrence of an Account Control Event which is continuing, each Chargor shall be entitled to deal with
+its Charged Accounts in any manner not prohibited by the Credit Documents (including closing such Charged
+Accounts).
+
+(c) At any time following the occurrence of an Account Control Event which is continuing, no Chargor shall be entitled
+to make any withdrawals or transfers from any Charged Account without the Collateral Agent’s prior written
+consent and the Collateral Agent may at any time following the occurrence of an Account Control Event which is
+continuing, without prior notice exercise from time to time all rights, powers and remedies held by it as chargee of
+the Charged Accounts to:
+
+(i) demand and receive all and any monies due under or rising out of each Charged Account;
+
+(ii) exercise all such rights as the charger was then entitled to exercise in relation to such Charged
+Account or might, but for the terms of this Deed exercise.
+
+**11.3** **Notice of assignment and/or charge**
+
+Each Chargor shall, promptly upon request by the Collateral Agent at any time after the occurrence of an Event of Default which is
+continuing, in respect of each of its Assigned Assets, deliver a duly completed and executed notice of assignment to each other party to
+that Assigned Asset and shall use reasonable endeavours to procure that each such party executes and delivers to the Collateral Agent an
+acknowledgement, in the case of Insurances, in the form set out in Schedule 2 (Form of Notice to and Acknowledgement by Insurers) and
+in the case of all other Assigned Assets in the form set out in Schedule 3 (Form of Notice and Acknowledgement of assignment) or in each
+case such other form as the Collateral Agent may agree, acting reasonably. If a Chargor has used its reasonably endeavours but has not
+been able to obtain an acknowledgement as required by this Clause 10.3, its obligation to obtain acknowledgment shall cease on the expiry
+of 20 Business Days following delivery of the applicable notice.
+
+**11.4** **Receivables**
+
+(a) Except (i) in accordance with such Chargor’s ordinary course of business, (ii) as otherwise in such Chargor’s
+reasonable business judgment, (iii) as permitted by the Credit Agreement or (iv) as permitted by paragraph (b)
+below, no Chargor shall rescind or cancel any indebtedness evidenced by or under any Receivable, or modify
+any term thereof or make any adjustment with respect thereto, or extend or renew the same, or compromise or
+settle any dispute, claim, suit or legal proceeding relating thereto, without the prior written consent of the
+Collateral Agent. Except to the extent otherwise permitted by this Deed or the Credit Agreement, no Chargor will
+do anything to impair in any material respect the rights of the Collateral Agent in any Receivable.
+
+(b) Except as such Chargor otherwise determines in its reasonable business judgment, each Chargor shall endeavor
+in accordance with reasonable business practices to cause to be collected from the debtor in respect of any
+Receivable as and when due (including,
+
+
+-----
+
+

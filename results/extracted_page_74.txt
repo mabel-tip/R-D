@@ -1,0 +1,55 @@
+J q
+amortized cost to be presented at the net amount expected to be collected based on historical experience, current conditions and forecasts. Subsequently, the
+FASB issued ASU No. 2018-19, Codification Improvements to Topic 326, to clarify that receivables arising from operating leases are within the scope of lease
+accounting standards. Further, the FASB issued ASU No. 2019-04, ASU No. 2019-05, ASU 2019-10, ASU 2019-11, ASU 2020-02 and ASU 2020-03 to provide
+additional guidance on the credit losses standard. Adoption of the ASUs is on a modified retrospective basis. We adopted the ASUs on January 1, 2020. The
+ASUs did not have a material impact on our consolidated financial statements. ASU No. 2016-13 applies to all financial assets including loans, trade receivables
+and any other financial assets not excluded from the scope that have the contractual right to receive cash. The adoption of this ASU did not have any impact
+except on MyPower customer notes receivable. Refer to MyPower Customer Notes Receivable above for further details.
+
+In January 2017, the FASB issued ASU No. 2017-04, Simplifying the Test for Goodwill Impairment, to simplify the test for goodwill impairment by
+removing Step 2. An entity will, therefore, perform the goodwill impairment test by comparing the fair value of a reporting unit with its carrying amount and
+recognizing an impairment charge for the amount by which the carrying amount exceeds the fair value, not to exceed the total amount of goodwill allocated to
+the reporting unit. An entity still has the option to perform a qualitative assessment to determine if the quantitative impairment test is necessary. We adopted
+the ASU prospectively on January 1, 2020. The ASU did not have a material impact on our consolidated financial statements.
+
+In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that
+Is a Service Contract. The ASU aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with
+the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internaluse software license). We adopted the ASU prospectively on January 1, 2020. The ASU did not have a material impact on our consolidated financial statements.
+
+**Note 3 – Business Combinations**
+
+For the year ended December 31, 2020, we completed various acquisitions for which consideration was immaterial on an individual basis and in
+aggregate.
+
+**Maxwell Acquisition**
+
+On May 16, 2019 (the “Acquisition Date”), we completed our strategic acquisition of Maxwell Technologies, Inc. (“Maxwell”), an energy storage and
+power delivery products company, for its complementary technology and workforce. Pursuant to the related Agreement and Plan of Merger, each issued and
+outstanding share of Maxwell common stock was converted into 0.0965 (the “Exchange Ratio”) shares of our common stock, as adjusted to give effect to the
+Stock Split. In addition, Maxwell’s stock option awards and restricted stock unit awards were assumed by us and converted into corresponding equity awards in
+respect of our common stock based on the Exchange Ratio, with the awards retaining the same vesting and other terms and conditions as in effect immediately
+prior to the acquisition.
+
+Fair Value of Purchase Consideration
+
+The Acquisition Date fair value of the purchase consideration was $207 million (as adjusted to give effect to the Stock Split, 4,514,840 shares issued at
+$45.90 per share, the opening price of our common stock on the Acquisition Date).
+
+Fair Value of Assets Acquired and Liabilities Assumed
+
+We accounted for the acquisition using the purchase method of accounting for business combinations under ASC 805, Business Combinations. The total
+purchase price was allocated to the tangible and identifiable intangible assets acquired and liabilities based on their estimated fair values as of the Acquisition
+Date.
+
+Fair value estimates are based on a complex series of judgments about future events and uncertainties and rely heavily on estimates and assumptions.
+The judgments used to determine the estimated fair value assigned to each class of assets acquired and liabilities assumed, as well as asset lives and the
+expected future cash flows and related discount rates, can materially impact our consolidated financial statements. Significant inputs used for the model
+included the amount of cash flows, the expected period of the cash flows and the discount rates.
+
+75
+
+
+-----
+
+

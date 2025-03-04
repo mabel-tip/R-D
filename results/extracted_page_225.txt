@@ -1,0 +1,48 @@
+Agent in its Permitted Discretion. The applicable Reserve shall be promptly adjusted or released at such time when the event, condition or
+circumstance that is the basis for such Reserve ceases to exist or is otherwise addressed, in each case, to the reasonable satisfaction of the
+Administrative Agent. The Administrative Agent shall notify the Company in writing at or before the time any such Reserve in a material
+amount is to be established or increased, but a non-willful failure of the Administrative Agent to so notify the Company shall not be a
+breach of this Agreement and shall not cause such establishment or increase of a Reserve to be ineffective.
+
+“Responsible Officer” shall mean the chief executive officer, the president, the chief operating officer, the chief financial officer,
+the treasurer or any other senior or executive officer of a Person.
+
+“Resolution Authority” shall mean an EEA Resolution Authority or, with respect to any UK Financial Institution, a UK Resolution
+Authority.
+
+“Restricted” shall mean, when referring to cash or Cash Equivalents of the Company or any of its Subsidiaries, that such cash
+or Cash Equivalents (i) appears (or would be required to appear) as “restricted” on a consolidated balance sheet of the Company or of any
+such Subsidiary (unless such appearance is related to the Credit Documents or Liens created thereunder), (ii) are subject to any Lien in
+favor of any Person other than (x) the Collateral Agent for the benefit of the Secured Creditors and (y) Permitted Liens under Sections
+10.01(a), (p) and (s) or (iii) are not otherwise generally available for use by the Company or such Subsidiary.
+
+“Returns” shall have the meaning provided in Section 8.09.
+
+“Revolving Loan” shall have the meaning provided in Section 2.01(a).
+
+“Revolving Loan Commitment” shall mean, for each Lender, the amount set forth opposite such Lender’s name in Schedule
+1.01(a) directly below the column entitled “Revolving Loan Commitment,” as same may be (x) reduced from time to time or terminated
+pursuant to Sections 4.02, 4.03 and/or 11, as applicable, (y) adjusted from time to time as a result of assignments to or from such Lender
+pursuant to Section 2.13 or Section 13.0413.05(b) or (z) increased from time to time pursuant to Section 2.14. In addition, the Revolving
+Loan Commitment of each Lender shall include any 2023 Extended Revolving Commitment and any Extended Revolving Loan Commitment
+of such Lender.
+
+“Revolving Note” shall have the meaning provided in Section 2.05.
+
+“RL Percentage” of any Lender at any time shall mean a fraction (expressed as a percentage) the numerator of which is the
+Revolving Loan Commitment of such Lender at such time and the denominator of which is the Total Revolving Loan Commitment at such
+time, provided that if the RL Percentage of any Lender is to be determined after the Total Revolving Loan Commitment has been
+terminated, then the RL Percentages of such Lender shall be determined immediately prior (and without giving effect) to such
+termination.
+
+“S&P” shall mean Standard & Poor’s Financial Services LLC.
+
+“Sales Taxes” shall mean any amounts which are due and owing to any Governmental Authority of the United States or any
+state thereof in respect of sales taxes to the extent such amounts are collected
+
+64
+
+
+-----
+
+

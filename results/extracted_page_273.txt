@@ -1,0 +1,42 @@
+Non-Defaulting Lender a commitment commission (the “Commitment Commission”) for the period from and including the Effective Date to
+but excluding the Final Maturity Date (or such earlier date on which the Total Revolving Loan Commitment has been terminated)
+computed at a rate per annum equal to the Commitment Commission Percentage of the Unutilized Revolving Loan Commitment of such
+Non-Defaulting Lender as in effect from time to time. Accrued Commitment Commission shall be due and payable quarterly in arrears on
+each Quarterly Payment Date and on the date upon which the Total Revolving Loan Commitment is terminated.
+
+(b) (i) Each U.S. Borrower, in the case of the Letters of Credit issued for the account of a U.S. Borrower, hereby jointly
+and severally agrees, and (ii) each Dutch Borrower, in the case of the Letters of Credit issued for the account of a Dutch Borrower, hereby
+jointly and severally agrees, and (iii) each UK Borrower, in the case of Letters of Credit issued for the account of a UK Borrower, hereby
+jointly and severally agrees, in each case, to pay to the Administrative Agent for distribution to each Lender (based on each such Lender’s
+respective RL Percentage) a fee in respect of each Letter of Credit issued for the account of such U.S. Borrower or, such Dutch Borrower
+or such UK Borrower, as applicable (the “Letter of Credit Fee”), for the period from and including the date of issuance of such Letter of
+Credit to and including the date of termination or expiration of such Letter of Credit, computed at a rate per annum equal to the
+Applicable Margin as in effect from time to time during such period with respect to Revolving Loans that are maintained as LIBOR Loans
+(whether or not any such Revolving Loans are outstanding at such time) on the daily Stated Amount of each such Letter of
+Credit. Accrued Letter of Credit Fees shall be due and payable quarterly in arrears on each Quarterly Payment Date and on the first day
+on or after the termination of the Total Revolving Loan Commitment upon which no Letters of Credit remain outstanding.
+
+(c) (i) Each U.S. Borrower, in the case of the Letters of Credit issued for the account of a U.S. Borrower, hereby jointly
+and severally agrees, and (ii) each Dutch Borrower, in the case of the Letters of Credit issued for the account of a Dutch Borrower, hereby
+jointly and severally agrees, and (iii) each UK Borrower, in the case of Letters of Credit issued for the account of a UK Borrower, hereby
+jointly and severally agrees, in each case, to pay to each Issuing Lender, for its own account, a facing fee in respect of each Letter of
+Credit issued by such Issuing Lender for the account of the applicable Borrower (the “Facing Fee”) for the period from and including the
+date of issuance of such Letter of Credit to and including the date of termination or expiration of such Letter of Credit, computed at a rate
+per annum equal to 1/8 of 1% on the daily Stated Amount of such Letter of Credit (but in no event less than $500 per annum for each
+Letter of Credit). Accrued Facing Fees shall be due and payable quarterly in arrears on each Quarterly Payment Date and upon the first
+day on or after the termination of the Total Revolving Loan Commitment, upon which no Letters of Credit remain outstanding.
+
+(d) (i) Each U.S. Borrower, in the case of the Letters of Credit issued for the account of a U.S. Borrower, hereby jointly
+and severally agrees, and (ii) each Dutch Borrower, in the case of the Letters of Credit issued for the account of a Dutch Borrower, hereby
+jointly and severally agrees, and (iii) each UK Borrower, in the case of Letters of Credit issued for the account of a UK Borrower, hereby
+jointly and severally agrees, in each case, to pay to each Issuing Lender, for its own account, upon each payment under, issuance of, or
+amendment to, any Letter of Credit issued by it for the account of such U.S. Borrower or, such Dutch Borrower or such UK Borrower, as
+applicable, such amount as shall at the time of such event be the administrative charge and the reasonable expenses which such Issuing
+Lender is generally imposing in connection with such occurrence with respect to letters of credit.
+
+112
+
+
+-----
+
+

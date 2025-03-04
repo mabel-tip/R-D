@@ -1,0 +1,43 @@
+without premium or penalty, in whole or in part at any time and from time to time on the following terms and conditions: (i) such
+Borrower shall give the Administrative Agent prior to 1:00 P.M. (New York City time) at the Notice Office (A) at least one Business Day’s
+prior written notice (or telephonic notice promptly confirmed in writing) of its intent to prepay Base Rate Loans (or same day notice in the
+case of a prepayment of Swingline Loans) and (B) at least three Business Days’ prior written notice (or telephonic notice promptly
+confirmed in writing) of its intent to prepay LIBOR Loans, which notice (in each case) shall specify whether Revolving Loans or Swingline
+Loans shall be prepaid, the amount of such prepayment and the Types of Loans to be prepaid and, in the case of LIBOR Loans, the specific
+Borrowing or Borrowings pursuant to which such LIBOR Loans were made, and which notice the Administrative Agent shall, except in the
+case of a prepayment of Swingline Loans, promptly transmit to each of the Lenders; (ii) (x) each partial prepayment of Revolving Loans
+pursuant to this Section 5.01(a) shall be in an aggregate principal amount of at least $250,000 (or the U.S. Dollar Equivalent thereof in the
+case of Euro Denominated Loans or Foreign Currency Denominated Loans or, in each case, such lesser amount as is acceptable to the
+Administrative Agent) and (y) each partial prepayment of Swingline Loans pursuant to this Section 5.01(a) shall be in an aggregate
+principal amount of at least $100,000 (or such lesser amount as is acceptable to the Administrative Agent in any given case); provided that
+if any partial prepayment of LIBOR Loans made pursuant to any Borrowing shall reduce the outstanding principal amount of LIBOR Loans
+made pursuant to such Borrowing to an amount less than the Minimum Borrowing Amount applicable thereto, then such Borrowing may
+not be continued as a Borrowing of LIBOR Loans (and same shall automatically be converted into a Borrowing of Base Rate Loans) and any
+election of an Interest Period with respect thereto given by the applicable Borrower shall have no force or effect; and (iii) each
+prepayment pursuant to this Section 5.01(a) in respect of any Revolving Loans made pursuant to a Borrowing shall be applied pro rata
+among such Revolving Loans; provided that at the Borrower’s election in connection with any prepayment of Revolving Loans pursuant to
+this Section 5.01(a), such prepayment shall not, so long as no Default or Event of Default then exists, be applied to any Revolving Loan of a
+Defaulting Lender. Any such notice of prepayment delivered in connection with a refinancing of all or part of this Agreement or any other
+transaction may be, if so expressly stated to be, conditional upon the consummation of such refinancing or other transaction and may be
+revoked by the Borrowers in the event such refinancing or other transaction is not consummated.
+
+(b) In the event of certain refusals by a Lender to consent to certain proposed changes, waivers, discharges or
+terminations with respect to this Agreement which have been approved by the Required Lenders as (and to the extent) provided in Section
+13.1213.13(b), the Borrowers may, upon three Business Days’ prior written notice to the Administrative Agent at the Notice Office (which
+notice the Administrative Agent shall promptly transmit to each of the Lenders), repay all Revolving Loans of such Lender, together with
+accrued and unpaid interest, Fees and all other amounts then owing to such Lender (including all amounts, if any, owing pursuant to
+Section 2.11) in accordance with, and subject to the requirements of Section 13.1213.13(b), so long as (i) in the case of the repayment of
+Revolving Loans of any Lender pursuant to this clause (b), (A) the Revolving Loan Commitment of such Lender is terminated concurrently
+with such repayment pursuant to Section 4.02(b) (at which time Schedule 1.01(a) shall be deemed modified to reflect the changed
+Revolving Loan Commitments) and (B) such Lender’s RL Percentage of all outstanding Letters of Credit is cash collateralized in a manner
+reasonably satisfactory to the Administrative Agent and the respective Issuing Lenders for so long as such Letter of Credit Exposure is
+outstanding (it being understood that, for purposes of clarity, at the request of the Company, upon a determination by the Administrative
+Agent or the respective Issuing Lenders that there exists cash collateral in excess of such Lender’s RL Percentage of such Letter of Credit
+Exposure, such excess cash collateral may be returned to the applicable Borrowers so long as no Default or Event of
+
+114
+
+
+-----
+
+

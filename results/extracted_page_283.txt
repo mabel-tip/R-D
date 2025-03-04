@@ -1,0 +1,45 @@
+Credit Party deducts or withholds any Taxes from any payments under this Agreement, the respective Borrower (or other Credit Party)
+will, upon the Administrative Agent’s written request, furnish to the Administrative Agent, within 45 days after the date the payment of
+any Taxes is due pursuant to applicable law, certified copies of tax receipts evidencing such payment by such Borrower (or other Credit
+Party) or other evidence of payment reasonably satisfactory to the Administrative Agent.
+
+(b) Subject to Section 14.07, the U.S. Borrowers (jointly and severally) or the Dutch Borrowers (jointly and severally) or
+the UK Borrowers (jointly and severally), as applicable, agree (and the applicable Subsidiary Guarantors agree) to timely pay to the
+relevant Governmental Authority in accordance with applicable law, or at the option of the Administrative Agent timely reimburse it for
+the payment of, any Other Taxes.
+
+(c) Subject to Section 14.07, the U.S. Borrowers (jointly and severally) or the Dutch Borrowers (jointly and severally) or
+the UK Borrowers (jointly and severally) shall, as applicable, agree (and the applicable Subsidiary Guarantors agree) to indemnify each
+Lender or the Administrative Agent, as the case may be, within 10 days after demand therefor, for the full amount of any Indemnified
+Taxes (including Indemnified Taxes imposed or asserted on or attributable to amounts payable under this Section) payable or paid by such
+Lender or required to be withheld or deducted from a payment to such Lender and any reasonable expenses arising therefrom or with
+respect thereto, whether or not such Indemnified Taxes were correctly or legally imposed or asserted by the relevant Governmental
+Authority. A certificate as to the amount of such payment or liability delivered to the Company by a Lender (with a copy to the
+Administrative Agent), or by the Administrative Agent on its own behalf or on behalf of a Lender, shall be conclusive absent manifest
+error.
+
+(d) Each Lender shall severally indemnify the Administrative Agent, within 10 days after demand therefor, for (i) any
+Indemnified Taxes attributable to such Lender (but only to the extent that any Credit Party has not already indemnified the Administrative
+Agent for such Indemnified Taxes and without limiting the obligation of Credit Parties, subject to Section 14.07, to do so), (ii) any taxes
+attributable to such Lender’s failure to comply with the provisions of Section 13.0413.05(e) relating to the maintenance of a Participant
+Register and (iii) any Excluded Taxes attributable to such Lender, in each case, that are payable or paid by the Administrative Agent in
+connection with any Credit Document, and any reasonable expenses arising therefrom or with respect thereto, whether or not such taxes
+were correctly or legally imposed or asserted by the relevant Governmental Authority. A certificate as to the amount of such payment or
+liability delivered to any Lender by the Administrative Agent shall be conclusive absent manifest error. Each Lender hereby authorizes the
+Administrative Agent to set off and apply any and all amounts at any time owing to such Lender under any Credit Document or otherwise
+payable by the Administrative Agent to the Lender from any other source against any amount due to the Administrative Agent under this
+clause (d).
+
+(e) (i) Any Lender that is entitled to an exemption from or reduction of withholding tax with respect to payments
+made under any Credit Document shall deliver to the Company and the Administrative Agent, at the time or times reasonably requested by
+the Company or the Administrative Agent, such properly completed and executed documentation reasonably requested by the Company or
+the Administrative Agent as will permit such payments to be made without withholding or at a reduced rate of withholding. In addition,
+any Lender, if reasonably requested by the Company or the Administrative Agent, shall deliver such other documentation prescribed by
+applicable law or reasonably requested by the Company or the Administrative Agent as will enable the Company or the Administrative
+
+122
+
+
+-----
+
+

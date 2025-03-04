@@ -1,0 +1,45 @@
+with respect thereto.
+
+12.11. Delivery of Information. The Administrative Agent shall not be required to deliver to any Lender originals or copies
+of any documents, instruments, notices, communications or other information received by the Administrative Agent from any Credit Party,
+any Subsidiary thereof, the Required Lenders, any Lender or any other Person under or in connection with this Agreement or any other
+Credit Document except (a) as specifically provided in this Agreement or any other Credit Document and (b) as specifically requested from
+time to time in writing by any Lender with respect to a specific document, instrument, notice or other written communication received by
+and in the possession of the Administrative Agent at the time of receipt of such request and then only in accordance with such specific
+request.
+
+12.12. Dutch Parallel Debt.
+
+(a) Each Dutch Credit Party irrevocably and unconditionally undertakes to pay to the Collateral Agent amounts equal to,
+and in the currency or currencies of, its Dutch Corresponding Debt (such amounts, its “Dutch Parallel Debt”) on the terms and conditions
+specified in this Section 12.12.
+
+(b) The Dutch Parallel Debt of each Dutch Credit Party (i) shall become due and payable at the same time as its Dutch
+Corresponding Debt; and (ii) is independent and separate from, and without prejudice to, its Dutch Corresponding Debt.
+
+(c) For purposes of this Section 12.12, the Collateral Agent (i) is the independent and separate creditor of each Dutch
+Parallel Debt; (ii) acts in its own name and not as agent, representative or trustee of the Secured Creditors and its claims in respect of
+each Dutch Parallel Debt shall not be held on trust; and (iii) shall have the independent and separate right to demand payment of each
+Dutch Parallel Debt in its own name (including, through any suit, execution, enforcement of security, recovery of guarantees and
+applications for and voting in any kind of insolvency proceeding).
+
+(d) The Dutch Parallel Debt of each Dutch Credit Party shall be (i) decreased to the extent that its Dutch Corresponding
+Debt has been irrevocably and unconditionally paid or discharged, and (ii) increased to the extent to that its Dutch Corresponding Debt
+has increased, and the Dutch Corresponding Debt of each Dutch Credit Party shall be (x) decreased to the extent that its Dutch Parallel
+Debt has been irrevocably and unconditionally paid or discharged, and (y) increased to the extent that its Dutch Parallel Debt has
+increased, in each case provided that the Dutch Parallel Debt of a Dutch Credit Party shall never exceed its Dutch Corresponding Debt.
+
+(e) Each Dutch Credit Party may not pay any of its Dutch Parallel Debt other than at the instruction of, and in the manner
+determined by, the Collateral Agent. Without prejudice to the preceding sentence, each Dutch Credit Party shall be obliged to pay the
+Dutch Parallel Debt (or if such Dutch Credit Party's Dutch Corresponding Debt is due at different times, an amount of the relevant Dutch
+Parallel Debt corresponding to its relevant Dutch Corresponding Debt) only when its relevant Dutch Corresponding Debt has become due.
+
+(f) All parties to this Agreement have acknowledged and agreed with and/or shall acknowledge and agree with the
+provisions of this Section 12.12.
+
+179
+
+
+-----
+
+

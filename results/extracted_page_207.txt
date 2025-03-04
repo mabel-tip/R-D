@@ -1,0 +1,45 @@
+“Incremental Commitment Agreement” shall mean each Incremental Commitment Agreement in substantially the form of
+Exhibit F (appropriately completed, and with such modifications as may be reasonably satisfactory to the Administrative Agent) executed
+and delivered in accordance with Section 2.14.
+
+“Incremental Commitment Date” shall mean each date upon which an Incremental Commitment under an Incremental
+Commitment Agreement becomes effective as provided in Section 2.14(b).
+
+“Incremental Commitment Requirements” shall mean, with respect to any provision of an Incremental Commitment on a given
+Incremental Commitment Date, the satisfaction of each of the following conditions on the Incremental Commitment Date of the respective
+Incremental Commitment Agreement: (i) no Default or Event of Default exists or would exist after giving effect thereto; (ii) all of the
+representations and warranties contained in the Credit Documents shall be true and correct in all material respects at such time (unless
+stated to relate to a specific earlier date, in which case such representations and warranties shall have been true and correct in all
+material respects as of such earlier date) (it being understood that any representation or warranty that is qualified as to “materiality”,
+“Material Adverse Effect” or any similar language shall be true and correct in all respects as of such date); (iii) the delivery by the
+Company to the Administrative Agent of an acknowledgment, in form and substance reasonably satisfactory to the Administrative Agent
+and executed by each Credit Party, acknowledging that such Incremental Commitment and all Revolving Loans subsequently incurred, and
+Letters of Credit issued, as applicable, pursuant to such Incremental Commitment shall constitute Obligations and Guaranteed Obligations
+(as defined under each Guaranty) under the Credit Documents and secured on a pari passu basis with the applicable Obligations under the
+Security Documents; (iv) the delivery by each Credit Party to the Administrative Agent of such other officers’ certificates, board of director
+(or equivalent governing body) resolutions, evidence of good standing (to the extent available under applicable law) and opinions of
+counsel (which shall be substantially similar to such opinions of counsel delivered on the Effective Date) as the Administrative Agent shall
+reasonably request; (v) the Company shall have delivered a certificate executed by an Authorized Officer of the Company, certifying to
+such officer’s knowledge, compliance with the requirements of preceding clauses (i) and (ii); and (vi) the completion by each Credit Party
+of (x) such other conditions precedent that may be included in the respective Increased Commitment Agreement and (y) such other actions
+as the Administrative Agent may reasonably request in connection with such Incremental Commitment in order to create, continue or
+maintain the security interest of the Collateral Agent in the Collateral and the perfection thereof (including any amendments to the
+Security Documents and such other documents and assurances reasonably requested by the Administrative Agent to be delivered in
+connection therewith).
+
+“Incremental Lender” shall have the meaning provided in Section 2.14(b).
+
+“Incremental Security Documents” shall have the meaning provided in Section 2.14(b).
+
+“Indebtedness” shall mean, as to any Person, without duplication, (i) all indebtedness of such Person for borrowed money, (ii)
+for the deferred purchase price of property or services, (iii) obligations evidenced by notes, bonds, debentures and similar instruments,
+(iv) the maximum amount available to be drawn or paid under all letters of credit, bankers’ acceptances and bank guarantees issued for
+the account of such Person and all unpaid drawings and unreimbursed payments in respect of such letters of credit, bankers’ acceptances
+and bank guarantees, (v) all Capitalized Lease Obligations of such Person and
+
+46
+
+
+-----
+
+

@@ -1,0 +1,47 @@
+(c) a public statement or publication of information by the regulatory supervisor for the administrator of such
+Benchmark (or the published component used in the calculation thereof) announcing that all Available Tenors of such
+Benchmark (or such component thereof) are no longer representative.
+
+For the avoidance of doubt, a “Benchmark Transition Event” will be deemed to have occurred with respect to any Benchmark if
+a public statement or publication of information set forth above has occurred with respect to each then-current Available Tenor of such
+Benchmark (or the published component used in the calculation thereof).
+
+“Benchmark Unavailability Period” shall mean, with respect to any Benchmark, the period (if any) (x) beginning at the time that
+a Benchmark Replacement Date pursuant to clauses (a) or (b) of that definition has occurred if, at such time, no Benchmark Replacement
+has replaced such then-current Benchmark for all purposes hereunder and under any Credit Document in accordance with Section 2.10
+and (y) ending at the time that a Benchmark Replacement has replaced such then-current Benchmark for all purposes hereunder and
+under any Credit Document in accordance with Section 2.10.
+
+“Beneficial Ownership Certification” shall mean a certification regarding beneficial ownership or control as required by the
+Beneficial Ownership Regulation.
+
+“Beneficial Ownership Regulation” shall mean 31 C.F.R. § 1010.230.
+
+“Benefit Plan” shall mean any of (a) an “employee benefit plan” (as defined in ERISA) that is subject to Title I of ERISA, (b) a
+“plan” as defined in and subject to Section 4975 of the Code, or (c) any Person whose assets include (for purposes of ERISA Section 3(42)
+or otherwise for purposes of Title I of ERISA or Section 4975 of the Code) the assets of any such “employee benefit plan” or “plan.”
+
+“BHC Act Affiliate” of a party shall mean an “affiliate” (as such term is defined under, and interpreted in accordance with, 12
+U.S.C. 1841(k)) of such party.
+
+“Board” shall mean the Board of Governors of the Federal Reserve System of the United States.
+
+“Borrower” and “Borrowers” shall have the meaning provided in the first paragraph of this Agreement.
+
+“Borrower Obligations” shall mean the Dutch Borrower Obligations and/or the UK Borrower Obligations and/or the U.S.
+Borrower Obligations, as applicable.
+
+“Borrowing” shall mean the borrowing by a Borrower of one Type of Revolving Loan from all the Lenders, or from the Swingline
+Lender in the case of Swingline Loans, on a given date (or resulting from a conversion or conversions on such date) having in the case of
+LIBOR Loans the same Interest Period, provided that Base Rate Loans incurred pursuant to Section 2.10(bc) shall be considered part of
+the related Borrowing of LIBOR Loans.
+
+“Borrowing Base” shall mean the Dutch Borrowing Base, the UK Borrowing Base, the U.S. Borrowing Base and/or the Total
+Borrowing Base, as applicable.
+
+11
+
+
+-----
+
+

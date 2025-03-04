@@ -1,0 +1,44 @@
+**18.** **SET-OFF**
+
+(a) At any time after the occurrence of an Event of Default which is continuing, the Collateral Agent and each other
+Secured Creditor may (but shall not be obliged to) set-off any matured liability owed by a Chargor under any
+Credit Document against any obligation (whether or not matured) owed by the Collateral Agent or such other
+Secured Creditor to such Chargor, regardless of the place of payment, booking branch or currency of either
+obligation.
+
+(b) If the obligations are in different currencies, the Collateral Agent or such other Secured Creditor may convert
+either obligation at a market rate of exchange in its usual course of business for the purpose of the set-off.
+
+(c) If either obligation is unliquidated or unascertained, the Collateral Agent or such other Secured Creditor may set
+off in an amount estimated by it in good faith to be the amount of that obligation.
+
+**19.** **DELEGATION**
+
+Each of the Collateral Agent and any Receiver may delegate, by power of attorney (or in any other manner) to any person, any right, power
+or discretion exercisable by them under this Deed upon any terms (including power to sub-delegate) which it may reasonably think fit.
+Neither the Collateral Agent nor any Receiver shall be in any way liable or responsible to any Chargor for any loss or liability arising from
+any act, default, omission or misconduct on the part of any Delegate unless arising as a result of its gross negligence or wilful misconduct
+in so delegating.
+
+**20.** **FURTHER ASSURANCES**
+
+**20.1** **Further action**
+
+Each Chargor shall at its own expense, promptly do all acts and execute all documents that the Collateral Agent reasonably specifies is
+required for:
+
+(a) perfecting or protecting the Security created or intended to be created by this Deed; or
+
+(b) after the Security created by or pursuant to this Deed has become enforceable, facilitating the realisation of any
+Security Asset or the exercise of any rights, powers and remedies properly exercisable by the Collateral Agent,
+any other Secured Creditor or any Receiver or any Delegate in respect of any Security Asset or provided by or
+pursuant to the Credit Documents or by law,
+
+which may include:
+
+(i) the re-execution of this Deed or such Security Document;
+
+
+-----
+
+

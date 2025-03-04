@@ -1,0 +1,48 @@
+(other than any amendment, extension or renewal that does not increase the maximum Stated Amount of such Letter of Credit).
+
+“Credit Party” shall mean each U.S. Credit Party and, each Dutch Credit Party and each UK Credit Party.
+
+“Customer Deposit Reserve” shall mean a reserve established by the Administrative Agent in connection with customer deposits
+in respect of motor vehicles that are in production (as recorded in final assembly work in process inventory), are Eligible Finished Goods
+Inventory or are Eligible In-Transit Inventory, as adjusted from time to time by the Administrative Agent in its Permitted Discretion.
+
+“Customer Lease Agreement” shall mean a lease agreement entered into with a customer, pursuant to which such customer
+agrees to lease an Energy Storage System.
+
+“Daily Simple SOFR” shall mean, for any day, SOFR, with the conventions for this rate (which will include a lookback) being
+established by the Administrative Agent in accordance with the conventions for this rate selected or recommended by the Relevant
+Governmental Body for determining “Daily Simple SOFR” for business loans; provided that, if the Administrative Agent decides that any
+such convention is not administratively feasible for the Administrative Agent, then the Administrative Agent may establish another
+convention in its reasonable discretion.
+
+“DB Account” shall mean each DB Netherlands Account and each DB U.S. Account.
+
+“DB Netherlands Account” shall have the meaning provided in Section 5.03(ef).
+
+“DB UK Account” shall have the meaning provided in Section 5.03(g).
+
+“DB U.S. Account” shall have the meaning provided in Section 5.03(de).
+
+“DBNY” shall mean Deutsche Bank AG New York Branch, in its individual capacity, and any successor corporation by merger,
+consolidation or otherwise.
+
+“Default” shall mean any event, act or condition which with notice or lapse of time, or both, would constitute an Event of
+Default.
+
+“Default Right” shall have the meaning assigned to that term in, and shall be interpreted in accordance with, 12 C.F.R. §§
+252.81, 47.2 or 382.1, as applicable.
+
+“Defaulting Lender” shall mean any Lender that (a) has failed, within two Business Days of the date required to be funded or
+paid, to (i) fund its portion of any Borrowing (including a Mandatory Borrowing), (ii) fund any portion of its participations in Letters of
+Credit or (iii) pay over to any Lender Party any other amount required to be paid by it hereunder, unless, in the case of clause (i) above,
+such Lender notifies the Administrative Agent in writing that such failure is the result of such Lender’s good faith determination that a
+condition precedent to funding (specifically identified and including the particular default, if any) has not been satisfied, (b) has notified
+the Company or any Lender Party in writing (and such Lender Party has notified the Company or the Administrative Agent thereof in
+writing), or has made a public statement to the effect, that it does not intend or expect to comply with any of its
+
+19
+
+
+-----
+
+

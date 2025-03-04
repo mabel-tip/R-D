@@ -1,0 +1,45 @@
+upon the occurrence of an Event of Default specified in Section 11.05 with respect to any UK Borrower, they will pay) to the Collateral
+Agent at the Payment Office such additional amount of cash or Cash Equivalents, to be held as security by the Collateral Agent, as is equal
+to 102% of the aggregate Stated Amount of all Letters of Credit issued for the account of such UK Borrowers and then outstanding; (e)
+enforce, as Collateral Agent, all of the Liens and security interests created pursuant to the Security Documents; (f) enforce each Guaranty;
+and (g) apply any cash collateral held by the Administrative Agent pursuant to Section 5.02 to the repayment of the Obligations.; or
+
+11.13. Convertible Notes Maturity Default. A Convertible Note Maturity Default shall occur.
+
+SECTION 12. The Administrative Agent and the Collateral Agent.
+
+12.01. Appointment. (a) The Lenders (including in their capacity as a Swingline Lender and Issuing Lender) hereby
+irrevocably designate and appoint DBNY as Administrative Agent (for purposes of this Section 12 and Section 13.01, the term
+“Administrative Agent” also shall include DBNY in its capacity as Collateral Agent pursuant to the Security Documents and, if in effect, the
+Intercreditor Agreement) to act as specified herein and in the other Credit Documents. Each Lender hereby irrevocably authorizes, and
+each holder of any Note by the acceptance of such Note shall be deemed irrevocably to authorize the Administrative Agent to take such
+action on its behalf under the provisions of this Agreement, the other Credit Documents and any other instruments and agreements
+referred to herein or therein and to exercise such powers and to perform such duties hereunder and thereunder as are specifically
+delegated to or required of the Administrative Agent by the terms hereof and thereof and such other powers as are reasonably incidental
+thereto. The Administrative Agent may perform any of its duties hereunder or under the other Credit Documents by or through its
+officers, directors, agents, employees or affiliates. For the purposes of the Belgian law Security Documents, the Lenders and the Secured
+Creditors (i) appoint the Administrative Agent as their representative in accordance with Article 5 of the Belgian Act of 15 December 2004
+on financial collateral arrangements and several tax dispositions in relation to security collateral arrangements and loans of financial
+instruments and Article 3 of Title XVII of Book III of the Belgian Civil Code and (ii) agree that the Administrative Agent shall not be
+severally and jointly liable with the Lenders and the Secured Creditors.
+
+(b) Each Issuing Lender shall act on behalf of the Lenders with respect to any Letters of Credit issued by it and documents
+associated therewith, and such Issuing Lender shall have all of the benefits and immunities (i) provided to the Administrative Agent in this
+Section 12 (other than Section 12.04) with respect to any acts taken or omissions suffered by such Issuing Lender in connection with
+Letters of Credit issued by it or proposed to be issued by it and the applications and agreements for letters of credit pertaining to such
+Letters of Credit as fully as if the term “Administrative Agent” as used in this Section 12 included such Issuing Lender with respect to such
+acts or omissions and (ii) as additionally provided herein with respect to such Issuing Lender.
+
+(c) Each Issuing Lender may, at any time by giving 20 Business Days’ prior written notice to the Company and the
+Administrative Agent, resign from the performance of all its respective functions and duties hereunder and/or under the other Credit
+Documents as an Issuing Lender and the resigning Issuing Lender (x) shall not be required to issue any further Letters of Credit
+hereunder, (y) shall maintain all of its rights (including its rights to indemnification) and obligations as Issuing Lender with respect to any
+Letters of Credit issued by it prior to the date of such resignation and (z) shall remain indemnified to the extent provided in this
+Agreement and the other Credit Documents and the provisions of this
+
+174
+
+
+-----
+
+

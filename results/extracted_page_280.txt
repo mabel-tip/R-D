@@ -1,0 +1,43 @@
+not then due and payable); (v) fifth, to the extent all amounts referred to in preceding clauses (i) through (iv), inclusive, have been paid in
+full, to repay the outstanding principal of U.S. Borrower Revolving Loans (whether or not then due and payable); (vi) sixth, to the extent all
+amounts referred to in preceding clauses (i) through (v), inclusive, have been paid in full, to cash collateralize all outstanding Letters of
+Credit issued for the account of a U.S. Borrower (such cash collateral to be held by the Administrative Agent in a cash collateral account
+to be established by, and under the sole dominion and control of, the Administrative Agent and applied to the Obligations of the U.S.
+Borrowers to the Issuing Lenders and/or Lenders in respect of any Drawings made under any such Letters of Credit), provided, however,
+that such amounts shall be released to the U.S. Borrowers from time to time so long as no Default or Event of Default then exists or would
+result therefrom and none of the conditions in clause (i) of Section 5.02(a) then exist or would result from any such release; (vii) seventh,
+to the extent all amounts referred to in preceding clauses (i) through (vi), inclusive, have been paid in full, to pay (on a ratable basis) all
+other outstanding Obligations of any U.S. Borrower then due and payable to the Administrative Agent, the Collateral Agent and the
+Lenders under any of the Credit Documents; and (viii) eighth, to the extent all amounts referred to in preceding clauses (i) through (vii),
+inclusive, have been paid in full and so long as no Default or Event of Default then exists, to be returned to the U.S. Borrowers.
+
+(ef) Each Cash Management Control Agreement relating to a Core Dutch Deposit Account shall (unless otherwise agreed
+by the Administrative Agent in its sole discretion) include provisions that allow, during any Dominion Period, for all collected amounts held
+in such Core Dutch Deposit Account from and after the date requested by the Administrative Agent, to be sent by ACH or wire transfer or
+similar electronic transfer no less frequently than once per Business Day to one or more accounts maintained by the Administrative Agent
+at DBNY (or if DBNY is not the Administrative Agent, at the institution designated by such successor Administrative Agent) or an affiliate
+thereof (each a “DB Netherlands Account”). Subject to the terms of the respective Security Document, all amounts received in a DB
+Netherlands Account shall be applied (and allocated) by the Administrative Agent on a daily basis in the following order (in each case, to
+the extent the Administrative Agent has actual knowledge of the amounts owing or outstanding as described below): (i) first, to the
+payment (on a ratable basis) of any outstanding Expenses owed by the Dutch Credit Parties actually due and payable to the Administrative
+Agent and the Collateral Agent under any of the Credit Documents and to repay or prepay outstanding Dutch Borrower Loans advanced by
+the Administrative Agent on behalf of the Lenders pursuant to Section 2.01(e); (ii) second, to the extent all amounts referred to in
+preceding clause (i) have been paid in full, to pay (on a ratable basis) all outstanding Expenses owed by the Dutch Credit Parties actually
+due and payable to each Issuing Lender under any of the Credit Documents and to repay all outstanding Unpaid Drawings in respect of
+Letters of Credit issued for the account of a Dutch Borrower and all interest thereon; (iii) third, to the extent all amounts referred to in
+preceding clauses (i) and (ii) have been paid in full, to pay (on a ratable basis) all accrued and unpaid interest actually due and payable on
+the Dutch Borrower Loans and all accrued and unpaid Fees actually due and payable by any Dutch Borrower to the Administrative Agent,
+the Issuing Lenders and the Lenders under any of the Credit Documents; (iv) fourth, to the extent all amounts referred to in preceding
+clauses (i) through (iii), inclusive, have been paid in full, to repay the outstanding principal of Dutch Borrower Swingline Loans (whether
+or not then due and payable); (v) fifth, to the extent all amounts referred to in preceding clauses (i) through (iv), inclusive, have been paid
+in full, to repay the outstanding principal of Dutch Borrower Revolving Loans (whether or not then due and payable); (vi) sixth, to the
+extent all amounts referred to in preceding clauses (i) through (v), inclusive, have been paid in full, to cash collateralize (on a ratable
+basis) all outstanding Letters of Credit issued for the account of a Dutch Borrower (such cash collateral to be held by the Administrative
+Agent in a cash collateral account to be established by, and under the sole dominion and
+
+119
+
+
+-----
+
+

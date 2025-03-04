@@ -1,0 +1,86 @@
+**p** p p p p
+
+[***] per Cell ([***]) [***] per Cell ([***])
+
+**Commodity** **Price[***]** [***] [***] [***] [***]JPY/USD
+**Baseline**
+
+iv. Lithium Adjustment. Each [***] during the Pricing Period starting [***], the Baseline Price shall adjust as follows: the
+
+Parties will measure the [***] prices for [***] for the applicable measurement window in the table below, and adjust the
+Baseline Price (up or down) based on the difference between the then-current Index Average Cost and the baseline
+commodity assumption set forth below.
+
+**Table 4-C: ‘[***]’ Cell Lithium Adjustment**
+**Cell Material** [***]
+**Index/Metric** [***]
+**Measurement Window** See Table 4-D below
+**Content per Cell: [***]** **Baseline** [***] per Cell ([***])
+
+[***] per Cell ([***])
+**Commodity Price Baseline** [***]
+**Measurement Window for Currency[***] average at [***] prior to delivery ([***])**
+**Exchange**
+
+**Table 4-D: ‘[***]’ Cell Measurement Window for Lithium Adjustment**
+Pricing Period Measurement Window
+Calendar Year [***] [***]
+Calendar Year [***] [***]
+Calendar Year [***] [***]
+Calendar Year [***] [***]
+
+c. ‘[***]’ Cell Pricing
+
+i. Baseline Price.  The Baseline Price for ‘[***]’ Cells during the [***] Pricing Period shall be the applicable rate set forth in
+
+Table 4-E in each case based on the date of delivery of the Cells. The baseline pricing shown in Table 4-E was calculated
+using [***] per Cell [***]. If the actual [***] per Cell [***] of [***] Cells is [***] than the agreed [***] specification, the Parties
+agree to discuss in good faith [***].
+
+ii. Table 4-E: ‘[***]’ Cell Baseline Prices.
+
+**Table 4-E – ‘[***]’ Cell Baseline Prices**
+
+[***] [***] [***] [***] [***]
+Baseline
+
+[***] [***] [***] [***] [***]
+(Yen/cell)
+
+      - Transportation cost to Fremont ([***]/cell) is [***] in above.
+iii.Metals Adjustment. At the [***] during the [***] Pricing Period, the metals identified below will be adjusted as follows: the
+
+Parties will measure the [***] per the applicable index or metric
+
+2021 Pricing Agreement (Japan Cells) Page 4 of 12
+
+|Commodity Price Baseline|[***]|[***]|[***]|[***]|
+|---|---|---|---|---|
+||||||
+
+|Table 4-C: ‘[***]’ Cell Lithium Adjustment|Col2|
+|---|---|
+|Cell Material|[***]|
+|Index/Metric|[***]|
+|Measurement Window|See Table 4-D below|
+|Content per Cell: [***] Baseline|[***] per Cell ([***]) [***] per Cell ([***])|
+|Commodity Price Baseline|[***]|
+|Measurement Window for Currency Exchange|[***] average at [***] prior to delivery ([***])|
+
+|Table 4-D: ‘[***]’ Cell Measurement Window for Lithium Adjustment|Col2|
+|---|---|
+|Pricing Period|Measurement Window|
+|Calendar Year [***]|[***]|
+|Calendar Year [***]|[***]|
+|Calendar Year [***]|[***]|
+|Calendar Year [***]|[***]|
+
+|Col1|Table 4-E – ‘[***]’ Cell Baseline Prices|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+||[***]|[***]|[***]|[***]|[***]|
+|Baseline (Yen/cell)|[***]|[***]|[***]|[***]|[***]|
+
+
+-----
+
+

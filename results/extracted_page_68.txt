@@ -1,0 +1,54 @@
+**Year Ended December 31,**
+**2020** **2019** **2018**
+Stock-based awards 2 50 50
+Convertible senior notes 1 5 7
+
+Warrants — — 1
+
+Business Combinations
+
+We account for business acquisitions under ASC 805, Business Combinations. The total purchase consideration for an acquisition is measured as the fair
+value of the assets given, equity instruments issued and liabilities assumed at the acquisition date. Costs that are directly attributable to the acquisition are
+expensed as incurred. Identifiable assets (including intangible assets), liabilities assumed (including contingent liabilities) and noncontrolling interests in an
+acquisition are measured initially at their fair values at the acquisition date. We recognize goodwill if the fair value of the total purchase consideration and any
+noncontrolling interests is in excess of the net fair value of the identifiable assets acquired and the liabilities assumed. We recognize a bargain purchase gain
+within other income (expense), net, on the consolidated statement of operations if the net fair value of the identifiable assets acquired and the liabilities
+assumed is in excess of the fair value of the total purchase consideration and any noncontrolling interests. We include the results of operations of the acquired
+business in the consolidated financial statements beginning on the acquisition date.
+
+Cash and Cash Equivalents
+
+All highly liquid investments with an original maturity of three months or less at the date of purchase are considered cash equivalents. Our cash
+equivalents are primarily comprised of money market funds.
+
+Restricted Cash
+
+We maintain certain cash balances restricted as to withdrawal or use. Our restricted cash is comprised primarily of cash as collateral for our sales to
+lease partners with a resale value guarantee, letters of credit, real estate leases, insurance policies, credit card borrowing facilities and certain operating
+leases. In addition, restricted cash includes cash received from certain fund investors that have not been released for use by us and cash held to service certain
+payments under various secured debt facilities. We record restricted cash as other assets in the consolidated balance sheets and determine current or noncurrent classification based on the expected duration of the restriction.
+
+Our total cash and cash equivalents and restricted cash, as presented in the consolidated statements of cash flows, was as follows (in millions):
+
+**December 31,** **December 31,** **December 31,**
+**2020** **2019** **2018**
+Cash and cash equivalents $ 19,384 $ 6,268 $ 3,686
+Restricted cash included in prepaid expenses
+and other current assets 238 246 193
+
+Restricted cash included in other non-current assets 279 269 398
+Total as presented in the consolidated statements of cash flows $ 19,901 $ 6,783 $ 4,277
+
+Accounts Receivable and Allowance for Doubtful Accounts
+
+Accounts receivable primarily include amounts related to receivables from financial institutions and leasing companies offering various financing
+products to our customers, sales of energy generation and storage products, sales of regulatory credits to other automotive manufacturers, government rebates
+already passed through to customers and maintenance services on vehicles owned by leasing companies. We provide an allowance against accounts receivable
+for the amount we expect to be uncollectible. We write-off accounts receivable against the allowance when they are deemed uncollectible.
+
+69
+
+
+-----
+
+

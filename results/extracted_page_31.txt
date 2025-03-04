@@ -1,0 +1,58 @@
+g y p p p
+this Annual Report on Form 10-K:
+
+**Production Location** **Vehicle Model(s)** **Production Status**
+Fremont Factory Model S and Model X Active
+Model 3 and Model Y Active
+Gigafactory Shanghai Model 3 and Model Y Active
+Gigafactory Berlin Model Y Constructing manufacturing facilities
+Gigafactory Texas Model Y Constructing manufacturing facilities
+Cybertruck In development
+TBD Tesla Semi In development
+Tesla Roadster In development
+
+We recently announced updated versions of Model S and Model X featuring a redesigned powertrain and other improvements. In 2021, we are focused
+on ramping these models on new manufacturing equipment, as well as production rates of Model 3 and Model Y, to at least the capacity that we have installed.
+The next phase of production growth will depend on the construction of Gigafactory Berlin and Gigafactory Texas, each of which is progressing as planned for
+deliveries beginning in 2021. Our goal is to continuously decrease production costs and increase the affordability of our vehicles. We are continuing to develop
+and manufacture our own battery cells, with which we are targeting high-volume output, lower capital and production costs and longer range. As cell supply is
+critical to our business, coupling this strategy with cells from our suppliers will help us stay ahead of any potential constraints.
+
+However, these plans are subject to uncertainties inherent in establishing and ramping manufacturing operations, which may be exacerbated by the
+number of concurrent international projects and any future impact from events outside of our control such as the COVID-19 pandemic and any industry-wide
+component constraints. Moreover, we must meet ambitious technological targets with our plans for battery cells as well as for iterative manufacturing and
+design improvements for our vehicles with each new factory.
+
+Automotive—Demand and Sales
+
+Our cost reduction efforts and additional localized procurement and manufacturing are key to our vehicles’ affordability, and for example have allowed
+us to competitively price our vehicles in China. In addition to opening new factories in 2021, we will also continue to generate demand and brand awareness by
+improving our vehicles’ functionality, including Autopilot, FSD and software features, and introducing anticipated future vehicles. Moreover, we expect to
+benefit from ongoing electrification of the automotive sector and increasing environmental awareness.
+
+However, we operate in a cyclical industry that is sensitive to trade, environmental and political uncertainty, all of which may also be compounded by
+any future global impact from the COVID-19 pandemic. On the other hand, there have been recent signs of recovery from competitors that experienced
+downturns in 2020, meaning that we will have to continue to execute well to maintain the momentum that we have gained relative to an ever-growing
+competitive landscape.
+
+Automotive—Deliveries and Customer Infrastructure
+
+As our deliveries increase, we must work constantly to prevent our vehicle delivery capability from becoming a bottleneck on our total deliveries.
+Situating our factories closer to local markets should mitigate the strain on our deliveries. In any case, as we expand, we will have to continue to increase and
+staff our delivery, servicing and charging infrastructure, maintain our vehicle reliability and optimize our Supercharger locations to ensure cost-effectiveness
+and customer satisfaction. In particular, we remain focused on increasing the capability and efficiency of our servicing operations.
+
+Energy Generation and Storage Demand, Production and Deployment
+
+The long-term success of this business is dependent upon increasing margins through greater volumes. We continue to increase the production of our
+energy storage products to meet high levels of demand. For Powerwall, better availability and growing grid stability concerns drive higher interest, and crossselling with our residential solar energy products will continue to benefit both product lines. We remain committed to increasing our retrofit solar energy
+business by offering a low-cost and simplified online ordering experience. In addition, we are working to improve our installation capabilities for Solar Roof by
+on-boarding and training a large number of installers and reducing the installation time dramatically. As these product lines grow, we will have to maintain
+adequate battery cell supply for our energy storage products and hire additional personnel, particularly skilled electricians to support the ramp of Solar Roof.
+
+32
+
+
+-----
+
+

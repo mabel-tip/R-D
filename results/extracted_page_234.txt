@@ -1,0 +1,45 @@
+from time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any person falling within IFPRU 11.6 of the
+FCA Handbook (as amended from time to time) promulgated by the United Kingdom Financial Conduct Authority, which includes certain
+credit institutions and investment firms, and certain affiliates of such credit institutions or investment firms.
+
+“UK Resolution Authority” shall mean the Bank of England or any other public administrative authority having responsibility for
+the resolution of any UK Financial Institution.
+
+“Unadjusted Benchmark Replacement” shall mean the Benchmark Replacement excluding the Benchmark Replacement
+Adjustment.
+
+“Unfinanced Capital Expenditures” shall mean, for any period, Capital Expenditures made by the Company and its Consolidated
+Subsidiaries during such period other than Capital Expenditures to the extent financed with the proceeds of any sale or issuance of Equity
+Interests, the proceeds of any asset sale (other than the sale of inventory in the ordinary course of business), the proceeds of any Recovery
+Event or the proceeds of any incurrence of Indebtedness (other than the incurrence of any Loans).
+
+“Unfunded Pension Liability” of any Plan shall mean the amount, if any, by which the value of the accumulated plan benefits
+under such Plan determined on a plan termination basis in accordance with actuarial assumptions at such time consistent with those
+prescribed by the PBGC for purposes of Section 4044 of ERISA, exceeds the Fair Market Value of all plan assets allocable to such
+liabilities under Title IV of ERISA (excluding any accrued but unpaid contributions).
+
+“United States” and “U.S.” shall each mean the United States of America.
+
+“Unpaid Drawing” shall have the meaning provided in Section 3.05(a).
+
+“Unrestricted” shall mean, when referring to cash or Cash Equivalents of the Company or any of its Subsidiaries, that such cash
+or Cash Equivalents are not Restricted.
+
+“Unutilized Revolving Loan Commitment” shall mean, with respect to any Lender at any time, such Lender’s Revolving Loan
+Commitment at such time less the sum of (a) the aggregate outstanding principal amount of all Revolving Loans (taking the U.S. Dollar
+Equivalent of any such Revolving Loans denominated in Euros or any Acceptable Foreign Currency) made by such Lender at such time and
+(b) such Lender’s RL Percentage of the Letter of Credit Outstandings (for this purpose, using the U.S. Dollar Equivalent of amounts
+denominated in Euros or any Acceptable Foreign Currency) at such time. For the avoidance of doubt and solely for purposes of calculating
+the “Unutilized Revolving Loan Commitment”, the Revolving Loan Commitment of any Lender shall not be reduced by outstanding
+Swingline Loans.
+
+“Upper Strike Warrant” shall mean any hedging agreement, entered into by the Company in connection with the issuance of
+Permitted Convertible Notes, pursuant to which the Company issues to the counterparty thereto warrants to acquire shares of Permitted
+Company Stock (whether such warrant is settled in shares, cash or a combination thereof).
+
+73
+
+
+-----
+
+

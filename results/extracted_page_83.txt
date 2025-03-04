@@ -1,0 +1,54 @@
+transactions was $204 million. In addition, we sold warrants whereby the holders of the warrants have the option to purchase 14.9 million shares of our
+common stock at a price of $131.00 per share. We received $53 million in cash proceeds from the sale of these warrants. Taken together, the purchase of the
+convertible note hedges and the sale of the warrants are intended to reduce potential dilution from the conversion of the 2022 Notes and to effectively increase
+the overall conversion price from $65.50 to $131.00 per share, as adjusted to give effect to the Stock Split. As these transactions meet certain accounting
+criteria, the convertible note hedges and warrants are recorded in stockholders’ equity and are not accounted for as derivatives. The net cost incurred in
+connection with the convertible note hedge and warrant transactions was recorded as a reduction to additional paid-in capital on the consolidated balance
+sheet.
+
+During each of the quarters of 2020, the closing price of our common stock exceeded 130% of the applicable conversion price of the 2022 Notes on at
+least 20 of the last 30 consecutive trading days of the quarter, causing the 2022 Notes to be convertible by their holders during the second, third and fourth
+quarters of 2020 and the first quarter of 2021. As we now expect to settle a portion of the 2022 Notes in the first quarter of 2021, we reclassified $115 million
+of the carrying value of the 2022 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated
+balance sheet as of December 31, 2020. Additionally, we reclassified $5 million, representing the difference between the current portion of aggregate principal
+of our 2022 Notes and the current portion of the carrying value as of December 31, 2020, as mezzanine equity from permanent equity on our consolidated
+balance sheet as of December 31, 2020. As the settlement of conversion of the remainder of the 2022 Notes would be in cash, shares of our common stock or a
+combination thereof is at our election, the remaining liability is classified as non-current. The debt discounts recorded on the 2022 Notes are recognized as
+interest expense through March 2022 and early conversions have resulted in the acceleration of such recognition through December 31, 2020, including the
+losses on extinguishment of debt appearing in the Interest Expense table below.
+
+During the year ended December 31, 2020, $474 million in aggregate principal amount of the 2022 Notes were converted for $474 million in cash and
+6.2 million shares of our common stock, as adjusted to give effect to the Stock Split. As a result, we recorded a decrease to additional paid-in capital of $5
+million. The note hedges we entered into in connection with the issuance of the 2022 Notes were automatically settled with the respective conversions of the
+2022 Notes, resulting in the receipt of 6.2 million shares of our common stock, as adjusted to give effect to the Stock Split. The related warrants will settle
+under their terms after the maturity or settlement of the 2022 Notes. As of December 31, 2020, the if-converted value of the notes exceeds the outstanding
+principal amount by $4.92 billion.
+
+**2024 Notes, Bond Hedges and Warrant Transactions**
+
+In May 2019, we issued $1.84 billion in aggregate principal amount of our 2024 Notes in a public offering. The net proceeds from the issuance, after
+deducting transaction costs, were $1.82 billion.
+
+As adjusted to give effect to the Stock Split, each $1,000 of principal of the 2024 Notes is convertible into 16.1380 shares of our common stock, which is
+equivalent to a conversion price of $61.97 per share, subject to adjustment upon the occurrence of specified events. Holders of the 2024 Notes may convert, at
+their option, on or after February 15, 2024. Further, holders of the 2024 Notes may convert, at their option, prior to February 15, 2024 only under the following
+circumstances: (1) during any calendar quarter commencing after September 30, 2019 (and only during such calendar quarter), if the last reported sale price of
+our common stock for at least 20 trading days (whether or not consecutive) during a period of 30 consecutive trading days ending on the last trading day of
+immediately preceding calendar quarter is greater than or equal to 130% of the conversion price on each trading day; (2) during the five-business day period
+after any five-consecutive trading day period in which the trading price per $1,000 principal amount of the 2024 Notes for each trading day of such period is
+less than 98% of the product of the last reported sale price of our common stock and the conversion rate on each such trading day, or (3) if specified corporate
+events occur. Upon conversion, the 2024 Notes will be settled in cash, shares of our common stock or a combination thereof, at our election. If a fundamental
+change occurs prior to the maturity date, holders of the 2024 Notes may require us to repurchase all or a portion of their 2024 Notes for cash at a repurchase
+price equal to 100% of the principal amount plus any accrued and unpaid interest. In addition, if specific corporate events occur prior to the maturity date, we
+would increase the conversion rate for a holder who elects to convert its 2024 Notes in connection with such an event in certain circumstances.
+
+In accordance with GAAP relating to embedded conversion features, we initially valued and bifurcated the conversion feature associated with the 2024
+Notes. We recorded to stockholders’ equity $491 million for the conversion feature. The resulting debt discount is being amortized to interest expense at an
+effective interest rate of 8.68%.
+
+84
+
+
+-----
+
+

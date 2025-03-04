@@ -1,0 +1,48 @@
+(t) consists of goods for which a certificate of title has been issued;
+
+(u) is repriced down or the market value of which is lower than the cost thereof (to the extent of the amount of
+such write-down or reduction in market value);
+
+(v) is Inventory consisting of solar panels or solar shingles;
+
+(w) is Inventory in respect of which there is a related Eligible Account; or
+
+(x) consists of Specified Tesla In-Transit Assets that were provided as collateral for Indebtedness incurred
+pursuant to Section 10.04(v);or
+
+(xy) is otherwise unacceptable to the Administrative Agent in its Permitted Discretion.
+
+The Administrative Agent shall have the right to establish, modify or eliminate Reserves against Eligible Inventory from time to
+time in its Permitted Discretion; provided that with respect to Reserves established on the Effective Date and facts or events known to the
+Administrative Agent prior to the Effective Date, the Administrative Agent may impose new Reserves only to reflect a change in
+circumstances, events, conditions, contingencies or risks in respect of such facts or events. The criteria for Eligible Inventory may only be
+revised or any new criteria for Eligible Inventory may only be established by the Administrative Agent in its Permitted Discretion based on
+either (i) an event, condition or other circumstance arising after the date hereof, or (ii) an event, condition or other circumstance existing
+on the date hereof to the extent the Administrative Agent has no notice thereof from a Borrower prior to the date hereof, in either cause
+under clause (i) or (ii) which adversely affects or could reasonably be expected to adversely affect the Inventory as determined by the
+Administrative Agent in its Permitted Discretion.
+
+“Eligible Machinery and Equipment” shall mean all of the Equipment owned by any of the U.S. Borrowers (and for which the
+applicable Borrower has good title to such Equipment) that is reflected in the most recent Borrowing Base Certificate delivered to the
+Administrative Agent pursuant to Section 9.01(h), except any Equipment as to which any of the exclusionary criteria set forth below
+applies. Eligible Machinery and Equipment shall not include any Equipment of the U.S. Borrowers that:
+
+(a) is excess, obsolete, unsalable, shopworn, seconds, damaged or unfit for sale;
+
+(b) is not subject to a First Priority Lien in favor of the Collateral Agent on behalf of the Secured Creditors;
+
+(c) is not owned by a U.S. Borrower free and clear of all Liens and rights of any other Person, except the First
+Priority Lien in favor of the Collateral Agent, on behalf of the Secured Creditors, the junior Permitted Liens under Section
+10.01(s) and First Priority Priming Liens (subject to Reserves established by the Administrative Agent in accordance with the
+provisions of this Agreement and in respect of such Permitted Liens);
+
+(d) (i) is not located on premises owned, leased or rented by a U.S. Borrower, and in the case of leased or
+rented premises unless either (x) a reasonably satisfactory Landlord Personal Property Collateral Access Agreement has been
+delivered to the Administrative Agent or (y) Rent
+
+32
+
+
+-----
+
+

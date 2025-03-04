@@ -1,0 +1,42 @@
+y g g ( ) gg g p y y
+all Guarantors in respect of the Guaranteed Obligations to and including the date of the Relevant Payment (such excess, the “Aggregate
+Excess Amount”), each such Guarantor shall have a right of contribution against each other Guarantor who has made payments in respect
+of the Guaranteed Obligations to and including the date of the Relevant Payment in an aggregate amount less than such other Guarantor’s
+Contribution Percentage of the aggregate payments made to and including the date of the Relevant Payment by all Guarantors in respect
+of the Guaranteed Obligations (the aggregate amount of such deficit, the “Aggregate Deficit Amount”) in an amount equal to (x) a fraction
+the numerator of which is the Aggregate Excess Amount of such Guarantor and the denominator of which is the Aggregate Excess Amount
+of all Guarantors multiplied by (y) the Aggregate Deficit Amount of such other Guarantor. A Guarantor’s right of contribution pursuant to
+the preceding sentences shall arise at the time of each computation, subject to adjustment to the time of each computation; provided that
+no Guarantor may take any action to enforce such right until the Termination Date, it being expressly recognized and agreed by all parties
+hereto that any Guarantor’s right of contribution arising pursuant to this Section 18 against any other Guarantor shall be expressly junior
+and subordinate to such other Guarantor’s obligations and liabilities in respect of the Guaranteed Obligations and any other obligations
+owing under this Guaranty. As used in this Section 18: (i) each Guarantor’s “Contribution Percentage” shall mean the percentage obtained
+by dividing (x) the Adjusted Net Worth (as defined below) of such Guarantor by (y) the aggregate Adjusted Net Worth of all Guarantors; (ii)
+the “Adjusted Net Worth” of each Guarantor shall mean the greater of (x) the Net Worth (as defined below) of such Guarantor and (y) zero;
+and (iii) the “Net Worth” of each Guarantor shall mean the amount by which the fair saleable value of such Guarantor’s assets on the date
+of any Relevant Payment exceeds its existing debts and other liabilities (including contingent liabilities, but without giving effect to any
+Guaranteed Obligations arising under this Guaranty or any guaranteed obligations arising under any guaranty of any Permitted Additional
+Indebtedness) on such date. Notwithstanding anything to the contrary contained above, any Guarantor that is released from this Guaranty
+pursuant to Section 17 hereof shall thereafter have no contribution obligations, or rights, pursuant to this Section 18, and at the time of any
+such release, if the released Guarantor had an Aggregate Excess Amount or an Aggregate Deficit Amount, same shall be deemed reduced
+to $0, and the contribution rights and obligations of the remaining Guarantors shall be recalculated on the respective date of release (as
+otherwise provided above) based on the payments made hereunder by the remaining Guarantors. All parties hereto recognize and agree
+that, except for any right of contribution arising pursuant to this Section 18, each Guarantor who makes any payment in respect of the
+Guaranteed Obligations shall have no right of contribution or subrogation against any other Guarantor in respect of such payment until
+the Termination Date. Each of the Guarantors recognizes and acknowledges that the rights to contribution arising hereunder shall
+constitute an asset in favor of the party entitled to such contribution. In this connection, each Guarantor has the right to waive its
+contribution right against any Guarantor to the extent that after giving effect to such waiver such Guarantor would remain solvent, in the
+determination of the Required Lenders.
+
+19. LIMITATION ON GUARANTEED OBLIGATIONS. Each Guarantor and each Secured Creditor (by its
+acceptance of the benefits of this Guaranty) hereby confirms that it is its intention that this Guaranty not constitute a fraudulent transfer
+or conveyance for purposes of the Bankruptcy Code, the Uniform Fraudulent Conveyance Act of any similar Federal or state law. To
+effectuate the foregoing intention, each Guarantor and each Secured Creditor (by its acceptance of the benefits of this Guaranty) hereby
+irrevocably agrees that the Guaranteed Obligations guaranteed by such Guarantor shall be limited to such amount as will, after giving
+effect to such maximum amount and all other (contingent or otherwise) liabilities of such Guarantor that are relevant under such laws and
+after giving effect to any rights to
+
+
+-----
+
+

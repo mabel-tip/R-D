@@ -1,0 +1,59 @@
+**December 31, 2020** **December 31, 2019**
+**Operating lease expense:**
+Operating lease expense (1) $ 451 $ 426
+
+**Finance lease expense:**
+Amortization of leased assets $ 348 $ 299
+Interest on lease liabilities 100 104
+
+Total finance lease expense $ 448 $ 403
+
+Total lease expense $ 899 $ 829
+
+(1) Includes short-term leases and variable lease costs, which are immaterial.
+
+Other information related to leases where we are the lessee is as follows:
+
+**December 31, 2020** **December 31, 2019**
+**Weighted-average remaining lease term:**
+Operating leases 6.2 years 6.2 years
+Finance leases 4.9 years 3.9 years
+
+**Weighted-average discount rate:**
+Operating leases 5.8% 6.5%
+Finance leases 6.5% 6.5%
+
+Supplemental cash flow information related to leases where we are the lessee is as follows (in millions):
+
+**Year Ended**
+
+**December 31, 2020** **December 31, 2019**
+**Cash paid for amounts included in the measurement of lease liabilities:**
+Operating cash outflows from operating leases $ 456 $ 396
+Operating cash outflows from finance leases (interest payments) $ 100 $ 104
+Financing cash outflows from finance leases $ 338 $ 321
+Leased assets obtained in exchange for finance lease liabilities $ 188 $ 616
+Leased assets obtained in exchange for operating lease liabilities $ 553 $ 202
+
+As of December 31, 2020, the maturities of our operating and finance lease liabilities (excluding short-term leases) are as follows (in millions):
+
+**Operating** **Finance**
+**Leases** **Leases**
+2021 $ 366 $ 462
+2022 327 446
+2023 279 412
+2024 245 299
+2025 204 9
+Thereafter 425 7
+Total minimum lease payments 1,846 1,635
+Less: Interest 306 167
+Present value of lease obligations 1,540 1,468
+Less: Current portion 286 374
+Long-term portion of lease obligations $ 1,254 $ 1,094
+
+90
+
+
+-----
+
+

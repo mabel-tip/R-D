@@ -1,0 +1,44 @@
+Borrower, each Subsidiary Guarantor, the Administrative Agent, the Swingline Lender and each Issuing Lender (if the consent of the
+Swingline Lender and each Issuing Lender is required pursuant to Section 2.14(a)(ii)) and each such Lender or other Eligible Transferee
+which agrees to provide an Incremental Commitment (each, an “Incremental Lender”) shall execute and deliver to the Borrowers and the
+Administrative Agent an Incremental Commitment Agreement, appropriately completed (with the effectiveness of the Incremental
+Commitment provided therein to occur on the date set forth in such Incremental Commitment Agreement, which date in any event shall be
+no earlier than the date on which (i) all fees required to be paid in connection therewith at the time of such effectiveness shall have been
+paid, (ii) all Incremental Commitment Requirements have been satisfied, (iii) all conditions set forth in this Section 2.14 shall have been
+satisfied and (iv) all other conditions precedent that may be set forth in such Incremental Commitment Agreement shall have been
+satisfied) and (II) the Company, each other Borrower, each Subsidiary Guarantor, the Collateral Agent and each Incremental Lender (as
+applicable) shall execute and deliver to the Administrative Agent and the Collateral Agent such additional Security Documents and/or
+amendments to the Security Documents which are necessary to ensure that all Loans incurred pursuant to the Incremental Commitments
+are secured by each relevant Security Document (the “Incremental Security Documents”). The Administrative Agent shall promptly notify
+each Lender as to the effectiveness of each Incremental Commitment Agreement and, at such time, Schedule 1.01(a) shall be deemed
+modified to reflect the Incremental Commitments of such Incremental Lenders.
+
+(c) It is understood and agreed that the Incremental Commitments provided by an Incremental Lender or Incremental
+Lenders, as the case may be, pursuant to each Incremental Commitment Agreement shall constitute part of, and be added to, the Total
+Revolving Loan Commitment and each Incremental Lender shall constitute a Lender for all purposes of this Agreement and each other
+applicable Credit Document.
+
+(d) At the time of any provision of Incremental Commitments pursuant to this Section 2.14, each Borrower shall, in
+coordination with the Administrative Agent, repay outstanding Revolving Loans of certain of the Lenders, and incur additional Revolving
+Loans from certain other Lenders (including the Incremental Lenders), in each case to the extent necessary so that all of the Lenders
+participate in each outstanding Borrowing of Revolving Loans pro rata on the basis of their respective Revolving Loan Commitments (after
+giving effect to any increase in the Total Revolving Loan Commitment pursuant to this Section 2.14) and with the Borrowers being
+obligated to pay to the respective Lenders any costs of the type referred to in Section 2.11 in connection with any such repayment and/or
+Borrowing.
+
+(e) At the time of any provision of Incremental Commitments pursuant to this Section 2.14, all dollar thresholds included
+in any determination made with respect to Excess Availability and the dollar amount of the Liquidity Threshold shall be increased
+automatically in an amount equal to the percentage by which the Incremental Commitments increase the Total Revolving Loan
+Commitment; provided that the foregoing clause (e) shall not apply (including in respect of any Incremental Commitments incurred prior
+to the First Amendment Effective Date) to the dollar thresholds set forth in the definition of “Convertible Notes Maturity Default”..
+
+2.15. Defaulting Lenders. (a) Notwithstanding any provision of this Agreement or in the other Credit Documents to the
+contrary, if any Lender becomes a Defaulting Lender, then the following provisions shall apply for so long as such Lender is a Defaulting
+Lender and if any Swingline Loan Exposure or Letter of Credit Exposure exists at the time a Lender becomes a Defaulting Lender then:
+
+98
+
+
+-----
+
+

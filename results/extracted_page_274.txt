@@ -1,0 +1,41 @@
+4.02. Voluntary Termination of Revolving Loan Commitments. (a) Upon at least three Business Days’ prior written notice
+to the Administrative Agent at the Notice Office (which notice the Administrative Agent shall promptly transmit to each of the Lenders),
+the Borrowers shall have the right, subject to the requirements of Section 5.02(a), at any time or from time to time, without premium or
+penalty to terminate the Total Revolving Loan Commitment in whole, or reduce it in part, pursuant to this Section 4.02(a), in an integral
+multiple of $10,000,000 in the case of partial reductions to the Total Revolving Loan Commitment; provided that (i) each such reduction
+shall apply proportionately to permanently reduce the Revolving Loan Commitment of each Lender and (ii) in the case of any partial
+reduction, after giving effect to such reduction (x) the aggregate amount of the Letter of Credit Outstandings shall not exceed the
+Maximum Letter of Credit Amount (for this purpose, using the U.S. Dollar Equivalent of amounts denominated in Euros or any Acceptable
+Foreign Currency) and (y) the aggregate principal amount of Swingline Loans then outstanding shall not exceed the Maximum Swingline
+Amount and (iii) in the case of any termination of the Total Revolving Loan Commitment in whole, the applicable Borrower or Borrowers
+shall have provided cash collateral to the respective Issuing Lender or Lenders in an amount equal to 102% of the undrawn Stated Amount
+of all outstanding Letters of Credit in a manner reasonably acceptable to the respective Issuing Lender. Any such notice of termination
+delivered in connection with a refinancing of all or part of this Agreement or any other transaction may be, if so expressly stated to be,
+conditional upon the consummation of such refinancing or other transaction and may be revoked by the Borrowers in the event such
+refinancing or other transaction is not consummated.
+
+(b) In the event of refusals by a Lender to consent to certain proposed changes, waivers, discharges or terminations with
+respect to this Agreement which have been approved by the Required Lenders as (and to the extent) provided in Section 13.1213.13(b),
+the Borrowers shall have the right, subject to obtaining the consents required by Section 13.1213.13(b) with the express written consent
+of the Required Lenders, upon three Business Days’ prior written notice to the Administrative Agent at the Notice Office (which notice the
+Administrative Agent shall promptly transmit to each of the Lenders), to terminate the entire Revolving Loan Commitment of such Lender,
+so long as all Loans, together with accrued and unpaid interest, Fees and all other amounts, owing to such Lender (including all amounts,
+if any, owing pursuant to Section 2.11) are repaid concurrently with the effectiveness of such termination (at which time Schedule 1.01(a)
+shall be deemed modified to reflect such changed amounts) and such Lender’s RL Percentage of all outstanding Letters of Credit is cash
+collateralized in a manner reasonably satisfactory to the Administrative Agent and the respective Issuing Lenders for so long as such
+Letter of Credit Exposure is outstanding (it being understood that, for purposes of clarity, at the request of the Company, upon a
+determination by the Administrative Agent or the respective Issuing Lenders that there exists cash collateral in excess of such Lender’s RL
+Percentage of such Letter of Credit Exposure, such excess cash collateral may be returned to the applicable Borrowers so long as no
+Default or Event of Default then exists or would result therefrom), and at such time such Lender shall no longer constitute a “Lender” for
+purposes of this Agreement, except with respect to indemnifications under this Agreement (including Sections 2.10, 2.11, 3.06, 5.04,
+12.06, 13.01 and 13.0613.07), which shall survive as to such repaid Lender.
+
+4.03. Mandatory Reduction of Commitments. The Revolving Loan Commitment of each Lender shall terminate in its
+entirety upon the Final Maturity Date applicable thereto.
+
+113
+
+
+-----
+
+

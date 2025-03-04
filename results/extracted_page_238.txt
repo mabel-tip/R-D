@@ -1,0 +1,43 @@
+relating to the emissions or environmental impacts that result from, are attributable to, or are associated with a vehicle, a vehicle’s use, or
+a vehicle charging station that is capable of being measured, verified or calculated and in any case may be lawfully marketed to third
+parties. By way of illustration, Vehicle Environmental Attributes may result from: new energy vehicles; zero emission vehicles; fuel
+economy; avoided criteria air pollutants, CO2 or greenhouse gas emissions; low carbon, renewable or clean fuel; and other credits and
+offsets defined under any applicable vehicle and charging-related private or governmental program, including, without limitation, the
+following credits: California LEV III NMOG + NOx, US CAFE, US GHG, US Tier 3 NMOG + NOx, Canada GHG, Quebec ZEV, EU CO2
+Pooling, and Switzerland GHG Credits and Low Carbon Fuel Standards credits. Notwithstanding any of the foregoing in this definition or
+any other provision of the Tenth Amendment or the Credit Agreement, Vehicle Environmental Attributes shall not include: (i) any of the
+foregoing obtained by, provided to, used by or necessary for the Company or any of its Subsidiaries to conduct any of its operations at any
+location; or (ii) any automotive tax credits.
+
+“Vendor Liabilities Reserve” shall mean a reserve established by the Administrative Agent in connection with the accounts
+payable balance owed to third-party vendors where Inventory of the Borrowers is physically located with such vendor.
+
+“Voting Stock” shall mean, as to any entity, all classes of Equity Interests of such entity then outstanding and normally entitled
+to vote in the election of directors of such entity.
+
+“Weekly Borrowing Base Period” shall mean any period (a) commencing on the date on which (i) a Default or an Event of
+Default has occurred and is continuing or (ii) (A) Excess Availability is less than the greater of (1) 10% of Availability as then in effect and
+(2) $80,000,000 for five consecutive Business Days and (B) Designated Cash is less than the Liquidity Threshold and (b) ending on the first
+date thereafter on which (i) no Default or Event of Default exists and (ii) Excess Availability has been equal to or greater than the greater
+of (A) 10% of Availability as then in effect and (B) $80,000,000 for 30 consecutive days.
+
+“Wholly-Owned Dutch Subsidiary” shall mean, as to any Person, any Dutch Subsidiary of such Person that is a Wholly-Owned
+Subsidiary.
+
+“Wholly-Owned Domestic Subsidiary” shall mean, as to any Person, any Domestic Subsidiary of such Person that is a WhollyOwned Subsidiary.
+
+“Wholly-Owned Foreign Subsidiary” shall mean, as to any Person, any Foreign Subsidiary of such Person that is a WhollyOwned Subsidiary.
+
+“Wholly-Owned Subsidiary” shall mean, as to any Person, (i) any corporation 100% of whose capital stock is at the time owned
+by such Person and/or one or more Wholly-Owned Subsidiaries of such Person and (ii) any partnership, limited liability company,
+association, joint venture or other entity in which such Person and/or one or more Wholly-Owned Subsidiaries of such Person has a 100%
+equity interest at such time (other than, in the case of a Foreign Subsidiary of the Company with respect to the preceding clauses (i) and
+(ii), directors’ qualifying shares and/or other nominal amounts of shares required to be held by Persons other than the Company and its
+Subsidiaries under applicable law); provided, however, that notwithstanding anything herein to the contrary and other than as used in the
+
+77
+
+
+-----
+
+

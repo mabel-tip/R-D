@@ -1,0 +1,49 @@
+Administrative Agent using any method of determination it deems appropriate in its sole discretion).
+
+“Available Tenor” shall mean, as of any date of determination and with respect to the then-current Benchmark, as applicable,
+any tenor for such Benchmark or payment period for interest calculated with reference to such Benchmark, as applicable, that is or may
+be used for determining the length of an Interest Period pursuant to this Agreement as of such date and not including, for the avoidance of
+doubt, any tenor for such Benchmark that is then-removed from the definition of “Interest Period” pursuant to clause (b)(v) of Section
+2.10.
+
+“Availability” at any time shall mean the lesser of (i) the Total Borrowing Base at such time and (ii) the Total Revolving Loan
+Commitment at such time.
+
+“Bail-In Action” shall mean the exercise of any Write-Down and Conversion Powers by the applicable EEA Resolution Authority
+in respect of any liability of an EEAAffected Financial Institution.
+
+“Bail-In Legislation” shall mean, (a) with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU
+of the European Parliament and of the Council of the European Union, the implementing law for such EEA Member Country from time to
+time which is described in the EU Bail-In Legislation Schedule. and (b) with respect to the United Kingdom, Part I of the United Kingdom
+Banking Act 2009 (as amended from time to time) and any other law, regulation or rule applicable in the United Kingdom relating to the
+resolution of unsound or failing banks, investment firms or other financial institutions or their affiliates (other than through liquidation,
+administration or other insolvency proceedings).
+
+“Bankruptcy Code” shall have the meaning provided in Section 11.05.
+
+“Bankruptcy Event” shall mean, with respect to any Person, such Person becomes the subject of an Insolvency Proceeding, or
+has had a receiver, conservator, trustee, administrator, custodian, assignee for the benefit of creditors or similar Person charged with the
+reorganization or liquidation of its business appointed for it, or, in the good faith determination of the Administrative Agent, has taken any
+action in furtherance of, or indicating its consent to, approval of, or acquiescence in, any such proceeding or appointment, provided that a
+Bankruptcy Event shall not result solely by virtue of any ownership interest, or the acquisition of any ownership interest, in such Person by
+a Governmental Authority or instrumentality thereof, provided, further, that such ownership interest does not result in or provide such
+Person with immunity from the jurisdiction of courts within the United States or from the enforcement of judgments or writs of attachment
+on its assets or permit such Person (or such Governmental Authority or instrumentality) to reject, repudiate, disavow or disaffirm any
+contracts or agreements made by such Person.
+
+“Base Rate” shall mean, at any time, the highest of (i) the Prime Lending Rate at such time, (ii) ½ of 1% per annum in excess of
+the overnight Federal Funds Rate at such time, and (iii) the LIBO Rate for a LIBOR Loan denominated in U.S. Dollars with a one month
+Interest Period commencing on such day plus 1.00%. For purposes of this definition, the LIBO Rate shall be determined using the LIBO
+Rate as otherwise determined by the Administrative Agent in accordance with the definition of LIBO Rate, except that (x) if a given day is
+a Business Day, such determination shall be made on such day (rather than two Business Days prior to the commencement of an Interest
+Period) or (y) if a given day is not a Business Day, the LIBO Rate for such day shall be the rate determined by the Administrative Agent
+
+7
+
+|Administrative Agent using any method of determination it deems appropriate in its sole discretion)|.|
+|---|---|
+
+
+-----
+
+

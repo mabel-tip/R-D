@@ -1,0 +1,47 @@
+“Benchmark Replacement Date” shall mean, with respect to any Benchmark, the earliest to occur of the following events with
+respect to such then-current Benchmark:
+
+(a) in the case of clause (a) or (b) of the definition of “Benchmark Transition Event,” the later of (i) the date of
+the public statement or publication of information referenced therein and (ii) the date on which the administrator of such
+Benchmark (or the published component used in the calculation thereof) permanently or indefinitely ceases to provide all
+Available Tenors of such Benchmark (or such component thereof);
+
+(b) in the case of clause (c) of the definition of “Benchmark Transition Event,” the date of the public statement
+or publication of information referenced therein; or
+
+(c) in the case of a Term SOFR Transition Event, the date that is 30 days after the date a Term SOFR Notice is
+provided to the Lenders and the U.S. Borrower pursuant to Section 2.10(b)(ii); or
+
+(d) in the case of an Early Opt-in Election, the sixth Business Day after the date notice of such Early Opt-in
+Election is provided to the Lenders, so long as the Administrative Agent has not received, by 5:00 p.m. (New York City time) on
+the fifth Business Day after the date notice of such Early Opt-in Election is provided to the Lenders, written notice of objection
+to such Early Opt-in Election from Lenders comprising the Required Lenders.
+
+For the avoidance of doubt, (i) if the event giving rise to the Benchmark Replacement Date occurs on the same day as, but
+earlier than, the Reference Time in respect of any determination, the Benchmark Replacement Date will be deemed to have occurred prior
+to the Reference Time for such determination and (ii) the “Benchmark Replacement Date” will be deemed to have occurred in the case of
+clause (a) or (b) with respect to any Benchmark upon the occurrence of the applicable event or events set forth therein with respect to all
+then-current Available Tenors of such Benchmark (or the published component used in the calculation thereof).
+
+“Benchmark Transition Event” shall mean, with respect to any Benchmark, the occurrence of one or more of the following
+events with respect to such then-current Benchmark:
+
+(a) a public statement or publication of information by or on behalf of the administrator of such Benchmark (or
+the published component used in the calculation thereof) announcing that such administrator has ceased or will cease to
+provide all Available Tenors of such Benchmark (or such component thereof), permanently or indefinitely, provided that, at the
+time of such statement or publication, there is no successor administrator that will continue to provide any Available Tenor of
+such Benchmark (or such component thereof);
+
+(b) a public statement or publication of information by the regulatory supervisor for the administrator of such
+Benchmark (or the published component used in the calculation thereof), the Federal Reserve Board, the NYFRB, an insolvency
+official with jurisdiction over the administrator for such Benchmark (or such component), a resolution authority with jurisdiction
+over the administrator for such Benchmark (or such component) or a court or an entity with similar insolvency or resolution
+authority over the administrator for such Benchmark (or such component), in each case which states that the administrator of
+such Benchmark (or such
+
+10
+
+
+-----
+
+

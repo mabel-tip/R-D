@@ -1,0 +1,44 @@
+6.08. [Reserved].
+
+6.09. Security Agreement. On the Effective Date, (a) each Dutch Credit Party shall have duly authorized, executed and
+delivered the Dutch Security Agreements in the form of Exhibit I-1, I-2 and I-3 and (b) each U.S. Credit Party and each Dutch Credit Party
+shall have duly authorized, executed and delivered the U.S. Security Agreement in the form of Exhibit I-4, in each case covering all of each
+applicable Credit Party’s Security Agreement Collateral, together with:
+
+(a) proper financing statements (Form UCC-1 or the equivalent) for filing under the UCC or other appropriate filing offices
+of each jurisdiction as may be necessary or, in the reasonable opinion of the Collateral Agent, desirable, to perfect the security interests
+purported to be created by each Security Agreement;
+
+(b) delivery of all promissory notes and stock certificates required to be delivered to the Collateral Agent pursuant to each
+Security Agreement, together with undated instruments of transfer with respect thereto endorsed in blank;
+
+(c) delivery of (A) the results of a recent search, by a Person reasonably satisfactory to the Collateral Agent, of all effective
+UCC financing statements (or equivalent filings) made with respect to any personal or mixed property the creation of security interests in
+which is governed by the UCC (or foreign equivalent) of any Credit Party in the jurisdiction of formation of each such entity and the
+location (state and county) where such entities maintain their chief executive offices, together with copies of all such filings disclosed by
+such search, and (B) UCC security termination statements (or similar documents) duly executed by all applicable Persons for filing in all
+applicable jurisdictions as may be necessary to terminate any effective UCC financing statements (or equivalent filings) disclosed in such
+search (other than any such financing statements in respect of Permitted Liens);
+
+(d) confirmation that arrangements have been made by the Administrative Agent’s counsel for all other recordings and
+filings of, or with respect to, each Security Agreement as may be necessary or, in the reasonable opinion of the Collateral Agent, desirable,
+to perfect and protect the security interests intended to be created by each Security Agreement; and
+
+(e) evidence that all other actions required to be taken under each Security Agreement on the Effective Date to perfect
+and protect the security interests purported to be created by each Security Agreement have been taken, and each Security Agreement
+shall be in full force and effect.
+
+6.10. Financial Statements. On or prior to the Effective Date, the Administrative Agent shall have received true and
+correct copies of the financial statements referred to in Section 8.05(a), which financial statements shall be in form and substance
+reasonably satisfactory to the Administrative Agent.
+
+6.11. Solvency Certificate; Insurance Certificates. On the Effective Date, the Administrative Agent shall have received:
+
+(a) a solvency certificate from the chief financial officer of the Company in the form of Exhibit J; and
+
+127
+
+
+-----
+
+

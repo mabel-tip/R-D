@@ -1,0 +1,49 @@
+5.02. Mandatory Repayments; Cash Collateralization. (a) (i) On any day on which any one or more of the following
+conditions shall exist, the applicable Borrowers shall repay the applicable Loans and/or cash collateralize outstanding Letters of Credit (in
+U.S. Dollars or, to the extent any Letter of Credit is denominated in Euros or an Acceptable Foreign Currency, such currency) pursuant to
+clause (iii) below in such amount as may be required to cause such conditions to cease to exist on such day:
+
+(u) the Aggregate U.S. Borrower Exposure at such time exceeds 100% (or, during an Agent Advance
+Period, 105%) of the U.S. Borrowing Base at such time;
+
+(v) the Aggregate Dutch Borrower Exposure at such time exceeds 100% (or, during an Agent
+Advance Period, 105%) of the Dutch Borrowing Base at such time;
+
+(w) the Aggregate UK Borrower Exposure at such time exceeds 100% (or, during an Agent Advance
+Period, 105%) of the UK Borrowing Base at such time;
+
+(wx) the Aggregate Exposure at such time exceeds the Total Revolving Loan Commitment at such
+time;
+
+(x) during a Reduced Availability Period, Excess Availability is less than 10% of the Availability at such time;
+
+(y) the aggregate Swingline Loan Exposure at such time exceeds the Maximum Swingline Amount;
+and/or
+
+(z) the aggregate Letter of Credit Outstandings (for this purpose, using the U.S. Dollar Equivalent of
+amounts denominated in Euros or any Acceptable Foreign Currency) at such time exceeds the Maximum Letter of
+Credit Amount.
+
+(ii) In connection with any repayment and/or cash collateralization required pursuant to Section
+5.02(a)(i) on any day, the Borrowers shall first prepay the Loans in the following order:
+
+(A) in the case of a repayment and/or cash collateralization required pursuant to Section
+5.02(a)(i)(u) on any day, the U.S. Borrowers shall repay on such day the principal of outstanding U.S.
+Borrower Swingline Loans and, after all U.S. Borrower Swingline Loans have been repaid in full or if no
+U.S. Borrower Swingline Loans are outstanding, U.S. Borrower Revolving Loans, in each case in such
+amount as may be required to cause the conditions giving rise to such mandatory repayment requirement
+to cease to exist on such day,
+
+(B) in the case of a repayment and/or cash collateralization required pursuant to Section
+5.02(a)(i)(v) on any day, the Dutch Borrowers shall repay on such day the principal of outstanding Dutch
+Borrower Swingline Loans and, after all Dutch Borrower Swingline Loans have been repaid in full or if no
+Dutch Borrower Swingline Loans are outstanding, Dutch Borrower Revolving Loans, in each case in such
+amount as may be required to cause the conditions giving rise to such mandatory repayment requirement
+to cease to exist on such day,
+
+115
+
+
+-----
+
+

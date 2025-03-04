@@ -1,0 +1,47 @@
+Administrative Agent has not received, by such time, written notice of objection to such Benchmark Replacement from Lenders comprising
+the Required Lenders.
+
+(ii) Notwithstanding anything to the contrary herein or in any other Credit Document and subject to the proviso
+below in this paragraph, solely with respect to a US Dollar Loan, if a Term SOFR Transition Event and its related Benchmark
+Replacement Date have occurred prior to the Reference Time in respect of any setting of the then-current Benchmark, then the
+applicable Benchmark Replacement will replace the then-current Benchmark for all purposes hereunder or under any Credit
+Document in respect of such Benchmark setting and subsequent Benchmark settings, without any amendment to, or further
+action or consent of any other party to, this Agreement or any other Credit Document; provided that, this clause (ii) shall not be
+effective unless the Administrative Agent has delivered to the Lenders and the U.S. Borrower a Term SOFR Notice.
+
+(iii) In connection with the implementation of a Benchmark Replacement, the Administrative Agent will have
+the right to make Benchmark Replacement Conforming Changes from time to time and, notwithstanding anything to the
+contrary herein or in any other Credit Document, any amendments implementing such Benchmark Replacement Conforming
+Changes will become effective without any further action or consent of any other party to this Agreement or any other Credit
+Document.
+
+If at any time the Administrative Agent determines (which determination shall be conclusive absent manifest error) that (i) the
+circumstances set forth in clause (a)(i) have arisen and such circumstances are unlikely to be temporary or (ii) the circumstances set forth
+in clause (a)(i) have not arisen but any of (v) a prevailing market convention is emerging in respect of syndicated loans currently being
+executed, or existing syndicated loans with provisions similar to this paragraph are being amended, to incorporate or adopt a new
+benchmark interest rate to replace LIBO Rate (including the Screen Rates included in such definition), (w) the supervisor for the
+administrator of the applicable Screen Rate has made a public statement that the administrator of such Screen Rate is insolvent (and
+there is no successor administrator that will continue publication of such Screen Rate), (x) the administrator of such Screen Rate has
+made a public statement identifying a specific date after which such Screen Rate will permanently or indefinitely cease to be published by
+it (and there is no successor administrator that will continue publication of such Screen Rate), (y) the supervisor for the administrator of
+such Screen Rate has made a public statement identifying a specific date after which such Screen Rate will permanently or indefinitely
+cease to be published or (z) the supervisor for the administrator of such Screen Rate or a Governmental Authority having jurisdiction over
+the Administrative Agent has made a public statement identifying a specific date after which such Screen Rate may no longer be used for
+determining interest rates for loans, the Administrative Agent and the respective Borrower or Borrowers shall endeavor to establish an
+alternate rate of interest to such Screen Rate that gives due consideration to the then prevailing market convention for determining a rate
+of interest for syndicated loans in the United States in the applicable currency at such time, and shall enter into an amendment to this
+Agreement to reflect such alternate rate of interest (including any mathematical or other adjustments to the benchmark (if any)
+incorporated therein, but for the avoidance of doubt, such changes shall not include a reduction of the Applicable Margin (it being
+understood and agreed that amendments to the definition of LIBO Rate and its component definitions in accordance with the foregoing
+that do not have the effect of reducing the Applicable Margin shall not constitute a reduction in the Applicable Margin)); provided that, if
+such alternate rate of interest as so determined would be less than zero, such rate shall be deemed to be zero for the purposes of this
+
+90
+
+|the Required Lenders|.|
+|---|---|
+
+
+-----
+
+

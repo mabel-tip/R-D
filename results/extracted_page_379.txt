@@ -1,0 +1,44 @@
+No invalidity, illegality, irregularity or unenforceability of all or any part of the Guaranteed Obligations, the Credit Documents or any other
+agreement or instrument relating to the Guaranteed Obligations or of any security or guarantee therefor shall affect, impair or be a
+defense to this Guaranty, and this Guaranty shall be primary, absolute and unconditional notwithstanding the occurrence of any event or
+the existence of any other circumstances which might constitute a legal or equitable discharge of a surety or guarantor except the
+occurrence of the Termination Date.
+
+6. CONTINUING GUARANTY. This Guaranty is a continuing one and all liabilities to which it applies or may
+apply under the terms hereof shall be conclusively presumed to have been created in reliance hereon. No failure or delay on the part of
+any Secured Creditor in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial
+exercise of any right, power or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, power
+or privilege. The rights and remedies herein expressly specified are cumulative and not exclusive of any rights or remedies which any
+Secured Creditor would otherwise have. No notice to or demand on any Guarantor in any case shall entitle such Guarantor to any other
+further notice or demand in similar or other circumstances or constitute a waiver of the rights of any Secured Creditor to any other or
+further action in any circumstances without notice or demand. It is not necessary for any Secured Creditor to inquire into the capacity or
+powers of any UK Borrower or the officers, directors, partners or agents acting or purporting to act on its or their behalf, and any
+indebtedness made or created in reliance upon the professed exercise of such powers shall be guaranteed hereunder.
+
+7. SUBORDINATION OF INDEBTEDNESS HELD BY GUARANTORS. Any indebtedness of any UK Borrower now
+or hereafter held by any Guarantor is hereby subordinated to the Guaranteed Obligations of such UK Borrower to the Secured Creditors;
+and the indebtedness of such UK Borrower to any Guarantor, if the Administrative Agent or the Collateral Agent, after an Event of Default
+has occurred and is continuing, so requests, to the extent such indebtedness constitutes Collateral shall be collected, enforced and
+received by such Guarantor as trustee for the Secured Creditors and be paid over to the Secured Creditors on account of the Guaranteed
+Obligations of such UK Borrower to the Secured Creditors, but without affecting or impairing in any manner the liability of such Guarantor
+under the other provisions of this Guaranty. Without limiting the generality of the foregoing, each Guarantor hereby agrees with the
+Secured Creditors that it will not exercise any right of subrogation which it may at any time otherwise have as a result of this Guaranty
+(whether contractual, under Section 509 of the Bankruptcy Code or under any equivalent provisions under applicable law or otherwise) until
+the Termination Date; provided, that if any amount shall be paid to such Guarantor on account of such subrogation rights at any time prior
+to the Termination Date, such amount shall be held in trust for the benefit of the Secured Creditors and shall promptly be paid to the
+Secured Creditors to be credited and applied upon the Guaranteed Obligations, whether matured or unmatured, in accordance with the
+terms of the Credit Documents or, if the Credit Documents do not provide for the application of such amount, to be held by the Secured
+Creditors as collateral security for any Guaranteed Obligations thereafter existing.
+
+8. GUARANTY ENFORCEABLE BY ADMINISTRATIVE AGENT OR COLLATERAL AGENT. Notwithstanding
+anything to the contrary contained elsewhere in this Guaranty, the Secured Creditors agree (by their acceptance of the benefits of this
+Guaranty) that this Guaranty may be enforced only by the action of the Administrative Agent or the Collateral Agent, in each case acting
+upon the instructions of the Required Lenders and that no other Secured Creditor shall have any right individually to seek to enforce or to
+enforce this Guaranty or to realize upon the security to be granted by the Security Documents, it being understood and agreed that such
+rights and remedies may be exercised by the Administrative Agent or the Collateral Agent, as the case may be, for the benefit of the
+Secured
+
+
+-----
+
+

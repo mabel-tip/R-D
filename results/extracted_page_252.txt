@@ -1,0 +1,43 @@
+Required Lenders stating that such Required Lenders object to such amendment. Until an alternate rate of interest shall be determined in
+accordance with this paragraph, (x) in the case of clause (i) of the first sentence of this paragraph, clause (w) of the immediately preceding
+paragraph shall govern and (y) in the case of clause (ii) of this paragraph (but only to the extent the applicable Screen Rate for the
+applicable currency and Interest Period is not available or published at such time on a current basis), the LIBO Rate shall be determined in
+accordance with the first proviso to the definition of LIBO Rate.
+
+(iv) The Administrative Agent will promptly notify the U.S. Borrower and the Lenders of (v) any occurrence of a
+Benchmark Transition Event, a Term SOFR Transition Event or an Early Opt-in Election, as applicable, and its related
+Benchmark Replacement Date, (w) the implementation of any Benchmark Replacement, (x) the effectiveness of any Benchmark
+Replacement Conforming Changes, (y) the removal or reinstatement of any tenor of a Benchmark pursuant to clause (b)(v)
+below and (z) the commencement or conclusion of any Benchmark Unavailability Period. Any determination, decision or
+election that may be made by the Administrative Agent or, if applicable, any Lender (or group of Lenders) pursuant to this
+Section 2.10, including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of
+an event, circumstance or date and any decision to take or refrain from taking any action or any selection, will be conclusive
+and binding absent manifest error and may be made in its or their sole discretion and without consent from any other party to
+this Agreement or any other Credit Document, except, in each case, as expressly required pursuant to this Section 2.10.
+
+(v) Notwithstanding anything to the contrary herein or in any other Credit Document, at any time (including in
+connection with the implementation of a Benchmark Replacement), (x) if the then-current Benchmark is a term rate (including
+Term SOFR or LIBO Rate) and either (1) any tenor for such Benchmark is not displayed on a screen or other information service
+that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion or (2) the
+regulatory supervisor for the administrator of such Benchmark has provided a public statement or publication of information
+announcing that any tenor for such Benchmark is or will be no longer representative, then the Administrative Agent may modify
+the definition of “Interest Period” for any Benchmark settings at or after such time to remove such unavailable or nonrepresentative tenor and (y) if a tenor that was removed pursuant to clause (x) above either (1) is subsequently displayed on a
+screen or information service for a Benchmark (including a Benchmark Replacement) or (2) is not, or is no longer, subject to an
+announcement that it is or will no longer be representative for a Benchmark (including a Benchmark Replacement), then the
+Administrative Agent may modify the definition of “Interest Period” for all Benchmark settings at or after such time to reinstate
+such previously removed tenor.
+
+(vi) Upon the U.S. Borrower’s receipt of notice of the commencement of a Benchmark Unavailability Period, any
+Borrower may revoke any request for a Borrowing of, conversion to or continuation of LIBOR Loans to be made, converted or
+continued during any Benchmark Unavailability Period and, failing that, either (x) the U.S. Borrower will be deemed to have
+converted any request for a LIBOR Loan denominated in U.S. Dollars into a request for a Borrowing of or conversion to Base
+Rate Loans or (y) any LIBOR Loan Borrowing denominated in any currency other than U.S. Dollars shall be ineffective. During
+any Benchmark Unavailability Period or at any time that a tenor for the then-current Benchmark is not an Available Tenor, the
+component of the Base Rate based upon the then-current Benchmark or such
+
+91
+
+
+-----
+
+

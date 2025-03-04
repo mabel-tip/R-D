@@ -1,0 +1,46 @@
+“Excluded Energy Storage Subsidiaries” shall mean those direct or indirect Subsidiaries of the Company (a) in which the
+Company owns, directly or indirectly, Equity Interests of less than fifty-one percent (51%), (b) that own, lease or finance (or own any
+Subsidiary that is formed for such purpose) no assets other than Energy Storage Assets, (c) whose sole assets consist of Equity Interests in
+Excluded Energy Storage Subsidiaries of the type described in the foregoing clause (b), or (d) created for or encumbered by transactions
+involving monetization of credits, certificates or incentives.
+
+“Excluded Swap Obligation” shall mean, with respect to any Guarantor, any Swap Obligation if, and to the extent that, and only
+for so long as, all or a portion of the guarantee of such Guarantor of, or the grant by such Guarantor of a security interest to secure, as
+applicable, such Swap Obligation (or any guarantee thereof) is or becomes illegal under the Commodity Exchange Act or any rule,
+regulation or order of the Commodity Futures Trading Commission (or the application or official interpretation thereof) by virtue of such
+Guarantor’s failure to constitute an “eligible contract participant” as defined in the Commodity Exchange Act and the regulations
+thereunder (each, an “ECP”) at the time the guarantee of (or grant of such security interest by, as applicable) such Guarantor becomes or
+would become effective with respect to such Swap Obligation. If a Swap Obligation arises under a master agreement governing more than
+one swap, such exclusion shall apply only to the portion of such Swap Obligation that is attributable to swaps for which such guarantee or
+security interest is or becomes illegal.
+
+“Excluded Taxes” shall have the meaning provided in Section 5.04(a).
+
+“Existing Convertible Notes” shall mean, collectively, the 20182021 Convertible Notes, the 2019 Convertible Notes, the
+20212022 Convertible Notes and the 20222024 Convertible Notes.
+
+“Existing Convertible Notes Documents” shall mean, collectively, the 20182021 Convertible Notes Documents, the 2019
+Convertible Notes Documents, the 20212022 Convertible Notes Documents and the 20222024 Convertible Notes Documents.
+
+“Existing Convertible Notes Indentures” shall mean, collectively, the 20182021 Convertible Notes Indenture, the 2019
+Convertible Notes Indenture, the 20212022 Convertible Notes Indenture and the 20222024 Convertible Notes Indenture.
+
+“Existing Indebtedness” shall have the meaning provided in Section 8.20.mean the Indebtedness (including Contingent
+Obligations) of the Company and its Subsidiaries as of the Effective Date set forth on Schedule 8.20 to the Disclosure Letter and which is
+to remain outstanding after giving effect to the Transaction (excluding (i) the Obligations, (ii) the Existing Convertible Notes and (iii) any
+existing intercompany Indebtedness among the Company and its Subsidiaries).
+
+“Expenses” shall mean all present and future reasonable and invoiced out of pocket expenses incurred by or on behalf of the
+Administrative Agent, the Collateral Agent or any Issuing Lender in connection with this Agreement, any other Credit Document or
+otherwise in its capacity as the Administrative Agent under this Agreement or the Collateral Agent under any Security Document or as an
+Issuing Lender under this Agreement, whether incurred heretofore or hereafter, which expenses shall include the expenses set forth in
+Section 13.01, the cost of record searches, the reasonable fees and expenses of attorneys and paralegals, all reasonable and invoiced costs
+and expenses incurred by the Administrative Agent and the Collateral Agent in opening bank accounts, depositing checks, electronically or
+otherwise receiving and transferring funds, and any other charges imposed on the
+
+41
+
+
+-----
+
+

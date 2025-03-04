@@ -1,0 +1,44 @@
+(f) If the Administrative Agent or a Lender determines, in its sole discretion, that it has received a refund of any
+Indemnified Taxes as to which it has been indemnified by a Borrower or with respect to which a Borrower has paid additional amounts
+pursuant to Section 5.04(a), it shall pay to such Borrower an amount equal to such refund (but only to the extent of indemnity payments
+made, or additional amounts paid, by such Borrower under this Section with respect to the Indemnified Taxes giving rise to such refund),
+net of all out-of-pocket expenses of the Administrative Agent or such Lender, as the case may be, and without interest (other than any
+interest paid by the relevant jurisdiction or any political subdivision or taxing authority thereof with respect to such refund), provided that
+the U.S. Borrowers (on a joint and several basis) and the Dutch Borrowers (on a joint and several basis) and the UK Borrowers (on a joint
+and several basis), as the case may be, upon the request of the Administrative Agent or such Lender, agree to repay the amount paid over
+to any such Borrower (plus any penalties, interest or other charges imposed by the relevant jurisdiction or any political subdivision or
+taxing authority thereof) to the Administrative Agent or such Lender in the event the Administrative Agent or such Lender is required to
+repay such refund to such jurisdiction or any political subdivision or taxing authority thereof; provided, further, that no Borrower shall be
+required to repay the Administrative Agent or such Lender an amount in excess of the amount paid over by such party to any such
+Borrower pursuant to this Section 5.04(f). This paragraph shall not be construed to require the Administrative Agent or any Lender to
+make available its tax returns (or any other information relating to its taxes that it deems confidential) to the Company, any other
+Borrower, any other Credit Party or any other Person. Notwithstanding anything to the contrary in this Section 5.04(f), in no event will
+the indemnified party be required to pay any amount to an indemnifying party pursuant to this Section 5.04(f) the payment of which would
+place the indemnified party in a less favorable net after-Tax position than the indemnified party would have been in if the Indemnified Tax
+subject to indemnification and giving rise to such refund had not been deducted, withheld or otherwise imposed and the indemnification
+payments or additional amounts with respect to such Indemnified Tax had never been paid.
+
+SECTION 6. Conditions Precedent to Credit Events on the Effective Date. The occurrence of the Effective Date and the
+obligation of each Lender to make Loans, and the obligation of each Issuing Lender to issue Letters of Credit, on the Effective Date, are
+subject to the satisfaction of the following conditions:
+
+6.01. Effective Date; Notes. On or prior to the Effective Date, (a) this Agreement shall have been executed and delivered
+as provided in Section 13.1013.11, (b) the Disclosure Letter shall have been delivered by the Company to the Administrative Agent and (c)
+there shall have been delivered to the Administrative Agent for the account of the Lenders that have requested same, the appropriate
+Revolving Notes executed by the appropriate Borrowers and if requested by the Swingline Lender, the appropriate Swingline Notes
+executed by the appropriate Borrowers, in each case, in the amount, maturity and as otherwise provided herein.
+
+6.02. Officer’s Certificate. On the Effective Date, the Administrative Agent shall have received a certificate in the form of
+Exhibit E-1, dated the Effective Date and signed on behalf of the Company by an Authorized Officer of the Company, certifying on behalf of
+the Company that all of the conditions in Sections 6.05, 6.13(b) and 7.01 have been satisfied on such date.
+
+6.03. Opinions of Counsel. On the Effective Date, the Administrative Agent shall have received (a) from Wilson Sonsini
+Goodrich & Rosati, P.C., special New York counsel to the Credit Parties, an opinion in form and substance reasonably satisfactory to the
+Administrative Agent addressed
+
+125
+
+
+-----
+
+

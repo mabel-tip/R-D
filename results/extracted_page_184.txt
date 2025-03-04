@@ -1,0 +1,47 @@
+“Dutch Credit Parties” shall mean each Dutch Borrower and each Dutch Subsidiary Guarantor.
+
+“Dutch General Security Agreement” shall mean the Dutch Security Agreement, dated as of the Effective Date, in the form of
+Exhibit I-3, as amended, modified, restated and/or supplemented from time to time in accordance with the terms hereof and thereof.
+
+“Dutch Guarantors” shall mean and include each Dutch Borrower (in its capacity as a guarantor under the Dutch Guaranty) and
+each Dutch Subsidiary Guarantor.
+
+“Dutch Guaranty” shall mean the Dutch Guaranty, dated as of the Effective Date, in the form of Exhibit G-1, as amended,
+modified, restated and/or supplemented from time to time in accordance with the terms hereof and thereof.
+
+“Dutch Insolvency Law”shall mean any of Faillissementswet, Insolventieverordening (EC) 1346/2000 and Invorderingswet 1990,
+each as now and hereafter in effect, and any successors to such statutes and any proceeding under applicable corporate law seeking an
+arrangement or compromise of any debts of the corporation, or a stay of proceedings to enforce any claims of the corporation’s creditors
+against it.
+
+“Dutch Inventory Security Agreement” shall mean the Security Agreement (Inventory), dated as of the Effective Date, in the
+form of Exhibit I-1, as amended, modified, restated and/or supplemented from time to time in accordance with the terms hereof and
+thereof.
+
+“Dutch Parallel Debt” shall have the meaning provided in Section 12.12(a).
+
+“Dutch Priority Payables” shall mean, at any time, with respect to any Credit Party which has employees in the Netherlands or
+otherwise carries on business in the Netherlands or which leases, sells or otherwise owns goods in the Netherlands or has Accounts with
+Account Debtors located in the Netherlands, the aggregate amount of any liabilities of such Credit Party which are secured by a security
+interest, pledge, lien, charge, right or claim on any Collateral or the holder of which enjoys a right, in each case, pursuant to any
+applicable law, rule or regulation and which trust, security interest, pledge, lien, charge, right or claim ranks or is capable of ranking in
+priority to or pari passu with one or more of the Liens granted in the Security Documents.
+
+“Dutch Priority Payables Reserve” shall mean, on any date of determination for the Dutch Borrowing Base, a reserve
+established from time to time by the Administrative Agent in its Permitted Discretion in such amount as the Administrative Agent may
+reasonably determine in respect of Dutch Priority Payables of the Dutch Credit Parties.
+
+“Dutch Receivables Security Agreement” shall mean the Security Agreement (Receivables), dated as of the Effective Date, in
+the form of Exhibit I-2, as amended, modified, restated and/or supplemented from time to time in accordance with the terms hereof and
+thereof.
+
+“Dutch Retention of Title Reserve” shall mean, on any date of determination for the Dutch Borrowing Base, a reserve
+established from time to time by the Administrative Agent in its Permitted Discretion for amounts of any claims preferred by law which
+rank or are capable of ranking senior to the Obligations.
+
+23
+
+
+-----
+
+

@@ -1,0 +1,45 @@
+this Agreement) would cause the Aggregate Dutch Borrower Exposure to exceed the Dutch Borrowing Base at such time; and
+
+(viii) except as otherwise provided in Section 2.01(e), in the case of UK Borrower Revolving Loans, shall not be
+made (and shall not be required to be made) by any Lender during a Reduced Availability Period in any instance where the
+incurrence thereof (after giving effect to the use of the proceeds thereof on the date of incurrence thereof to repay any amounts
+theretofore outstanding pursuant to this Agreement) would cause Excess Availability to be less than 10% of Availabilitythe
+Aggregate UK Borrower Exposure to exceed the UK Borrowing Base at such time.
+
+(b) Subject to and upon the terms and conditions set forth herein, the Swingline Lender agrees to make, at any time and
+from time to time on or after the Effective Date and prior to the Swingline Expiry Date, (x) a revolving loan or revolving loans to any U.S.
+Borrower (on a joint and several basis with the other U.S. Borrowers) (each, a “U.S. Borrower Swingline Loan” and, collectively, the “U.S.
+Borrower Swingline Loans”) and (y) a revolving loan or revolving loans to any Dutch Borrower (on a joint and several basis with the other
+Dutch Borrowers) (each, a “Dutch Borrower Swingline Loan” and, collectively, the “Dutch Borrower Swingline Loans” and, together with
+the U.S. Borrower Swingline Loans, each, a “Swingline Loan” and, collectively, the “Swingline Loans”), which Swingline Loans:
+
+(i) shall be made and maintained in U.S. Dollars;
+
+(ii) shall be incurred and maintained as Base Rate Loans;
+
+(iii) may be repaid and reborrowed in accordance with the provisions hereof;
+
+(iv) shall not be made (and shall not be required to be made) by the Swingline Lender in any instance where the
+incurrence thereof (after giving effect to the use of the proceeds thereof on the date of the incurrence thereof to repay any
+amounts theretofore outstanding pursuant to this Agreement) would cause the Aggregate Exposure to exceed the Total
+Revolving Loan Commitment as then in effect;
+
+(v) in the case of U.S. Borrower Swingline Loans, shall not be made (and shall not be required to be made) by
+the Swingline Lender in any instance where the incurrence thereof (after giving effect to the use of the proceeds thereof on the
+date of incurrence thereof to repay any amounts theretofore outstanding pursuant to this Agreement) would cause the
+Aggregate U.S. Borrower Exposure to exceed the U.S. Borrowing Base at such time;
+
+(vi) in the case of Dutch Borrower Swingline Loans, shall not be made (and shall not be required to be made) by
+the Swingline Lender in any instance where the incurrence thereof (after giving effect to the use of the proceeds thereof on the
+date of incurrence thereof to repay any amounts theretofore outstanding pursuant to this Agreement) would cause the
+Aggregate Dutch Borrower Exposure to exceed the Dutch Borrowing Base at such time; and
+
+(vii) shall not exceed in aggregate principal amount at any time outstanding the Maximum Swingline Amount;
+and.
+
+80
+
+
+-----
+
+

@@ -1,0 +1,41 @@
+benefits are classified as income tax expense.
+
+The Tax Cuts and Jobs Act ("TCJA") subjects a U.S. shareholder to tax on global intangible low-taxed income (“GILTI”) earned by certain foreign
+subsidiaries. Under GAAP, we can make an accounting policy election to either treat taxes due on the GILTI inclusion as a current period expense or factor such
+amounts into our measurement of deferred taxes. We elected the deferred method, under which we recorded the corresponding deferred tax assets and
+liabilities on our consolidated balance sheets, currently subject to valuation allowance.
+
+Comprehensive Income (Loss)
+
+Comprehensive income (loss) is comprised of net income (loss) and other comprehensive income (loss). Other comprehensive income (loss) consists of
+foreign currency translation adjustments that have been excluded from the determination of net income (loss).
+
+Stock-Based Compensation
+
+We recognize compensation expense for costs related to all share-based payments, including stock options, restricted stock units (“RSUs”) and our
+employee stock purchase plan (the “ESPP”). The fair value of stock option awards with only service and/or performance conditions is estimated on the grant or
+offering date using the Black-Scholes option-pricing model. The fair value of RSUs is measured on the grant date based on the closing fair market value of our
+common stock. Stock-based compensation expense is recognized on a straight-line basis over the requisite service period, net of actual forfeitures in the period.
+
+For performance-based awards, stock-based compensation expense is recognized over the expected performance achievement period of individual
+performance milestones when the achievement of each individual performance milestone becomes probable. For performance-based awards with a vesting
+schedule based entirely on the attainment of both performance and market conditions, stock-based compensation expense associated with each tranche is
+recognized over the longer of (i) the expected achievement period for the operational milestone for such tranche and (ii) the expected achievement period for
+the related market capitalization milestone determined on the grant date, beginning at the point in time when the relevant operational milestone is considered
+probable of being achieved. If such operational milestone becomes probable any time after the grant date, we will recognize a cumulative catch-up expense
+from the grant date to that point in time. If the related market capitalization milestone is achieved earlier than its expected achievement period and the
+achievement of the related operational milestone, then the stock-based compensation expense will be recognized over the expected achievement period for the
+operational milestone, which may accelerate the rate at which such expense is recognized. The fair value of such awards is estimated on the grant date using
+Monte Carlo simulations (see Note 14, Equity Incentive Plans).
+
+As we accumulate additional employee stock-based awards data over time and as we incorporate market data related to our common stock, we may
+calculate significantly different volatilities and expected lives, which could materially impact the valuation of our stock-based awards and the stock-based
+compensation expense that we will recognize in future periods. Stock-based compensation expense is recorded in cost of revenues, research and development
+expense and selling, general and administrative expense in the consolidated statements of operations.
+
+67
+
+
+-----
+
+

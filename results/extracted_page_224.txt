@@ -1,0 +1,48 @@
+Agent by the Company from time to time as requested by the Administrative Agent), as adjusted from time to time by the Administrative
+Agent in its Permitted Discretion; provided that a Rent Reserve established in respect of any location shall not exceed three months’ rent
+for such location.
+
+“Rental Account Assets” shall mean (i) Rental Accounts and related payment intangibles, chattel paper, electronic chattel
+paper, payments, rights to current and future lease or rental payments or residuals and similar rights to payment, in each case relating to
+Rental Accounts, together with interests in merchandise or goods the lease or rental of which give rise to such payment rights and
+proceeds, related contractual rights, guarantees, insurance proceeds, books and records, collections, proceeds of the foregoing and
+beneficial interests and the proceeds of beneficial interests in all of the foregoing, and (ii) Equity Interests in Tesla Finance Subsidiaries
+and the proceeds thereof.
+
+“Rental Accounts” shall mean Accounts arising out of customer lease or rental agreements.
+
+“Replaced Lender” shall have the meaning provided in Section 2.13(a).
+
+“Replacement Lender” shall have the meaning provided in Section 2.13(a).
+
+“Reportable Event” shall mean an event described in Section 4043(c) of ERISA with respect to a Plan other than those events as
+to which the 30-day notice period is waived under applicable regulations.
+
+“Required Lenders” shall mean, at any time, Non-Defaulting Lenders the sum of whose outstanding Revolving Loan
+Commitments at such time (or, after the termination thereof, outstanding Revolving Loans (for this purpose, using the U.S. Dollar
+Equivalent of amounts denominated in Euros or any Acceptable Foreign Currency) and RL Percentages of (x) outstanding Swingline Loans
+at such time and (y) Letter of Credit Outstandings (for this purpose, using the U.S. Dollar Equivalent of amounts denominated in Euros or
+any Acceptable Foreign Currency) at such time) represents at least a majority of the sum of the Total Revolving Loan Commitment in
+effect at such time less the Revolving Loan Commitments of all Defaulting Lenders at such time (or, after the termination thereof, the sum
+of the total outstanding Revolving Loans (for this purpose, using the U.S. Dollar Equivalent of amounts denominated in Euros or any
+Acceptable Foreign Currency) of Non-Defaulting Lenders and the aggregate RL Percentages of all Non-Defaulting Lenders of the total
+outstanding Swingline Loans and Letter of Credit Outstandings (for this purpose, using the U.S. Dollar Equivalent of amounts
+denominated in Euros or any Acceptable Foreign Currency) at such time).
+
+“Reserves” shall mean reserves, if any, established by the Administrative Agent from time to time hereunder in its Permitted
+Discretion against the applicable Borrowing Base, including (i) Rent Reserves, (ii) Dutch Priority Payables Reserve, (iii) Dutch Retention of
+Title Reserve, (iv) UK Priority Payables Reserve, (v) UK Retention of Title Reserve, (vi) Dilution Reserves, (vvii) the Customer Deposit
+Reserve, (viviii) reserves for Foreign Taxes, (viiix) reserves for Sales Taxes, (viiix) the Vendor Liabilities Reserve, (ixxi) reserves for
+Secured Hedging Agreements, (xxii) Cash Management Reserves, (xixiii) reserves for customs charges and shipping charges related to any
+Inventory in transit, (xiiv) reserves relating to Environmental Liabilities in respect of Eligible Real Property included in the U.S. Borrowing
+Base and (xiiixv) such other events, conditions or contingencies as to which the Administrative Agent, in its Permitted Discretion,
+determines reserves should be established from time to time hereunder; provided, however, that the Administrative Agent may not
+implement reserves with respect to matters which are already specifically reflected as ineligible cash or Cash Equivalents, Accounts,
+Inventory or Equipment,
+
+63
+
+
+-----
+
+

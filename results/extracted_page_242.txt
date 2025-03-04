@@ -1,0 +1,44 @@
+Availability to be less than 10% of Availability at such time.
+
+Notwithstanding anything to the contrary contained in this Section 2.01(b), the Swingline Lender shall not make any Swingline
+Loan after it has received written notice from any Borrower, any other Credit Party or the Required Lenders stating that a Default or an
+Event of Default exists and is continuing until such time as the Swingline Lender shall have received written notice (A) of rescission of all
+such notices from the party or parties originally delivering such notice or notices or (B) of the waiver of such Default or Event of Default
+by the Required Lenders.
+
+(c) On any Business Day, the Swingline Lender or the Administrative Agent, as the case may be, may, in its sole discretion
+give notice to the Lenders that the Swingline Lender’s outstanding Swingline Loans or the Administrative Agent’s outstanding Agent
+Advances, as the case may be, shall be funded with one or more Borrowings of Revolving Loans to be made to, and maintained by, the
+relevant Borrower of the outstanding Swingline Loan or Agent Advance being funded by such Revolving Loan in U.S. Dollars (provided
+that such notice shall be deemed to have been given no later than the fifth Business Day after the making of any Swingline Loan (if not
+given earlier) and shall be deemed to have been automatically given upon the occurrence of a Default or an Event of Default under Section
+11.05 or upon the exercise of any of the remedies provided in the last paragraph of Section 11), in which case one or more Borrowings of
+Revolving Loans in U.S. Dollars constituting Base Rate Loans (any such Borrowing, a “Mandatory Borrowing”) shall be made on the
+immediately succeeding Business Day by all Lenders pro rata based on each such Lender’s RL Percentage (determined before giving effect
+to any termination of the Revolving Loan Commitments pursuant to the last paragraph of Section 11) and the proceeds thereof shall be
+applied directly by the Swingline Lender or the Administrative Agent, as the case may be, to repay the Swingline Lender or the
+Administrative Agent, as the case may be, for such outstanding Swingline Loans or Agent Advances. Each Lender hereby irrevocably
+agrees to make Revolving Loans upon one Business Day’s notice pursuant to each Mandatory Borrowing in the amount and in the manner
+specified in the preceding sentence and on the date specified in writing by the Swingline Lender or the Administrative Agent, as the case
+may be, notwithstanding (i) the amount of the Mandatory Borrowing may not comply with the Minimum Borrowing Amount otherwise
+required hereunder, (ii) whether any conditions specified in Section 7 are then satisfied, (iii) whether a Default or an Event of Default then
+exists, (iv) the date of such Mandatory Borrowing, and (v) the amount of any Borrowing Base or the Total Revolving Loan Commitment at
+such time and (vi) during a Reduced Availability Period, Excess Availability after giving effect to such Loans. In the event that any
+Mandatory Borrowing cannot for any reason be made on the date otherwise required above (including as a result of the commencement of
+a proceeding under the Bankruptcy Code with respect to any Borrower (including under any Dutch Insolvency Law)), then each Lender
+hereby agrees that it shall forthwith purchase (as of the date the Mandatory Borrowing would otherwise have occurred, but adjusted for
+any payments received from any Borrower on or after such date and prior to such purchase) from the Swingline Lender or the
+Administrative Agent, as the case may be, such participations in the outstanding Swingline Loans or Agent Advances, as the case may be,
+as shall be necessary to cause the Lenders to share in such Swingline Loans or Agent Advances, as the case may be, ratably based upon
+their respective RL Percentages (determined before giving effect to any termination of the Revolving Loan Commitments pursuant to the
+last paragraph of Section 11), provided that (x) all interest payable on the Swingline Loans or Agent Advances, as the case may be, shall
+be for the account of the Swingline Lender or the Administrative Agent, as the case may be, until the date as of which the respective
+participation is required to be purchased and, to the extent attributable to the purchased participation, shall be payable to the participant
+from and after such date and (y) at the time any purchase of participations pursuant to this
+
+81
+
+
+-----
+
+

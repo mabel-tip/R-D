@@ -1,0 +1,44 @@
+defense based upon the failure of any drawing under a Letter of Credit to conform to the terms of the Letter of Credit or any
+nonapplication or misapplication by the beneficiary of the proceeds of such Drawing; provided that the foregoing shall not be construed to
+excuse the Issuing Lender from liability to the Borrower to the extent of any direct damages (as opposed to special, indirect, consequential
+or punitive damages, claims in respect of which are hereby waived by the Borrower to the extent permitted by applicable law) suffered by
+the Borrower that are caused by the Issuing Lender's failure to exercise care when determining whether drafts and other documents
+presented under a Letter of Credit comply with the terms thereof.
+
+(c) If any Lender becomes a Defaulting Lender at any time that any Letter of Credit is outstanding, the U.S. Borrowers or,
+the Dutch Borrowers or the UK Borrowers, as applicable, shall enter into Letter of Credit Back-Stop Arrangements with the relevant
+Issuing Lender or Issuing Lenders no later than two Business Days after the date such Lender becomes a Defaulting Lender to the extent
+required by Section 2.15(a).
+
+3.06. Increased Costs. If at any time after the Effective Date, the introduction of or any change in any applicable law,
+rule, regulation, order, guideline or request or in the interpretation or administration thereof by the NAIC or any Governmental Authority
+charged with the interpretation or administration thereof, or compliance by any Issuing Lender or any Participant with any request or
+directive by the NAIC or by any such Governmental Authority (whether or not having the force of law), shall either (a) impose, modify or
+make applicable any reserve, deposit, capital adequacy, liquidity or similar requirement against letters of credit issued by any Issuing
+Lender or participated in by any Participant, or (b) impose on any Issuing Lender or any Participant any other conditions relating, directly
+or indirectly, to this Agreement or any Letter of Credit; and the result of any of the foregoing is to increase the cost to any Issuing Lender
+or any Participant of issuing, maintaining or participating in any Letter of Credit, or reduce the amount of any sum received or receivable
+by any Issuing Lender or any Participant hereunder or reduce the rate of return on its capital with respect to Letters of Credit (except for
+Indemnified Taxes and Excluded Taxes), then, within 10 days after the delivery of the certificate referred to below to the Borrowers by any
+Issuing Lender or any Participant (a copy of which certificate shall be sent by such Issuing Lender or such Participant to the
+Administrative Agent), the U.S. Borrowers (jointly and severally with respect to U.S. Borrower Obligations) and, the Dutch Borrowers
+(jointly and severally with respect to Dutch Borrower Obligations) and the UK Borrowers (jointly and severally with respect to UK
+Borrower Obligations) agree to pay to such Issuing Lender or such Participant such additional amount or amounts as will compensate such
+Issuing Lender or such Participant for such increased cost or reduction in the amount receivable or reduction on the rate of return on its
+capital. Any Issuing Lender or any Participant, upon determining that any additional amounts will be payable to it pursuant to this Section
+3.06, will give prompt written notice thereof to the Borrowers, which notice shall include a certificate submitted to the Borrowers by such
+Issuing Lender or such Participant (a copy of which certificate shall be sent by such Issuing Lender or such Participant to the
+Administrative Agent), setting forth in reasonable detail the basis for the calculation of such additional amount or amounts necessary to
+compensate such Issuing Lender or such Participant; provided that the Borrowers shall not be required to compensate any Issuing Lender
+or Participant pursuant to this Section 3.06 for any increased costs or reductions incurred more than 180 days prior to the date that such
+Issuing Lender or Participant notifies the Company of the change giving rise to such increased costs or reductions and of such Issuing
+Lender’s or Participant’s intention to claim compensation therefor; provided, further, that, if the change giving rise to such increased costs
+or reductions is retroactive, then the 180 day period referred to above shall be extended to include the period of retroactive effect
+thereof. The certificate required to be delivered
+
+110
+
+
+-----
+
+

@@ -1,0 +1,45 @@
+could be incurred pursuant to the 2023 Extended Revolving Loan Commitments and Extended Revolving Loan Commitments which will
+remain in effect after the occurrence of the Initial Maturity Date, then there shall be an automatic adjustment on such date of the
+participations in such Swingline Loans and same shall be deemed to have been incurred solely pursuant to the 2023 Extended Revolving
+Loan Commitments and the Extended Revolving Loan Commitments and such Swingline Loans shall not be so required to be repaid in full
+on the Initial Maturity Date.
+
+(g) If the 2023 Extended Maturity Date shall have occurred at a time when Extended Revolving Loan
+Commitments are in effect, then on the 2023 Extended Maturity Date all then outstanding Swingline Loans shall be repaid in full on
+such date (and there shall be no adjustment to the participations in such Swingline Loans as a result of the occurrence of the 2023
+Extended Maturity Date) or refinanced with a borrowing of an Extended Revolving Loan; provided that, if on the occurrence of the
+2023 Extended Maturity Date (after giving effect to any repayments of Revolving Loans and any reallocation of Letter of Credit
+participations as contemplated in Section 3.07), there shall exist sufficient unutilized Extended Revolving Loan Commitments so that
+the respective outstanding Swingline Loans could be incurred pursuant the Extended Revolving Loan Commitments which will remain
+in effect after the occurrence of the 2023 Extended Maturity Date, then there shall be an automatic adjustment on such date of the
+participations in such Swingline Loans and same shall be deemed to have been incurred solely pursuant to the Extended Revolving
+Loan Commitments and such Swingline Loans shall not be so required to be repaid in full on the 2023 Extended Maturity Date.
+
+2.02. Minimum Amount of Each Borrowing. The aggregate principal amount of each Borrowing of Loans of a specific
+Type and currency shall not be less than the Minimum Borrowing Amount applicable to Loans made in such currency and of such
+Type. More than one Borrowing may occur on the same date, but at no time shall there be outstanding more than tenfifteen Borrowings of
+LIBOR Loans (or such greater number of Borrowings of LIBOR Loans as may be agreed to from time to time by the Administrative Agent)
+in the aggregate for all LIBOR Loans.
+
+2.03. Notice of Borrowing. (a) Whenever a Borrower desires to incur (x) LIBOR Loans hereunder, such Borrower shall
+give the Administrative Agent written notice or telephonic notice promptly confirmed in writing to the Notice Office, which notice must be
+received by the Administrative Agent prior to 2:00 P.M. (New York City time) at least three Business Days’ (or four Business Days’ in the
+case of Loans denominated in Euros or an Acceptable Foreign Currency) prior to the requested date of Borrowing of each such LIBOR
+Loan to be incurred hereunder, and (y) Base Rate Loans hereunder (including Agent Advances, but excluding Swingline Loans and
+Revolving Loans made pursuant to a Mandatory Borrowing), such Borrower shall give the Administrative Agent written notice or
+telephonic notice promptly confirmed in writing to the Notice Office, which notice must be received by the Administrative Agent prior to
+2:00 P.M. (New York City time) at least one Business Day prior to the requested date of Borrowing of each such Base Rate Loan to be
+incurred hereunder. Each such notice (each, a “Notice of Borrowing”), except as otherwise expressly provided in Section 2.10, shall be
+irrevocable and shall be in writing, or by telephone promptly confirmed in writing, in the form of Exhibit A-1, appropriately completed to
+specify: (i) the aggregate principal amount of the Revolving Loans to be incurred pursuant to such Borrowing (stated in the Available
+Currency in which such Revolving Loan is to be made), (ii) the date of such Borrowing (which shall be a Business Day), (iii) whether the
+Revolving Loans made pursuant to such Borrowing constitute Agent Advances (it being understood that the Administrative Agent shall be
+under no obligation to make such Agent Advance), (iv) in the case of U.S. Dollar Denominated Revolving Loans, whether the Revolving
+Loans being
+
+83
+
+
+-----
+
+

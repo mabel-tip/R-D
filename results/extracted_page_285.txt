@@ -1,0 +1,43 @@
+claiming the portfolio interest exemption, such Foreign Lender may provide a U.S. Tax Compliance
+Certificate substantially in the form of Exhibit D-4 on behalf of each such direct and indirect partner;
+
+(C) any Foreign Lender shall, to the extent it is legally entitled to do so, deliver to the Company and
+the Administrative Agent (in such number of copies as shall be requested by the recipient) on or prior to the date on
+which such Foreign Lender becomes a Lender under this Agreement (and from time to time thereafter upon the
+reasonable request of the Company or the Administrative Agent), executed originals of any other form prescribed by
+applicable law as a basis for claiming exemption from or a reduction in U.S. federal withholding tax, duly completed,
+together with such supplementary documentation as may be prescribed by applicable law to permit the Company or
+the Administrative Agent to determine the withholding or deduction required to be made; and
+
+(D) if a payment made to a Lender under any Credit Document would be subject to U.S. federal
+withholding tax imposed by FATCA if such Lender were to fail to comply with the applicable reporting requirements
+of FATCA (including those contained in Section 1471(b) or 1472(b) of the Code, as applicable), such Lender shall
+deliver to the Company and the Administrative Agent at the time or times prescribed by law such documentation
+prescribed by applicable law (including as prescribed by Section 1471(b)(3)(C)(i) of the Code) as may be necessary
+for the Company and the Administrative Agent to comply with their obligations under FATCA and to determine that
+such Lender has complied with such Lender’s obligations under FATCA or to determine the amount to deduct and
+withhold from such payment. Solely for purposes of this clause (D), “FATCA” shall include any amendments made to
+FATCA after the date of this Agreement.
+
+(iii) Without limiting the generality of the foregoing, each Treaty Lender shall cooperate in completing any
+procedural formalities necessary for the purpose of any UK Borrower obtaining authorization to make a payment to the relevant
+Treaty Lender without any deduction or withholding for or on account of any Taxes imposed by the United Kingdom. A Treaty
+Lender which holds a passport under the HMRC DT Treaty Passport Scheme, and which wishes that scheme to apply to this
+Agreement, shall confirm its scheme reference number and its jurisdiction of tax residence in writing and, having done so, that
+Treaty Lender shall be under no further obligation pursuant to this Section 5.04(e)(iii).
+
+(iv) Each Lender listed on Schedule 1.01(a) (each, an “Original Lender”) confirms and represents that it is (x) a
+Qualifying Lender other than a Treaty Lender or (y) holds a passport under HMRC DT Treaty Passport Scheme (a “DTTP
+Passport”) and that its scheme reference number is set out against its name in Schedule 1.01(a).
+
+(v) Any Lender which is not an Original Lender shall confirm to the Borrowers as soon as possible after
+becoming a Lender whether it is (a) a Treaty Lender, (b) a Qualifying Lender other than a Treaty Lender or (c) is not a
+Qualifying Lender (“Tax Confirmation”) and in the case of a Treaty Lender, it shall also confirm whether or not it holds a DTTP
+Passport and, if so, provide the scheme reference number.
+
+124
+
+
+-----
+
+

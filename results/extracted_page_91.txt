@@ -1,0 +1,65 @@
+**Stock Options** **RSUs**
+**Weighted-** **Weighted-**
+**Weighted-** **Average** **Aggregate** **Average**
+**Number of** **Average** **Remaining** **Intrinsic** **Number** **Grant**
+**Options** **Exercise** **Contractual** **Value** **of RSUs** **Date Fair**
+
+**(in thousands)** **Price** **Life (years)** **(in billions)** **(in thousands)** **Value**
+
+Balance,
+December 31, 2019 (1) 149,974 $ 55.90 24,031 $ 58.21
+Granted 4,780 $ 421.73 6,876 $ 300.51
+Exercised or released (6,815) $ 44.11 (9,620) $ 72.26
+Cancelled (1,006) $ 68.67 (2,498) $ 82.31
+Balance,
+December 31, 2020 146,933 $ 68.26 6.08 $ 93.66 18,789 $ 136.49
+
+Vested and
+expected to vest,
+December 31, 2020 101,617 $ 69.04 5.80 $ 64.69 18,778 $ 136.53
+Exercisable and vested,
+December 31, 2020 66,205 $ 46.88 4.89 $ 43.61
+
+(1) Prior period results have been adjusted to give effect to the Stock Split. See Note 1, Overview, for details.
+
+The weighted-average grant date fair value of RSUs in the years ended December 31, 2020, 2019 and 2018 was $300.51, $56.55 and $63.29,
+respectively, as adjusted to give effect to the Stock Split. The aggregate release date fair value of RSUs in the years ended December 31, 2020, 2019 and 2018
+was $3.25 billion, $502 million and $546 million, respectively.
+
+The aggregate intrinsic value of options exercised in the years ended December 31, 2020, 2019, and 2018 was $1.55 billion, $237 million and $293
+million, respectively.
+
+**ESPP**
+
+Our employees are eligible to purchase our common stock through payroll deductions of up to 15% of their eligible compensation, subject to any plan
+limitations. The purchase price would be 85% of the lower of the fair market value on the first and last trading days of each six-month offering period. During
+the years ended December 31, 2020, 2019 and 2018, we issued 1.8 million, 2.5 million and 2.0 million shares under the ESPP, as adjusted to give effect to the
+Stock Split. There were 34.3 million shares available for issuance under the ESPP as of December 31, 2020.
+
+**Fair Value Assumptions**
+
+We use the fair value method in recognizing stock-based compensation expense. Under the fair value method, we estimate the fair value of each stock
+option award with service or service and performance conditions and the ESPP on the grant date generally using the Black-Scholes option pricing model. The
+weighted-average assumptions used in the Black-Scholes model for stock options are as follows:
+
+**Year Ended December 31,**
+**2020** **2019** **2018**
+Risk-free interest rate 0.26% 2.4% 2.5%
+Expected term (in years) 3.9 4.5 4.7
+Expected volatility 69% 48% 42%
+Dividend yield 0.0% 0.0% 0.0%
+Grant date fair value per share (1) $ 216.14 $ 22.32 $ 24.38
+
+(1) Prior period results have been adjusted to give effect to the Stock Split. See Note 1, Overview, for details.
+
+The fair value of RSUs with service or service and performance conditions is measured on the grant date based on the closing fair market value of our
+common stock. The risk-free interest rate is based on the U.S. Treasury yield for zero-coupon U.S. Treasury notes with maturities approximating each grant’s
+expected life. We use our historical data in estimating the expected term of our employee grants. The expected volatility is based on the average of the implied
+volatility of publicly traded options for our common stock and the historical volatility of our common stock.
+
+92
+
+
+-----
+
+

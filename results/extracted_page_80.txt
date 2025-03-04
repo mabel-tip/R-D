@@ -1,0 +1,49 @@
+# are applicable toward a new vehicle purchase. Customer deposits also include prepayments on contracts that can be cancelled without significant penalties, such as vehicle maintenance plans. Customer deposit amounts and timing vary depending on the vehicle model, the energy product and the country of delivery. In the case of a vehicle, customer deposits are fully refundable. In the case of an energy generation or storage product, customer deposits are fully refundable prior to the entry into a purchase agreement or in certain cases for a limited time thereafter (in accordance with applicable laws). Customer deposits are included in current liabilities until refunded or until they are applied towards the customer’s purchase balance.
+
+ Note 12 – Debt
+
+ The following is a summary of our debt and finance leases as of December 31, 2020 (in millions):
+
+**Unpaid** **Unused**
+
+**Net Carrying Value** **Principal** **Committed** **Contractual** **Contractual**
+
+**Current** **Long-Term** **Balance** **Amount (1)** **Interest Rates** **Maturity Date**
+
+**Recourse debt:**
+2021 Notes $ 419 — 422 — 1.25% March 2021
+2022 Notes 115 366 503 — 2.375% March 2022
+2024 Notes 171 856 1,282 — 2.00% May 2024
+2025 Notes — 1,785 1,800 — 5.30% August 2025
+Credit Agreement — 1,895 1,895 278 3.3% July 2023
+Solar Bonds and other Loans 4 49 55 — 3.6%-5.8% January 2021 - January 2031
+
+Total recourse debt 709 4,951 5,957 278
+**Non-recourse debt:**
+Automotive Asset-backed Notes 777 921 1,705 — 0.6%-7.9% August 2021-August 2024
+Solar Asset-backed Notes 39 1,076 1,141 — 3.0%-7.7% September 2024-February 2048
+China Loan Agreements — 616 616 1,372 4.0% June 2021-December 2024
+Cash Equity Debt 18 408 439 — 5.3%-5.8% July 2033-January 2035
+Solar Loan-backed Notes 13 133 152 — 4.8%-7.5% September 2048-September 2049
+Warehouse Agreements 37 257 294 806 1.7%-1.8% September 2022
+Solar Term Loan 151 — 151 — 3.7% January 2021
+Automotive Lease-backed Credit Facilities 14 19 33 153 1.9%-5.9% September 2022-November 2022
+Solar Revolving Credit Facility and
+other Loans — 81 81 23 2.7%-5.1% June 2022-February 2033
+
+
+Total non-recourse debt 1,049 3,511 4,612 2,354
+
+Total debt 1,758 8,462 $ 10,569 $ 2,632
+
+Finance leases 374 1,094
+
+Total debt and finance leases
+$ 2,132 $ 9,556
+
+# 81
+
+
+-----
+
+

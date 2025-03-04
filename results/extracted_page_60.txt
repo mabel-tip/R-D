@@ -1,0 +1,55 @@
+**Year Ended December 31,**
+
+
+**2020** **2019** **2018**
+Automotive sales without resale value guarantee $ 24,053 $ 19,212 $ 15,810
+Automotive sales with resale value guarantee (1) 551 146 1,403
+Automotive regulatory credits 1,580 594 419
+Energy generation and storage sales 1,477 1,000 1,056
+Services and other 2,306 2,226 1,391
+Total revenues from sales and services 29,967 23,178 20,079
+Automotive leasing 1,052 869 883
+Energy generation and storage leasing 517 531 499
+Total revenues $ 31,536 $ 24,578 $ 21,461
+
+(1) Due to pricing adjustments we made to our vehicle offerings during 2020 and 2019, we estimated that there was a greater likelihood that
+customers would exercise their buyback options and adjusted our sales return reserve on vehicles previously sold under our buyback options
+program, which resulted in a reduction of automotive sales with resale value guarantee. For the years ended December 31, 2020 and 2019, price
+adjustments resulted in a reduction of automotive sales with resale value guarantee by $72 million and $555 million, respectively. The amounts
+presented represent automotive sales with resale value guarantee net of such pricing adjustments’ impact.
+
+Automotive Segment
+
+Automotive Sales Revenue
+
+Automotive Sales without Resale Value Guarantee
+
+Automotive sales revenue includes revenues related to deliveries of new vehicles and pay-per-use charges, and specific other features and services that
+meet the definition of a performance obligation under ASC 606, including access to our Supercharger network, internet connectivity, Full Self-Driving (“FSD”)
+features and over-the-air software updates. We recognize revenue on automotive sales upon delivery to the customer, which is when the control of a vehicle
+transfers. Payments are typically received at the point control transfers or in accordance with payment terms customary to the business. Other features and
+services such as access to our Supercharger network, internet connectivity and over-the-air software updates are provisioned upon control transfer of a vehicle
+and recognized over time on a straight-line basis as we have a stand-ready obligation to deliver such services to the customer. We recognize revenue related to
+these other features and services over the performance period, which is generally the expected ownership life of the vehicle or the eight-year life of the vehicle.
+Revenue related to FSD features is recognized when functionality is delivered to the customer. For our obligations related to automotive sales, we estimate
+standalone selling price by considering costs used to develop and deliver the service, third-party pricing of similar options and other information that may be
+available.
+
+At the time of revenue recognition, we reduce the transaction price and record a sales return reserve against revenue for estimated variable
+consideration related to future product returns. Such return rate estimates are based on historical experience and are immaterial in all periods presented. In
+addition, any fees that are paid or payable by us to a customer’s lender when we arrange the financing are recognized as an offset against automotive sales
+revenue.
+
+Costs to obtain a contract mainly relate to commissions paid to our sales personnel for the sale of vehicles. Commissions are not paid on other
+obligations such as access to our Supercharger network, internet connectivity, FSD features and over-the-air software updates. As our contract costs related to
+automotive sales are typically fulfilled within one year, the costs to obtain a contract are expensed as incurred. Amounts billed to customers related to shipping
+and handling are classified as automotive sales revenue, and we have elected to recognize the cost for freight and shipping when control over vehicles, parts, or
+accessories have transferred to the customer as an expense in cost of automotive sales revenue. Our policy is to exclude taxes collected from a customer from
+the transaction price of automotive contracts.
+
+61
+
+
+-----
+
+

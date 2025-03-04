@@ -1,0 +1,44 @@
+the Administrative Agent shall promptly notify the relevant Borrower or Borrowers, and the relevant Borrower or Borrowers shall
+promptly (but in any event within one Business Day) pay such corresponding amount to the Administrative Agent. The Administrative
+Agent also shall be entitled to recover on demand from such Lender or the relevant Borrower or Borrowers, as the case may be, interest
+on such corresponding amount in respect of each day from the date such corresponding amount was made available by the Administrative
+Agent to the relevant Borrower or Borrowers until the date such corresponding amount is recovered by the Administrative Agent, at a rate
+per annum equal to (i) if recovered from such Lender, the overnight Federal Funds Rate (or, in the case of Euro Denominated Loans or
+Foreign Currency Denominated Loans, the cost to the Administrative Agent of acquiring overnight funds in the applicable Foreign
+Currency) for the first three days and at the interest rate otherwise applicable to such Loans for each day thereafter and (ii) if recovered
+from the relevant Borrower or Borrowers, the rate of interest applicable to the respective Borrowing, as determined pursuant to Section
+2.08. Nothing in this Section 2.04 shall be deemed to relieve any Lender from its obligation to make Loans hereunder or to prejudice any
+rights which any Borrower may have against any Lender as a result of any failure by such Lender to make Loans hereunder.
+
+2.05. Notes . Each Borrower’s obligation to pay the principal of, and interest on, the Loans made by each Lender shall be
+evidenced in the Register maintained by the Administrative Agent pursuant to Section 13.1513.16 and shall, if requested by such Lender,
+also be evidenced (i) in the case of U.S. Borrower Revolving Loans, by a promissory note duly executed and delivered by each U.S.
+Borrower substantially in the form of Exhibit B-1, with blanks appropriately completed in conformity herewith (each, a “U.S. Borrower
+Revolving Note” and, collectively, the “U.S. Borrower Revolving Notes”), (ii) in the case of Dutch Borrower Revolving Loans, by a
+promissory note duly executed and delivered by each Dutch Borrower substantially in the form of Exhibit B-2, with blanks appropriately
+completed in conformity herewith (each, a “Dutch Borrower Revolving Note” and, collectively, the “Dutch Borrower Revolving Notes”) (iii)
+in the case of UK Borrower Revolving Loans, by a promissory note duly executed and delivered by each UK Borrower substantially in the
+form of Exhibit B-5, with blanks appropriately completed in conformity herewith (each, a “UK Borrower Revolving Note” and, collectively,
+the “UK Borrower Revolving Notes and, together with the Dutch Borrower Revolving Notes and the U.S. Borrower Revolving Notes, the
+“Revolving Notes”), (iii) in the case of U.S. Borrower Swingline Loans, by a promissory note duly executed and delivered by each U.S.
+Borrower substantially in the form of Exhibit B-3, with blanks appropriately completed in conformity herewith (the “U.S. Borrower
+Swingline Note”), and (iv) in the case of Dutch Borrower Swingline Loans, by a promissory note duly executed and delivered by each
+Dutch Borrower substantially in the form of Exhibit B-4, with blanks appropriately completed in conformity herewith (each, a “Dutch
+Borrower Swingline Note” and, together with the U.S. Borrower Swingline Note, the “Swingline Notes”).
+
+(a) Each Lender will note on its internal records the amount of each Loan made by it and each payment in respect thereof
+and prior to any transfer of any of its Notes will endorse on the reverse side thereof the outstanding principal amount of Loans evidenced
+thereby. Failure to make any such notation or any error in such notation shall not affect any Borrower’s obligations in respect of such
+Loans.
+
+(b) Notwithstanding anything to the contrary contained above in this Section 2.05 or elsewhere in this Agreement, Notes
+shall only be delivered to Lenders which at any time specifically request the delivery of such Notes. No failure of any Lender to request,
+obtain, maintain or produce a Note evidencing its Loans to any Borrower shall affect, or in any manner impair, the obligations of any
+Borrower to pay the Loans (and all related Obligations) incurred by such Borrower which would
+
+85
+
+
+-----
+
+

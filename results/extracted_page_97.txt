@@ -1,0 +1,61 @@
+g g g
+
+December 31, 2017 $ 199
+Decreases in balances related to prior year tax positions (6)
+Increases in balances related to current year tax
+positions 60
+December 31, 2018 253
+Decreases in balances related to prior year tax positions (39)
+Increases in balances related to current year tax
+positions 59
+December 31, 2019 273
+Increases in balances related to prior year tax positions 66
+Increases in balances related to current year tax
+positions 41
+December 31, 2020 $ 380
+
+As of December 31, 2020, accrued interest and penalties related to unrecognized tax benefits are classified as income tax expense and were immaterial.
+Unrecognized tax benefits of $353 million, if recognized, would not affect our effective tax rate since the tax benefits would increase a deferred tax asset that is
+currently fully offset by a full valuation allowance.
+
+We file income tax returns in the U.S., California and various state and foreign jurisdictions. We are currently under examination by the IRS for the
+years 2015 to 2018. Additional tax years within the period 2004 to 2014 and 2019 remain subject to examination for federal income tax purposes, and tax years
+2004 to 2019 remain subject to examination for California income tax purposes. All net operating losses and tax credits generated to date are subject to
+adjustment for U.S. federal and California income tax purposes. Tax years 2008 to 2019 remain subject to examination in other U.S. state and foreign
+jurisdictions.
+
+The potential outcome of the current examination could result in a change to unrecognized tax benefits within the next twelve months. However, we
+cannot reasonably estimate possible adjustments at this time.
+
+The U.S. Tax Court issued a decision in Altera Corp v. Commissioner related to the treatment of stock-based compensation expense in a cost-sharing
+arrangement. On June 7, 2019, the Ninth Circuit Court of Appeals (Ninth Circuit) reversed the Tax Court decision and upheld the validity of Treas. Reg. Section
+1.482-7A(d)(2), requiring stock-based compensation costs be included in the costs shared under a cost sharing agreement. On June 22, 2020, the U.S. Supreme
+Court denied to review the Ninth Circuit decision. Prior to the U.S. Supreme Court’s denial, Tesla has already included stock-based compensation in cost
+sharing allocation agreement and hence retains its position.
+
+**Note 16 – Commitments and Contingencies**
+
+**Operating Lease Arrangement in Buffalo, New York**
+
+We have an operating lease through the Research Foundation for the State University of New York (the “SUNY Foundation”) with respect to Gigafactory
+New York. Under the lease and a related research and development agreement, we are continuing to designate further buildouts at the facility. The SUNY
+Foundation covered (i) construction costs related to the manufacturing facility up to $350 million, (ii) the acquisition and commissioning of the manufacturing
+equipment in an amount up to $275 million and (iii) $125 million for additional specified scope costs, in cases (i) and (ii) only, subject to the maximum funding
+allocation from the State of New York; and we were responsible for any construction or equipment costs in excess of such amounts. The SUNY Foundation owns
+the manufacturing facility and the manufacturing equipment purchased by the SUNY Foundation. Following completion of the manufacturing facility, we have
+commenced leasing of the manufacturing facility and the manufacturing equipment owned by the SUNY Foundation for an initial period of 10 years, with an
+option to renew, for $2.00 per year plus utilities.
+
+Under this agreement, we are obligated to, among other things, meet employment targets as well as specified minimum numbers of personnel in the
+State of New York and in Buffalo, New York and spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in
+the State of New York during the 10-year period beginning April 30, 2018. On an annual basis during the initial lease term, as measured on each anniversary of
+such date, if we fail to meet these specified investment and job creation requirements, then we would be obligated to pay a $41 million “program payment” to
+the SUNY Foundation for each year that we fail to meet these requirements. Furthermore, if the arrangement is terminated due to a material breach by us, then
+additional amounts may become payable by us.
+
+98
+
+
+-----
+
+

@@ -1,0 +1,47 @@
+“Change of Control” shall mean (i) the Company shall at any time cease to own, directly or indirectly, 100% of the Equity
+Interests of each other Borrower, (ii) any “person” or “group” (as such terms are used in Sections 13(d) and 14(d) of the Exchange Act)
+other than a Permitted Holder, is or shall become the “beneficial owner” (as defined in Rules 13(d)-3 and 13(d)-5 under the Exchange Act),
+directly or indirectly, of 35% or more of the Voting Stock of the Company or (iii) a “change of control” or similar event (which, in the case
+of Permitted Convertible Notes, shall include any “fundamental change”, “make-whole fundamental change” or other similar event risk
+provision) shall occur as provided in any Permitted Convertible Notes Document or any Permitted Additional Indebtedness Document and
+in connection with such “change of control” or similar event, the Company shall be obligated to repurchase or offer to repurchase all of
+the affected Permitted Convertible Notes or Permitted Additional Indebtedness.
+
+“Charging Agreements” shall mean electric vehicle charging station related agreements, including lease and license
+agreements and all associated real property and other rights provided in the applicable agreement; agreements and other rights related to
+customer accounts, payments and data; equipment lease agreements entered into with a customer pursuant to which such customer
+agrees to lease a Charging System, and all rights related thereto; and agreements to provide vehicle charging related services such as
+equipment installation, equipment maintenance or customer billing services.
+
+“Charging Assets” shall mean Charging Systems, Charging Agreements, Equity Interests in Excluded Charging Subsidiaries and
+Vehicle Environmental Attributes.
+
+“Charging Systems” shall mean all parts of an electric vehicle charging station, including charge posts, charging connectors,
+power electronics equipment, switchgear, conduit, wiring, metering equipment, concrete pads, signage, fences or visual barriers, mobile
+charging stations, canopies, solar panels, energy storage systems and other related equipment.
+
+“Charging Working Capital Facility” shall mean a credit facility providing working capital or warehouse financing for the
+acquisition or development of Charging Assets.
+
+“Chattel Paper” shall mean “chattel paper” (as such term is defined in Article 9 of the UCC).
+
+“Co-Documentation Agents” shall mean Société Générale and Wells Fargo Bank, National Association, each in its capacity as a
+co-documentation agent for the Lenders hereunder and under the other Credit Documents.
+
+“Code” shall mean the United States Internal Revenue Code of 1986, as amended from time to time, and the regulations
+promulgated and rulings issued thereunder. Unless otherwise provided herein, section references to the Code are to the Code, as in effect
+at the date of this Agreement and any subsequent provisions of the Code, amendatory thereof, supplemental thereto or substituted
+therefor.
+
+“Collateral” shall mean all property (whether real or personal) with respect to which any security interests have been granted
+(or purported to be granted) pursuant to any Security Document, including all Security Agreement Collateral, all Mortgaged Properties (if
+any) and all cash and Cash Equivalents delivered as collateral pursuant to Section 5.02 or 11; provided that in no event shall the term
+“Collateral” include any property, interest or other rights with respect to SolarCity or any of its Subsidiaries or any Equity Interests of
+SolarCity or any of its Subsidiaries.
+
+14
+
+
+-----
+
+

@@ -1,0 +1,67 @@
+**(** **,** **p** **p** **)**
+
+**Year Ended December 31,**
+**2020** **2019** **2018**
+**Revenues**
+Automotive sales $ 26,184 $ 19,952 $ 17,632
+Automotive leasing 1,052 869 883
+Total automotive revenues 27,236 20,821 18,515
+Energy generation and storage 1,994 1,531 1,555
+Services and other 2,306 2,226 1,391
+Total revenues 31,536 24,578 21,461
+**Cost of revenues**
+Automotive sales 19,696 15,939 13,686
+Automotive leasing 563 459 488
+Total automotive cost of revenues 20,259 16,398 14,174
+Energy generation and storage 1,976 1,341 1,365
+Services and other 2,671 2,770 1,880
+Total cost of revenues 24,906 20,509 17,419
+**Gross profit** 6,630 4,069 4,042
+**Operating expenses**
+Research and development 1,491 1,343 1,460
+Selling, general and administrative 3,145 2,646 2,835
+Restructuring and other — 149 135
+Total operating expenses 4,636 4,138 4,430
+
+**Income (loss) from operations** 1,994 (69) (388)
+Interest income 30 44 24
+Interest expense (748) (685) (663)
+
+Other (expense) income, net (122) 45 22
+
+**Income (loss) before income taxes** 1,154 (665) (1,005)
+Provision for income taxes 292 110 58
+
+**Net income (loss)** 862 (775) (1,063)
+Net income (loss) attributable to noncontrolling interests and
+redeemable noncontrolling interests in subsidiaries 141 87 (87)
+
+**Net income (loss) attributable to common stockholders** $ 721 $ (862) $ (976)
+
+Less: Buy-out of noncontrolling interest 31 8 —
+Net income (loss) used in computing net
+income (loss) per share of common stock $ 690 $ (870) $ (976)
+
+Net income (loss) per share of common stock attributable
+to common stockholders (1)
+Basic $ 0.74 $ (0.98) $ (1.14)
+
+Diluted $ 0.64 $ (0.98) $ (1.14)
+
+Weighted average shares used in computing net
+income (loss) per share of common stock (1)
+Basic 933 887 853
+
+Diluted 1,083 887 853
+
+(1) Prior period results have been adjusted to reflect the five-for-one stock split effected in the form of a stock dividend in August 2020. See Note 1,
+Overview, for details.
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+55
+
+
+-----
+
+

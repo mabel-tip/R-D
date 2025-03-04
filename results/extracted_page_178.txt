@@ -1,0 +1,44 @@
+Interests held by such Persons (provided that the net income (or loss) included in the Company’s financial statements as a result of
+variable interest entity accounting shall be excluded, except to the extent of dividends received by the Company or any of its WhollyOwned Subsidiaries) and (ii) except for determinations expressly required to be made on a Pro Forma Basis, the net income (or loss) of any
+Person accrued prior to the date it becomes a Consolidated Subsidiary or all or substantially all of the property or assets of such Person
+are acquired by a Consolidated Subsidiary.
+
+“Consolidated Subsidiaries” shall mean, as of any date, all Subsidiaries of the Company and SolarCity and its Subsidiaries
+(determined without giving effect to the proviso in the definition of Subsidiary), in each case to the extent the accounts of such Person are
+consolidated with the accounts of the Company as of such date in accordance with the principles of consolidation reflected in the audited
+financial statements most recently delivered in accordance with Section 9.01(b).
+
+“Consolidated Total Assets” shall mean, at any time of determination thereof, the aggregate amount of all assets of the
+Company and its Consolidated Subsidiaries as set forth in the most recent consolidated balance sheet of the Company and its Consolidated
+Subsidiaries delivered to the Lenders pursuant to this Agreement and computed in accordance with GAAP.
+
+“Consolidated Total Indebtedness” shall mean, at any time, the sum of (without duplication) (i) the principal amount (or
+accreted principal amount in the case of Indebtedness issued with original issue discount) of all Indebtedness of the Company and its
+Subsidiaries at such time of the type described in clauses (i), (ii),(iii), (iv) and (v) of the definition of Indebtedness and (ii) all Contingent
+Obligations of the Company and its Subsidiaries in respect of Indebtedness of any third Person of the type referred to in preceding clause;
+provided that the aggregate amount available to be drawn (i.e., unfunded amounts) under all letters of credit, bankers’ acceptances and
+bank guarantees issued for the account of the Company or any of its Subsidiaries (but excluding, for avoidance of doubt, all unpaid
+drawings or other matured monetary obligations owing in respect of such letters of credit, bankers’ acceptances and bank guarantees)
+shall not be included in any determination of “Consolidated Total Indebtedness”; provided further, that the aggregate amount of surety
+bonds, customs bonds and other similar bonds issued for the account of the Company or any of its Subsidiaries shall not be included in any
+determination of “Consolidated Total Indebtedness”.
+
+“Contingent Obligation” shall mean, as to any Person, any obligation of such Person as a result of such Person being a general
+partner of any other Person, unless the underlying obligation is expressly made non-recourse as to such general partner, and any
+obligation of such Person guaranteeing or intended to guarantee any Indebtedness, leases, dividends or other obligations (solely for the
+purpose of this definition, “primary obligations”) of any other Person (solely for the purpose of this definition, the “primary obligor”) in any
+manner, whether directly or indirectly, including any obligation of such Person, whether or not contingent, (i) to purchase any such
+primary obligation or any property constituting direct or indirect security therefor, (ii) to advance or supply funds (x) for the purchase or
+payment of any such primary obligation or (y) to maintain working capital or equity capital of the primary obligor or otherwise to maintain
+the net worth or solvency of the primary obligor for the purpose of assuring the owner of any such primary obligation of the ability of the
+primary obligor to make payment of such primary obligation, (iii) to purchase property, securities or services primarily for the purpose of
+assuring the owner of any such primary obligation of the ability of the primary obligor to make payment of such primary obligation or
+(iv) otherwise to assure or hold harmless the holder of such primary obligation against loss in respect thereof; provided, however, that the
+term Contingent Obligation shall not include endorsements of
+
+17
+
+
+-----
+
+

@@ -1,0 +1,43 @@
+such payment or disbursement from and including the date paid or disbursed to but excluding the date such Issuing Lender was
+reimbursed by any U.S. Borrower or, any Dutch Borrower or any UK Borrower, as applicable, at a rate per annum equal to the Base Rate
+as in effect from time to time plus the Applicable Margin as in effect from time to time for U.S. Dollar Denominated Revolving Loans that
+are maintained as Base Rate Loans; provided, however, to the extent such amounts are not reimbursed prior to 2:00 P.M. (New York City
+time) on the third Business Day following the receipt by any U.S. Borrower or, any Dutch Borrower or any UK Borrower, as applicable, of
+notice of such payment or disbursement or following the occurrence of a Default or an Event of Default under Section 11.05, interest shall
+thereafter accrue on the amounts so paid or disbursed by such Issuing Lender (and until reimbursed by any U.S. Borrower or, any Dutch
+Borrower or UK Borrower, as applicable) at a rate per annum equal to the Base Rate as in effect from time to time plus the Applicable
+Margin for U.S. Dollar Denominated Revolving Loans that are maintained as Base Rate Loans as in effect from time to time plus 2%, with
+such interest to be payable on demand. Amounts paid to the Administrative Agent in accordance with the immediately preceding sentence
+shall be promptly disbursed to the applicable Issuing Lender. Each Issuing Lender shall give the applicable U.S. Borrowers or, Dutch
+Borrowers or UK Borrowers, as the case may be, prompt written notice of each Drawing under any Letter of Credit issued by it for the
+account of such U.S. Borrowers or, Dutch Borrowers or UK Borrowers, as the case may be; provided that the failure to give any such
+notice shall in no way affect, impair or diminish the obligations of any such Borrower to reimburse such Unpaid Drawing. Each Drawing
+under any Letter of Credit shall (unless (x) the Company notifies the Administrative Agent in writing to the contrary, (y) the Borrowers are
+unable to satisfy the conditions precedent to the making of Revolving Loans set forth in Section 7, or (z) (i) with respect to Drawings under
+Letters of Credit issued for the account of any U.S. Borrower, the Aggregate U.S. Borrower Exposure at such time exceeds 100% (or,
+during an Agent Advance Period, 105%) of the U.S. Borrowing Base at such time, (ii) with respect to Drawings under Letters of Credit
+issued for the account of any Dutch Borrower, the Aggregate Dutch Borrower Exposure at such time exceeds the 100% (or, during an
+Agent Advance Period, 105%) of the Dutch Borrowing Base at such time, (iii) with respect to Drawing under Letters of Credit issued for
+the account of any UK Borrower, the Aggregate UK Borrower Exposure at such time exceeds 100% (or, during an Agent Advance Period,
+105%) of the UK Borrower Base at such time or (iv) the Aggregate Exposure at such time exceeds the Total Revolving Loan Commitment
+at such time or (iv) during a Reduced Availability Period, Excess Availability is less than 10% of Availability at such time, in which case the
+procedures specified above in this Section 3.05 and in Section 3.04 for funding by the Participants shall apply) constitute a request by the
+applicable Borrower to the Administrative Agent for a Borrowing of Revolving Loans pursuant to Section 2.03(a) constituting Base Rate
+Loans (or, at the option of the Administrative Agent and the Swingline Lender in their sole discretion, a Borrowing of Swingline Loans
+pursuant to Section 2.03(b)) in the amount of such Drawing, and the date with respect to such Borrowing shall be the date of payment of
+the relevant Drawing (it being understood that, in each such case, the Administrative Agent shall notify the Lenders (or the Swingline
+Lender, as applicable) thereof and the Lenders (or the Swingline Lender, as applicable) shall make available to the Administrative Agent
+their pro rata portion of such Borrowing (or, in the case of Swingline Loans, the Swingline Lender will make available the full amount
+thereof) and the proceeds thereof shall be applied to reimburse the respective Issuing Lender for such Drawing).
+
+(b) The joint and several obligations of the U.S. Borrowers, in the case of a Letter of Credit issued for the account of a U.S.
+Borrower, or the Dutch Borrowers, in the case of a Letter of Credit issued for the account of a Dutch Borrower or the UK Borrowers, in the
+case of a Letter of Credit issued for the account of a UK Borrower, as the case may be, under this Section 3.05 to reimburse each Issuing
+Lender with respect to drafts, demands and other presentations for payment under Letters of Credit issued by it
+
+109
+
+
+-----
+
+

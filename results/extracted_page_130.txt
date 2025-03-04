@@ -1,0 +1,79 @@
+converted from United States Dollars (USD) into Japanese Yen (JPY) using the [***] and the [***] for the applicable [***]
+period set forth in Table 4-I below.
+
+
+**Table 4-G: ‘[***]’ Cell Metals Adjustment**
+**Cell Material** [***] [***] [***] [***]
+**Index/Metric** [***] [***] [***] [***]
+**Measurement Window** Per Table 4-I below Per Table 4-I below Per Table 4-I below Per Table 4-I below
+
+**Content Per** [***] per Cell [***] per Cell [***] per Cell ([***]) [***] per Cell ([***])
+**Cell: [***]**
+
+[***] per Cell ([***]) [***] per Cell ([***])
+
+**Commodity** **Price[***]** [***] [***] [***]
+**Baseline**
+
+**Exchange Rate (Yen/$)[***] (* Baseline assumes [***] JPY/USD)**
+*****
+
+iv. Lithium Adjustment. At the [***] during the [***] Pricing Period, the Baseline Price shall adjust as follows: the Parties will
+
+measure the [***] based [***] for the applicable measurement window in Table 4-I below, and adjust the Baseline Price (up
+or down) based on the difference between the then-current Index Average Cost for [***] and the baseline commodity
+assumption set forth below. For purposes of this adjustment, the raw materials prices shall be converted from United
+States Dollars (USD) into Japanese Yen (JPY) using [***] and the [***] for the applicable [***] period set forth in Table 4-I
+below.
+
+**Table 4-H: ‘[***]’ Cell Lithium Adjustment**
+**Cell Material** [***]
+**Index/Metric** Average of actual price paid for [***], provided that Tesla must approve in writing the
+pricing for all new [***] volume commitments created after the PPA Effective Date. If
+Seller fails to obtain Tesla’s prior written consent, the price for purposes of this
+adjustment shall not exceed the [***] and made available to Seller from [***].
+**Measurement Window** See Table 4-I below
+**Content per [***]** **Cell Baseline** [***] per Cell till [***]
+
+[***] per Cell from [***]
+**Commodity Price Baseline** [***]
+**Exchange rate (Yen/$) *** [***] (*Baseline assumes [***]JPY/USD)
+
+**Table 4-I: ‘[***]’ Cell Measurement Windows for Metals and Lithium Adjustments**
+
+**and corresponding Currency Exchange**
+Pricing Period Measurement Window: Metals Measurement Window: Measurement Window: Currency
+
+Lithium Exchange
+
+Calendar Year [***] [***] [***] [***]
+
+2021 Pricing Agreement (Japan Cells)Page 5 of 12
+
+|Cell Material|[***]|[***]|[***]|
+|---|---|---|---|
+|Index/Metric|[***]|[***]|[***]|
+|Measurement Window|Per Table 4-I below|Per Table 4-I below|Per Table 4-I below|
+|||||
+|Content Per Cell: [***]|[***] per Cell|[***] per Cell|[***] per Cell ([***]) [***] per Cell ([***])|
+|Commodity Price Baseline|[***]|[***]|[***]|
+|Exchange Rate (Yen/$) *||||
+
+|Table 4-H: ‘[***]’ Cell Lithium Adjustment|Col2|
+|---|---|
+|Cell Material|[***]|
+|Index/Metric|Average of actual price paid for [***], provided that Tesla must approve in writing the pricing for all new [***] volume commitments created after the PPA Effective Date. If Seller fails to obtain Tesla’s prior written consent, the price for purposes of this adjustment shall not exceed the [***] and made available to Seller from [***].|
+|Measurement Window|See Table 4-I below|
+|Content per [***] Cell Baseline|[***] per Cell till [***] [***] per Cell from [***]|
+|Commodity Price Baseline|[***]|
+|Exchange rate (Yen/$) *|[***] (*Baseline assumes [***]JPY/USD)|
+
+|Table 4-I: ‘[***]’ Cell Measurement Windows for Metals and Lithium Adjustments and corresponding Currency Exchange|Col2|Col3|Col4|
+|---|---|---|---|
+|Pricing Period|Measurement Window: Metals|Measurement Window: Lithium|Measurement Window: Currency Exchange|
+|Calendar Year [***]|[***]|[***]|[***]|
+
+
+-----
+
+
